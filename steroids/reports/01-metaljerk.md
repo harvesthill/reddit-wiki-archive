@@ -1,4 +1,3 @@
-
 #Background info
 ##Pre-cycle stats
 
@@ -11,7 +10,6 @@
 **Lifting experience**: 4 years
 
 Natural maxes:
-
 
 * OHP: 205
 * Bench: 300
@@ -60,6 +58,7 @@ Satuday: Back / Bis
 #Logs
 
 ## Week 1
+
 Friday:
 
 First day I pinned.
@@ -77,7 +76,6 @@ Cable rope overhead extension: 65x4x12
 
 Cable rope face pull: 55x4x12
 
-
 Monday: 
 
 Dumbbell bench: 50x10, 70x12, 100x12, 100x12
@@ -93,7 +91,6 @@ Rope Pushdown: 40x12, 50x12, 50x12
 Dips: BWx12, BWx12
 
 Machine flies: 100x12,120x12,120x12
-
 
 Tuesday: 
 
@@ -113,7 +110,6 @@ Seated Cable Rows: 120x10, 120x10, 120x10
 
 Leg Raises: BWx15,BWx15,BWx15 
 
-
 Thursday:  
 
 Front Squat: 135x6, 185x6, 205x6, 225x6
@@ -129,9 +125,6 @@ Calf Raise: 100x15, 140x15, 180x15, 200x15, 200x15
 Nautilus Abs: 57x15, 65x12,65x12,65x12
 
 Decline Situps: BWx12, BWx12, BWx12, BWx12
-
-
-
 
 Friday:
 
@@ -151,8 +144,7 @@ Straight bar Pushdown: 140x12, 160x12, 170x12, 170x12
 
 Rope Pushdown: 120x12, 120x12, 120x12, 120x12 
 
-
-#  Week 2
+# Week 2
 
 Sunday:
 Had to miss Monday's and Tuesday's workouts so I did a chest / back workout:
@@ -173,7 +165,6 @@ Machine Chest Press: 90x12, 180x12, 180x12
 
 Machine Flies: 90x12, 110x12, 110x12, 110x12 
 
-
 Thursday:
 
 Had really bad PIP in my right hip from pinning so I had to go easy.
@@ -189,7 +180,6 @@ Calf Raises: A bunch
 Medball situps: 6x12, 8x12, 8x12
 
 Crunch Machine: 140x12, 140x12, 140x12 
-
 
 Friday: 
 
@@ -213,9 +203,7 @@ Rope Pushdowns: 50x10, 55x10, 55x10
 
 Face Pulls: 50x10, 55x10, 55x10
 
-
-
-#  Week 3
+# Week 3
 
 Monday:
 
@@ -230,7 +218,6 @@ V-Bar Pushdown: 67.5x10, 80x10, 80x10
 Rope Pushdown: 52.5x10, 52.5x10, 52.5x10
 
 Machine Flies: 110x10, 110x10, 110x10
-
 
 Tuesday:
 
@@ -250,7 +237,6 @@ HS 1-Armed Preacher Curl: 40x10, 50x10,50x10
 
 Leg Raises: BWx15, BWx15, BWx15 
 
-
 Thursday:
 
 Front Squat: 135x6, 185x6, 225x6, 245x6
@@ -264,7 +250,6 @@ Leg Curl: 100x10, 120x10, 140x10, 140x10
 Weighted Situps: 8x15, 14x10, 25x10
 
 Crunch Machine: 120x10, 140x10, 170x10, 200x1
-
 
 Friday:
 
@@ -281,7 +266,6 @@ DB Curl: 30x10, 40x10, 40x10
 Straight Bar Pushdown: 65x10, 72.5x10, 80x10, 80x10
 
 Rope Pushdowns: 57.5x10, 65x10, 65x10, 65x10
-
 
 # Week 4
 
@@ -303,7 +287,6 @@ Straightbar Pushdown: 72.5x10, 80x10, 80x10
 
 Rope Pushdown: 65x10, 65x10, 65x10 
 
-
 Tuesday:
 
 BB Row: 135x10, 185x10, 185x10, 185x10
@@ -321,7 +304,6 @@ Cable Hammer Curl: 100x10, 120x10, 140x10
 Cable Straightbar Curl: 100x10, 120x10, 120x10
 
 Machine Pullover: 90x10, 180x10, 230x10, 230x10
-
 
 Thursday:
 
@@ -355,7 +337,7 @@ Rope Pushdown: 60x10, 60x10, 75x10, 75x10
 
 Rope Hammer Curl: 60x10, 60x10, 60x10
 
-#  Week 5 
+# Week 5 
 
 Sunday: (Gyms closed tomorrow)
 
@@ -394,7 +376,6 @@ Rope Hammer Curls:  65x10, 72.5x10, 72.5x10, 72.5x10
 
 *Notes:  Grip is holding me back big time, I could of repped 365 for a set of 10 if my grip didn't suck ass.* 
 
-
 Thursday:
 
 Front Squat: 135x6, 185x6, 225x6, 275x5(pr), 225x6
@@ -410,7 +391,6 @@ Ab Wheel: 4x10
 Weighted Situps: 15x10, 25x10, 25x10, 25x10
 
 *Notes:  Front squats are fucking hard* 
-
 
 Friday:
 
@@ -431,7 +411,6 @@ Machine Preacher Curl: 45x10, 90x10, 100x10, 110x10, 120x8
 HS Shrugs: 135x10, 185x10, 185x10
 
 Rope Hammer Curls:  60x10, 65x10, 70x10, 70x10
-
 
 *Notes:  Wanted to get some heavy pressing in. I can press much more seated but I wanted to see where my standing OHP was. Really good and long workout. The smith machine presses felt really good on my shoulders, the angle was pretty close to 90 degrees but not straight up, it was the notch just before 90 degrees.*
 
@@ -483,7 +462,6 @@ Cable Rope Hammer Curl: 67.5x10, 72.x5x10, 72.5x10, 40x10
 
 *Notes: Wasn't feeling great in the gym but I got in and did my thing, on top of that I forgot my phone to listen to music. Thats just how it goes.* 
 
-
 Thursday:
 
 Squat: 135x5, 225x5, 315x5, 365x5, 405x6
@@ -499,7 +477,6 @@ Ab Wheel: 3x15
 Ab Machine: 100x10, 130x10, 160x10, 160x10
 
 *Notes: Squatted in my old rogue do wins and almost tied my all time PR. Felt good. Legs are absolutely shot. The calf machine was never available, oh well.* 
-
 
 Friday:
 
@@ -545,7 +522,6 @@ DB Flys: 20x10, 20x10, 20x10, 30x10
 
 *Notes: pretty solid workout, 315x8 felt really good, 335 and 350 were really easy, I just want my body to used to handling heavy weight so I like to throw some heavier singles in. I'm staring to get stares when I bench. I'm now doing tricep pushdowns with the whole stack on one of the cable stations. The other one (thats always being used because its in front of mirrors) is usually taken up. BW is up a couple pounds.* 
 
-
 Tuesday:
 
 Sumo Deadlift: 135x5, 225x5, 315x3, 365x2, 405x5
@@ -563,7 +539,6 @@ Machine Preacher Curl: 90x10, 100x10, 100x10, 100x9
 Cable Ez Bar Curl: 55x10, 60x10, 65x10, 60x10, 55x10
 
 *Notes: Switched to sumo and pulled last workouts max for a set of 5, sumo just feels way better for me. Forearms were destroyed after hammer curls and made it hard to finish my bicep work*
-
 
 Thursday:
 
@@ -583,7 +558,6 @@ Hanging Leg Raises: bwx15, bwx15, bwx15
 *
 Notes: Felt like shit, probably sick but still got some lifting in.*
 
-
 Friday:
 
 Smith Machine High Incline Press: 105x8, 155x8, 195x8, 245x6, 285x2
@@ -602,11 +576,9 @@ Cable V Bar Pushdown: 72.5x10, 80x10, 87.5x10, 95x10,
 
 Cable One-armed Rope Pushdown: 20x10, 25x10, 25x10, 25x10
 
-
 *Notes: I felt MUCH better today. Workout was very strong. I dont think I've ever shoulder pressed 100s.*
 
 # Week 8 
-
 
 Sunday:
 
@@ -623,7 +595,6 @@ Cable Rope Overhead Extension: 72.5x10, 80x10, 80x10, 80x10
 HS Dip Machine: 180x10, 180x10, 200x10, 200x10
 
 Fly Machine: 100x10, 100x10, 100x10
-
 
 *Notes: Felt so so today, bench felt a little heavier than normal. Still got some decent work in.* 
 
@@ -645,7 +616,6 @@ Cable Straight Bar Curls: 40x10, 50x10, 60x10, 60x10
 
 *Notes: Nothing memorable, except the painful forearm pump I had by the end of my workout. Also got bloods done today*
 
-
 Thursday:
 
 BB Squats: 135x6, 225x5, 315x3, 365x3, 405x3, 455x3, 485x0
@@ -662,9 +632,7 @@ Weighted Situp: 10x10, 25x10, 25x10, 25x10
 
 Ab Machine: 110x10, 150x10, 160x10, 180x10
 
-
 *Notes: Pretty mad at myself for missing 485, I had great speed out of the hole but I think I went to far forward on my toes. I just wish I would of ended my squats on a good note. I'll lower the intensity a bit and up the reps.*
-
 
 Friday:
 
@@ -684,10 +652,7 @@ Cable Rope Pushdown: 72.5x10, 72.5x10, 72.5x10, 72.5x10
 
 Cable Hammer Curl: 65x10, 65x10, 72.5x10, 80x10
 
-
-
 #Week 9#
-
 
 Sunday:
 
@@ -705,9 +670,7 @@ Cable V Bar Pushdown: 70x10, 85x10, 100x10, 100x10
 
 Cable Rope Pushdown: 72.5x10, 72.5x10, 72.5x10
 
-
 *Notes: I felt really good in the gym today. I really need to get a spotter, I know I could of had a sixth rep with 335 and I failed my fourth rep with 350 half way up but I was able to rack it on the second rack (theres three for different limb lengths).*
-
 
 Tuesday:
 
@@ -725,9 +688,7 @@ DB Hammer Curls: 50x10, 50x10, 50x10, 50x10
 
 Machine Curls: 100x10, 110x10, 100x10, 100x10
 
-
 *Notes: Huge deadlift PR and I know if my grip was better I would be able to pull more*
-
 
 Thursday:
 
@@ -745,9 +706,7 @@ Weighted Leg Raises: 6x10, 6x10, 6x10
 
 Ab Wheel: Kneelingx10, Standingx5, Standingx5, Kneelingx10
 
-
 *Notes: Overall a good day, solid prs.*
-
 
 Friday:
 
@@ -767,8 +726,6 @@ Cable V Bar Pushdown: 75x10, 75x10, 75x10, 75x10, 75x10
 
 Cable One Armed Rope Pushdown: 25x10, 25x10, 30x10, 35x10
 
-
-
 #Week 10#
 
 Sunday:
@@ -785,9 +742,7 @@ Machine Two Hand Tricep Ext: 100x10, 120x10, 120x10
 
 Cable W Bar Pushdown: 80x10, 95x10, 95x10
 
-
 *Notes: Just got back from a cabin trip in the woods and I was feeling so-so, yet I hit a 15 lb PR. It really took a lot out of me doing all those sets so the rest of my workout was pretty tough*
-
 
 Tuesday:
 
@@ -809,8 +764,6 @@ Machine Preacher Curl: 100x10, 100x10, 100x10
 
 Cable Row Hammer Curl: 50x10, 60x10, 60x10, 60x10
 
-
-
 Thursday:
 
 BB Squat: 135x10, 225x8, 315x5, 365x3, 405x10, 455x4
@@ -827,9 +780,7 @@ Weighted Situps: 15x10, 25x10, 45x10, 45x10
 
 Decline Situps: bwx10, bwx10, bwx10, bwx10
 
-
 *Notes: Felt absolutely great in the gym. I crushed 405x10 and 455 felt so much easier than last time, I should of gone for an extra rep.*
-
 
 Friday:
 
@@ -847,9 +798,7 @@ Cable Rope Pushdown: 72.5x10, 72.5x10, 72.5x10
 
 Machine Cable One Arm Extension: 80x10, 80x10, 80x10, 80x10
 
-
 *Notes: Another great day, PR'd in high incline press, shoulder press and lateral raises. Also I'm adding another back day to my routine.*
-
 
 Saturday:
 
@@ -869,9 +818,7 @@ BB BtB Wrist Curls: 45x10, 65x10, 85x10, 85x10, 85x10, 65x10
 
 Cable Rope Hammer Curls: 50x10, 60x10, 70x10
 
-
 #Week 11#
-
 
 Sunday:
 
@@ -889,7 +836,6 @@ Machine Tricep Extension: 100x10, 120x10, 120x10
 
 *Notes: Bench was awesome, I took a vid and ill post it here. I was so tired that I barely got 350 for a triple. great day*
 
-
 Tuesday:
 
 Sumo DL: 135x6, 225x5, 315x3, 405x2, 455x2, 495x2, 530x2 (pr)
@@ -906,9 +852,7 @@ Machine Preacher Curls: 100x10, 110x10, 110x10
 
 Cable Rope Hammer Curls: 50x10, 60x10, 70x10 
 
-
 *Notes: I still have more in me on deadlifts, my grip is lacking though. I'm hoping BB shrugs and DB rows help, weight also up a couple pounds*
-
 
 Thursday:
 
@@ -926,9 +870,7 @@ Weighted Leg Raises: 6x10, 10x10, 10x10
 
 Ab Machine: 160x10, 200x10, 200x10
 
-
 *Notes: Fucking prs all over the place*
-
 
 Friday:
 
@@ -946,7 +888,6 @@ Cable W Bar Pushdown: 95x10, 105x10, 110x10, 115x10
 
 Machine One Arm Tricep Extension: 80x10, 80x10, 80x10
 
-
 Saturday:
 
 Lat Pulldown: 160x10, 190x10, 205x10, 220x10
@@ -963,9 +904,7 @@ Cable Straight Arm Pushdown: 130x10, 160x10, 200x10, 200x10
 
 Cable Straight Bar Curl: 130x10, 160x10, 200x10, 200x10
 
-
 #Week 12#
-
 
 Sunday:
 
@@ -981,10 +920,7 @@ Cable V Bar Pushdown: 85x10, 100x10, 100x10
 
 Machine Tricep Extension: 150x10, 180x10, 205x10
 
-
-
 *Notes: Not a huge pr on bench but it was another solid rep, and paused on that rep too. 360 on the decline press is just too much as it starts to push me up and out of the seat, its not a matter of strength. I'll just do less weight and more reps on that. *
-
 
 Tuesday:
 
@@ -1002,7 +938,6 @@ Machine One Arm Preacher Curls: 60x10, 70x10, 70x10
 
 Cable Rope Hammer Curls: 60x15, 65x15, 70x12
 
-
 Thursday:
 
 CGBP: 135x10, 185x5, 225x5, 275x5, 315x6, 345x1, 355x3
@@ -1019,9 +954,7 @@ Cable V Bar Pushdown: 95x10, 105x10, 110x10
 
 Cable W Bar Pushdown: 110x10, 110x10, dropset to 85x5, drop to 60x5, drop to 30x10
 
-
 *Notes: 355x3 close grip felt smooth as butter, really easy.*
-
 
 Friday:
 
@@ -1038,7 +971,6 @@ Standing Ab Pulldown Machine: 100x10, 100x10, 100x10
 Decline Situps: bwx15, bwx15, bwx15
 
 *Notes: I knew today I wanted to squat 500 for at least a single, didn't expect to triple it with relative ease. 530 went up without too much struggle.*
-
 
 Satuday:
 
@@ -1058,9 +990,7 @@ Cable Straight Bar Curl: 65x10, 72.5x10
 
 Cable Rope Hammer Curl: 65x10, 72.5x10, 72.5x10
 
-
 #Week 13#
-
 
 BB Bench: 135x12, 225x6, 275x5, 315x3, 350x5(pr), 365x1, 380x1(pr), 405x1(pr)
 
@@ -1074,9 +1004,7 @@ Machine Two Arm Extension: 140x12, 140x12, 140x12
 
 Cable One Arm Extension: 60x12, 70x10, 70x10
 
-
 *Notes: Huge pr. I felt iffy warming up, but 350 felt solid, got a hand off for 380 and 405 and it makes a world of difference. Arms were 18" pumped too when I got home, hugeeee pr.*
-
 
 Tuesday:
 
@@ -1096,9 +1024,7 @@ Machine Preacher Curl: 100x10, 100x10, 100x10
 
 Cable Rope Hammer Curl: 72.5x12, 72.5x12, 72.5x12
 
-
 *Notes: I was hoping for 495x5, but I forgot my belt, so these were beltless. On top of that each rep was reset, not TNG, for me thats a bit harder.*
-
 
 Thursday:
 
@@ -1118,9 +1044,7 @@ Machine One Arm Extension: 70x10, 70x10, 80x10
 
 Cable V Bar Pushdown: 105x12(0r), 105x12, 105x12
 
-
 *Notes: Shits dope yo, 212 weight.*
-
 
 Friday:
 
@@ -1138,9 +1062,7 @@ Ab Wheel: x15, x15
 
 Med Ball Situps: 15x10, 15x10
 
-
 *Notes: I don't know what it is about front squats, but they fatigue me so much, it made my workout pretty damn tough.*
-
 
 Saturday:
 
@@ -1160,7 +1082,6 @@ Seated DB Hammer Curl: 40x12, 45x12, 45x12
 
 Cable Rope Hammer Curl: 65x12, 72.5x10, 65x10 dropset to 40x6 dropset to 30x5
 
-
 #Week 14#
 
 Sunday:
@@ -1179,7 +1100,6 @@ Cable Rope Pushdown: 65x12, 72.5x12, 80x12
 
 *Notes: I promised I would go a little lighter today since I benched 405 last week. The set of 365x3 was pretty damn easy.*
 
-
 Tuesday:
 
 BB Rows: 135x10, 185x10, 225x10, 255x10(pr)
@@ -1196,9 +1116,7 @@ Cable Straight Bar Curl: 60x12, 65x12, 65x12, 65x12
 
 Cable Rope Hammer Curl: 65x12, 70x12, 70x12, 70x12
 
-
 *Notes: I did my shrugs from the floor, I tried widening my conv stance just a bit and it really made a difference, 405 felt like nothing. Everything went well today*
-
 
 Thursday:
 
@@ -1216,9 +1134,7 @@ Cable Rope Pushdown: 57.5x12, 65x12, 72.5x12
 
 Cable Rope Face Pull: 65x12, 72.5x12, 80x12, 80x12
 
-
 *Notes: Was feeling iffy during my warmup, 345 felt harder than it should but I got in the zone and managed a smooth 365x3.*
-
 
 Friday:
 
@@ -1234,6 +1150,4 @@ Hanging Leg Raises: 15x10, 15x10, bwx15
 
 Crunch Machine: 140x10, 170x10, 200x10
 
-
 *Notes: In the 5 or so years I have been lifting, 455x10 has been the hardest set of my life by far. I went in knowing I wanted 10 reps, and I am stupid stubborn. By rep 5 I felt like quitting, by 8 I almost racked the bar and gave up. Rep 10 I nearly passed out and it was the longest grind of my life.*
-

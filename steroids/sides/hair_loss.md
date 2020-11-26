@@ -27,6 +27,4 @@ Nandrolone | | |
 [Sustanon 100 &amp; 250](/r/steroids/wiki/sustanon_250) | Yes | finastride / dutastride  |   
 Testosterone | Yes | finastride / dutastride  |   
 [Trenbolone Acetate/Enanthate &amp; Blends](/r/steroids/wiki/trenbolone) | No | ----- |
-[Winstrol (Stanozolol)](/r/steroids/wiki/winstrol) | Yes | Don't use |  
-
-
+[Winstrol (Stanozolol)](/r/steroids/wiki/winstrol) | Yes | Don't use |

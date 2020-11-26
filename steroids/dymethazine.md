@@ -12,7 +12,6 @@ Dymethazine, sometimes referred to as DMZ, is an anabolic steroid/prohormone ori
 
 Dymethazine is a rather interesting steroid with a [unique molecular structure](http://i.imgur.com/6ccNNbH.gif), which also happens to give dymethazine its name. The dymethazine molecule is essentially two [superdrol (methyldrostanolone) molecules](http://i.imgur.com/hYYh8wH.gif), with one flipped and then joined at center via a pair of nitrogen atoms. This unique bond has been termed an azine bond, from the class of organic chemicals known as [azines]( http://en.wikipedia.org/wiki/Azine). In the body, this bond is split and dymethazine breaks down into superdrol, allowing it to bind to the androgen receptor and demonstrate its anabolic effects.
 
-
 ##Use/Dosing
 
 Logically, one would assume that dymethazine would exhibit results similar or identical to superdrol. However, as usual when it comes to anabolics, things are not that simple. Many users report significant mass gains on DMZ, though superdrol is often considered a much superior bulking compound.

@@ -34,4 +34,4 @@ Book | Topic  |
 [Dinosaur Diet](https://infotomb.com/3o0r7.pdf) | Nutrition 
 [Dinosaur Training](https://infotomb.com/ulgma.pdf) | Training 
 [Paleo for Lifters](https://infotomb.com/qxvag.pdf) | Nutrition 
-[Russian Conjugate System](https://infotomb.com/eb23p.pdf) | Training 
+[Russian Conjugate System](https://infotomb.com/eb23p.pdf) | Training

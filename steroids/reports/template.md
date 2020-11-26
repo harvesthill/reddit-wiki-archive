@@ -1,4 +1,3 @@
-
 #Background info
 ##Pre-cycle stats
 
@@ -12,7 +11,6 @@
 
 #The Cycle
 ##Goals
-
 
 ##Gear
 
@@ -36,7 +34,6 @@ Weeks 00-00 | Nolvadex | 40mg | ED
     Weeks 00-00 | Aromasin | 25mg | EOD
     Weeks 00-00 | Nolvadex | 40mg | ED
 
-
 ##Diet
 
-##On cycle training  
+##On cycle training

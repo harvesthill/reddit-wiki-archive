@@ -1,6 +1,7 @@
 #Posting Guidelines
 
 ## Cycle Reviews
+
 **I want to make a post for a cycle critique, is there a certain format**
 
 Yes. In the thread title please use the tag [Cycle Review] followed by a short description of your cycle. The following is an example and should be the standard format used.

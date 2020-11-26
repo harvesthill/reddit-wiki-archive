@@ -25,7 +25,6 @@ A colourless oily liquid with a faint aromatic odour, and a sharp burning taste.
 
 Benzyl alcohol is stable when stored properly. It should be stored in an airtight glass container, protected from light, in a cool, dry place, not exceeding 40°C.
 
-
 ###Safety
 
 Benzyl benzoate is metabolized by rapid hydrolysis to benzoic acid and benzyl alcohol. Adverse reactions to benzyl benzoate include skin irritation and hypersensitivity reactions. Oral ingestion can cause harmful stimulation of the CNS and convulsions. Benzyl benzoate should be avoided by people with perfume allergies.
@@ -41,7 +40,6 @@ Observe normal precautions. Benzyl benzoate is an irritant to the skin, eyes, an
 Dimethyl sulfoxide is a polar substance that is aprotic, lacking both acidic and basic properties. It has exceptional solvent properties for both organic and inorganic compounds. Dimethyl sulfoxide enhances the topical penetration of drugs, however, much of the enhancement capacity is lost if the solvent is diluted. Increases in drug penetration have been observed with dimethyl sulfoxide concentrations as low as 15%, however, significant increases require concentrations higher than 60–80%. 
 
 Dimethyl sulfoxide is now incorporated into a number of regulated products for drug delivery applications, including stabilizing formulations, and formulations for sustained-release applications. Dimethyl sulfoxide has also been used in the formulation of an injection containing allopurinol^[2] .
-
 
 ###Description
 
@@ -63,7 +61,6 @@ Dimethyl sulfoxide is a colourless liquid, or frozen crystal that is miscible wi
 Dimethyl sulfoxide is reasonably stable to heat however, when heated to decomposition the fumes are toxic. At temperatures between 40 and 60°C, it has been suggested that dimethyl sulfoxide may partially decompose, indicated by changes in density, and viscosity^[4] 
 
 Dimethyl sulfoxide should be stored in an airtight glass container, protected from light, in a cool, dry place, not exceeding 40°C. Storage in plastics should be avoided.
-
 
 ###Safety
 
@@ -109,7 +106,6 @@ Liquid grades (PEG 200–600) present as a clear, colourless or slightly yellow 
 **Solubility** 
 
 All grades of polyethylene glycol are soluble in water and are miscible in all proportions with other liquid polyethylene glycols. Liquid polyethylene glycols are soluble in acetone, alcohols, benzene, glycerin, and glycols. 
-
 
 ###Stability/Storage
 
@@ -160,8 +156,6 @@ Observe normal precautions.
 
 13. [FAO/WHO. *Evaluation of certain food additives. Twenty-third report of the Joint FAO/WHO Expert Committee on Food Additives.* World Health Organ Tech Rep Ser 1980; No. 648.](http://www.who.int/ipcs/publications/jecfa/reports/trs940.pdf)
 
-
 - [Rowe, C. *Handbook of Pharmaceutical Excipients.* London: RPS Publishing, 2009. Print.](http://www.amazon.com/Handbook-Pharmaceutical-Excipients-Rowe/dp/0853697922)
-
 
 #[&lt; BACK](http://www.reddit.com/r/steroids/wiki/homebrew/list)

@@ -37,7 +37,6 @@ http://www.rxlist.com/aromasin-drug/indications-dosage.htm
 
 &gt;the recommended dose of AROMASIN is 50 mg once daily after a meal.
 
-
 http://www.drugs.com/monograph/aromasin.html
 
 &gt;High-fat meal increases plasma exemestane concentrations by approximately 40%.

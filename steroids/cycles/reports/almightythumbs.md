@@ -1,4 +1,3 @@
-
 #Background info
 
 This will be cycle (or blast, as I should say) number 5 for me. It is my first time using long ester tren and also my first time using mast in any form. Diet and training is on point. I am more concerned with growth in my upper body, specifically my chest, lats, and biceps, as I plan to compete in physique next year. I'm tired of buying new jeans, so competing in BB is probably out, unless I change my mind at some point and decide to go for huge.

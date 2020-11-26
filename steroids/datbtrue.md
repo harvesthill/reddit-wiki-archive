@@ -70,7 +70,6 @@ You may also wonder what happens if GHRH and Somatostatin are together at the bo
 
 From this it is easy to see that a well-functioning GH releasing system depends on both GHRH &amp; Somatostatin. Somatostatin to hold back release so enough GH can be made and then GHRH to cause a pulse of GH. Not only must these two brain-derived hormones which oppose each be active, they also must alternate with one another...GHRH release and a while later somatostatin and then a while later somatostatin retreats and GHRH is released again... this brings release of some of the GH mass that has been built up over the course of 3 hours in what looks like a pulse if graphed.
 
-
 Ghrelin (GHRPs) the 4th hormone in the GH Releasing System
 
 To be complete we need to add a fourth hormone to this system. One hormone Growth Hormone (GH) is the end-product hormone. It results from all of this activity. That leaves the other 3 hormones as hormones that determine how, when and how much GH will be released.
@@ -121,13 +120,11 @@ What are all these peptides and what should I choose?
 
 First notice that I referred to GHRH, GH and Ghrelin as hormones. They are naturally occurring hormones whose structure is just one amino acid such Arginine bonded to another amino acid such as Lysine. They are both hormones and peptides. Sex hormones are examples of hormones that are not built in the body with amino acids.
 
-
 Now GHRPs do not naturally occur in the body but since they are mimickers of a hormone Ghrelin we can fudge and use the term hormone if we want. Growth Hormone Releasing Petites (GHRPs) as the name implies are built with attachments of amino acids.
 
 Which GHRH?
 
 The body makes GHRH which 44 aminos long. 15 amino acids are useless so the first 29 amino acids is what is known as GRF(1-29). Yes GHRH(1-29) makes more sense but someone chose G for "growth hormone", R for "releasing" and F for "factor". The numbers just tell you which amino acids from GHRH are kept.
-
 
 GRF(1-29) acts just like GHRH so I'll color it green. GRF(1-29) is an FDA-approved pharmaceutical drug named Sermorelin.
 
@@ -209,7 +206,6 @@ Another vegetarian was Lionel Strongfort who promoted a system of raw foods base
 
 Perhaps the most accepted food across all the early eating models for bodybuilders was milk. One of the most popular protocols for building size and strength was the combination of back squatting and drinking large quantities of milk. Joseph Curtis Hise was a pioneer of this system in the 1930s and after 70 years this strategy is still going strong in the drug-free world of bodybuilding.
 
-
 TONY SANSONE
 
 Another Physical Culturalist who advised against over-consumption was Tony Sansone, but Sansone understood the importance of flesh foods, including animal fats and organ meats. He wrote extensively on nutrition for bodybuilders and recommended nutrient-dense "foundation" foods such as milk, eggs, butter, meat, vegetables, fruits, and some whole grains, in that order. He also stressed the importance of organ meats such as liver, kidney, heart and cod liver oil and recognized the need to drink whole raw milk instead of pasteurized and skimmed. He believed goats milk was more nutritious and easily digested than cows milk. Fresh butter and cream were his preferred fats. He also recommended six to eight glasses of water per day. 
@@ -245,12 +241,9 @@ In the late 1930s a young pharmacist named Eugene Schiff developed a method of p
 
 Schiff focused on supplements made from natural products. He began to experiment with whole foods such as brewer's yeast, wheat germ and liver. He found that these foods were naturally rich in vitamins and minerals. The Schiff company claims that he was first to discover that rose hips was a superior source of vitamin C. Along with the first rose hip vitamin C supplement, he also launched one of the first multi-vitamin products, called "V-Complete." 
 
-
 The demand during World War II for non-perishable foods allowed the food industry to expand and popularize the market for powdered or dehydrated foods and bodybuilders would eventually find their way into this market. Powdered milk and eggs, and later powdered soy protein, were promoted as an easy way to get additional protein into the diet. Breakfast drinks based on a protein powder emerged into the diet of the legendary Steve Reeves who years later wrote about this practice in his book Building The Classic Physique. Reeves' impressive natural physique landed him starring roles in the films Hercules and Hercules Unchained in the late 1950s and inspired thousands of young men to adopt weight training. His recipe for a breakfast drink included fresh orange juice, Knox gelatin, honey, banana, raw eggs and a blend of skim milk, egg white and soy protein.
 
-
 The first protein powders "tailored" specifically for athletes appeared around 1950. One of these was called 44, "The Supplemental Food Beverage," produced in California by a company called Kevo Products. The principle ingredient was dehydrated powdered whole soy beans, along with kelp, wheat germ, dextrose, and various dehydrated plants, herbs and flavorings. The supplement was sold at health food stores, body-building studios, and health institutes.
-
 
 Another popular product was Hi-Protein, "a protein food supplement derived from soya flour, milk proteins, and wheat. The free amino acids which include natural tryptophan and the other natural essential amino acids where produced by an acid hydrolysis." The product was developed by bodybuilder and nutrition guru Irvin Johnson with before and after photographs of weaklings turned musclemen. Bob Hoffman quickly capitalized on Johnson's success by following immediately with his own soy-based product marketed heavily in Strength and Health. Hoffman's infamous protein claimed many a victim with hives or gym-clearing gas.
 
@@ -290,13 +283,10 @@ Still, most athletes relied on diet for strength-building, and protein occupied 
 
 Blair promoted his products with skillful salesmanship but he also made an important suggestion that would ensure that his products actually worked--he insisted that his protein be taken with raw cream or half and half. He was smart enough to know that you must replace the fat removed from protein during processing. He also recognized the benefits of raw dairy products. Athletes of the 1960s used a variety of recipes, varying the proportions of Blair's protein product with raw cream, raw milk and raw egg yolk. Weight-trainer Don Howorth remembers eating 3 dozen eggs, 1 quart raw cream, and 2 pounds ground sirloin along with 2-3 cups of Blair's protein powder per day.
 
-
 Blair had a special method for cooking his eggs. He did not cook them in boiling water but recommended cooking many eggs at one time in water maintained at 181 degrees for 31 minutes. The eggs were then left in the water to cool down slowly. Blair claimed that putting the eggs under cold water "shocked" many of the nutrients, rendering them ineffective and that cooking eggs in this fashion preserved much of their nutritional value. 
-
 
 It is interesting to read Perry Rader's "Reader Roundup" column in his Iron Man magazine during this time. He tries 
 to explain the spectacular gains made by some of thepopular bodybuilders who were using Blair's products. Many of them were eating 6000 to 9000 calories a day in the same fashion as Don Howorth and gaining muscle while maintaining or even trimming their waist size. Rader published Blair's response in a 1966 issue of Iron Man. Blair claimed that his protein powders, along with all of his other supplements, were formulated in a special manner to metabolize fat more efficiently. He also warned that taking cream with any protein powder other than his own would result in fat accumulation. 
-
 
 But Blair could not help knowing that these dramatic results were not achieved on food and protein powders alone. Bodybuilders knew that they could expect to build muscle consuming 8000 calories per day, but not lose fat at the same time. That required some additional anabolic assistance. Blair knew his guys were taking steroids. Don Howorth readily admitted his past use of Dianabol, but was adamant about the importance of diet along with it. In fact, some bodybuilders were quite open about drugs. When Larry Scott, two-time winner of Mr. Olympia, was asked about 
 his steroid use he said without hesitation, "Sure, doesn't everyone?" However, the bodybuilding magazines continued the deception that the new, larger physiques were built on powders and supplements. Thus steroid use artificially inflated the already marketable commodities of bodybuilding.
@@ -369,7 +359,6 @@ Also back in the 1960s, cyclists were using a technique of loading their muscles
 
 Similar diets followed including Cyclical Ketogenic Dieting (CKD) variously known as the "Ultimate Diet," the "High-Fat 
 Diet," the "Anabolic Diet," "Bodyopus," the "Metabolic Diet," "Anabolic Solution," and the "Ultimate Diet 2.0."
-
 
 ##Estrogen - Women &amp; GHRH/GHRP-6
 
@@ -1244,42 +1233,31 @@ Modified GRF(1-29)however when combined with a GHRP brings about a substantial p
 
 ##A Brief Summary of Dosing and Administration
 
-
 Dosing GHRPs
 
 The saturation dose in most studies on the GHRPs (GHRP-6, GHRP-2, Ipamorelin &amp;amp; Hexarelin) is defined as either 100mcg or 1mcg/kg.
 
-
 What that means is that 100mcg will saturate the receptors fully, but if you add another 100mcg to that dose only 50% of that portion will be effective. If you add an additional 100mcg to that dose only about 25% will be effective. Perhaps a final 100mcg might add a little something to GH release but that is it.
 
-
 So 100mcg is the saturation dose and you could add more up to 300 to 400mcg and get a little more effect.
-
 
 A 500mcg dose will not be more effective then a 400mcg, perhaps not even more effective then 300mcg.
 
 The additional problems are desensitization &amp;amp; cortisol/prolactin side-effects.
 
-
 Ipamorelin is about as efficacious as GHRP-6 in causing GH release but even at higher dose (above 100mcg) it does not create prolactin or cortisol.
-
 
 GHRP-6 at the saturation dose 100mcg does not really increase prolactin &amp;amp; cortisol but may do so slightly at higher doses. This rise is still within the normal range.
 
-
 GHRP-2 is a little more efficacious then GHRP-6 at causing GH release but at the saturation dose or higher may produce a slight to moderate increase in prolactin &amp;amp; cortisol. This rise is still within the normal range although doses of 200 - 400mcg might make it the high end of the normal range.
 
-
 Hexarelin is the most efficacious of all of the GHRPs at causing an increase in GH release. However it has the highest potential to also increase cortisol &amp;amp; prolactin. This rise will occur even at the 100mcg saturation dose. This rise will reach the higher levels of what is defined as normal.
-
 
 Desensitization
 
 GHRP-6 can be used at saturation dose (100mcg) three or four times a day without risk of desensitization. 
 
-
 GHRP-2 probably at saturation dose several times a day will not result in desensitization.
-
 
 Hexarelin has been shown to bring about desensitization but in a long-term study the pituitary recovered its sensitivity so that there was not long-term loss of sensitivity at saturation dose. However dosing Hexarelin even at 100mcg three times a day will likely lead to some down regulation within 14 days.
 
@@ -1381,7 +1359,6 @@ Restoring Growth Hormone
 Such programming begins as the second decade of life draws to a close, the negative consequences of which become more noticeable with each passing year. 
 
 We begin to experience a steady decline in immune function. (1,2) Our bodies increase production of glucocorticoids (catabolic hormones) and cytokines (inflammatory) which negatively impact metabolism, bone density, strength, exercise tolerance, cognitive function, and mood. (3,4–8) 
-
 
 The hormones of sex, dehydroepiandrosterone (DHEA), Growth Hormone (GH), and Insulin-like Growth Factor (IGF-1) are positively correlated with the health and well-being of the body in general and the specific functioning of metabolism, the cardiovascular system, the musculature skeletal system, cognitive function &amp;amp; the immune system. However these hormonal levels naturally decline as we age and as a consequence those systems necessary to maintain optimal health decline as well. (1-4,9)
 
@@ -2994,7 +2971,6 @@ Sleep is a major modulator of endocrine function, particularly of pituitary-depe
 
 In contrast to the enhanced activity of the GH axis during sleep, the hypothalamic-pituitary-adrenal (HPA) axis is acutely inhibited during early SW sleep.16-20 Furthermore, even partial sleep deprivation results in an elevation of cortisol levels the following evening.21 Thus, both decreased SW sleep and sleep loss resulting from increased sleep fragmentation could contribute to elevating cortisol levels. An elevation of evening cortisol levels is a hallmark of aging14-15,22 that is thought to reflect an impairment of the negative feedback control of the HPA axis and could underlie a constellation of metabolic and cognitive alterations.23-25 
 
-
 The present study defines the chronology of age-related changes in sleep duration and quality (ie, amounts of sleep stages), GH secretion, and cortisol levels in healthy men and examines whether decrements in sleep quality are associated with alterations of GH and cortisol levels.
 
 ...
@@ -3002,7 +2978,6 @@ The present study defines the chronology of age-related changes in sleep duratio
 COMMENT
 
 The present analysis demonstrates that, in healthy men, aging affects SW sleep and GH release with a similar chronology characterized by major decrements from early adulthood to midlife. In contrast, the impact of age on REM sleep, sleep fragmentation, and HPA function does not become apparent until later in life. The analysis further suggests that age-related alterations in the somatotropic and corticotropic axes may partially reflect decreased sleep quality. 
-
 
 Human sleep is under the dual control of circadian rhythmicity and of a homeostatic processrelating the depth of sleep to the duration of prior wakefulness.44 This homeostatic process involves a putative neural sleep factor that increases during waking and decays exponentially during sleep. Slow wave sleep is primarily controlled by the homeostatic process. Circadian rhythmicity is an oscillation with a near 24-hour period generated by a pacemaker located in the hypothalamic suprachiasmatic nucleus. Circadian rhythmicity plays an important role in sleep timing, sleep consolidation, and the distribution of REM sleep.45 The present data indicate that an alteration in sleep-wake homeostasis is an early biological marker of aging in adult men. In contrast, components of sleep that are under the control of the circadian pacemaker appear to be relatively well preserved until late in life. 
 
@@ -3144,7 +3119,6 @@ These unrefined notes are for educational use only.
 GHR Structure
 
 The growth hormone receptor (GHR) is a member of the cytokine receptor superfamily. Cytokines is a general category encompassing signaling proteins and glycoproteins (often cellular membrane proteins) that similar to hormones and neurotransmitters facilitate cellular communication. [12,13] It is a type I cytokine receptor as is the prolactin receptor, which in essence means it is connected to Janus kinase (JAK) which acts as its primary mediator of signaling events.
-
 
 Physically the GHR is composed of 620 residues (a residue is an individual amino acid in a peptide chain). 350 of these residues reside inside the cell and make up what is known as the intracellular domain. 246 of these residues reside outside the cell and make up what is known as the extracellular domain. The remaining 24 residues reside in the membrane of the cell and make up what is known as the transcellular domain. [13-16]
 
@@ -3434,24 +3408,17 @@ Dept of Experimental Med, Univ of Milano-Bicocca, Monza, Italy; Interdepartmenta
 
 You see people on boards making all sorts of silly claims concerning how many ius we normally secrete.
 
-
 Did anyone catch the chart I posted in Post #558 which revealed that 24-hour GH secretion in males of ages 16 to 25 was just under 600mcg?
-
 
 Nutropin reveals that 1 iu of their GH is equal to 333 mcg, so a normal young male secretes about 2iu of GH a day.
 
-
 A normal male aged 26 to 35 secretes less than 1 iu of GH with the following age groups secreting less.
-
 
 Now the comparison isn't entirely accurate (Nutropin weight to how much GH ends up in plasma) but even if we add 50% to the value we are still talking about a normal male aged mid-twenties to mid-thirties secreting less than 2iu of GH a day.
 
-
 So do you think a middle aged male could benefit by a true (meaning accurate as opposed to Chinese generic product) 1-2iu increase in GH (such that can be created with just GHRP-6 alone)?
 
-
 From the stand point of healthy restoration to youthful levels, the answer is yes.
-
 
 For the lazy here is the chart from that post:
 

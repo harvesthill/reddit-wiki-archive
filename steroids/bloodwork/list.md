@@ -12,11 +12,13 @@ There are two ways to get blood work done. The one way to do so is requesting bl
 There are many services through out the world that provide individuals the capability to get private paid blood work. These services are invaluable to AAS users to monitor our health and safety.
 
 ### In the USA
+
 There are several providers in the USA to choose from.  
 **Note**: Unfortunately testing is unavailable in NY, NJ, MA, MD, and RI. If you are a resident of one of these states you'll have to drive out of state to use Private MD Labs, LabsMD, or any other private lab. Instructions Below.  
 *MA &amp; MD residents only*: You can use [Health Tests Direct.](https://www.health-tests-direct.com/)
 
 #### **Private MD Labs**
+
 [Private MD Labs](https://www.privatemdlabs.com/) -- A good and trusted lab with many locations.
 
 * [Female Hormone Testing](http://www.privatemdlabs.com/lp/Female_Hormone_Testing.php) is recommended.
@@ -34,6 +36,7 @@ There are several providers in the USA to choose from.
 * [Hormone Panel for Females](http://labsmd.com/tests.php?view=category_result&amp;show=2234&amp;category=14&amp;search=#2234) will provide the actual number for testosterone rather than "&gt; 1500". The assay used for testing estradiol will not give a false reading when using tren.
 
 #### **Walgreens**
+
 * [Cholesterol tests](http://www.walgreens.com/topic/pharmacy/scheduler/cholesterol-screening-and-counseling_9.jsp) are available at most locations.
 
 ####**Blood Work For NY, NJ, MA, MD, &amp; RI Residents**
@@ -67,7 +70,6 @@ There are several providers in the USA to choose from.
 4. Show up to the LabCorp / Quest location. If asked for ID it's reportedly fine to show your NY, NJ, MA, MD, &amp; RI Drivers License. Alternatively, others have used Passports, Work or School IDs, etc.
 
 5. Wait to be emailed the lab results.
-
 
 ### In the UK
 
@@ -112,8 +114,6 @@ The costs for self paid test vary place to place and Provence to Provence. In BC
 If the doctor puts their info on the sheet get a new slip from another doctor or they'll keep being sent your bloodwork and your history will show up. If your tight with your doctor they won't mind. Be aware your bloodwork is not private and will be sent to provincial data bases for physicians to access. It may be possible for self paid bloodwork to be request not to appear in databases. However my self Paid blood has.
 
 &gt;* AB here. I go to a naturopath to avoid getting labeled a drug user on my medical file. Work benefits cover 2 blood tests /yr.
-
-
 
 [Related Canadian Blood Work Post](/r/steroids/comments/30u9oi/bloodwork_results_in_canada_followup_thread/)
 
@@ -194,7 +194,6 @@ http://www.reddit.com/r/steroids/comments/1vysry/so_you_got_your_blood_work_but_
 ![](%%blood-values-sorted-by-mass-and-molar-concentration%%)
 
 ##Q&amp;A
-
 
 ##UNDER CONSTRUCTION
 

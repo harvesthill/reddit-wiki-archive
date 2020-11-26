@@ -209,7 +209,6 @@ This taper guideline is a **GENERAL EXAMPLE** and can be customized to fit your 
 
 - Hypertension (HTN or high blood pressure) is known as the silent killer, because you may never know you have it but it is very bad for your heart and body and organs. There is a way to possibly be able to tell your BP is high without taking it: when you lay down at night and everything is dark and calm and you are rested, and you can feel your veins pulsing and beating in your head or ears when you're on the pillow, this is a plausible indicative sign your BP is too high, and you should start using a real machine to monitor it.
 
-
 ###Cialis For Blood Pressure
 
 Cialis (Tadalafil) **DOES NOT** lower BP. **AT ALL, EVER**. Anyone who tells you otherwise is lying, right to your face, or otherwise ill informed. Read my submitted post above for a full explanation on this. 
@@ -264,7 +263,6 @@ When you're wanting to preventatively take action against prolactin, a Dopamine 
 Remember, only use your Dopamine Agonist if blood work shows elevated levels or if your nipple(s) leak **ON THEIR OWN**. Do **NOT** squeeze your nips and force liquid out, even natural guys can do this, by doing this you will stimulate and cause an increase in prolactin.  
 **DO NOT TOUCH YOUR NIPS.**
 
-
 ###Stopping Lactation
 
 [See Estrogen Handbook](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_prolactin_support)
@@ -285,7 +283,6 @@ Waiting for all these signs to appear means you have waited too long. You want t
 ###Preventing
 
 [See Liver Protection](https://www.reddit.com/r/steroids/wiki/hepatotoxicity#wiki_liver_protection)
-
 
 ##Painful Pumps
 

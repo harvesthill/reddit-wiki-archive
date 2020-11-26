@@ -77,4 +77,4 @@ Similar to nolva, but has been shown to be more effective at reducing gyno then 
 -----
 **Clomid** (Clomifene)
 
-Clomid is the last drug we are going to be talking about here. Clomid is almost entirely useless for estrogen control due to extremely harsh sides. Clomid should only be used for PCT. For dosing, please look up PCT protocols. 
+Clomid is the last drug we are going to be talking about here. Clomid is almost entirely useless for estrogen control due to extremely harsh sides. Clomid should only be used for PCT. For dosing, please look up PCT protocols.

@@ -134,10 +134,8 @@ Week 1:
 
 Okay, so my first week went pretty well! I was pretty damn nervous about my first pin, but it went pretty well. I actually forgot to wipe the top of the vial and was freaking out about it, but you can read about that [here](http://www.reddit.com/r/steroids/comments/1ilpqd/first_pin_ever_forgot_to_wipe_the_top_of_the_vial/). Everything turned out okay though, no infection or anything. One thing I've been having a problem with is how long it takes to inject with a 25g needle. My hands are a bit shaking while injecting and it takes so much damn force to push down the plunger that I think I'm scaring up my ass a lot. I'm going to switch to pinning my glutes with a 23g, hopefully that'll be quicker. Next week I'm going to pin quads for the first time, with a 25g 1" pin. Hopefully that'll go well. I'm not really feeling the Dbol yet, so I think I'm going to give it some time and then maybe bump up the dosage a bit.
 
-
 Week 2: 
 
 At the recommendation of people in [this](http://www.reddit.com/r/steroids/comments/1j3k41/should_i_up_my_dbol/) thread, I've gone ahead and bumped up my Dbol dosage to 50mg a day. I'm currently two days into this higher dosage, and am not feeling much yet. I'm just working on keeping my diet on point, and hopefully the pounds will start to come. I injected my glutes twice this week with a 23g needle and like it a lot better than the 25g. I'm going to inject the quads for the first time next week, and will use the 25g to do that. My training has been going well, maybe it's just in my head, but I find that I'm able to take less time to rest in between sets than I could a few weeks ago. I'm looking forward to this Dbol kicking in soon, hopefully by the time I post the next update it'll have kicked in. 
 
 Week 3: Update on 7 August 2013
-

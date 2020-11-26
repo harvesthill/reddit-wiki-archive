@@ -1,5 +1,4 @@
-
-    # Monthly Progress Thread - Turn off Contest Mode - FAILED :(
+# Monthly Progress Thread - Turn off Contest Mode - FAILED :(
     first: "January 17, 2017 14:00"
     repeat: 1 month
     title: ["Monthly Progress Thread: {{date %B %Y}}"]

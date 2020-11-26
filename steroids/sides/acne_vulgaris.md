@@ -21,6 +21,7 @@ Acne is generally categorized by the size of the pimple and it's location among 
 * **Cystic (Nodulocystic)**.  When an actual cyst -- a ball of fat and connective tissue -- forms under a nodular acne lesion.  The cysts do not go away, even after the acne has subsided and can leave a permanent lump under the skin that can be felt and moved around manually.  All cystic acne is nodular, but not all nodular acne is cystic.  This type of acne can be severe and require immediate dermatological attention.
 
 ### Avoid Acne
+
 The following advice will ensure that no contribution is being made to the formation of acne.
 
 * **Avoid High-Glycemic Index Foods**. Simple sugars will spike insulin levels and incite increased sebum production.  This includes most dairy products.[(1)](http://ajcn.nutrition.org/content/86/1/107.full)

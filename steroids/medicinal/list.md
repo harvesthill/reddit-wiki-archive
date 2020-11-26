@@ -1,4 +1,5 @@
 # Medicinal Use of AAS
+
 Due to the culturally engrained stereotype of AAS use, medicinal use of AAS has just recently began to be investigated.  This page seeks to document areas where AAS may be beneficial to patients with disease.
 
 ##Anxiety
@@ -16,6 +17,7 @@ Dev Med Child Neurol. 2004 Aug;46(8):569-71.
 http://www.ncbi.nlm.nih.gov/pubmed/15287249
 
 &gt;Children with cerebral palsy (CP) often have poor linear growth during childhood, resulting in a diminished final adult height. Here we report a female with CP and short stature but without growth hormone (GH) deficiency who exhibited increased growth during treatment with GH. We also report two other children with CP who were treated with GH: one female with a history of leukemia, and a male with Klinefelter syndrome. These two children were both found to be GH-deficient by insulin provocative GH testing and responded to treatment with increased growth rate. Growth improved to a greater extent in the two children with apparent GH deficiency. In summary, it is felt that GH therapy might be beneficial for children with CP and warrants further investigation.
+
 **Growth hormone deficiency in two children with cerebral palsy.**
 
 Dev Med Child Neurol. 1995 Nov;37(11):1013-5.

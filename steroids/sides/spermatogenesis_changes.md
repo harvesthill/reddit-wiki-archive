@@ -12,12 +12,9 @@ Defects rates of sperm is higher and miscarriage chances are greater.
 
 If you want to continue to produce sperm, for sure, run HCG and HUMOG / Menopur during cycle.
 
-
-
 http://www.ncbi.nlm.nih.gov/pubmed/16318399
 
 "When administered to a healthy man, testosterone functions as a contraceptive by suppressing the secretion of luteinizing hormone and follicle-stimulating hormone from the pituitary, thereby depriving the testes of the signals required for normal spermatogenesis. After 2-3 months of treatment, low levels of pituitary gonadotropins lead to markedly decreased sperm counts and effective contraception in the majority of men. Treatment with exogenous testosterone has proven not to be associated with serious adverse effects and is well tolerated by men. In addition, sperm counts uniformly normalize when testosterone is discontinued. Thus, male hormonal contraception is safe, effective, and reversible; however, spermatogenesis is not suppressed to zero in all men, meaning that some diminished potential for fertility persists"
-
 
 **References**
 
@@ -35,10 +32,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/14989793
 ##HCG and hMG assisting in Spermatogenesis:
 http://www.ncbi.nlm.nih.gov/pubmed/1621528
 
-
 ##Myostatin, Muscles and Bodyfat
 By: Jerry Brainium
-
 
 Myostatin is a protein discovered by researchers at Johns Hopkins University in 1997. The word myostatin means 'muscle stopper,' an accurate description of what it does in the body. Scientists aren't sure how myostatin works, but the leading theory is that it inhibits the involvement of satellite cells, or immature muscle cells, in muscle growth. That's the opposite of what several anabolic hormones, particularly insulinlike growth factor 1 (IGF-1), do.
 
@@ -92,9 +87,7 @@ Since the air around major highways contains tons of the stuff, what the effects
 
 [Does Test E make you infertile?](/r/steroids/comments/2d51ek/does_test_e_make_you_infertile/)
 
-
-
 ###References
 *1 Milan, G.,et al. (2004). Changes in muscle myostatin expression in obese subjects after weight loss. J Clin Endocrinol Metab. 89:2724-2727.   
 2 Karila, T., et al. (2004). Concomitant abuse of anabolic androgenic steroids and human chorionic gonadotrophin impairs spermatogenesis in power athletes. Int J Sports Med. 25:257-63.   
-3 Furuta, C., et al. (2004). Estrogenic activities of nitrophenols in diesel exhaust particles. Biol Repr. 70:1527-1533. IM*   
+3 Furuta, C., et al. (2004). Estrogenic activities of nitrophenols in diesel exhaust particles. Biol Repr. 70:1527-1533. IM*

@@ -70,9 +70,6 @@ Levemir | 60-120 min. | Flat | Up to 24 hours | Long
 Humulin N (70/30) | 30-60 min. | 2-10 hours | 10-18 hours | Combo/Mix 
 NovoLog Mix (70/30) | &lt;15 min, | 1-2 hours | 10-18 hours | Combo/Mix
 
-
-
-
 There are three important characteristics that differentiate the available types of modern insulin. To properly use insulin in bodybuilding it is important to know the following characteristics:
 
 * **Onset**: The time it takes the injected insulin to reach the blood stream and begin to work.
@@ -84,7 +81,6 @@ For bodybuilding purposes we will only be concerned with three types of insulin;
 Humulin "R" and Novolin "R" are known as short-acting insulins. The manufacturers claim that this type of insulin is active in the body for up to six hours; in reality it's closer to four and a half hours. The onset time of "R" is roughly thirty minutes and the drug peaks in one and a half to two and a half hours after injection. These are very commonly used at higher levels of body building. It has longer peaks and duration compared to "log" types, and fits well into most user's eating and workout schedule. 
 
 Humalog and NovaLog are the fastest acting insulin, known as rapid-acting insulins. They have a duration of about 2 hours, peaks in fifteen minutes, and is ideal for bodybuilding purposes, because it is out of the body quickly. The speed at which Humalog works is beneficial, because it allows us more precise control and lets us know exactly when food needs to be consumed.
-
 
 ##General Insulin Cycle Rules
 
@@ -106,7 +102,6 @@ Since you will be running HGH, your body can also utilize more testosterone than
 
 A PCT of Metformin is recommended to be run after the insulin cycle. This is to bring your body's insulin sensitivity back to baseline. Suggested dosing is to start at 500mg/day taken with a high carb meal and to increase it to 2g-2.5g/day by the start of week 3 for a total of 4 weeks. It is suggested to gradually increase dosage to avoid unpleasant side-effects. 
 
-
 ##Other Ancillaries
 
 ###Shakes
@@ -126,7 +121,6 @@ A beginner to intermediate insulin cycle would be based on a 'shake' protocol. T
 ###Glucose Tablets
 
 You should **ALWAYS** have a full tube of these on-hand while you are within the peak and duration of your insulin dose. In the event that your start to experience hypoglycemia symptoms take a few tablets and wait 5 minutes, if you are still experiencing symptoms take a couple more. Each tablet contains 5g of carbs, you should not be dependent on them, they are just a safety net. If you find yourself using them consistently then re-evaluate your cycle dosing and carb intake. I suggest you open the tube before you need it, you don't want to be screwing around trying to open the package when you are experiencing low blood-glucose symptoms. 
-
 
 ##Before You Start Anything!!!
 
@@ -167,7 +161,6 @@ Before starting it is important to know what 1 IU of insulin looks like. Typical
 * [If your 1mL insulin syringe has 50 ticks on it, then each tick = 2 IU](https://imgur.com/a/1Oekj)
 
 * [If you have a 1/2 mL insulin syringe, with 50 ticks on it, each tick is = 1 IU](https://i.imgur.com/p9mjrxp.jpg)
-
 
 #Insulin Cycle Examples
 

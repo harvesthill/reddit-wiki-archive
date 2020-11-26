@@ -167,7 +167,6 @@ text-indent: -9999px;
     border: none!important;    
 }
 
-
 /* wiki draw-to image 
 ======================================*/
 
@@ -428,7 +427,6 @@ div.roundfield.info-notice {
     border-radius: 0;
 }
 
-
 /* sidebar
 ======================================*/
 
@@ -668,7 +666,6 @@ div.thing div.entry p.title a.title {
     font-size: 20px;
 }
 
-
 div.thing div.entry p.title a.title:visited {
     color: #757575;
 }
@@ -735,12 +732,10 @@ div.comment div.child &gt; .sitetable &gt; .thing, div.comment div.child div.chi
     border-left: 3px solid #000000 !important;
 }
 
-
 .report-button .option:hover:not(.error):before {
     content: "Point em out, point em out, point em out...";
     margin: -4px 0 0 36px;
 }
-
 
 .report-button .option:hover:not(.error):before {
     content: "Point em out, point em out, point em out...";
@@ -1443,7 +1438,6 @@ a.author.friend {
     color: #fff;
     animation: blur 2s ease-out infinite;
 }
-
 
 @keyframes blur{
   0% {

@@ -1,4 +1,3 @@
-
 #Testosterone Replacement Therapy (TRT)
 
 Welcome to r/steroids' wiki on testosterone replacement therapy (TRT). This wiki explores TRT for treating low testosterone (aka low T).  
@@ -63,7 +62,6 @@ Additional tests of use include a measurement of LH (luteinizing hormone) levels
 * [Testosterone Testing](http://labtestsonline.org/understanding/analytes/testosterone/tab/test/) - LabTestOnline
 * [Testosterone Testing](http://www.nlm.nih.gov/medlineplus/ency/article/003707.htm) - MedLinePlus
 
-
 ###Finding a Doctor; Getting Blood Work
 
 TRT has really only recently gone mainstream. Some physicians know quite a bit about it; some know very little. Some physicians wholeheartedly support it; some look at it very skeptically. Most will be somewhere in the middle. Thus, it’s important to find a physician that you feel comfortable with and that has a good understanding of and respect for TRT. 
@@ -71,7 +69,6 @@ TRT has really only recently gone mainstream. Some physicians know quite a bit a
 If you suspect you have low testosterone because you have some symptoms of low T, start by talking about these symptoms with your doctor. Then, ask your doctor for a simple blood test to measure your testosterone levels. If your doctor won’t perform a blood test, either get a different doctor or get some blood work done yourself. Plenty of companies now offer hormone panel testing services [Any Lab Test Now](http://www.anylabtestnow.com/tests/testosterone-blood-test/), [DirectLabs](https://directlabs.com/Default.aspx?&amp;catid=90&amp;language=en-US&amp;tabid=55), [DiscountedLabs](http://www.discountedlabs.com/), [ZRT Laboratory](https://store.zrtlab.com/sex-hormones). While you can’t get a TRT prescription from them, you can arm yourself with the results by figuring out whether or not your levels are low.
 
 Here are the different doctors that you can see that most often treat men with low testosterone (ordered by ease of access and knowledge of TRT). In any case, a male doctor is more likely to prescribe testosterone than a female doctor:
-
 
 * Low T Centers/Men’s Health Clinics – These clinics specifically cater to testing for and treating men with low testosterone. They charge a monthly fee for access to physicians. Insurance may or may not cover these providers, so check. (Companies with the most locations are [Low T Center](https://lowtcenter.com/), [BodyLogicMD](https://www.bodylogicmd.com/), and [LowTestosterone.com](http://www.lowtestosterone.com/)). Note: These centers and clinics do not prescribe testosterone to any man that comes in complaining of low testosterone symptoms. They perform blood tests and only prescribe testosterone therapy to men with clinically diagnosed low testosterone.
 * Anti-Aging/Longevity Clinics – These clinics typically also prescribe HGH as well as other hormones.  They are expensive because they typically only take cash and do not charge to insurance. 
@@ -123,7 +120,6 @@ Overall, gels mimic the natural release of the body, but many men complain that 
 
 *Dosage:* 2.5-10 grams of gel spread over the application site daily
 
-
 ####Injections
 
 Testosterone injections involve the injection of oil-based testosterone into the muscle (usually the thighs, glutes, or deltoids). The testosterone is then absorbed via the muscle into the blood stream over time. Intramuscular testosterone preparations have been the mainstay of testosterone replacement therapy since the 1950s, and they are one of the most popular forms of testosterone for TRT.
@@ -145,7 +141,6 @@ Of note, the FDA recently approved a new injectable testosterone ester (testoste
 * [Testosterone Cypionate](http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/085635s029lbl.pdf) - FDA AccessData
 * [Testosterone Enanthate](http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/009165s031lbl.pdf) - FDA AccessData
 * [Aveed Full Prescribing Information](http://www.endo.com/File%20Library/Products/Prescribing%20Information/AVEED_prescribing_information.html) - Endo Pharmaceuticals Inc.
-
 
 ####Pellets
 Testosterone pellets are implanted underneath the skin in the subdermal fat layer by a physician. The pellets slowly release a steady infusion of hormone into the body testosterone as they dissolve over the course of three to six months.

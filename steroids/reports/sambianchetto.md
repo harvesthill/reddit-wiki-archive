@@ -46,9 +46,7 @@ Saturday:Back/Bi's
 Sunday: Shoulders/Legs
   
 
-
 #Logs  
-
 
 ##Day 1-2, 4mg
 
@@ -57,7 +55,6 @@ Sunday: Shoulders/Legs
 
 Sides: none really. Dose is still pretty low.
 Surprisingly hungry. Like feeling sick I'm so hungry. Went about 200cal over my macros.
-
 
 **Day 2:** 
 2mg @ 9am, 2mg @ 3pm. 3g taurine
@@ -148,6 +145,4 @@ Finish weight - 80.15kg (176lb)
 
 Overall, I think this was a good cutting cycle, I'll take 2 weeks off and do another 2 that's for sure.
 
-I never experienced any of the hot flushes, headaches or sweating like most people did but that didn't bother me. 
-
-
+I never experienced any of the hot flushes, headaches or sweating like most people did but that didn't bother me.

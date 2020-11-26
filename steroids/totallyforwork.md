@@ -16,7 +16,6 @@ All the time -
 2 milk thistle 
 2 glucosamine a day
 
-
 Day 1-7 
 Test C 200mg E5D    
 Anavar 40mg ED
@@ -27,13 +26,11 @@ EQ 300 mg E5D
 Anavar 60mg ED; 20 mg every 8 hours to keep it consistant with it's 1/2 life.
 20 mg D bol 
 
-
 Day 18- 27   =introduce tren
 Test C 200 mg E5D
 EQ 300 mg 3 times a week
 Tren ace 50 mg ED
 GHRP-2 + Mod GRF (1-29) 100 mcg each twice a day; PWO and before bed
-
 
 Day 28- ??  = Tren and mast
 Test C 200mg E5D
@@ -50,7 +47,6 @@ Hi all!
 
 I was inspired by a really good thread on here for a while where this guy had posted a journal on his cycle. The thread was great so I decided to make one of my own with a simple cycle. I will be giving some progress pics on my imgur account since that I believe this thread has been lacking. I am just a normal guy with a normal build. I don't intend to compete in bodybuilding as I have no interest or enough money to become a "freak." I am interested in powerlifting and getting numbers up; the figure will follow if the diet is in check. 
 
-
 Just some recent background on me:
 
 Started an EC cut about June 1st 2013 at 25mg E and a big-ole-cup of black coffee with each dose. Usually 50mg of E a day with a peak of 75 and three cups of coffee. Ran that with a deficit for two weeks before it gave me horrible calf cramps at night. It did it's job though and I lost the water I was carrying and some belly fat so I am ready to get off that.
@@ -58,13 +54,11 @@ Started an EC cut about June 1st 2013 at 25mg E and a big-ole-cup of black coffe
 Just got some Anavar on June 13th and starting a precycle,
 60 tablets of 20mg Anavar total. 20mg twice a day am/pm 200mg test-cyp every 5 days for a month until my order for this cycle gets in.
 
-
 Training
 
 5-6 days a week depending on school and workload:
 One heavy major lift DL,BP,Squat accessory lifts.
 The other 2-3 days will be light anaerobic at home or jogging in the morning/evenings something to sweat a little bit.
-
 
 Diet 
 
@@ -265,7 +259,6 @@ Deadlift rep day for week one. I will not say what the percentages are or the se
 
 I have been craving carbs more since the Tren kicked in. I know I won't get as shredded off tren and mast from eating like this as I could be, but I am taking advantage of the hunger it gives me because when I come off and start running a lot with the army for Infantry Officer's Basic Course,  I will lose a lot of bodyfat and some muscle. Considering running Test-c and EQ during that course. Long esters will help when I am in the field for a week at a time. 
 
-
 **Tuesday July 9th Day 29**
 
 School sucked, work sucked, wish I could have been in the gym. 100mg Tren 50mg Mast.
@@ -322,9 +315,8 @@ I don't plan on starting PCT because I am going to try to pick back up on the cy
 
 The following can be summed up and the details in this paragraph are not entirely relevant but it can be used to get an idea of how the quick comedown is affecting my mental state:
 
-
 It could be the dealing with a disrespectful roommate that is moving out or that my wife can't commit to a choice on how to motivate him to leave; it could even be that I am about to finish my final undergrad class while working fulltime and all the other things including the abrupt coming off cycle but I have been stressed a lot more than before. I actually have some fits of anger and I have absolutely zero patience. My wife told me something about that my roommate did when I got just got home after a very long day and the switch flipped. As soon as it was said I felt that I went super-sayian and instantly became flush with rage and got a full body pump. I was in control as in I wan't going to punch out any walls or start a fight physically but I looked through everybody that was in the way while I was yelling at him to come outside to talk; actually talk things out, not fight but I wasn't exactly afraid if one broke out. My hand was shaking uncontrollably; my wife usually says that when it gets to the point that I am angry it is scary to be on the receiving end and watch but you get the picture. Once I drug him out (not physically, he didn't want to go) I took a breath and talked candidly. Last night, when my wife kept bringing it up and provoking me, the switch flipped again and I went from keeping to myself to yelling; not like before, but yelling. I took a walk for an hour, came back and tried to go to sleep. She brought it up again and to stop the uncontrollable yelling I took a drive. 
 
 This behavior is only when provoked; during the day I have no problem joking and talking and maintaining relationships. She mentioned roid rage a few times and that was a cue for myself to think if I would act that way when not on. I think I would feel the same way but I wouldn't assert my position in an argument i.e. stand up for myself and defend my point entirely, the same way. That said, the only difference is that my tolerance for provocation is little to none right now. This is the only time that I have felt like this; I believe it will go away when I return to cycle or when I actually start PCT.
 
-Physical is in 8 days, I am going to coast on whatever is left in my system to be safer and start that night again. Still seeing gains in strength, not as fast as on cycle but I am way stronger than pre-cycle. Water weight is shedding and I like the way I look in the morning, fasted. Lean but muscular, more cut but not as big. I will start running more for the next part of the cycle. If anyone is out there and want to give advice or ask questions, please PM me. 
+Physical is in 8 days, I am going to coast on whatever is left in my system to be safer and start that night again. Still seeing gains in strength, not as fast as on cycle but I am way stronger than pre-cycle. Water weight is shedding and I like the way I look in the morning, fasted. Lean but muscular, more cut but not as big. I will start running more for the next part of the cycle. If anyone is out there and want to give advice or ask questions, please PM me.

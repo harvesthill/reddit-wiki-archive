@@ -102,7 +102,6 @@ High fructose corn syrup (HFCS) is a major sweetener in the US. It is composed o
 
 2) Fructose does not stimulate insulin release in the way glucose does, which in turn will reduce leptin production and does not suppress ghrelin, a peptide hormone that contributes to feelings of hunger.
 
-
 ####No/Low Cal Sweetners
 Sugar Alcohols: Each sweetener (sorbitol, xylitol, mannitol) is somewhere between 1.5-3 kCal/g. They are absorbed and metabolized at a reduced rate when compared to sucrose and large amounts can cause diarrhea, and bloating.
 
@@ -113,7 +112,6 @@ Aspartame (NutraSweet or Equal): 180-200x sweeter than sucrose and 4 kCal/g. Onl
 Sucralose: More than 600x sweeter than sucrose, chemically it is sucrose with chlorine as opposed to hydroxyl groups, this allows it to mostly by-pass metabolism. Sucralose has about 2kCal per teaspoon.
 
 Truvia (Stevia): 200x sweeter than sucrose, stevia doesn't issue any glycemic response.
-
 
 ###Fats
 Fat is another one of they body's energy sources, certain lipids, and consumption amounts are also important for hormone production, maintenance of organs, and keeping joints healthy.
@@ -141,9 +139,7 @@ Omega 3 and omega 6 fatty acids work in opposition in certain respects. Omega 3s
 ####Trans Fats
 For all intents and purposes all that should be noted about trans fats are two things: The double creates a "trans" relationship between two hydrogens, thus maintaining the linear fatty acid structure while still having a double bond. The "more important" aspect of trans fats are that ingesting 1 or more grams of trans fats per day increases LDL, decreases, HDL, increases cholesterol, decreases insulin sensitivity, and increases risk for heart disease.^6 If a food contains &lt;0.5g of trans fats it legally does not need to report trans fats. Look for "trans fat free" and steer clear of "partially hydrogenated" oils in ingredients.
 
-
 ###Water
-
 
 ###Notable Macronutrient Minerals 
 
@@ -194,7 +190,6 @@ Dr. Mary Vernon Lecture - A video playlist of great information and resources.
 6.Trumbo PR, Shimakawa T. Tolerable upper intake levels for trans fat, saturated fat, and cholesterol. Nutr Rev. 2011;69(5):270-8.
 
 ##Reading
-
 
 Title | Author | ISBN
 ---|---|----

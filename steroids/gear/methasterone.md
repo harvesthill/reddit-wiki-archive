@@ -148,13 +148,11 @@ Because it dries you out, unless you are cutting for a reason, like a contest, y
 
 The pumps and increased vascularity from Superdrol are pleasant - “my biceps feel flexed when at rest” in the words of one tester. That is, until the dose is becomes too high, at which point Superdrol shares with Anadrol back pumps, cramps, or aches. These can inhibit workouts. At proper doses, these are fleeting, not unlike those from M1T, but not as severe. However, the tester who challenged the highest dose experienced such discomfort that he literally had to lay on the gym floor in between sets. It seems that Superdrol has a built in mechanism, harmless enough, to prevent its abuse.
 
-
 **Fat**
 
 Masteron is very effective in cutting cycles to reduce bodyfat; Anadrol does not mind putting on a few pounds ‘for the winter.’ Superdrol testers were all eating well, no one was cutting, and mass was going up faster than tape-measurements. It was wondered whether Superdrol exhibited fat-burning properties like tren. This can be discounted, and explained instead as a diuretic effect: testers size did not change dramatically because they lost water, while their muscles grew and became more dense. 
 
 So in regard to fat, Superdrol falls right between Masteron and Anadrol: one could say that it neutral in terms of partitioning. When using Superdrol, fat will not magically melt away, but nor will it especially inhibit fat loss on a cut. It will not especially prime you for fat gains on a bulk, but if you do not watch your diet you can get fat. 
-
 
 **Psychological Effects**
 

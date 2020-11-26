@@ -4,8 +4,6 @@
 :--------------|:--------------:|:-------------:|:-------------:|:-------------
 Compound name | 100 | 200 | |
 
-
-
 #Empirical Name / the stub for each compound.
 
 **Chemical structure:** e.g.(17 beta-hydroxy-2-hydroxymethylene-17alpha-methyl-5 alpha-androstan-3-one 0

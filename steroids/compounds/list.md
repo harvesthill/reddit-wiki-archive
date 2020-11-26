@@ -55,7 +55,6 @@ Durabolin (Nandrolone Phenylpropionate) | 37 | 125 |92-96 |
 ###Extended List
 The following compounds are more exotic in nature and we do not see them used much.
 
-
 	Compound | Androgenic | Anabolic | Melting Point (°C) | Notes   
 :--------------|:--------------:|:-------------:|:-------------:|:-------------   
 [1-Testosterone](/r/steroids/wiki/compounds/dihydroboldenone) | 100 | 200 | |  
@@ -111,7 +110,6 @@ Test 400 | 100 | 100 | |
 THG (Tetrahydrogestrinone) | No Data  | No Data  | |   
 [Trenavar (Trenbolone prohormone)](http://www.reddit.com/r/steroids/wiki/compounds/trenavar) | No Data  | No Data  | |
 [Trestolone (MENT/7α-methyl-19-nortestosterone Acetate)](https://www.reddit.com/r/steroids/wiki/trestolone) | 650 | 2,300 | | Under development as male birth control pill  
-
 
 ##FAQ
 Some answers to common questions.

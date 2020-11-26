@@ -46,14 +46,12 @@ Benzyl alcohol is effective against moulds and yeasts; typical minimum inhibitor
 
 Benzyl Alcohol is inactive against spores.
 
-
 ###Stability/Storage
 
 Benzyl alcohol slowly oxidizes in air to benzaldehyde and benzoic acid. Solutions may be sterilized by filtration or autoclaving.
 Benzyl alcohol may be stored in metal or glass containers, but should not be stored in plastic containers.
 
 Benzyl alcohol should be stored in an airtight glass container, protected from light, in a cool, dry place, not exceeding 40°C.
-
 
 ###Safety
 
@@ -121,11 +119,9 @@ Observe normal precautions. Chlorobutanol is an irritant to the skin, eyes, and 
 
 Propyl gallate is primarily used to prevent the rancidity of oils and fats. It is used in cosmetics, perfumes, foods, and pharmaceuticals and was first described in preventing autoxidation of oils and fats in 1943.  Synergistic effects with other antioxidants such as butylated hydroxyanisole and butylated hydroxytoluene have been reported. Propyl gallate is also said to possess some antimicrobial properties and has also been investigated for its therapeutic properties, although mainly in animal studies.
 
-
 ###Description
 
 Propyl gallate is a white, odourless crystalline powder, with a bitter astringent taste that is not noticeable at lower concentrations, as when used as an antioxidant.
-
 
 ###Properties
 
@@ -134,18 +130,15 @@ Propyl gallate is a white, odourless crystalline powder, with a bitter astringen
 |**Melting Point**|150°C|
 |**Solubility**|soluble in fixed and volatile oils, ether, ethanol, PEG, water|
 
-
 **Antimicrobial activity** 
 
 Propyl gallate has been reported to possess some antimicrobial activity against Gram-negative bacteria, Gram-positive bacteria, and fungi. 
-
 
 |Organism|Minimum inhibitory concentration (mg/ml - ethanol cosolvent @ 4% v/v)|
 |:-----------|:------------|
 |**Candida Albicans**|1500|
 |**Escherichia Coli**|330|
 |**Staphylococcus Aureas**|600|
-
 
 ###Stability/Storage
 
@@ -173,13 +166,11 @@ Butylated hydroxytoluene is used as an antioxidant in cosmetics, foods, and phar
 |**IM Injections**|0.03|
 |**IV Injections**|0.0009-0.002|
 
-
 ###Description
 
 Butylated hydroxytoluene is a white or pale yellow crystalline solid or powder with a faint odour.
 
 ###Properties
-
 
 |Property|Data|
 |:-----------|:------------|
@@ -187,7 +178,6 @@ Butylated hydroxytoluene is a white or pale yellow crystalline solid or powder w
 |**Boiling Point**|265°C|
 |**Flash Point**|127°C|
 |**Solubility**|insoluble in water, glycerine, PEG; freely soluble in acetone, benzene, ethanol, ether fixed and volatile oils|
-
 
 ###Stability/Storage
 
@@ -208,13 +198,11 @@ Observe normal precautions. Butylated hydroxytoluene may be irritant to the eyes
 
 Butylated hydroxyanisole is an antioxidant used in cosmetics, foods, and pharmaceuticals. It is mainly used to delay or prevent the autoxidation of fats and oils and to prevent loss of activity of oil-soluble vitamins. Butylated hydroxyanisole is frequently used in combination with other antioxidants, particularly [butylated hydroxytoluene](http://www.reddit.com/r/steroids/wiki/homebrew/antimicrobials#wiki_butylated_hydroxytoluene) and alkyl gallates.
 
-
 |Antioxidant use|Concentration (%)|
 |:-----------|:------------|
 |**Fats and oils**|0.02|
 |**IM Injections**|0.03|
 |**IV Injections**|0.0002-0.0005|
-
 
 ###Description
 
@@ -222,14 +210,12 @@ Butylated hydroxyanisole is a white or almost white crystalline powder or a yell
 
 ###Properties
 
-
 |Property|Data|
 |:-----------|:------------|
 |**Melting Point**|47°C|
 |**Boiling Point**|264°C|
 |**Flash Point**|130°C|
 |**Solubility**|practically insoluble in water; freely soluble in ethanol, PEG, ether, chloroform, hexane, fixed and volatile oils|
-
 
 ###Stability/Storage
 
@@ -263,6 +249,5 @@ Observe normal precautions. Butylated hydroxyanisole may be irritant to the eyes
 7. [EFSA. *Scientific Opinion on the re-evaluation of butylated hydroxytoluene BHT (E 321) as a food additive.* Parma: EFSA Journal, 2012. Print. ](http://www.efsa.europa.eu/en/efsajournal/doc/2588.pdf)
 
 - [Rowe, C. *Handbook of Pharmaceutical Excipients.* London: RPS Publishing, 2009. Print.](http://www.amazon.com/Handbook-Pharmaceutical-Excipients-Rowe/dp/0853697922)
-
 
 #[&lt; BACK](http://www.reddit.com/r/steroids/wiki/homebrew/list)

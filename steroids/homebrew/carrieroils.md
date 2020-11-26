@@ -161,8 +161,6 @@ Ethyl oleate is a pale yellow to almost colourless oily liquid with a slight odo
 
 ###Properties
 
-
-
 |Property|Data|
 |:-----------|:------------|
 |**Density**|0.869g/cm^3|
@@ -196,12 +194,10 @@ Ethyl oleate is considered to be of low toxicity, however, ingestion should be a
 
 It should be noted that some individuals may have an allergic reaction to ethyl oleate, and so appropriate cautions should be observed before administration. This oil should not be administered intravenously.
 
-
 ###Handling
 
 Observe normal precautions. Spillages of this material are slippery and should be covered with an inert absorbent material.
 Oil is a combustible liquid when exposed to heat or flame. If it is allowed to impregnate rags or oily waste, there is a risk of ignition from heat or flame. Dry chemicals extinguishers (e.g. carbon dioxide) should be used to fight any fires.
-
 
 #Sources/References
 *****

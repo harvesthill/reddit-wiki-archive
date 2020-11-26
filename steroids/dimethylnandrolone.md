@@ -39,7 +39,6 @@ No testosterone base was employed in clinical trials. Libido was increased; few 
 ##Dosage
 Clinical testing to date utilized 400 milligrams of DMAU per day via oral administration. 
 
-
 ##Related Posts
 * [DMAU post by /u/Decatest](https://www.reddit.com/r/steroids/comments/g2wtkm/compounds_dimethandrolone_undecanoate_dmau_shows/)
 

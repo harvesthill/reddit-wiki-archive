@@ -24,7 +24,6 @@ Squat: 375lbs
 
 Deadlift: 405lbs
 
-
 Current maxes:
 
 OHP:
@@ -35,13 +34,11 @@ Squat:
 
 Deadlift:
 
-
 The Cycle
 
 Goals
 
 To weigh at least 210lbs at 10% bf or less. 
-
 
 Gear
 
@@ -54,7 +51,6 @@ Weeks 16-17: nothing
 Weeks 18-21: Nolva 40/40/20/20
 
 Arimidex on hand for signs/symptoms of gyno
-
 
 Diet
 
@@ -95,7 +91,6 @@ I haven't noticed any any real differences in the gym yet. I guess if anything I
 
 If anyone has any questions/comments just get at me!
 
-
 12/27/13
 TEST FLU NOOOOOO. I woke up last night with a mild temp, dry cough, and a bit of aching. I'm pretty positive this is test flu and not some kind of infection because my PIP has gotten a little bit better in my right glute. I have a bit of PIP in my left quad, but it is far more manageable than the glute was. I can't wait until these injections stop hurting so much, until they do leg day might be out of the question, along with deadlifts, but I will feel it out. Felt really strong while lifting at the gym today, just didn't really get tired. The cardio portion was another story though. I only did half of what I normally do today, the flu symptoms were really hindering me especially combined with the PIP. I'll update my stats on Monday to see if I have any measurable differences yet. 
 
@@ -115,7 +110,6 @@ Beginning of week 4 update. I've decided to extend my cycle 2 weeks, making it 1
 1/17/14
 Strength gains have really begun to kick in. Today was the first time at the gym I was able to work out similarly to when I did a 4 week m-drol cycle. It was shoulder/traps day. My workout went as follows (not showing warm-up sets):
 
-
 Seated dumbell military press: 65x12, 65x10, 60x10, 60x10
 
 Rear delt row: 25x12, 25x12, 25x10, 25x10
@@ -126,9 +120,7 @@ Front raises w/45lb plate: 45x15, 45x12, 45x10, 45x10 (Never tried this before, 
 
 45 minutes treadmill, walking speed on incline
 
-
 The veins in my shoulders have been visible before, but during front raises today it was the first time I have ever seen them really pop out. Pretty motivating to see! I feel like my fat loss has been slowing down a tiny bit. I didn't want to cut my calories any further so instead I went looking for other options. I decided to take the advice of Elliott Hulse, from Strengthcamp and do about an hour of fasted walking as soon as I wake up in the morning. I also decided I would get an audible.com account like he recommended and listen to motivating audio books during this time. It really gets your head in the right place for the day. Anyways I've been able to get the walking done a couple times this week and I hope it will help me to cut those last few pounds of fat before I bulk. I'd REALLY like to be in single digit body fat before I begin bulking on this cycle. I'll post some progress pics on Sunday as well as my before and after measurements thus far in the cycle. Again, any questions/comments, just hit me up! 
-
 
 1/19/14
 End of week 4 update. Just going to do a quick stats and progress picture update for those who are interested. I'll post what I measured at the beginning, followed by what I've measured at week 4, and have the difference in parentheses. 

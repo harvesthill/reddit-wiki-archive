@@ -1,4 +1,3 @@
-
 #Background info
 ##Pre-cycle stats
 
@@ -103,4 +102,4 @@ Semi-Clean diet gunna hit 2,500 calories for the first 2 weeks, 2,900 for the la
 *Wow the epistane is definitely kicking in. Currently weighing in at 182.6 leaning out and vascularity is increasing. Abs are starting to define a bit more but I'm feeling a bit lethargic all the time. Estro maybe getting a bit too low as I am dosing it 12.5 EOD with stane may do 12.5 E2D and see how that goes. 5 weeks of stane left and tren should be arriving today so I'll keep you guys updated on that and maybe adding 60mg of EQ in 2 weeks well see tho.
 
 ##12/8/14 
-* have been depressed the last few days and have been eating like shit so i havent lost anyweight but im still hovering around 183lbs. Epistane is still making me more vascular and im looking more full everyday. Joints are cracking alottttttttt. Hopefully it doesnt worsen might have to jump on some deca this blast if it doesnt get better. 
+* have been depressed the last few days and have been eating like shit so i havent lost anyweight but im still hovering around 183lbs. Epistane is still making me more vascular and im looking more full everyday. Joints are cracking alottttttttt. Hopefully it doesnt worsen might have to jump on some deca this blast if it doesnt get better.

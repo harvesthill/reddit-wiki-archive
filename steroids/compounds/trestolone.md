@@ -22,13 +22,11 @@ Trestolone is the only steroid in production today that is capable of sustaining
 
 The compound gives a positive sense of confidence, euthymia and well-being well over and above that of testosterone or the many DHT derivatives, such as proviron and masteron.
 
-
 ##Dosage
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural testosterone production values between 4-7 milligrams per day—ten times the strength of testosterone.
 
 A common dose for AAS users is 10 mg per day, or 70 mg per week. Megablast dosages are anywhere from 25-50 mg per day, or 175-350 mg per week.
-
 
 ##References
 

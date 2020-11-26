@@ -1,4 +1,3 @@
-
 #Background info
 ##Pre-cycle stats
 
@@ -28,7 +27,6 @@ Current maxes:
 ##Goals
 Drop to 10% bf while retaining as much strength as possible.
 
-
 ##Gear
 50 mg/ed tren ace weeks 1-2
 
@@ -51,7 +49,6 @@ Thursday: Shoulders / Tris
 Friday: Legs / Abs
 
 Saturday: Back / Bis
-
 
 #Logs
 
@@ -77,7 +74,6 @@ Cable Straight Bar Curl: 65x10, 65x10, 65x10
 
 BB Shrug: 185x15, 185x15
 
-
 Sun:
 
 BB Bench: 95x10, 135x10, 185x10, 225x10, 275x5,335x5, 335x5, 355x4
@@ -93,7 +89,6 @@ Cable Rope Overhead Extension: 80x10, 80x10, 80x10
 Seated Cable One Arm Extension: 70x10, 70x10, 70x10
 
 *Notes: Can feel the caloric deficit, 335 and 355 were harder than they should have been. Third pin of my tren ace today, Keeping the workouts shorter like I have planned to do.*
-
 
 Tuesday:
 
@@ -111,9 +106,7 @@ Machine Preacher Curls: 100x10, 115x10, 125x10
 
 Cable Rope Hammer Curl: 72.5x10, 80x10, 80x10
 
-
 *Notes: a little insomnia, much more sweating, cardio is shit, feeling aggresive. forgot my fucking belt again too.*
-
 
 Thursday:
 
@@ -131,9 +124,7 @@ Cable V Bar Pushdown: 97.5x10, 102.5x10, 107.5x10
 
 Cable Rope Pushdown: 72.5x10, 80x10, 80x10
 
-
 *Notes: I had an awesome workout. Insane amount of energy, I felt like I did nothing with this workout even though I had 3 PRs. My sweat smells like absolute shit, a mix of ammonia and vinegar.*
-
 
 Friday:
 
@@ -151,7 +142,6 @@ Ab Wheel: Kneelingx20, standingx3, standingx3
 
 Oblique Crunches: 2x10
 
-
 Saturday:
 
 Lat Pulldown: 200x10, 220x10, 240x10
@@ -167,7 +157,6 @@ Machine Preacher Curl: 100x10, 115x10, 135x10
 BB Curl: 100x10, 100x10, 100x10
 
 DB Hammer Curl: 45x10, 50x10, 60x10(pr)
-
 
 *Notes: Everything was easy as fuck. Stepped up to 75 mg of tren today.*
 
@@ -187,9 +176,7 @@ Machine Tricep Extension: 160x10 , 180x10 , 180x10
 
 Dip Machine: 180x12, 225x12, 225x12
 
-
 *Notes: I got two hours of sleep last night. Everything felt weightless. What the fuck is going on*
-
 
 Tuesday:
 
@@ -209,7 +196,6 @@ BB Curl: 40x20, 40x20, 40x20
 
 *Notes: Absolutely awful lower back pumps from rowing. I have never done t bar rows and those felt like they really hit my lats.*
 
-
 Thursday:
 
 Standing BB OHP: 135x10, 185x5, 225x5, **245x3 (pr)
@@ -225,7 +211,6 @@ Machine Rear Delt Flies: 90x15, 100x15, 100x15
 Cable V Bar Pushdown: 102.5x12, 110x12, 110x12
 
 Dips: bwx30, bwx25, bwx20
-
 
 *Notes: Overhead pressing felt great, 225 was really easy and 245x3 was solid. Don't know what went on with CGBP, but 315 felt like nothing. My shoulders looked retarded.*
 
@@ -265,7 +250,6 @@ Machine Curl: 120x10
 
 ##Week 3
 
-
 *Notes: Now doing lat pulls with the whole stack. My grip has improved extremely on shrugs. I can only imagine what would happen if I was bulking on tren. Good day.*
 
 Sunday:
@@ -284,7 +268,6 @@ Dips: BWx40, BWx30, BWx20
 
 *Notes: I was going for 5 with 365, failed the 5th rep halfway up. Still a small pr. Looking a little bit leaner in the mirror.*
 
-
 Tuesday:
 
 Conventional Deadlift: 135x8, 225x5, 315x2, 365x1, 405x1, **455x1**(pr), **495x1**(pr)
@@ -301,9 +284,7 @@ Pull Ups: bwx12, bwx12, bwx11
 
 BB Curls: 50x20, 60x15, 70x15
 
-
 *Notes: I am definitely a sumo puller. However, that was a huge PR for conventional pulls, I have never pulled more than 405 conv. I also played around after with 405 testing my sumo stance.. wider is certainly better for me. Grip strength has improved immensely. *
-
 
 Thursday:
 
@@ -359,7 +340,6 @@ Cable Straight Bar Curl: 50x12, 75x12, 75x12
 
 DB Hammer Curl: 55x10, 60x10, 70x10
 
-
 Sunday:
 
 Bench: 135x10, 225x8, 275x7, **315x12** (pr), 365x3
@@ -375,7 +355,6 @@ Cable W Bar Pushdown: 95x12, 100x12, 105x12
 Machine Tricep Extension: 120x10, 140x10, 160x8
 
 *Notes: I decided to bench wide today, normally I do pinkies on rings, I did my index fingers on the ring. 315x12 is a PR, but I'm not sure if pinkies would of been stronger since I haven't done max reps with 315 in a while. I think what I am going to do is on thursdays do overhead press and close grip bench (pinkies on ring) and sundays do wide grip and see how it works out.*
-
 
 Tuesday:
 
@@ -397,7 +376,6 @@ Machine Curl: 100x10, 100x10
 
 *Notes: I am now maxing out most machines.. I have to start threading free weights through the pin selector. This is ridiculous. I even did this workout fasted because I was so busy at work I didn't have time to eat. Absolutetly killed me in the gym.. I felt like dying.*
 
-
 Thursday:
 
 Seated BB OHP: 135x8 185x6, **235x7**(pr)
@@ -416,9 +394,7 @@ Cable Rope Overhead Extension: 80x10, 95x10, 95x10
 
 Machine One Arm Extension: 60x10, 70x10, 70x10
 
-
 *Notes: Overhead pressing was strong, but my close grip bench sucked ass afterwards, my right forearm hurts where I hit it hard on a desk the other week. Gym dumbbells only go to 110 and it's pretty annoying. not a bad day overall.*
-
 
 Friday:
 
@@ -456,7 +432,6 @@ Cable Rope Hammer Curl: 72.5x12, 80x12, 80x12
 
 *Notes: Stepped up to 700 mg of tren. I'll see how this feels sides wise, as the only side effect I'm getting is shitty sleep*
 
-
 ##Week 5##
 
 Sunday:
@@ -479,7 +454,6 @@ Dips: bwx15, bwx15
 
 *Notes: Good news: Benched a PR and was like 206 in the gym. Bad news: dropped a fucking 45 pound plate on my big toe, shit might be broken. still finished my workout*
 
-
 Tuesday:
 
 Sumo DL: 135x6, 225x5, 315x3, 405x2, 455x1, 495x1, 545x1, 585x0
@@ -496,9 +470,7 @@ Pullups: bwx15, bwx12, bwx9
 
 DB Hammer Curls: 60x10, 60x8, 35x12
 
-
 *Notes: Toe is a little better, but broken for sure, it's a real bitch to walk. Good news is 545 flew up, so I went for a big PR. I broke 585 off the ground but missed it a little below the knees. It felt like my upper back gave out, need to work on that. However, I know I could of pulled 565, so I feel good about that. I think I'm at the point where I need to add some more specific exercises for the big three.*
-
 
 Thursday:
 
@@ -520,7 +492,6 @@ DB Lateral Raise: 20x12, 25x12, 30x12
 
 Cable Rope Pushdown: 72.5x12, 80x12, 80x10 strip to 65x5..42.5x5.
 
-
 Friday:
 
 Front Squats: 225x5, 275x5, 315x5, 350x2
@@ -537,9 +508,7 @@ Ab Machine: 140x10, 170x10, 200x10
 
 Eagle Sit Ups: bwx10, 8x10, 16x10
 
-
 *Notes: Had to squat in my chucks, which sucks. First time ever doing glute bridges, I have no idea if that's a good amount of weight but it felt relatively easy.*
-
 
 Saturday:
 
@@ -559,7 +528,6 @@ DB Hammer Curl: 60x10, 70x10, 60x10
 
 Cable W Bar Reverse Curl: 60x12, 60x10 strip to 40x10, strip to 30x10
 
-
 ##Week 6##
 
 Sunday:
@@ -576,9 +544,7 @@ Cable Rope Overhead Extension: 80x10, 95x10, 95x10
 
 Incline DB Tricep Extension: 60x10, 60x10, 60x9
 
-
 *Notes: Bench felt off, I really wasn't all there. It wasn't a bad day, but not my best.I'm going to see if it was simply just an off day or if my cals are too low.*
-
 
 Tueday:
 
@@ -595,7 +561,6 @@ Machine One Arm Curl: 80x12, 90x12, 100x12, 100x12
 BB Curls: 80x10, 90x10, 90x10, 100x10
 
 Cable Rope Hammer Curl: 50x12, 65x12, 65x12, 65x12
-
 
 Thursday:
 
@@ -617,9 +582,7 @@ Cable Rope One Arm Pushdown: 40x10, 30x12, 30x12
 
 Dips: bwx25, bwx25
 
-
 *Notes: Not dieting anymore, not quite bulking, just eating normal. Strength and endurance is already back in the gym. I want to test if I can eat reasonably and not gain fat on tren, and I want to get a bit stronger going into my meet.*
-
 
 Friday:
 
@@ -634,7 +597,6 @@ Seated Calf Raise: 140x15, 190x15, 190x15, 190x15 drop to 140x15 drop to 50x15
 Weighted Situp: 40x12, 50x12, 60x12
 
 Cable Ab Pulldown: 90x10, 110x10, 130x10
-
 
 Saturday:
 
@@ -674,7 +636,6 @@ BB Reverse Curls: 65x12, 75x12, 75x12 drop to 45x10
 
 *Notes: Well earned PR. I thought I was done after 3 reps but somehow just kept going. I also ate too much before the gym and it kinda fucked with me but whatever*
 
-
 Tuesday:
 
 Incline BB Bench: 135x8, 185x8, 225x8, **260x8**(pr), 300x4
@@ -692,7 +653,6 @@ EZ Bar Skull Crusher: 105x10, 105x10, 105x9
 Cable Rope Pushdown: 80x10, 87.5x10, 87.5x10 drop to 52.5x10 drop to 40x5
 
 Tricep Extension Machine: 140x10, 140x10, 200x8 drop to 120x8
-
 
 Wednesday:
 
@@ -712,7 +672,6 @@ Cable Straight Bar Curl: 50x12, 70x12, 70x12
 
 BB Wrist Curl: 45x15, 65x15, 85x15, 85x15, 65x12
 
-
 Friday:
 
 Front Squats: 135x8, 225x5, 315x2, 365x1, **405x1**(pr), 225x15
@@ -728,7 +687,6 @@ BB Calf Raise: 135x20, 225x20, 225x20, 275x20
 Machine Crunch: 200x20, 200x20, 200x20
 
 *Notes: 405 felt nice to finally hit. I've been eatting as much as I want the past week or so and I'm at 217 lbs lmao. I'm not even if the meet I want to compete in is going to happen so I might just do a hardcore cut from here on with clen/t3.*
-
 
 Saturday:
 
@@ -766,7 +724,6 @@ Curl Machine: 140x10, 160x10, 160x10
 
 Cable Rope Hammer Curl: 65x12, 72.5x12, 72.5x12, 80x12
 
-
 Tuesday:
 
 Seated BB Shoulder Press: 95x8, 135x6, 185x6, 225x6, 245x5
@@ -787,7 +744,6 @@ Cable One Arm Tricep Extension: 20x12, 25x12, 30x12
 
 Tricep Extension Machine: 140x12, 180x10, 200x10
 
-
 Wednesday:
 
 Lat Pulldown: 240x10, 260x10, 260x10
@@ -803,7 +759,6 @@ Machine Preacher Curl: 90x12, 115x12, 135x10, 135x8 drop to 90x8
 DB Curl: 40x10, 40x10, 40x10
 
 Cable Rope Hammer Curl: 57.5x12, 65x12, 65x12, 65x12
-
 
 Friday:
 
@@ -822,7 +777,6 @@ Ab Wheel: standingx8, standingx6, kneelingx12
 Leg Raises: bwx20, bwx20
 
 *Notes: Jumping back to cutting starting sunday, started clen/t3 a couple days ago.. I sweat a lot, I hope this works.*
-
 
 Saturday:
 
@@ -856,7 +810,6 @@ Machine One Arm Curl: 80x12, 80x12, 80x12
 
 DB Hammer Curl: 40x12, 40x12, 40x12
 
-
 Tuesday:
 
 Standing BB OHP:  95x6, 135x8, 185x8, 225x7
@@ -874,7 +827,6 @@ Cable Rope Pushdown: 80x12, 87.5x12, 87.5x12
 Machine One Arm Tricep Extension: 70x12, 80x12, 80x12
 
 Cable Reverse Grip W Bar Pushdown: 87.5x12, 95x12, 95x12
-
 
 Wednesday:
 
@@ -896,11 +848,9 @@ Forearm Roller: 25x1, 25x1
 
 Overhead Cable Curl: 40x12, 50x12, 50x12
 
-
 Thursday:
 
 30 Mins Fasted cardio
-
 
 Friday:
 
@@ -916,7 +866,6 @@ Standing Calf Raise: 200x20, 240x20, 260x20, 200x20
 
 Crunch Machine: 125x15, 155x15, 200x12
 
-
 Saturday:
 
 Flat Bench: 135x8, 225x8, 275x6, 315x3, 365x3, 225x20
@@ -931,9 +880,7 @@ Machine Tricep Extension: 140x10, 180x8, 180x8
 
 Cable One Arm Extension: 20x12, 25x12, 25x12
 
-
 *Notes: Felt like shit today, just super tired and couldn't get into it. I knew I was going to have a bad workout but I managed a triple of 365 and did 225x20 which was kind of cool. Good new is, is that I'm down to 207 from about 217, T3 is the shit.*
-
 
 ##Week 10##
 
@@ -959,7 +906,6 @@ Monday:
 
 30 Minutes Fasted Cardio
 
-
 Tuesday:
 
 DB Seated Shoulder Press: 80x12, 100x12, 110x10
@@ -977,7 +923,6 @@ DB Overhead Extension: 80x12, 100x12, 110x12
 EZ Bar Skullcrusher: 65x12, 95x11, 95x10
 
 Cable Rope Pushdown: 57x12, 65x12, 72x12
-
 
 Wednesday:
 
@@ -1021,9 +966,7 @@ Machine Ab Pulldown: 60x15, 90x15, 120x10
 
 Crunches: bwx20, bwx20
 
-
 *Notes: Ok, I dropped clen wednesday, started EC and I am at 100 mcg of T3 everyday. I am literally seeing daily changes now. Today's squat workout was absolute shit, 495 felt wayyyy too heavy. I guess this is what they mean when they say T3 saps your strength. Honestly, I'm ok with it because I am leaning up so much. I'm going to step the tren back up to 700 a week to try to combat this as much as possible, because I have also dropped my calories to about 2500 and E/C kills my appetite in the greatest way. I plan on cutting for no more than 3 more weeks, so we'll see how things go.*
-
 
 Saturday:
 
@@ -1081,7 +1024,6 @@ Machine Tricep Extension: 140x10, 160x10, 180x10
 
 *notes: putting 315 over my head felt awesome."
 
-
 Wednesday:
 
 Lat Pulldown: 220x12, 240x12, 240x12
@@ -1100,7 +1042,6 @@ DB Hammer Curl: 40x10, 40x10, 40x10
 
 10 Mins Cardio
 
-
 Friday:
 
 Front Squat: 135x5, 225x5, 315x3, 365x2, 365x2, 225x15
@@ -1113,9 +1054,7 @@ Standing Single Leg Curl: 50x12, 60x12, 70x12
 
 Cable Ab Pulldown: 90x15, 110x15, 110x15
 
-
 *Notes: I felt like shit in the gym, headache, etc*
-
 
 Saturday:
 
@@ -1134,6 +1073,7 @@ Machine Tricep Extension: 160x8, 160x9, 160x10
 40 mins cardio 
 
 ## Week 12
+
 Sunday:
 
 Trap Bar Deadlift: 135x8, 225x5, 315x3, 405x1, 495x1, 495 (+40 in chains)x6, 405x1 (static hold)
@@ -1154,7 +1094,6 @@ Monday:
 
 60 mins cardio
 
-
 Tuesday:
 
 Standing BB OHP: 95x8, 135x6, 185x6, 225x7or8 + 1pushpress
@@ -1172,7 +1111,6 @@ Cable Rope OH Extension: 57.5x12, 65x1,5 72.5x12
 Cable V Bar Pushdown: 95x15, 95x12, 95x15
 
 Cable Single Arm Pushdown: 20x12, 20x12, 20x12
-
 
 Wednesday:
 
@@ -1211,7 +1149,6 @@ Standing Calf Raise: 200x20, 220x20, 240x20, 260x20, 240x15, 220x15
 Ab Wheel: kneelingx20, kneelingx20
 
 *Notes: First time doing high bar squats in about 4 years and god damn they are hard. Absolutetly shredded my quads and lower back. I'm going to be doing these for a while.*
-
 
 Saturday:
 
@@ -1267,7 +1204,6 @@ Machine Tricep Extension: 140x12, 160x8, 180x8
 
 Cable One Arm Pushdown: 25x12, 25x12, 25x12
 
-
 Wednesday:
 
 Neutral Grip Lat Pulldown: 220x10, 240x10, 260x10
@@ -1283,7 +1219,6 @@ Machine One Arm Curl: 80x12, 100x12, 105x12
 Cable Straight Bar Curl: 50x12, 57.5x12, 65x12, 72.5x12
 
 *Notes: Literally the worst forearm pump I have ever gotten, it was extremely painful and I could barely workout because of it*
-
 
 Friday:
 
@@ -1301,7 +1236,6 @@ Cable Ab Pulldown: 80x15, 100x15, 120x15
 
 Ab Crunch Machine: 140x15, 160x15, 200x15
 
-
 Saturday:
 
 BB Bench: 135x10, 225x8, 295x5, 335x3, **380x5**(pr)
@@ -1315,6 +1249,5 @@ Cable Rope Overhead Extension: 80x12, 95x15, 95x15
 Cable Straight Bar Pushdown: 95x15, 95x15, 95x15
 
 Machine Tricep Extension: 140x12, 160x12, 180x12
-
 
 *Notes: log over. 380x5 was a very solid bench pr.*

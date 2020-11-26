@@ -1,4 +1,3 @@
-
 #Background info
 ##Pre-cycle stats
 
@@ -27,15 +26,14 @@ Current maxes:
 #The Cycle
 ##Goals
 
-
 ##Gear
-
 
 ##Diet
 
 ##On cycle training  
 
-
 #Logs
 
-## Week 1
+## Week
+
+1

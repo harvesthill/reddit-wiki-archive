@@ -52,7 +52,6 @@ When talking about needle “thickness,” which one of the three previously men
 
 Today, almost all steroids will fit through a 25 gauge syringe, so this gauge size should be your automatic go-to choice when the viscosity of a steroid is unknown. This gauge is relatively thin in comparison to the syringes used back in the day. Not too long ago the viscosity of many oil-based steroids was much higher than it is today, requiring the use of 21-22 g. needle for basically every injection—and in some cases, such as when injecting crude forms of Testosterone suspension or injectable Winstrol, an 18 g. syringe would be required just to be able to fit the steroid crystals through the needle without clogging it. For those of you who are trying to mentally picture an 18 g. needle without a reference point, it is more like a small nail than a needle. Today, things are much easier.
 
-
 ###Needle Lengths For Injection Sites
 
 The recommendations below are the “average” needle lengths used for each body part listed. 
@@ -126,7 +125,6 @@ Sterilizing an injection site or object is a simple process. Prior to sterilizat
 
 According to the medical establishment, an injection site should be covered with an appropriate bandage post-injection. While this will help further ensure that bacteria does not enter the injection site and cause infection, this practice is rarely employed among AAS users, typically with little to no negative consequences.
 
-
 #### **WHO**: **Alcohol swab skin prep is unnecessary**
 
 The procedure is superfluous so long as you're in a relatively clean environment—not in an infectious diseases wing or exposed high-risk patients in an ICU ward. 
@@ -182,7 +180,6 @@ Seeing traces or specks of blood is not indicative that you have entered a blood
 The reason aspiration is no longer taught is that the major injection sites lack nerves or significant surface blood vessels. Furthermore, even a tiny shift in movement while pinning can make the difference between hitting a blood vessel or missing, so even if you aspirate, you can still end up hitting a vessel. 
 
 The act of aspirating also involves significant movement which causes further trauma to the muscle. If by chance you inject into a vein, it will nearly immediately collapse, and is entirely harmless. It's nearly impossible to inject intravenously while injecting IM at a ninety degree angle. 
-
 
 **According to the CDC:**
 
@@ -394,7 +391,6 @@ ampule by tapping (thumping) the ampule sharply.
 
 6. **Legally Dispose**: Dispose of your medical sharps (needles) properly.  
 *Note:* [**Find out how to legally dispose of your pins.**](http://www.epa.gov/osw/nonhaz/industrial/medical/programs.htm)
-
 
 ##Special Injection Techniques
 

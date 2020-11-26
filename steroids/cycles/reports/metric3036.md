@@ -1,4 +1,3 @@
-
 #Background info
 Have wanted to be a bodybuilder my entire life, I can remember when I was 16 being stronger and a little more buff looking than the other kids and really wanting to just lift shit.
 
@@ -6,31 +5,22 @@ I started proper training when I was 17 and stuck at it in a serious way for abo
 
 I did no PCT and was shutdown for a good 3 months in hindsight. Depression, loss of gains and my gym closing saw me give it away for a few years and go partying and having fun.
 
-
 Eventually I got married and the bug bit again. Dead set against steroids I trained naturally for about another 3 years until I tore a rotator cuff doing 220 lb behind the neck shoulder presses which put me out for about a year (it was nasty) and gave me permanent shoulder issues.
-
 
 Fast forward another few years and I'm getting fat and lazy again, so its off to the gym for another couple of years.
 
-
 I actually repeat this process right through until I'm 37 years old, never quite breaking though into real size and always stopping because gains stop or I get hurt, or move house or change jobs etc. I had no idea on researching nutrition and always plateaued.
 
-
 I'm 37 nearing 38, I weigh 90 kg at 5'7" and I have zero muscle from sitting at a desk all day doing jack shit. I'm a fat prick.
-
 
 So I get online and start researching. I don't really want to get big at this point, just ripped because I'm fat and I hate myself. So I get into P90X and loose a stack of fat and think I've put on muscle. I haven't. I'm just a scrawny 75kg short guy with kinda abs.
 
 This is when my former years resurface and I decide fuck it, I'm getting big again, but now I have the internet and my 18 month journey into lifting properly starts with some research and testing on myself to find my ideal nutritional and training regimes.
 I've put on a decent amount of muscle in the last year and a bit and decided that when I hit certain goals, I would get on a real cycle and actually get proper big.
 
-
 So here I am, and I have /R/Steroids to thank for a very large part of my education, especially as the voice of reason in a sea of misinformation.
 
-
 This log is a way of giving back some of this info and having an outlet among like minded people.
-
-
 
 ##Pre-cycle stats
 
@@ -70,48 +60,34 @@ To put on a serious amount of raw size and give my banged up joints and tendons 
 
 ##Gear
 
-
 500 mg of Test Enanthate 250mg/ml per week for 16 weeks, 250 mg E3D.
-
 
 400 mg of Nandrolone Decanoate 200 mg/ml (Deca) per week for 16 weeks, 200 mg E3D.
 
 Will cruise for however long it takes to get clean blood work back on 175 mg - 200 mg of Test E a week.
 
-
 I have Nolva, Caber and Anastrozole on hand.
-
 
 ##Diet
 
-
 Target is 4000 calories a day.
-
 
 225g Protein- A little higher than I need, but can't hurt.
 
-
 600g Carbs- May modify this amount depending on rate of waistline growth.
 
-
 90g Fats- Could drop this amount, but I need them for sanity and flavour.
-
 
 I eat all fresh produce, my protein comes from Beef, Chicken, Lamb, Fish and 1 x shake a day. Carbs are all fresh leafy greens, potatos, Sweet potatos, corn, Brown Rice, and Superfine Oats, The only thing in my diet that is processed is my superfine oats. Love me a nice smooth protein shake with those oats.
 I'll cheat meal once a week on a tub of premium fat and sugar filled ice cream.
 
-
 I'm not interested in IIFYM, I'm 40 years old, I know EXACTLY what eating shit processed foods does to my body and well being. Eating fresh whole foods makes me feel amazing, is tasty as hell and makes it easy to control caloric intake.
-
 
 I don't take any recreational drugs, I have, a lot in fact, in the past, but i'm just not into it anymore. The only one that still may tempt me is Coke, but I've stayed away from even that for years now.
 
-
 I don't drink very often, or very much. Again, I drank a lot over the years, it didn't do me any favours, made me fat and as I got older I tended to get drunker and therefore act more of an ass. I'll occasionally have *a* beer with my workmates (on a rest day) and every few months I'll go out with a good mate of mine and get slightly drunk on good Scotch Whiskey.
 
-
 I have no partner at the moment, as she didn't like my move away from fat drunken average guy and into focused healthy swole guy.
-
 
 ##On cycle training  
 
@@ -119,48 +95,33 @@ All body part's receive the '5 x Exercises x 4 working sets' treatment. I do a w
 
 Most  sets progress as such:
 
-
 Warm-up- 16 reps very light.
-
 
 Set 1- 12 x reps
 
-
 Set-2 - 12 x reps starting to push a bit
-
 
 Set-3 -10-11 reps to failure
 
-
 Set- 4- bump to heavy and go for 8. If I can do 8 I move all my weights up a notch next workout.
-
 
 This level of volume has given me the best growth so far. I can go much heavier and push 6's and 4's etc, and my strength really progresses fast, but I don't blow up. Screw that, I'm strong enough for 99% of daily life, I want size! With that in mind, I have been getting stonger on this high rep scheme anyway, just slower.
 
-
 My Split is as follows for the time being, will modify to suit the recovery levels of the AAS usage.
-
 
 Monday: Arms- Bi's and Tri's- Abs
 
-
 Tuesday: Leg Day- Quads Hams and Calves
-
 
 Wednesday: Shoulders
 
-
 Thursday: Back- Abs
-
 
 Friday: Chest
 
-
 Saturday: Rest
 
-
 Sunday: Rest
-
 
 #Logs
 
@@ -172,7 +133,6 @@ Pinned my first dose last night. Was nervous as hell, my heart was banging so ha
 
 I sat and looked at the vials with an almost frenzied zeal for about 20 minutes. I was so amped up it was crazy.
 
-
 As soon as I cracked that first blister pack a cool calm just washed over me and it was all business. I used an 18g to draw up, seemed a bit large and I'm worried it might chew up the stoppers, but it made drawing up from both vials an almost instant process. Switched to a 25G 1'1/2 and placed the loaded capped syringe on my desk while I decided where to pin.
 
 I trained legs the day before, and knowing that I was starting my cycle the next day I absolutely murdered them. They had DOMS at a level I hadn't felt for months and were tender to touch.
@@ -181,17 +141,13 @@ I don't know if I'm a bit of a masochist, but I decided right then, against all 
 
 I grabbed a fist full of quad and plunged the 25G in in one go, like the doctors do. It went straight to the hilt instantly, with no pain or feeling whatsoever. Wow.. that was easy!
 
-
 Then I tried to push on the plunger. It didn't move at all. It's summer where I am now and it was hot as hell, so the oil was nice and runny. So what the hell?
 
 I pushed harder, still no movement. FUCK! did it hit something that's blocking it? Surely not. I push even harder again, so hard its hurting my thumb and its slowly starts to move. Now there's 2.0ml of oil in that thing and its moving really slow and i'm thinking damn, what have I gotten myself into..
 
-
 It took about 2 minutes to push all that oil into the muscle. I had heard that my UGL's oil was particularly thick but didn't really realise what that actually would mean, so next pin will be with the 23G's I have.
 
-
 Jumped in bed after the pin and almost crashed instantly, best sleep I've had in a very long time. I'd been planning this moment for so long and I think the relief that I'd actually made it and was finally on just relaxed me brilliantly.
-
 
 I wake up in the morning with minimal PIP, I mean, I can feel it, I know its there, but no real discomfort, much like the DOMs that I know will get bad today.
 
@@ -201,11 +157,9 @@ Its now 10 pm as I type and the PIP has gotten a touch nasty, but nothing that w
 
 I haven't taken an AI yet, I'm worried I'll crash my estro early and for no reason. I'm going top keep a close eye on sides, but for now, it's just me, testosterone and nandrolone for a while.
 
-
 Anyway, I'll note down something each day for this log, how I feel, weight fluctuations, notable changes at the gym, estrogen sides showing up, basically just to give you other older guys some perspective on how a cycle done this way turns out.
 
 I have taken pictures, but haven't decided if I'll publish them yet. I do have them though.
-
 
 #01-02-14:
 
@@ -215,7 +169,6 @@ Firstly, my mind is wreaking havoc on me. I'm hypersensitive to every nuance of 
 
 I figure the fact that I just added over 150 grams of carbs and 60 grams of protein to my diet each day may have something to do with the immense stretched skin feeling I seem to have, but I know full well that it's probably all in my head.
 
-
 Secondly, I absolutely cannot stop thinking about pinning again. I almost talked myself into switching up to EOD pinning with the excuse that it would help better stabilise my hormone levels and help to avoid sides. I am still seriously considering this as along with the positive levels, I quite like the buzz I get from the whole pinning process.
 
 In the end I decided on E3D for now, just so I could pin a day earlier than planned. I just finished my pin before typing this and it went extremely smoothly. I switched to a 23 G pin and it was equally as painless but much, much easier to push the oil into the muscle. Took about 30 -45 seconds total, and I took it easy on the plunger at that.
@@ -223,7 +176,6 @@ In the end I decided on E3D for now, just so I could pin a day earlier than plan
 PIP in my quads is really a non issue, the left one has zero feeling at the injection site and the pain I did get was gone by the second morning.
 
 I have almost a gram of anabolic steroids in my system, in one form or another, and I've never been happier.
-
 
 ## Week 2
 
@@ -262,7 +214,6 @@ My overseas shipment of Caber was very late and I've just learned that it was se
 
 I'm thinking it may be a prolactin level spike. I'd like to run the Caber just to be sure, so I'm on the search for a local source.
 
-
 As far how I feel, at first I felt like shit and was questioning my decision to cycle, but gradually I have started to feel better and better. The last week I have felt incredible, with very high confidence, a touch of healthy aggressiveness and just a general alpha feeling. Definitely a lifestyle I could live with long term if I can get my estro/prolactin levels under control.
 
 I'm hungry all the time, even at 4000 calories a day and my recovery is nothing short of amazing. Even if I have a rough night's sleep and only get 6 hours in, I'm still 100% at the gym the next day. AAS makes training so much more rewarding.
@@ -275,13 +226,11 @@ Haven't noticed anything joint related from the deca yet. I'm 40, my joints have
 
 I'm going for bloods this week, as I want to know my levels to help me in adjusting my ancillary dosing. I'm going to come clean with my family doctor and see if I can get him to agree to regular blood work and check ups. I feel like you really need a doctor in your corner when running AAS, as all this guess work with AI dosing, gyno, prolactin etc, is quite frustrating without some solid numbers to base the feelings off.
 
-
 ## Week 5-11 wrap up-
 
 Okay, so I have been really busy, and really slack with this log. Everytime I get a spare hour or so to do some typing, I end up falling asleep. 
 
 I'm on holidays at the moment, so finally have some time up my sleeve to do a wrap up of the last 7 weeks.
-
 
 ## Week 5 
 
@@ -294,7 +243,6 @@ Strength is at an all time high and my old brachialis injuries feel fully healed
 I feel a pop in both arms and I know I've just inflamed them again.. FUUUUUU.
 
 After 5 weeks of heavy lifting, breaking PR's and generally adjusting to my new hormone levels, my body is pretty banged up, especially the brachialis tendons and I decide on a week of the gym and a trip to the physiotherapist.
-
 
 ## Week 6
 
@@ -316,9 +264,7 @@ I decide to grab another vial of test E and try that. I pin and it feels differe
 
 I feel that my last vial was bunk. So now I have to front load a bit to get my levels back quick, so I pin 175mg of Test every day for a week and take ADEX at 0.5 each of those days.
 
-
 OH MY FUCKING GOD. I'm back baby. By the end of this week I'm busting out PR's on every lift, feel like the god of all sex and all of my water weight is back! i'm starting to get moon face as I think the Deca is finally having its say also.
-
 
 ## Week 8
 
@@ -329,7 +275,6 @@ I get approached by the biggest guy in the gym who politely notes the size and m
 He's clearly on gear, but I don't mention it, and he says nothing to me. We start pushing each other really hard and workouts are now becoming brutal and exhausting. To my surprise I'm almost as strong as him, and can out do him in endurance on a few lifts so we really get competitive and its definately the best way to train while pumped full of hormones.
 
 I weigh in at 92 kg and he is about 98 kg, we both have roughly the same bodyfat, around 15-16% and we are both 40+years old.
-
 
 ## Week 9
 
@@ -345,7 +290,6 @@ I've been noticing for quite some time the pinning E3D leaves me feeling a littl
 
 I move to an EOD pinning regimine and pin shoulders. Damned if the PIP isn't almost incapacitating! Oh well. Ventroglutes next.
 
-
 ## Week 10
 
 I decided to up my test a little, see how it makes me feel. I've bumped to 750mg a week.
@@ -353,7 +297,6 @@ I decided to up my test a little, see how it makes me feel. I've bumped to 750mg
 Women have changed. Every single one I get close to, acts strangely. Even women I've known for ages and never had any vibes off are getting squirmy and flicking their hair when I'm around. I'm getting stares of hunger and need from some of them. Its crazy, its got to be pheromones from the high test mixed with the old wide shoulders/narrow waist combo.
 
 Now I'm only 5'7", 40 years old and I'm bald and although I've never had too many problems attracting women, the last few years has been much harder. Even when I was a fresh faced 20 year old I never had this level of extreme effect on women. It's possibly the best thing I have ever experienced. It is especially noticeable for the first few hours after a pin and damn am I going to miss it when I'm cruising.
-
 
 ## Week 11
 

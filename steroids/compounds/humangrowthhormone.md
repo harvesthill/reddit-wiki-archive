@@ -19,4 +19,3 @@ Serostim | 191 | high | 2002 | EMD Serono (USA)
 Tev-Tropin | 191 | medium | 2001 | Teva Pharmaceuticals (USA)
 Zomacton | 191  | medium | 2002 | Ferring Pharmaceuticals (Australia)
 Zorbtive | 191 | high | 2003 | EMD Serono (USA)
-

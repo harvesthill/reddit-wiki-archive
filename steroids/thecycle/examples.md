@@ -249,7 +249,6 @@ Ensure that you have run several cycles with these compounds before attempting.
 
 ## Very Advanced Insulin Cycle
 
-
 #### [Read the Insulin Compound Description Page](https://www.reddit.com/r/steroids/wiki/insulin)
 
 **WARNING: Insulin use is VERY DANGEROUS. You can, quite literally, DIE FROM IT if not done properly.  This guide is to serve as only an example of what some people do in order to start using it.**

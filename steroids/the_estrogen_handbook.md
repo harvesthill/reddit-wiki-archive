@@ -10,9 +10,7 @@ Estrogen is commonly referred to as “E2”. Estrogens are made up of Estrone (
 
 The mechanisms through which E2 interacts with sexual reproductive organs and other hormones in the male body is actually much more complex than in a woman’s body. This is mainly because we have so little E2 compared to our female counterparts. The same can be said of Testosterone in women; a slight change in levels can trigger huge changes. A lot of people know the term “aromatase” or “aromatization”, but do people know exactly what it is?
 
-###
-
-The most challenging hormone for the steroid user is Estrogen by far. It is the cause of any changes in your nipple/pecs (gyno), mood, libido, hardness, bloat, skin, prostate, appetite – you name it, when you feel off 90% of the time is due to low/high Estrogen levels.
+### The most challenging hormone for the steroid user is Estrogen by far. It is the cause of any changes in your nipple/pecs (gyno), mood, libido, hardness, bloat, skin, prostate, appetite – you name it, when you feel off 90% of the time is due to low/high Estrogen levels.
 
 When you hit your sweet spot you will know, you can’t miss it. You will feel happy, content, you will sex like a champ, eat like a champ and train like a champ and to top it off everybody around you will be happy as well.
 
@@ -293,4 +291,3 @@ The worst part with Prami starts when you quit, for the first few days after you
 
 **Common Dose On Cycle:** taper up from 0.125mg to 0.25mg-0.50mg (the high dose only if you are stacking two 19-Nors or high dose of tren). After you are done with your cycle taper down even slower from 0.50mg to 0.125mg and stay one week on each increment then quit. No matter what you do expect some discomfort the first 3-5 days after you quit.  
 **Dose To Stop Lactation:** You would probably need 1-2mg per day to stop lactation, but wouldn’t recommend it, it would take ages to rump up to that dose, if you are already lactating, use Caber worse thing that could happen when jumping to a high dose of caber would be to get a flush face that lasts 12-14h (annoying but much better than puking your guts of for hours).
-

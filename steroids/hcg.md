@@ -52,4 +52,4 @@ So knowing that the ability of the testes to aromatize androgens could potential
 3. *Levalle OA, Suescun MO, Fiszlejder L, Aszpis S, Charreau E, Guitelman A, Calandra R. Effect of an antiestrogen on the testicular response to acute and chronic administration of hCG in normal and hypogonadotropic hypogonadic men: tamoxifen and testicular response to hCG. Andrologia 1991 Mar-Apr, 23(2):109-14* 
 4. *Smals AG, Pieters GF, Drayer JI, Boers GH, Benraad TJ, Kloppenborg PW. Tamoxifen suppresses gonadotropin-induced 17 alpha-hydroxyprogesterone accumulation in normal men. J Clin Endocrinol Metab 1980 Nov, 51(5):1026-9*
 5. *Carlson HE, Kane P, Lei ZM, Li X, Rao CV. Presence of Luteinizing Hormone/Human Chorionic Gonadotropin Receptors in Male Breast Tissues. J Clin Endocrinol Metab. 2004 Aug;89(8):4119-23*
-6. *Cantrill JA, Dewis P, Large DM et al. Which testosterone replacement therapy? Clin Endocrinol (oxf) 21 (1984) 97-107* 
+6. *Cantrill JA, Dewis P, Large DM et al. Which testosterone replacement therapy? Clin Endocrinol (oxf) 21 (1984) 97-107*

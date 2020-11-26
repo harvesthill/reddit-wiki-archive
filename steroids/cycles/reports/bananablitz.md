@@ -69,7 +69,6 @@ Record Maxes:
 
        *[(6-12 / 5-10 / 4-8)(Break)(12-6 / 10-5 / 8-4)]*
 
-
 #Logs
 
 ##Size Chart

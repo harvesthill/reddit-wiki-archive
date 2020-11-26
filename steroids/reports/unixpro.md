@@ -1,4 +1,3 @@
-
 #Background info
 ##Pre-cycle stats
 
@@ -35,7 +34,8 @@ FDA Approved Somatropin .4 Mg Daily.
 
 ##On cycle training  
 
-
 #Logs
 
-## Week 1
+## Week
+
+1

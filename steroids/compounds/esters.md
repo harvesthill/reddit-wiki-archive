@@ -50,7 +50,6 @@ Undecanoate | 16.5 days | 20.9 days
 
 **IMPORTANT NOTE:** These half-lives are approximations, and may vary slightly depending on injection site, carrier oil, and other factors. There isn't any pharmacokinetics studies done on the majority of AAS. [Most of the above is the theoretical half-lives when we are not presented with real data.](https://imgur.com/a/4nKhwXD)
 
-
 ##Esters And The Active Dose
 
 It is important for every person to understand that the ester which is attached to any injectable anabolic steroid possesses a certain percentage amount of the total molecular weight of the molecule. Therefore, for example, 100mg of Testosterone Enanthate is not 100mg of pure Testosterone. The reality is that you are receiving less Testosterone than most of you think, and once the ester has been removed through the esterase enzyme, the amount of pure un-esterified Testosterone left over is very different depending on the ester in question that was previously attached to the hormone.
@@ -70,7 +69,6 @@ Long chain esters, such as Cypionate, Decanoate, Enanthate, etc. possess a much 
 | Decanoate | 62%
 | Undecylenate | 61%
 | Undecanoate | 61%
-
 
 *Milligrams below are the estimated amount of active hormone per 100 mg of compound.*
 
@@ -112,8 +110,6 @@ Long chain esters, such as Cypionate, Decanoate, Enanthate, etc. possess a much 
 |Trenbolone Enanthate|68 mg|
 |Trenbolone Hexahydrobenzyl Carbonate|65 mg|
 |Trenbolone Cyclohexylmethylcarbonate|65 mg|
-
-
 
 ##Sustanon: The "King" Of Testosterone Blends
 

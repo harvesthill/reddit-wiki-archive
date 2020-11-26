@@ -79,7 +79,6 @@ The main testosterone stimulating agents for HPTA recovery during PCT are:
 
 **Aromatase inhibitors:** These are compounds such as Aromasin (Exemestane), Arimidex (Anastrozole), and Letrozole (Femara). Rather than block the activity of Estrogen at the cellular level in different tissues, aromatase inhibitors (AIs) serve to lower total circulating Estrogen levels in the body by way of inhibiting the aromatase enzyme, which is the enzyme responsible for the conversion of androgens into Estrogen. The conversion of androgens into Estrogen results in excess Estrogen levels, which, as explained earlier in this article, will trigger the negative feedback loop leading to suppression of Testosterone production. By way of lowering total circulating blood plasma Estrogen levels, AIs will engage the negative feedback loop in a positive manner and result in the release of LH and FSH for the manufacture and secretion of more Testosterone. This is essentially due to the hypothalamus realizing that circulating Estrogen levels are too low, and will attempt to increase circulating levels of Testosterone in order for a portion of the Testosterone secreted to be able to become aromatized into Estrogen in order to restore the hormonal balance. The main importance of aromatase inhibitors is the ability to mitigate the Estrogenic effects of HCG, if HCG is utilized in certain ways that will be expanded on later. It is important to note, however, that the majority of aromatase inhibitors do not comply very well with SERMs such as Nolvadex, and that very specific choices should be made in regards as to which AI is used during PCT.
 
-
 ###SERMs: Nolvadex, Clomid, Toremifene, &amp; Raloxifene
 
 The question is often asked among the anabolic steroid using community: Clomid or Nolvadex? Which one for PCT? But there are also relatively newer SERMs as well. Toremifene (Torem) &amp; Rolaxifene (Rolax).
@@ -145,8 +144,6 @@ HCG mimics LH and therefore actually keeps the testicles producing testosterone 
 It has been mentioned already that much of the difficulty in recovering the HPTA following an anabolic steroid cycle is the result of Leydig cell desensitization. HCG is essentially an analogue of LH, and the testes after a prolonged anabolic steroid cycle would be as equally desensitized to HCG as they are to LH. The human body, however, produces LH amounts on its own that are far too inefficient for proper and rapid Testosterone production. The body’s natural increase of LH and FSH following an anabolic steroid cycle is also not a rapid peak, but a very slow and steady incline, as evidenced by the study referenced earlier in which it was not until 3 weeks when LH levels only began to reach the normal physiological measurements following the cessation of exogenous Testosterone. Therefore, the body’s own natural LH production does not provide a high enough dose for stimulation, nor an immediate stimulation to the testes required for the initial increase in Testosterone needed during the post cycle therapy weeks. Now in our PCT will will be utilizing a SERM which will stimulate FSH/LH, but most will find recovery being a smother transition when HCG is utilized. Studies have in fact demonstrated the incredible effectiveness of HCG for this purpose, and it is even suggested clinically that HCG be utilized for the purpose of treating anabolic steroid induced hypogonadism.^[4]
 
 If you choose to include HCG in your PCT protocol, the best possible SERM for the PCT protocol is Nolvadex, as studies have demonstrated that HCG and Nolvadex utilized together have exhibited a remarkable synergistic effect in terms of stimulating endogenous Testosterone production, and that Nolvadex will actually work to block the desensitization effect on the Leydig cells of the testes caused by high doses of HCG.^[11] This is very important, because just as too little LH secretion for extended periods can cause desensitization to gonadotropins, too much gonadotropin stimulation (in the form of HCG or otherwise) may likewise cause a desensitization effect.
-
-
 
 &amp;nbsp;
 
@@ -245,7 +242,6 @@ Following these details, Aromasin would be the best possible aromatase inhibitor
 
 As stated earlier, vision sides are common for both Clomid &amp; Nolva, more so with Clomid. Hot Flashes, Nausea are two common side effects of Clomid, Nolva, &amp; Torem. Depression is known to affect many in PCT and is an actual listed side effect of Nolva. **Please make sure you are aware of this and in a good place mentally before ever starting a cycle as you will be faced with the potential of depression in PCT.**
 
-
 ###Drug Interactions
 
 As with all drugs you use, you should always [check for Drug Interactions.](https://www.drugs.com/drug_interactions.php) One known issue during PCT is with people taking SSRIs. Nolvadex and Toremifene have both been shown to have major interactions with one another. Particularly, SSRIs have been shown to reduce effectiveness of Nolvadex and SSRIs when taken with Toremifene have been shown to cause irregular heart rhythm that may be serious and potentially life-threatening, although it is a relatively rare side effect. In any case, if you're on a SSRI, it is best to use Clomid.
@@ -288,7 +284,6 @@ If you’re going to supplement with anabolic steroids there is one single truth
 
 &gt;I would NOT suggest “selective estrogen receptor modulators” (SERMs) or aromatase inhibitors (AIs) for a woman! NEVER! It is the equivalency of forcing them into menopausal symptoms. The HPGA/HPTA are very different. In fact, SERM/AI (such as Nolvadex and Arimidex) are used in Breast Cancer, which includes a significant number of adverse effects. Decreasing E2 in a man is far different from doing the same in a female. E2 and P are the main female hormones. Just imagine how a man feels that receives Androgen Deprivation Therapy (ADT) for Prostate Cancer.
 
-
 ##Refrences
 
 [1] Effect of long-term testosterone enanthate administration on male reproductive function: Clinical evaluation, serum FSH, LH, Testosterone and seminal fluid analysis in normal men. J. Mauss, G. Borsch et al. Acta Endocrinol 78 (1975) 373-84.
@@ -330,11 +325,6 @@ If you’re going to supplement with anabolic steroids there is one single truth
 [19] Purvin VA. Visual Disturbance Secondary to Clomiphene Citrate. 1995;113(4):482-484. [Link.](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/641103)
 
 [20] Alfred R. Ashford MD  Irina Donev MD  Ram P. Tiwari MD  T. J. Garrett MD, FRCP(C), FACP. Reversible ocular toxicity related to tamoxifen therapy. 1988. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142%2819880101%2961%3A1%3C33%3A%3AAID-CNCR2820610107%3E3.0.CO%3B2-I)
-
-
-
-
-
 
 #PCT Protocols
 
@@ -407,12 +397,9 @@ Starting 6 weeks before PCT (SERM).
 * **Week 0:** Stop HCG &amp; Starting SERM
  * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
-
 ##Secondary PCT Options
 
 This is the PCT plans you should use if you were in a position where HCG wasn't an option until something changed and you now have access to it at the VERY end of your cycle.
-
-
 
 **Note:** Aromasin is added in to combat the E2 sides from HCG. Previously HCG was utilized on cycle and you'd just adjust AI as necessary. Since you are no longer on cycle, we will use Aromasin. This is a lot of Aromasin, but has clinically be shown to be effective in aiding to stimulate testicular function. You may end up experiencing [low E2 sides.](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing the Optimal/Primary PCT Options](https://www.reddit.com/r/steroids/wiki/draft#wiki_optimal.2Fprimary_pct_options)
 
@@ -489,17 +476,9 @@ This is the PCT plans you should use if you were in a position where HCG isn't a
 
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
-
-
-
-
-
-
-
 ##Post Blast &amp; Cruise Recovery Not Endorsed By /r/steroids
 
 These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be used for information purposes only. They have proven effective for some, but optimally you will use [a PCT protocol listed above](https://www.reddit.com/r/steroids/wiki/draft#wiki_pct_protocols)
-
 
 ###**Original PoWeR PCT**
 *by Michael Scally (former) M.D.*
@@ -548,8 +527,6 @@ Grossman's statement is corroborated by the [more recent research](https://acade
 In other words, estrogen levels during brain development are responsible for the sex-specific differences in gonadotrophin secretion and estrogen feedback at the pituitary. The important point of this research is that males (with the exception of homosexuals) were not found to have any positive feedback from estrogen. Those results that were "strongly confirmed."
 
 Finally, there's [this research](https://www.ncbi.nlm.nih.gov/pubmed/640052) (that was [referenced above](https://www.reddit.com/r/steroids/wiki/draft#wiki_serms.3A_nolvadex.2C_clomid.2C_toremifene.2C_.26amp.3B_raloxifene)), which couldn't have been any more relevant. It directly examined the effects of nolva and clomid on the pituitary of human males. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking nolvadex at 20mg/day had a significantly increased LH response to GnRH. In contrast, **the men taking clomid had reduced LH output, a decreased sensitivity to GnRH.** The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen seems the most probable explanation."
-
-
 
 ###Triptorelin PCT
 
@@ -631,9 +608,6 @@ It should be noted that there is some controversy on whether [using two SERMs at
 &amp;nbsp; 
 
 **Disclaimer:** All of these RECOMMENDATIONS (not mandatory) are to be used as advice. All of Jcaesar369 suggestions are based off of large clinical FDA trials and studies, found in the original post for reference. 
-
-
-
 
 #Miscellaneous Findings
 

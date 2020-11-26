@@ -103,7 +103,6 @@ TUDCA and UDCA are by far the best quintessential treatments for both the preven
 
 **Dosing of TUDCA and UDCA:** 500-1000mg daily for the maintenance of healthy liver function during the use of a C17aa oral during a cycle. 1,000mg **or higher** daily for the purpose of repairing the liver following heavy hepatotoxicity and hepatocyte damage from cholestasis (and/or for individuals with serious liver disorders).
 
-
 **IMPORTANT:** Do not exceed 8 weeks of TUDCA/UDCA use, as it can increase negative cholesterol values and decrease HDL. It is recommended to use these bile salts only during a cycle of oral C17aa anabolic steroids, or for the purpose of liver repair following periods of significant hepatotoxicity from the use of these compounds. Other compounds should be sought after for general year-round liver support.
 
 [According to this study](https://www.ncbi.nlm.nih.gov/pubmed/8674405) (taken from Examine), TUDCA has been shown to decrease HDL levels when taken for extended periods of time. In normal people, this really isn't a big deal. In people who are constantly using steroids, like blasting and cruising (B&amp;C), it can become counter-intuitive to run TUDCA for no reason due to decreased HDL levels. For example, on a cruise one wants to let their body recover, and ideally see good bloodwork before blasting again. One key reading on the bloodwork is the HDL, as HDL is one marker that almost always drops significantly while taking exogenous steroids in large dosages.

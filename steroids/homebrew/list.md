@@ -2,13 +2,9 @@
 
 Steroid homebrew is the process of brewing steroidal compounds on a small scale for personal, non-commercial purposes. It gives the user total governance over the substance being taken, both positively and negatively. 
 
-
-
 &gt;**Preamble**
 
 &gt;*Everything you see on this subreddit has the potential to be dangerous. If you fuck something up or get bad gear, you may see effects ranging from nothing, to bitch tits, to dying (and I'll laugh at you for being a dipshit). Every piece of advice you read here carries with it some risk. Keep that in mind, and research before putting anything in your body.*
-
-
 
 &gt;I started this as a response to the thread by /u/hypnotoadIRL [+3][2] , so he gets partial credit.
 I am a firm believer that everyone should know how to homebrew, so that they are not beholden to UGLs. Of course, not everyone wants to brew, but if you're here and you're curious, what is outlined below should help you get started. Links were all valid at time of posting. [...] You don't have to be super clever.
@@ -197,7 +193,6 @@ PVDF will have greater filtering capacity, but PES will filter more quickly.
 ####**Syringe Filtering**
 
 Syringe Filters are luer lock or luer slip compatible filters that connect directly to a syringe. They are available in a multitude of pore sizes, for our purposes we need .2 or .22 micron. Anything larger and microorganisms will be able to pass, and sterility will not be achieved. You would draw directly from your brew, connect the filter and a 20-23g needle to your syringe, and inject into a sterile vial (one you have sterilized, or have bought pre-sterilized). If you use larger than a 20g needle, you risk cleaving the stopper into the vial and you'll have pieces of your stopper floating around in your vial.
-
 
 &gt; Also just a quick note that if people are willing to switch out syringe filters every 40ml the oil will flow way better. I find the whole hand cramping thing is very overrated unless I push 60ml+ through the same filter.
 
@@ -469,14 +464,15 @@ No heat. Took an hour to dissolve.
 * 5ml BB
 * 44.14ml Mig840
 
-
 ##Excipients
+
 *****
+
 ###[Carrier Oils](http://www.reddit.com/r/steroids/wiki/homebrew/carrieroils)
 ###[Solvents](http://www.reddit.com/r/steroids/wiki/homebrew/Solvents)
 ###[Antimicrobials/Preservatives](http://www.reddit.com/r/steroids/wiki/homebrew/antimicrobials)
-*****
 
+*****
 
 #Triturations and Aliquots
 ##Trituration Method (Capsules)

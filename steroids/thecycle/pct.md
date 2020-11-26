@@ -592,7 +592,7 @@ SERMs should be run for a much longer time period, depending on the time of your
 
 * 10 mg Nolvadex (Tamoxifen) everyday **OR** 60 mg Toremifene everyday
 
-       **AND**
+**AND**
 
 * 25 mg Clomid (Clomiphene) everyday
 

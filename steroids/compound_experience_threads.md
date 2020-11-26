@@ -39,7 +39,6 @@ Compound | 1st Thread |
 :--------------|:--------------:|
 **TUDCA (Tauroursodeoxycholic Acid)** | [1st Thread](https://www.reddit.com/r/steroids/comments/afc7zf/compound_experience_thread_tudca/)
 
-
 ## Post Cycle Therapy (PCT) / SERMs, Fertility &amp; AIs
 
 Compound | 1st Thread | 2nd Thread | 3rd Thread

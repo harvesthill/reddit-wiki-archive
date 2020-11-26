@@ -20,7 +20,6 @@
 
 ## [The Estrogen Handbook](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook)
 
-
 #IV.) Cycling / Blasting &amp; Cruising (B&amp;C)-  [The Cycle - Things To Know](https://www.reddit.com/r/steroids/wiki/thecycle/list)
 
 ## [Your First Cycle](https://www.reddit.com/r/steroids/wiki/your_first_cycle)
@@ -30,11 +29,6 @@
 #VI.) [Anabolic Steroids And The Law](https://www.reddit.com/r/steroids/wiki/laws)
 
 #VII.) [Talking Points](https://www.reddit.com/r/steroids/wiki/talkingpoints)
-
-
-
-
-
 
 #XIII.) [Nutrition](https://www.reddit.com/r/steroids/wiki/nutrition)
 

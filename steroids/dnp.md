@@ -29,13 +29,9 @@ DNP inhibits ATP production in cell mitochondria through uncoupling the metaboli
 
 - When your ATP levels fall below the necessary range for your body to function properly, your body attempts to convert all stored glycogen and fat into ATP. Since the body cannot achieve this, the body burns from stored "energy reserves (fat)" for the entirety of time that you run DNP. 
 
-
 *While the raise in body temperature determines the effectiveness of DNP supplementation, it is also what is so dangerous about its use. An overdose of DNP* **will** *lead to fatal hyperthermia. The first cycle of DNP use will ultimately be the most vital to understanding the compound, how your body reacts to it and how to utilize it safely.*
 
-
 ***
-
-
 
 ##**How to use DNP:** 
 
@@ -52,7 +48,6 @@ or
 When DNP was in common use, the dose was usually around 300 mg/day. There's a JAMA paper from 1934 on DNP that has details on dosages and cycle lengths. [Use of Dinitrophenol in Nutritional Disorders
 A Critical Survey of Clinical Results](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1558869/)
 
-
 **Advanced Cycles:**
 
 Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 200mg/day cycles from advanced users lasting ~30 days. This can be considered a cruise dose. The blast dose of 600mg+ is usually run for 14-21 days. 
@@ -60,13 +55,9 @@ Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 20
 **A note on safety: The longer DNP is run, the higher %potential for adverse effects.** 
 
 *Some users have been known to run upwards of 1g/day. This is not only overkill but it is also extremely dangerous, as 1g/day moving into stable blood levels can put you either just below, at, or above the overdose limit depending on your weight. Most users who will dose 1g, will do so as either a frontload or once a week as an added boost.* **Again, this is not necessary or recommended.**
-
 **[Click here - Graph of blood level accumulation based on dose/time](http://i.imgur.com/TUGgzjn.jpg)**
 
-
 ***
-
-
 
 ##**Guidelines for use:** 
 
@@ -85,7 +76,6 @@ Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 20
 - Optional: Supplement with Antioxidants (prevent free radical damage from fat oxidation) and Glycerol (may prevent muscle catabolism)  
 
 ***
-
 
 ##**Side effects (Mild):**
 
@@ -119,7 +109,6 @@ These side effects are incredibly rare - and are ALL a result of extremely long 
 
 ***
 
-
 ##**Additional notes:** 
 
 - During the first 3-4 days of use, DNP will deplete your body of glycogen. The full range of DNP's side effects will NOT be observable until after this time frame. This is why ramping up for a first time use is necessary. 
@@ -148,12 +137,9 @@ These side effects are incredibly rare - and are ALL a result of extremely long 
 
 ***
 
-
 *DNP is not fully understood and lacks research to validate many claims of harsh side effects not mentioned here. While this compound profile attempts to explain everything known about DNP in an effort to ensure maximum safety of use, as with anything - individual use will vary. Always exercise caution when using DNP.*
 
-
 ***
-
 
 ##**Sources**
 
@@ -174,7 +160,6 @@ A Critical Survey of Clinical Results](http://www.ncbi.nlm.nih.gov/pmc/articles/
 [THE USE OF 2:4-DINITROPHENOL AS A METABOLIC STIMULANT](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2444737/) Br Med J. Mar 24, 1934; 1(3820): 524–527.
 
 [DNP Wiki - Complete with additional references](http://en.wikipedia.org/wiki/2,4-Dinitrophenol)
-
 
 **Additional thanks to:**
 

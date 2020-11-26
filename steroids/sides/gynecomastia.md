@@ -108,7 +108,6 @@ These drugs form a permanent and deactivating bond with the aromatase enzyme.  T
 
 [Foo-Dog's Gyno Series-Part 2](http://www.reddit.com/r/steroids/comments/2ulr4d/my_personal_experience_with_gyno_surgery_part_2/)
 
-
 ##References
 
 https://www.gynecomastia.org/  
@@ -134,4 +133,4 @@ http://www.ncbi.nlm.nih.gov/pubmed/22802308
 http://jco.ascopubs.org/content/20/3/751.long  
 http://www.ncbi.nlm.nih.gov/pubmed/11606380  
 http://cancerpreventionresearch.aacrjournals.org/content/1/2/135.full  
-http://www.ncbi.nlm.nih.gov/pubmed/15238910  
+http://www.ncbi.nlm.nih.gov/pubmed/15238910

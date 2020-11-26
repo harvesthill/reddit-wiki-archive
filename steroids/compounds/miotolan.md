@@ -19,12 +19,10 @@ According to Llewellyn's *Anabolics*, the cholesterol-lowering effects of furaza
 inspection, however, it was shown that oxandrolone tends to lower HDL (good) cholesterol, increasing the HDL-LDL ratio and atherogenic risk. General cholesterol-lowering
 applications for the drug never materialized. The same is true for furazabol. Some have gone so far as to recommend this steroid to those with high cholesterol! Such use absolutely should be avoided.
 
-
 ##Use/Dosing
 An effective dosage of furazabol seems to begin in the range of 10-20 mg daily for men, taken for no longer than 6 or 8 weeks. At this level it seems to impart a measurable musclebuilding effect, which is usually accompanied by fat loss and increased definition. Doses of 30 mg per day or more considerably increase the anabolic potential of the drug, but at the expense of greater hepatotoxicity (from Llewellyn).  Anecdotally, some uses have reported good results from much higher dosages, from 100mg to 300mg daily (see reference thread).
 
 For women, an effective dose is 2-5mg per day with 4-6 week cycles.  However, virilization may occur
-
 
 ##Side Effects/Risks
 Furazabol is not aromatized by the body, and is not measurably estrogenic. An anti-estrogen is not necessary when using this steroid, as gynecomastia should not be a concern even among sensitive individuals. Since estrogen is the usual culprit with water retention, this steroid instead produces a lean, quality look to the physique with no fear of excess subcutaneous fluid retention. This makes it a favorable steroid to use during cutting cycles, when water and fat retention are major concerns.

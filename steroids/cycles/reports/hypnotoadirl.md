@@ -1,4 +1,3 @@
-
 #Background info
 ##Pre-cycle stats
 
@@ -37,7 +36,6 @@ totaling 500 test e, 250 test p, 600 eq, 600 npp
 **before bed** 5 rice cakes, 2 tbsp PB, 1 cup whole milk. (p-20,c-53,f-25,cal-515)
 
 **Total** 245g Protein (38.7%), 343g Carbs (54.1%), 46g Fat (7.2%), 2795 Calories
-
 
 ##On cycle training  
 

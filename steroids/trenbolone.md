@@ -74,7 +74,6 @@ Finally, a magnetic plate pulls all of the compounds that matter out of the solu
 
 If you need to know your *true* estradiol levels while running trenbolone, you should request the [estradiol sensitive](https://www.labcorp.com/wps/portal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os_hACzO_QCM_IwMLXyM3AyNjMycDU2dXQwN3M6B8JG55AwMCuv088nNT9QtyI8oBPK_DWA!!/dl2/d1/L0lDU0NTQ1FvS1VRIS9JSFJBQUlnb0FNeUtibTZtL1lCSkp3NDU0a3N1eWx3ISEvN19VRTRTMUk5MzBPR1MyMElTM080TjJONjY4MC92aWV3VGVzdA!!/?testId=408440&amp;criterion=Estradiol%2C+Sensitive) assay.
 
-
 ##References
 
 1.*Thompson SH, Boxhorn LK, Kong WY, Allen RE, Trenbolone alters the responsiveness of skeletal muscle satellite cells to fibroblast growth factor and insulin-like growth factor I, Endocrinology 1989 May, 124 (5) : 2110-7*  
@@ -84,4 +83,4 @@ If you need to know your *true* estradiol levels while running trenbolone, you s
 5. *Donaldson IA, Hart IC, Heitzman RJ. Growth hormone, insulin, prolactin and total thyroxine in the plasma of sheep implanted with the anabolic steroid trenbolone acetate alone or with oestradiol. Res Vet Sci. 1981 Jan;30(1):7-13.*  
 6. *ASAIO J. 2006 Jan-Feb;52(1):117-8.
 Cholestasis induced by parabolan successfully treated with the molecular adsorbent recirculating system.
-Anand JS1, Chodorowski Z, Hajduk A, Waldman W.* 
+Anand JS1, Chodorowski Z, Hajduk A, Waldman W.*

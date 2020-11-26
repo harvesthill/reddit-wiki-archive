@@ -1,1 +1,1 @@
-node archive.js steroids
+node archive.js --tidy steroids

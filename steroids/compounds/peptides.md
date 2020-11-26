@@ -28,7 +28,6 @@ DSIP stands for Delta sleep-inducing peptide. This type of peptide is classified
 
 Epitalon (a.k.a. epithalon or epithalone) is a synthetically-derived tetrapeptide, meaning that it consists of four amino acid chains. It was discovered by the Russian scientist Professor Vladimir Khavinson, who then conducted epitalon-related research for the next 35 years in both animal and human clinical trials. Epitalon’s primary role is to increase the natural production of telomerase, a natural enzyme that helps cells reproduce telomeres, which are the protective parts of our DNA. This allows the replication of our DNA so the body can grow new cells and rejuvenate old ones. Furthermore, Epitalon has been shown to inhibit the growth of cancerous tumors, enabling a longer and healthier life in the future. And research has shown that epitalon is a powerful antioxidant that eliminates oxygen-free radicals responsible for damaging and killing cells. As a result of epitalon’s effect on telomerase production, the benefits are unique and far-reaching. Benefits of epitalon include: Increase of human lifespan Significant boosting of energy levels Promotion of deeper sleep Delay and prevention of age-related diseases such as cancer, heart disease and dementia Improvement of skin health and appearance Healing of injured and deteriorating muscle cells
 
-
 ###Follistatin
 
 Follistatin is an inhibitor of TGF-β superfamily ligands that repress skeletal muscle growth and promote muscle wasting. Accordingly, follistatin has emerged as a potential therapeutic to ameliorate the deleterious effects of muscle atrophy. In the setting of disease, increasing follistatin expression in musculature has proven beneficial for improving aspects of pathology in dystrophin-deficient mdx mice that model Duchenne and Becker muscular dystrophy (DMD, BMD). Administration of recombinant follistatin has also been shown to promote muscle hypertrophy in wild-type mice, and ameliorate the progression of a mouse model of spinal muscular atrophy (SMA).
@@ -122,7 +121,6 @@ Synthetic forms of Ghrelin exist known as Growth Hormone Releasing Peptides (GHR
 
 - Modified GRF(1-29)
 
-
 ###Which GHRH?
 **GRF(1-29)** and **Sermorelin** are essentially the same thing. Sermorelin just being the name of a FDA-approved version of GRF(1-29). The issue here is that these are easily rendered ineffective within minutes of injecting due to destruction by blood enzymes (unless you could pin directly into your pituitary gland). What remains of the list are analogs, or altered versions, of the original GRF(1-29). 
 
@@ -138,7 +136,6 @@ What do you want to use? You want an analog that utilizes those 4 amino acid swa
 
 **There is debate as to whether or not CJC-1295 without DAC is the same as Mod GRF(1-29)
 
-
 ##Growth Hormone Releasing Peptides, Ghrelin-mimetics (GHRP):
 
 - GHRP-6
@@ -148,7 +145,6 @@ What do you want to use? You want an analog that utilizes those 4 amino acid swa
 - Ipamorelin
 
 - Hexarelin
-
 
 ###Which GHRP?
 **Hexarelin** is the strongest in the family known to give the biggest pulse of all. Will create prolactin and cortisol side effects. Desensitization will happen regardless of the dose.

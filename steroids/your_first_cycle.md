@@ -105,7 +105,6 @@ To be cautious, we will cover when you should start preventatively. We are also 
 
 Estrogen (E₂) is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Crashed E₂ sides are far worse than the inverse, and estrogen should be proportionally high just as test, so long as sides don't get out of hand. Gyno takes weeks to develop, and new gyno can effectively be taken care of with SERMS while continuing the cycle.
 
-
 ###**What We Know**
 
 ####**Testosterone Peaks**
@@ -160,7 +159,6 @@ We are all different. You may need to dose sooner than the above (sometime betwe
 
 **Get regular blood work if you are unsure of anything**.
 
-
 *****
 
 ###References
@@ -176,8 +174,6 @@ We are all different. You may need to dose sooner than the above (sometime betwe
 5.	[Kishore M. Lakshman, Beth Kaplan, Thomas G. Travison, Shehzad Basaria, Philip E. Knapp, Atam B. Singh, Michael P. LaValley, Norman A. Mazer, Shalender Bhasin; The Effects of Injected Testosterone Dose and Age on the Conversion of Testosterone to Estradiol and Dihydrotestosterone in Young and Older Men, The Journal of Clinical Endocrinology &amp; Metabolism, Volume 95, Issue 8, 1 August 2010, Pages 3955–3964](https://academic.oup.com/jcem/article/95/8/3955/2597323)
 
 6.	[Cohan P.G.; Aromatase, adiposity, aging and disease. The hypogonadal-metabolic-atherogenic-disease and aging connection. In: Medical Hypotheses, Volume 56, Issue 6, June 2001, Pages 702-708](https://www.ncbi.nlm.nih.gov/pubmed/11399122)
-
-
 
 ##SERM On Cycle?
 
@@ -286,7 +282,6 @@ Running a small dose of [HCG](/r/steroids/wiki/hcg) will help to keep the testes
 ###**How Do I Mix And Run My HCG?**
 
 An easy ratio for mixing is 1ml of bacteriostatic water per 5000iu of HCG which results in 10 units ([5 small lines on a 1 mL insulin syringe](https://imgur.com/a/1Oekj) or [10 small lines on a 1/2 mL insulin syringe](https://imgur.com/a/5vGYd)) being 500iu of HCG.  
-
 
 &gt;  **Note**: To find out dosing for HCG use this [HCG calculator.](http://www.lostjuncture.com/HCG/HCGCalc.html)
 

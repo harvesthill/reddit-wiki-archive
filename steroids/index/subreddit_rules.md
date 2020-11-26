@@ -202,7 +202,6 @@ The only threads that are allowed on /r/steroids are those of high quality conte
 
 If you are ever in doubt if something you want to post is [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
 
-
 ####**FAQ**
 
 **Q:** Why can't I create a new topic?  

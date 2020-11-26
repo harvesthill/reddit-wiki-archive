@@ -11,8 +11,6 @@
 
 **Peak weight**: 196lbs/17% body fat
 
-
-
 **Lifting experience**: Three years
 
 **Natural maxes:**
@@ -172,7 +170,6 @@ He starts to try to open it, thinking quickly I blurt "Don't open that!" He stop
 tl;dr - Friend almost found my gear and now thinks I fuck my asshole nightly.
 
 ##August 19th 2013 (Week 8)
-
 
 Bah, tweaked something in my back doing deadlifts today, cut my workout short. Going to see how it feels tomorrow after icing/heating tonight, decide whether or not to try OHP/shoulders. On the upside my skin held up this time and calluses no worse for wear.
 
@@ -344,7 +341,6 @@ HOWEVER. I do not train for aesthetics as a primary goal, like many in this sub.
 
 That being said, now I will discuss the rest of the cycle.
 
-
 **Summary**
 
 Height: 5'8"
@@ -420,6 +416,5 @@ I doubt I'll need armidex with the mast at pre-mentioned doses, but if I do I'll
 If you have any questions or comments, feel free to ask. You can PM me if there's something you want to know but rather not post (as long as it's not a source request). Shout out to the mods and the many personalities I have come to know from my time on here for keeping this place awesome; it's why I keep coming back.
 
 Happy holidays, everyone! :D
-
 
 ##END LOG
