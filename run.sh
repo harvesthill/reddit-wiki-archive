@@ -1,1 +1,1 @@
-python3 archive.py steroids
+node archive.js steroids
