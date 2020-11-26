@@ -4,6 +4,8 @@ Anabolic steroids, technically known as anabolic-androgenic steroids (AAS), are 
 
 Anabolic steroids also have androgenic and virilizing properties, including the development and maintenance of masculine characteristics such as the growth of the vocal cords, testicles (primary sexual characteristics) and body hair (secondary sexual characteristics). The word anabolic comes from the Greek *ἀναβολή* or *anabole*, "that which is thrown up, mound", and the word androgenic from the Greek *ἀνδρός* or *andros*, "of a man" + -*γενής* -*genes*, *“born”*.
 
+**See also pages for [Insulin](https://www.reddit.com/r/steroids/wiki/insulin), [hGH](https://www.reddit.com/r/steroids/wiki/growth_hormone), and other [Peptides](https://www.reddit.com/r/steroids/wiki/compounds/peptides)**.
+
 ### Compound Short-cuts
 
 * [*Nandrolone*](https://www.reddit.com/r/steroids/wiki/deca_durabolin) *aka* ***Deca***, ***NPP*** — **19-nortestosterone** (***19***\-***nor***). Rated **125**:**37**. Second only to testosterone in terms of popularity as a bulking compound. Water retention, collagen synthesis, joint relief, more gains. [*Experience thread*](https://www.reddit.com/r/steroids/comments/8ako42/compound_experience_saturday_nandrolone_deca_npp/)*.*

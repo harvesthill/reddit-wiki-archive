@@ -90,7 +90,7 @@ Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids ar
 
 **Answer:** A solution would be to switch over to testosterone Undecanoate. With a half life of 20 days, it makes for an excellent and risk free choice. 
 
-You could also frontload your choice of cypionate/enanthate ester for a shorted trip. Use [steroidcalc](http://steroidcalc.com/) to plan it out. However, the rapidly dropping levels of this choice make it difficult to manage estrogen properly. 
+You could also frontload your choice of cypionate/enanthate ester for a shorted trip. Use [Steroid Plotter](https://www.steroidplotter.com/) to plan it out. However, the rapidly dropping levels of this choice make it difficult to manage estrogen properly. 
 
 ##Cycle Complications
 

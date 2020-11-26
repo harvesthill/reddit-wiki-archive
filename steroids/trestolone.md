@@ -47,15 +47,13 @@ A common dose for AAS users is 10 mg per day, or 70 mg per week. Megablast dosag
 1.  [Wikipedia: Trestolone](https://en.wikipedia.org/wiki/Trestolone)  
  
 2. Reddit [Compound Experience Thread: Trestolone](https://www.reddit.com/r/steroids/comments/86t5st/compound_experience_saturday_trestolone_trest_ment/)  
-  
-3.  [Steroid.com on MENT](https://www.steroid.com/MENT.php)
 
-4.  Anderson, Richard A., et al. “[Evidence for tissue selectivity of the synthetic androgen 7*α*-methyl-19-nortestosterone in hypogonadal men](https://www.ncbi.nlm.nih.gov/pubmed/12788888).” *The Journal of Clinical Endocrinology &amp; Metabolism* **88.6** (2003): 2784-2793.
+3.  Anderson, Richard A., et al. “[Evidence for tissue selectivity of the synthetic androgen 7*α*-methyl-19-nortestosterone in hypogonadal men](https://www.ncbi.nlm.nih.gov/pubmed/12788888).” *The Journal of Clinical Endocrinology &amp; Metabolism* **88.6** (2003): 2784-2793.
 
-5.  Sundaram, Kalyan, Narender Kumar, and C. Wayne Bardin. “[7*α*-methyl-19-nortestosterone (MENT): the optimal androgen for male contraception](https://www.ncbi.nlm.nih.gov/pubmed/8489761).” *Annals of Medicine* **25.2** (1993): 199-205.
+4.  Sundaram, Kalyan, Narender Kumar, and C. Wayne Bardin. “[7*α*-methyl-19-nortestosterone (MENT): the optimal androgen for male contraception](https://www.ncbi.nlm.nih.gov/pubmed/8489761).” *Annals of Medicine* **25.2** (1993): 199-205.
 
-6.  Liu, Aijun, Kathryn E. Carlson, and John A. Katzenellenbogen. “[Synthesis of high-affinity fluorine-substituted ligands for the androgen receptor. Potential agents for imaging prostatic cancer by positron emission tomography](https://pubs.acs.org/doi/abs/10.1021/jm00089a024).” *Journal of Medicinal Chemistry* **35.11** (1992): 2113-2129.
+5.  Liu, Aijun, Kathryn E. Carlson, and John A. Katzenellenbogen. “[Synthesis of high-affinity fluorine-substituted ligands for the androgen receptor. Potential agents for imaging prostatic cancer by positron emission tomography](https://pubs.acs.org/doi/abs/10.1021/jm00089a024).” *Journal of Medicinal Chemistry* **35.11** (1992): 2113-2129.
 
-7.  Kumar, Narender, et al. “[Pharmacokinetics of 7*α*-methyl-19-nortestosterone in Men and Cynomolgus Monkeys](https://www.ncbi.nlm.nih.gov/pubmed/9283946).” *Journal of Andrology* **18.4** (1997): 352-358.
+6.  Kumar, Narender, et al. “[Pharmacokinetics of 7*α*-methyl-19-nortestosterone in Men and Cynomolgus Monkeys](https://www.ncbi.nlm.nih.gov/pubmed/9283946).” *Journal of Andrology* **18.4** (1997): 352-358.
 
-8.  Walton, Melanie J., et al. "[7*α*-methyl-19-nortestosterone (MENT) vs Testosterone in Combination With Etonogestrel Implants for Spermatogenic Suppression in Healthy Men](https://www.ncbi.nlm.nih.gov/pubmed/17460095)." *Journal of Andrology* **28.5** (2007): 679-688.
+7.  Walton, Melanie J., et al. "[7*α*-methyl-19-nortestosterone (MENT) vs Testosterone in Combination With Etonogestrel Implants for Spermatogenic Suppression in Healthy Men](https://www.ncbi.nlm.nih.gov/pubmed/17460095)." *Journal of Andrology* **28.5** (2007): 679-688.

@@ -8,6 +8,12 @@ The risk may not be the worth the reward. /r/steroids should not be your only so
 
 ##Intro
 
+Insulin (/ˈɪn.sjʊ.lɪn/ from Latin insula, 'island') is a peptide hormone produced by beta cells of the pancreatic islets; it is considered to be the main anabolic hormone of the body. It regulates the metabolism of carbohydrates, fats and protein by promoting the absorption of glucose from the blood into liver, fat and skeletal muscle cells. In these tissues the absorbed glucose is converted into either glycogen via glycogenesis or fats (triglycerides) via lipogenesis, or, in the case of the liver, into both. Glucose production and secretion by the liver is strongly inhibited by high concentrations of insulin in the blood. 
+
+Circulating insulin affects the synthesis of proteins in a wide variety of tissues. It is therefore an anabolic hormone, promoting the conversion of small molecules in the blood into large molecules inside the cells. Low insulin levels in the blood have the opposite effect by promoting widespread catabolism, especially of reserve body fat. The secretion of insulin and glucagon into the blood in response to the blood glucose concentration is the primary mechanism of glucose homeostasis.
+
+##Insulin and Bodybuilding 
+
 In the last half-decade bodybuilders have been getting much larger much quicker. Certain professionals have added twenty pounds to their contest weight in one season, after having seemingly reached a plateau. The bodybuilding audience loves to hear that this weight gain is due to some secret drug or some newly discovered gene therapy. Elaborate theories are developed to explain these rapid weight gains and the professionals themselves are not helpful; they claim that it's the new X-brand supplement that's doing it and leave it at that.
 
 The truth is that bodybuilders have discovered one of the most [anabolic](https://www.ncbi.nlm.nih.gov/pubmed/21864752) hormones produced by the body, insulin. Additionally, insulin has the benefit of being not only legal and over the counter in most states, but it is very cheap. A bottle costs less than thirty dollars and there is no need to worry about counterfeits. By correctly using insulin, in conjunction with human growth hormone and anabolic steroids, modern professionals have added pounds of mass onto seemingly stagnant physiques.
@@ -321,7 +327,3 @@ Eat a meal containing:
 You should now stop your insulin cycle and begin one month optional PCT. Make sure to take at least 1 month off to allow your insulin sensitivity to restore. If you intend to follow it with another cycle, ensure that your morning fasted glucose readings have returned to your baseline before proceeding. It is suggested but not required to use a PCT of metformin during your time off. You can also use a ketogenic diet and/or cardio to help restore your insulin sensitivity.
 
 Your following insulin cycles could be augmented by adding an additional insulin dose with breakfast. Just as with the post-workout dosing, you should ensure that your meal has enough carbs to adequately cover your insulin dose. Never take an additional dose of insulin while your previous dose is still active, this leads to VERY unpredictable blood glucose levels and is very dangerous.
-
-
-
-
