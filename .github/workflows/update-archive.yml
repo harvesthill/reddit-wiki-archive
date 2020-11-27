@@ -20,5 +20,6 @@ jobs:
         run: |
           git config --global user.name 'archiver action'
           git config --global user.email 'harvesthill@users.noreply.github.com'
-          git commit -am --allow-empty "update archive as of $(date +%F_%T)"
+          git add .
+          git commit --allow-empty -m "update archive as of $(date +%F_%T)"
           git push
