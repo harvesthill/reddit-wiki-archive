@@ -23,7 +23,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Update archive
-        run: ./archive.sh
+        run: ./run.sh
 
       - name: Commit
         run: |
