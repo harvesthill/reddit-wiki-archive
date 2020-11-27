@@ -20,11 +20,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
+      - name: Install dependencies
+        run: npm i
       - name: Update archive
         run: ./run.sh
-
       - name: Commit
         run: |
           git config --global user.name 'archiver action'
