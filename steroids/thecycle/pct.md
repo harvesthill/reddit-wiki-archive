@@ -70,12 +70,12 @@ The main testosterone stimulating agents for HPTA recovery during PCT are:
 
 **Secondary:**
 
-* HCG (Human Chorionic Gonadotropin)
+* hCG (Human Chorionic Gonadotropin)
 * Aromatase Inhibitors
 
-**SERMs:** Classes of drugs in the SERM category include: Nolvadex (Tamoxifen Citrate), Clomid (Clomiphene Citrate), Raloxifene, and Torem (Toremifene Citrate). The nature of a SERM is that it exhibits mixed Estrogen agonist and Estrogen antagonist effects on the body. This means that although a SERM might block the effect of Estrogen at the cellular level in certain tissues, it can enhance Estrogenic effects in other areas of the body. These can be positive effects as well as negative effects. In terms of the effect of SERMs on endogenous Testosterone stimulation, they serve to act as an Estrogen antagonist at the pituitary gland, triggering the release of LH and FSH as a result. Elevated levels of Estrogen in men can and does suppress the output of endogenous Testosterone via the negative feedback loop, leading to hypogonadism.^(\[2\]) SERMs for this purpose are an absolutely essential addition to any PCT protocol and are not to be excluded under any circumstance.
+**SERMs:** Classes of drugs in the SERM category include: Nolvadex (Tamoxifen Citrate), Clomid (Clomiphene Citrate), Raloxifene, and Torem (Toremifene Citrate). The nature of a SERM is that it exhibits mixed Estrogen agonist and Estrogen antagonist effects on the body. This means that although a SERM might block the effect of Estrogen at the cellular level in certain tissues, it can enhance Estrogenic effects in other areas of the body. These can be positive effects as well as negative effects. In terms of the effect of SERMs on endogenous Testosterone stimulation, they serve to act as an Estrogen antagonist at the pituitary gland, triggering the release of LH and FSH as a result. Elevated levels of Estrogen in men can and does suppress the output of endogenous Testosterone via the negative feedback llllll2\]) SERMs for this purpose are an absolutely essential addition to any PCT protocol and are not to be excluded under any circumstance.
 
-**HCG:** Human Chorionic Gonadotropin is, for the most part, synthetic LH. It is a protein hormone manufactured in high amounts by pregnant females that contains a protein subunit that is 100% identical to LH, and therefore when administered to men, it will mimic the action of LH in target tissues, such as the testes. What results is an increase in Testosterone production via stimulation of the Leydig cells by HCG.  HCG should never be utilized alone, as its nature as a gonadotropin will itself trigger a negative feedback loop whereby once HCG is utilized, the pituitary gland will halt output of LH until HCG use has discontinued. Therefore, HCG must be utilized prior to PCT or with a SERM and especially an aromatase inhibitor, as HCG has demonstrated to increase aromatase activity in the testes, resulting in rising Estrogen levels.^(\[3\])
+**hCG:** Human Chorionic Gonadotropisynthetic is an LH mimetic. It is a protein hormone manufactured in high amounts by pregnant females that contains a protein subunit that is 100% identical to LH, and therefore when administered to men, it will mimic the action of LH in target tissues, such as the testes. What results is an increase in Testosterone production via stimulation of the Leydig cells by hCG.  hCG should never be utilized alone, as its nature as a gonadotropin will itself trigger a negative feedback loop whereby once hCG is utilized, the pituitary gland will halt output of LH until hCG use has discontinued. Therefore, hCG must be utilized prior to PCT or with a SERM, oft-times with an aromatase inhibitor, as hCG has demonstrated to increase aromatase activity in the testes, resulting in rising Estrogen levels.^(\[3\])
 
 **Aromatase inhibitors:** These are compounds such as Aromasin (Exemestane), Arimidex (Anastrozole), and Letrozole (Femara). Rather than block the activity of Estrogen at the cellular level in different tissues, aromatase inhibitors (AIs) serve to lower total circulating Estrogen levels in the body by way of inhibiting the aromatase enzyme, which is the enzyme responsible for the conversion of androgens into Estrogen. The conversion of androgens into Estrogen results in excess Estrogen levels, which, as explained earlier on this wiki page, will trigger the negative feedback loop leading to suppression of Testosterone production. By way of lowering total circulating blood plasma Estrogen levels, AIs will engage the negative feedback loop in a positive manner and result in the release of LH and FSH for the manufacture and secretion of more Testosterone. This is essentially due to the hypothalamus realizing that circulating Estrogen levels are too low, and will attempt to increase circulating levels of Testosterone in order for a portion of the Testosterone secreted to be able to become aromatized into Estrogen in order to restore the hormonal balance. The main importance of aromatase inhibitors is the ability to mitigate the Estrogenic effects of HCG, if HCG is utilized in certain ways that will be expanded on later. It is important to note, however, that the majority of aromatase inhibitors have known drug interactions with Nolvadex that will reduce blood levels of those AIs. Very specific choices should be made in regards as to which AI is used during PCT with what SERM.
 
@@ -97,7 +97,7 @@ To touch lightly on Torem &amp; Ralox, they have all been compared and studied a
 |**Torem**|5.64 to 9.53 (+69%)|4.05 to 6.54 (+61%)|498.96 to 743.92 (+49%)|25.84 to 37.82 (+46%)|23.09 to 31.73 (+37%)|
 |**Ralox**|6.39 to 6.87 (+7%)|4.18 to 4.75 (+13%)|583.55 to 604.35 (+3%)|27.01 to 32.64 (+20%)|14.72 to 21.86 (+48%)|
 
-As seen Nolvadex came out on top here in LH, Testosterone &amp; Normal sperm forms. Torem topped Nolva in FSH and Sperm concentration. Both are very suitable PCT options (as already known with Nolva, but this shows Torem as a viable option as well). Ralox was unfavorable and is probably best used just for gynecomastia treatment.
+As demonstrated, Nolvadex came out on top here in LH, Testosterone &amp; Normal sperm forms. Torem topped Nolva in FSH and Sperm concentration. Both are very suitable PCT options (as already known with Nolva, but this shows Torem as a viable option as well). Ralox was unfavorable and is probably best used just for gynecomastia treatment.
 
 **IMPORTANT NOTE:** Also be sure to check out the [Drug Interactions](https://www.reddit.com/r/steroids/wiki/draft#wiki_drug_interactions) section, as it contains important information for those using SSRIs and SERMs.
 
@@ -139,15 +139,19 @@ In the study above comparing Nolva, Torem, &amp; Ralox, 60mg was the dosage used
 
 **Note:** As you've noticed above, /r/seroids recommends 6-8 weeks of SERMs. It is common for a lot of PCT options to only be 4 weeks. These protocols usually used double the dose for the first week or two. The only reason why many elect to utilize doubling the dose for the first 1-2 weeks of a PCT program is for the purpose of achieving optimal peak blood plasma levels quicker so as to ensure HPTA recovery quicker. This isn't necessary and just further increases your risk of potential sides. It has been studied that the longer you are on SERMs, the better your results of stimulating Testosterone.^(\[15\]) So to prevent unwanted sides as well as potentially achieve better results, we choose to suggest lower dosing over a longer period than 4 weeks.
 
-## HCG
+## hCG
 
-The majority of anabolic steroid users from the 1960s – mid 1980s did not even utilize any compounds for the purpose of hormonal recovery, and the term PCT did not even exist at that time. When the use of HCG became increasingly popular (circa 1980), it was the only compound utilized. Since then, the medical and scientific understanding of such things has increased exponentially and there should be no reason for any informed and properly educated individual to utilize HCG on its own for PCT. When utilized in conjunction with one of the other two categories of compounds (an AI and a SERM), the dynamics change considerably.
+The majority of anabolic steroid users from the 1960s–mid 1980s did not even utilize any compounds for the purpose of hormonal recovery, and the term PCT did not even exist at that time. When the use of hCG became increasingly popular (circa 1980), it was the only compound utilized. Since then, the medical and scientific understanding of such things has increased exponentially and there should be no reason for any informed and properly educated individual to utilize hCG on its own for PCT. When utilized in conjunction with one of the other two categories of compounds (an AI and a SERM), the dynamics change considerably.
 
-HCG mimics LH and therefore actually keeps the testicles producing testosterone even when anabolic steroids are present. However, it does not induce the production of actual LH. The use of HCG on cycle, this is primarily done so that post cycle recovery is easier. HCG is also used on cycle to prevent or at least minimize testicular atrophy that occurs due to the use of anabolic steroids. The testicular atrophy that occurs is not permanent but will reverse once steroid use is discontinued and natural testosterone production begins again.
+hCG mimics LH and therefore actually keeps the testicles producing testosterone even when anabolic steroids are present. However, it does not induce the production of actual LH. The use of hCG on cycle, this is primarily done so that post-cycle recovery is easier. hCG is also used on cycle to prevent or at least minimize testicular atrophy that occurs due to the use of anabolic steroids. The testicular atrophy that occurs is not permanent, but will reverse once steroid use is discontinued and natural testosterone production begins again.
 
-It has been mentioned already that much of the difficulty in recovering the HPTA following an anabolic steroid cycle is the result of Leydig cell desensitization. HCG is essentially an analogue of LH, and the testes after a prolonged anabolic steroid cycle would be as equally desensitized to HCG as they are to LH. The human body, however, produces LH amounts on its own that are far too inefficient for proper and rapid Testosterone production. The body’s natural increase of LH and FSH following an anabolic steroid cycle is also not a rapid peak, but a very slow and steady incline, as evidenced by the study referenced earlier in which it was not until 3 weeks when LH levels only began to reach the normal physiological measurements following the cessation of exogenous Testosterone. Therefore, the body’s own natural LH production does not provide a high enough dose for stimulation, nor an immediate stimulation to the testes required for the initial increase in Testosterone needed during the post cycle therapy weeks. Now in our PCT will will be utilizing a SERM which will stimulate FSH/LH, but most will find recovery being a smother transition when HCG is utilized. Studies have in fact demonstrated the incredible effectiveness of HCG for this purpose, and it is even suggested clinically that HCG be utilized for the purpose of treating anabolic steroid induced hypogonadism.^(\[4\])
+It has been mentioned already that much of the difficulty in recovering the HPTA following an anabolic steroid cycle is the result of Leydig cell desensitization. hCG is essentially an analogue of LH, and the testes after a prolonged anabolic steroid cycle would be as equally desensitized to hCG as they are to LH. The human body, however, produces LH amounts on its own that are far too inefficient for proper and rapid Testosterone production. 
 
-If you choose to include HCG in your PCT protocol, the best possible SERM for the PCT protocol is Nolvadex, as studies have demonstrated that HCG and Nolvadex utilized together have exhibited a remarkable synergistic effect in terms of stimulating endogenous Testosterone production, and that Nolvadex will actually work to block the desensitization effect on the Leydig cells of the testes caused by high doses of HCG.^(\[10\]) This is very important, because just as too little LH secretion for extended periods can cause desensitization to gonadotropins, too much gonadotropin stimulation (in the form of HCG or otherwise) may likewise cause a desensitization effect.
+The body’s natural increase of LH and FSH following an anabolic steroid cycle is also not a rapid peak, but a very slow and steady incline, as evidenced by the study referenced earlier in which it was not until 3 weeks when LH levels only began to reach the normal physiological measurements following the cessation of exogenous Testosterone. Therefore, the body’s own natural LH production does not provide a high enough dose for stimulation, nor an immediate stimulation to the testes required for the initial increase in Testosterone needed during the post cycle therapy weeks. 
+
+Now in our PCT will will be utilizing a SERM which will stimulate FSH/LH, but most will find recovery being a smother transition when hCG is utilized. Studies have in fact demonstrated the incredible effectiveness of hCG for this purpose, and it is even suggested clinically that hCG be utilized for the purpose of treating anabolic steroid induced hypogonadism.^(\[4\])
+
+If you choose to include hCG in your PCT protocol, the best possible SERM for the PCT protocol is Nolvadex, as studies have demonstrated that hCG and Nolvadex utilized together have exhibited a remarkable synergistic effect in terms of stimulating endogenous Testosterone production, and that Nolvadex will actually work to block the desensitization effect on the Leydig cells of the testes caused by high doses of hCG .^(\[10\]) This is very important, because just as too little LH secretion for extended periods can cause desensitization to gonadotropins, too much gonadotropin stimulation (in the form of hCG or otherwise) may likewise cause a desensitization effect.
 
 ## Dosing
 
@@ -165,7 +169,7 @@ HCG is ran a couple different ways:
 * **Over Entire Length Of Cycle:** 250 IU EOD 
 * Stop HCG use before starting PCT (SERM)
 
-**Important Note:** 250 IU 2x/week is used by some, but there have been studies on maintaining intratesticular testosterone in healthy men with gonadotropin suppression. This study found 125 iu EOD (437.5 iu/week) was 25% less than baseline. Alternatively, 250 iu EOD (875 iu/week) was found to only be 7% below baseline.^(\[13\]) For this reason, it is recommended to use at least 250 iu EOD. If desiring to be as close to baseline as possible, you would need more than 875 iu/week (7% less than baseline) and less than 1750 iu/week (26% above baseline). This is where the 500 iu 2x/week come in, but without a study comparing, we are only speculating and you could need more. Alternatively, if money is a factor, it is best to use some HCG rather than no HCGand you may do less than the recommended: 500-750 iu/week.
+**Important Note:** 250 IU 2x/week is used by some, but there have been studies on maintaining intratesticular testosterone in healthy men with gonadotropin suppression. This study found 125 IU EOD (437.5 iu/week) was 25% less than baseline. Alternatively, 250 IU EOD (875 iu/week) was found to only be 7% below baseline.^(\[13\]) For this reason, **it is recommended to use at least 250 IU EOD**. If desiring to be as close to baseline as possible, you would need more than 875 IU/week (7% less than baseline) and less than 1750 IU/week (26% above baseline). This is where the 500 IU 2x/week comes in, but without a study comparing, we are only speculating and you could need more. Alternatively, if money is a factor, it is best to use some hCG rather than no hCG, and you may do less than the recommended: 500-750 IU/week.
 
 ### 2. Weeks Leading Up To PCT
 
@@ -173,43 +177,43 @@ This is the preferred method after Option 1, especially for those that are comin
 
 Starting 6 weeks before PCT:
 
-* **Weeks 6-4:** 500-1000 iu 3x/week
-* **Weeks 3-1:** 500-1000 iu 2x/week
+* **Weeks 6-4:** 500-1000 IU 3x/week
+* **Weeks 3-1:** 250-500 IU 3x/week
 * **Week 0:** Start PCT (SERM)
 
 ### 3. 1-2 Weeks Before PCT
 
 Typically this will be run in the \~2 weeks leading up to PCT after your last injection, while you are waiting for your AAS esters to clear (assuming long esters -- Ex: Test E or C). If using short esters (Prop and/or Ace), nothing changes. You just start the HCG while on cycle (1-2 weeks before PCT).
 
-If you chose to utilize HCG in this fashion (unless using short esters (Prop and/or Ace), there is one remaining issues to be addressed:
+If you chose to utilize hCG in this fashion (unless using short esters (Prop and/or Ace), there is one remaining issues to be addressed:
 
-* The fact that HCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
+* The fact that hCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
-This is where the AI is to be utilized as a supportive compound for HCG use in this 1–2 week period, and after HCG is discontinued early on in PCT, only the SERM to be used in order to carry along the hormonal recovery process. HCG utilized in this fashion will be ran:
+This is where the AI is to be utilized as a supportive compound for hCG use in this 1–2 week period, and after hCG is discontinued early on in PCT, only the SERM to be used in order to carry along the hormonal recovery process. hCG utilized in this fashion will be ran:
 
-* **1-2 Weeks Before PCT:** 1000-1500 iu EOD
+* **1-2 Weeks Before PCT:** 1000-1500 IU EOD
 * **1-2 Weeks Before PCT:** AI will be used only as long as HCG
 
 ### 4. First 1-2 Weeks Of PCT
 
-Some will say HCG shouldn't be ran into PCT as it's suppressive, but as noted above in the study with Nolvadex, it has shown to be effective and fine when ran simultaneously with Nolvadex.^(\[10\])
+Some will say hCG shouldn't be ran into PCT as it's suppressive, but as noted above in the study with Nolvadex, it has shown to be effective when run simultaneously with Nolvadex.^(\[10\])
 
-If you chose to utilize HCG in this fashion, there is one remaining issues to be addressed:
+If you chose to utilize hCG in this fashion, there is one remaining issue to be addressed:
 
-* The fact that HCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
+* The fact that hCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
-This is where the AI is to be utilized as a supportive compound for HCG use in this 1–2 week period, and after HCG is discontinued early on in PCT, only the SERM to be used in order to carry along the hormonal recovery process. HCG utilized in this fashion will be ran:
+This is where the AI is to be utilized as a supportive compound for hCG use in this 1–2 week period, and after hCG is discontinued early on in PCT, only the SERM to be used in order to carry along the hormonal recovery process. hCG utilized in this fashion will be run as follows:
 
-* **First 1-2 Weeks Of PCT:** 1000-1500 iu EOD
+* **First 1-2 Weeks Of PCT:** 1000-1500 IU EOD
 * **First 1-2 Weeks Of PCT:** AI will be used only as long as HCG
 
 ## Aromatase Inhibitors: Aromasin (Exemestane) Above All Else
 
-***This Section Is Optional, UNLESS Utilizing*** [***HCG dosing 3 or 4.***](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)
+***This Section Is Optional, UNLESS Utilizing*** [***hCG dosing 3 or 4.***](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)
 
-As noted above in [HCG dosing 3 &amp; 4,](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that HCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 &amp; 2,](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  It should also be noted that HCG will also cause an increase in testicular progesterone levels. Estrogen rising is of course undesirable during PCT, as it has already been explained that Estrogen will trigger suppression of endogenous Testosterone production, and there is no doubt that any individual wishes to encounter Estrogenic side effects during PCT either.
+As noted above in [hCG dosing 3 &amp; 4,](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that hCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 &amp; 2,](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  It should also be noted that hCG will also cause an increase in testicular progesterone levels. Estrogen rising is of course undesirable during PCT, as it has already been explained that Estrogen will trigger suppression of endogenous Testosterone production, and there is no doubt that any individual wishes to encounter Estrogenic side effects during PCT either.
 
-Therefore, the option here is to include an aromatase inhibitor. However, there exists a problem in regards to the other two of the three major aromatase inhibitors (Arimidex and Letrozole). The issue is the fact that in a PCT program that includes the use of Nolvadex, Arimidex and Letrozole have direct negative interactions with Nolvadex. The potential problem here is that Arimidex &amp; Letrozole both have decreased blood plasma concentrations when used alongside a Nolvadex.^(\[5\]\[20\]\[21\]) Aromasin completely circumvents this problem, as it has been demonstrated to have no interactions what so ever with Nolvadex, unlike the other two aforementioned aromatase inhibitors. In one study, Aromasin displayed no such reduced effectiveness or any reduced blood plasma levels when utilized with Nolvadex.^(\[6\]) The conclusion here is that the use of Arimidex or Letrozole would be last resort options for controling Estrogen during [HCG dosing 3 &amp; 4](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct) use.
+Therefore, the option here is to include an aromatase inhibitor. However, there exists a problem in regards to the other two of the three major aromatase inhibitors (Arimidex and Letrozole). The issue is the fact that in a PCT program that includes the use of Nolvadex, Arimidex and Letrozole have direct negative interactions with Nolvadex. The potential problem here is that Arimidex &amp; Letrozole both have decreased blood plasma concentrations when used alongside a Nolvadex.^(\[5\]\[20\]\[21\]) Aromasin completely circumvents this problem, as it has been demonstrated to have no interactions what so ever with Nolvadex, unlike the other two aforementioned aromatase inhibitors. In one study, Aromasin displayed no such reduced effectiveness or any reduced blood plasma levels when utilized with Nolvadex.^(\[6\]) The conclusion here is that the use of Arimidex or Letrozole would be last resort options for controling Estrogen during [hCG dosing 3 &amp; 4](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct) use.
 
 The other benefit of selecting Aromasin over all other AIs is the fact that Aromasin has demonstrated in several studies to impact cholesterol profiles in a negative manner far less than other aromatase inhibitors have, where in one particular study on cancer patients, 24 weeks of Aromasin (Exemestane) administration held no impact on cholesterol profiles.^(\[7\]) Some other studies have also demonstrated a nil effect on cholesterol profiles from the use of Aromasin.^(\[8\]) Although there have also been some studies that have demonstrated a negative effect on cholesterol profiles resultant from Aromasin use, it is evident that there is not as a significant or as a negatively impacting effect from Aromasin on cholesterol as other aromatase inhibitors.^(\[9\])
 
@@ -217,11 +221,11 @@ Finally, in addition to these benefits from Aromasin, it is very clear that Arom
 
 ## Dosing
 
-Note: This is a lot of Aromasin, but has clinically be shown to be effective. You may end up experiencing [low E2 sides.](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing HCG dosing 1 or 2](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle)
+Note: This is a lot of Aromasin, but has clinically be shown to be effective. You may end up experiencing [low E2 sides.](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing hCG dosing 1 or 2](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle)
 
-Following these details, Aromasin would be the best possible aromatase inhibitor of choice in order to combat the increased aromatase activity caused by HCG. Therefore, Aromasin would then be utilized *up to* a full 25mg ED, and **only while HCG is utilized in** [**HCG dosing 3 or 4**](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)**. Once HCG is discontinued, Aromasin too should be halted.**
+Following these details, Aromasin would be the best possible aromatase inhibitor of choice in order to combat the increased aromatase activity caused by hCG. Therefore, Aromasin would then be utilized *up to* a full 25mg ED, and **only while HCG is utilized in** [**hCG dosing 3 or 4**](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)**. Once hCG is discontinued, Aromasin too should be halted.**
 
-***This section is optional, UNLESS utilizing*** [***HCG dosing 3 or 4.***](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)
+***This section is optional, UNLESS utilizing*** [***hCG dosing 3 or 4.***](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)
 
 ## Drug Interactions
 
@@ -231,11 +235,11 @@ Most notably, SSRIs have been shown to reduce effectiveness of Nolvadex and SSRI
 
 ## Side Effects
 
-Common post-cycle complaints include depressive mood alterations, fatigue, lethargy, insomnia, and decreased libido.^(\[22\]) As stated earlier, vision sides are common for both Clomid &amp; Nolva, more so with Clomid. Hot Flashes, Nausea are two common side effects of Clomid, Nolva, &amp; Torem. Depression is known to affect many in PCT and is an actual listed side effect of Nolva. **Please make sure you are aware of this and in a good place mentally before ever starting a cycle as you will be faced with the potential of depression in PCT.**
+Common post-cycle complaints include depressive mood alterations, fatigue, lethargy, insomnia, and decreased libido.^(\[22\]) As stated earlier, vision sides are common for both Clomid and Nolva, more so with Clomid. Hot Flashes, Nausea are two common side effects of Clomid, Nolva, &amp; Torem. Depression is known to affect many in PCT and is an actual listed side effect of Nolva. **Please make sure you are aware of this and in a good place mentally before ever starting a cycle as you will be faced with the potential of depression in PCT.**
 
 ## What to Expect from PCT
 
-As stated above in [the Side Effects section above,](https://www.reddit.com/r/steroids/wiki/thecycle/pct#wiki_side_effects) common post-cycle complaints include depressive mood alterations, fatigue, lethargy, insomnia, and decreased libido.^(\[22\]) You should be fully prepared to go through these symptoms if you chose to run a cycle.
+As stated above in [the Side Effects section above](https://www.reddit.com/r/steroids/wiki/thecycle/pct#wiki_side_effects), common post-cycle complaints include depressive mood alterations, fatigue, lethargy, insomnia, and decreased libido.^(\[22\]) You should be fully prepared to go through these symptoms if you chose to run a cycle.
 
 The biggest problem with most PCT plans is the individual having unrealistic explanations. Most PCT plans will last 4-8 weeks and many men expect everything to be back to normal once this 4-8 week period is complete. PCT does not work this way. Many men also expect for all their gains be they weight or strength gains to be maintained post-PCT if the PCT plan was proper and appropriate. Again, PCT does not work this way.
 
@@ -377,17 +381,17 @@ This is the PCT plans you should use if you want PCT to be as **as effective as 
 
 Starting at the beginning of the cycle.
 
-* **Over Entire Length Of Cycle:** 250 iu EOD or 500 iu 2x/week
-* Stop HCG Before Starting SERM
+* **Over Entire Length Of Cycle:** 250 IU EOD
+* Stop hCG Before Starting SERM
 * **6-8 Weeks:** Nolvadex 10 mg ED  =  10/10/10/10/10/10 (10/10)
 
 ### Option 2
 
 Starting 6 weeks before PCT (SERM).
 
-* **Weeks 6-4:** 500-1000 iu 3x/week
-* **Weeks 3-1:** 500-1000 iu 2x/week
-* **Week 0:** Stop HCG &amp; Starting SERM
+* **Weeks 6-4:** 500-1000 IU 3x/week
+* **Weeks 3-1:** 250-500 IU 3x/week
+* **Week 0:** Stop hCG &amp; Starting SERM
 * **6-8 Weeks:** Nolvadex 10 mg ED = 10/10/10/10/10/10 (10/10)
 
 ## Clomid
@@ -396,16 +400,16 @@ Starting 6 weeks before PCT (SERM).
 
 Starting at the beginning of the cycle.
 
-* **Over Entire Length Of Cycle:** 250 iu EOD or 500 iu 2x/week
-* Stop HCG Before Starting SERM
+* **Over Entire Length Of Cycle:** 250 IU EOD
+* Stop hCG Before Starting SERM
 * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
 
 ### Option 2
 
 Starting 6 weeks before PCT (SERM).
 
-* **Weeks 6-4:** 500-1000 iu 3x/week
-* **Weeks 3-1:** 500-1000 iu 2x/week
+* **Weeks 6-4:** 500-1000 IU 3x/week
+* **Weeks 3-1:** 250-500 IU 3x/week
 * **Week 0:** Stop HCG &amp; Starting SERM
 * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
 
@@ -415,7 +419,7 @@ Starting 6 weeks before PCT (SERM).
 
 Starting at the beginning of the cycle.
 
-* **Over Entire Length Of Cycle:** 250 iu EOD or 500 iu 2x/week
+* **Over Entire Length Of Cycle:** 250 IU EOD
 * Stop HCG Before Starting SERM
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
@@ -423,24 +427,24 @@ Starting at the beginning of the cycle.
 
 Starting 6 weeks before PCT (SERM).
 
-* **Weeks 6-4:** 500-1000 iu 3x/week
-* **Weeks 3-1:** 500-1000 iu 2x/week
-* **Week 0:** Stop HCG &amp; Starting SERM
+* **Weeks 6-4:** 500-1000 IU 3x/week
+* **Weeks 3-1:** 250-500 IU 3x/week
+* **Week 0:** Stop hCG &amp; Starting SERM
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
 ## Secondary PCT Options
 
-This is the PCT plans you should use if you were in a position where HCG wasn't an option until something changed and you now have access to it at the VERY end of your cycle.
+This is the PCT plans you should use if you were in a position where hCG wasn't an option until something changed and you now have access to it at the VERY end of your cycle.
 
-**Note:** Aromasin is added in to combat the E2 sides from HCG. Previously HCG was utilized on cycle and you'd just adjust AI as necessary. Since you are no longer on cycle, we will use Aromasin. This is a lot of Aromasin, but has clinically be shown to be effective in aiding to stimulate testicular function. You may end up experiencing [low E2 sides.](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing the Optimal/Primary PCT Options](https://www.reddit.com/r/steroids/wiki/draft#wiki_optimal.2Fprimary_pct_options)
+**Note:** Aromasin is added in to combat the E2 sides from HCG. Previously hCG was utilized on cycle and you'd just adjust AI as necessary. Since you are no longer on cycle, we will use Aromasin. This is a lot of Aromasin, but has clinically be shown to be effective in aiding to stimulate testicular function. You may end up experiencing [low E2 sides.](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing the Optimal/Primary PCT Options](https://www.reddit.com/r/steroids/wiki/draft#wiki_optimal.2Fprimary_pct_options)
 
 ## Nolvadex
 
 ### Option 1
 
-Taking HCG right before PCT.
+Taking hCG right before PCT.
 
-* **1-2 Weeks BEFORE PCT:** HCG 1000-1500 iu EOD
+* **1-2 Weeks BEFORE PCT:** hCG 1000-1500 IU EOD
 * **1-2 Weeks BEFORE PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 * Stop HCG Before Starting SERM
 * **6-8 Weeks:** Nolvadex **10 mg** ED = 10/10/10/10/10/10 (10/10)
@@ -450,7 +454,7 @@ Taking HCG right before PCT.
 Taking HCG and SERM together.
 
 * **6-8 Weeks:** Nolvadex **10** **mg** ED =  10/10/10/10/10/10 (10/10)
-* **First 1-2 Weeks Of PCT:** HCG 1000-1500 iu EOD
+* **First 1-2 Weeks Of PCT:** HCG 1000-1500 IU EOD
 * **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
 ## Clomid
@@ -459,7 +463,7 @@ Taking HCG and SERM together.
 
 Taking HCG right before PCT.
 
-* **1-2 Weeks BEFORE PCT:** HCG 1000-1500 iu EOD
+* **1-2 Weeks BEFORE PCT:** HCG 1000-1500 IU EOD
 * **1-2 Weeks BEFORE PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 * Stop HCG Before Starting SERM
 * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
@@ -469,7 +473,7 @@ Taking HCG right before PCT.
 Taking HCG and SERM together.
 
 * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
-* **First 1-2 Weeks Of PCT:** HCG 1000-1500 iu EOD
+* **First 1-2 Weeks Of PCT:** HCG 1000-1500 IU EOD
 * **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
 ## Torem
@@ -478,7 +482,7 @@ Taking HCG and SERM together.
 
 Taking HCG right before PCT.
 
-* **1-2 Weeks BEFORE PCT:** HCG 1000-1500 iu EOD
+* **1-2 Weeks BEFORE PCT:** HCG 1000-1500 IU EOD
 * **1-2 Weeks BEFORE PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 * Stop HCG Before Starting SERM
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
@@ -488,7 +492,7 @@ Taking HCG right before PCT.
 Taking HCG and SERM together.
 
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
-* **First 1-2 Weeks Of PCT:** HCG 1000-1500 iu EOD
+* **First 1-2 Weeks Of PCT:** HCG 1000-1500 IU EOD
 * **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
 ## Minimalist PCT Options
@@ -516,21 +520,25 @@ These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be
 [Based on this 2014 paper by the American Society for Reproductive Medicine](https://www.ncbi.nlm.nih.gov/pubmed/24636400) this is what they recommend physicians prescribe for anabolic steroid–induced hypogonadism (ASIH):
 
 * **Before Starting:** Initial blood work will be taken and will include: hormonal panel (LH, FSH, E2, T, freeT, SHBG, and PRL), complete blood cell count, lipid profile, prostate-specific antigen, and a comprehensive metabolic profile.
+
 * **Week 1-4:** *For the severely symptomatic patients,* a 4-week tapered course of transdermal or injectable TRT *may* provide immediate symptom improvement (i.e. those that have been off for a while and have not recovered or are experiencing Low T symptoms). Simultaneous administration of a SERM (such as clomiphene citrate, 25 mg every other day) will interact at the hypothalamus causing stimulation of LH and ultimately increase intratesticular T. For patients with ASIH-induced gynecomastia, 10–20 mg tamoxifen daily will block the breast estrogen receptors and stimulate HPG axis recovery.
+
 * **Week 5-8:** After 4 weeks of treatment with TRT and/or a SERM, repeated hormone panels should be obtained. If the patient has had either a poor gonadotropin response or a poor T response, the authors commence a 4-week course of hCG (1,000–3,000 IU, 3 times per week) while continuing daily treatment with a SERM at the initial starting dose. If a patient develops gynecomastia while on hCG, Tamoxifen aka Nolvadex 10 mg b.i.d. (twice a day) or Anastrazole (Arimidex) may be commenced.
 * **After Week 8:** After 8 weeks of hCG and adjunctive treatment, you should get blood work again and hormone levels should once again be assessed.
+
 * **If the total serum T remains low and the patient continues to be symptomatic:** primary testicular failure is likely. These patients will require a longer duration of TRT to avoid permanent ASIH.
+
 * **If appropriately increased serum T and gonadotropin levels are observed:** the SERM may be reduced to 50% of its starting dose at 10 weeks of treatment and continued through weeks 12–16 or until target serum T level is achieved. Recovery of hormonal function may be limited in men with testicular failure, and close monitoring is recommended.
 
 ## Original PoWeR PCT
 
 *by Michael Scally (former) M.D.*
 
-* HCG - 2500 IU EOD – first 16 days
+* hCG - 2500 IU EOD – first 16 days
 * Clomid - 100 mg ED - split the dose ½ in the AM, ½ in the PM for the first 30 days
 * Nolvadex - 10 mg ED – entire 45 days
 
-**NOTE:** Clomid and HCG dosing are extremely high, 50 mg clomid should be the upper limit as you should never need more. Blasting high doses of HCG could lead to desensitization of receptors.
+**NOTE:** Clomid and hCG dosing are extremely high, 50 mg Clomid should be the upper limit as you should never need more. Blasting high doses of hCG could lead to desensitization of receptors.
 
 The above is a documented and approved PCT plan by former Dr. Scally. This can be found in *Anabolics 10th Edition* by William Llewellyn.
 
@@ -542,7 +550,7 @@ The above is a documented and approved PCT plan by former Dr. Scally. This can b
 * Clomid - 100 mg ED - split the dose ½ in the AM, ½ in the PM (first 30 days)
 * Nolvadex - 10 mg ED – (entire 45 days)
 
-**NOTE:** Clomid and HCG dosing are extremely high, 50 mg clomid should be the upper limit as you should never need more. Blasting high doses of HCG could lead to desensitization of receptors.
+**NOTE:** Clomid and hCG dosing are extremely high, 50 mg Clomid should be the upper limit as you should never need more. Blasting high doses of hCG could lead to desensitization of receptors.
 
 The above is a documented and approved PCT plan by former Dr. Scally.
 
@@ -550,17 +558,17 @@ The above is a documented and approved PCT plan by former Dr. Scally.
 
 ## Controversy
 
-Aside from the high Clomid and HCG dosages, it should be noted that there is some controversy on whether using two SERMs at once is beneficial or not.
+Aside from the high Clomid and hCG dosages, it should be noted that there is some controversy on whether using two SERMs at once is beneficial or not.
 
 This is one of the explanations that Dr. Scally has given:
 
 &gt; *Clomid acts as an estrogen, rather than an anti-estrogen, by sensitizing pituitary cells to the action of GnRH. Although tamoxifen is almost as effective as Clomid in binding to pituitary estrogen receptors, tamoxifen has little or no estrogenic activity in terms of its ability to enhance the GnRH-stimulated release of LH. The estrogenic action of Clomid at the pituitary represents a unique feature of this compound and that tamoxifen may be devoid of estrogenic activity at the pituitary level.*
 
-Some strongly disagree with Dr. Scally's reasoning behind the use of clomid. What he is describing here is believed to be "estrogen priming," the concept that estrogen makes the pituitary more sensitive to GnRH from the hypothalamus, so that more LH is released for a given GnRH stimulus. This is well known to occur in females leading up to ovulation. Unlike females, however, men don't have a preovulatory period or spikes in LH. The research is fairly clear that estrogen priming does not occur in males. For starters, take a look at an authoritative reference work like Grossman's Clinical Endocrinology, which states (pg. 99):
+Some strongly disagree with Dr. Scally's reasoning behind the use of Clomid. What he is describing here is believed to be "estrogen priming," the concept that estrogen makes the pituitary more sensitive to GnRH from the hypothalamus, so that more LH is released for a given GnRH stimulus. This is well known to occur in females leading up to ovulation. Unlike females, however, men don't have a preovulatory period or spikes in LH. The research is fairly clear that estrogen priming does not occur in males. For starters, take a look at an authoritative reference work like Grossman's Clinical Endocrinology, which states (pg. 99):
 
 &gt;Progesterone, acting synergistically with oestrogens, exerts negative feedback on the hypothalamus during the luteal phase, thus limiting GnRH pulsatility and slowing LH pulse frequency. The mechanism of positive oestrogen feedback at the time of the LH surge has been much debated. There is now evidence that enhancement of both hypothalamic GnRH pulse generator activity and pituitary responsiveness to GnRH are involved. All species so far studied have shown an increased 'self-priming' effect of GnRH on the pituitary during the preovulatory period... In males, the situation is more straightforward. Since LH surges do not occur, only negative feedback effects are relevant. testosterone (and its active metabolite dihydrotestosterone, DHT) exerts major suppressive effects on both LH and FSH secretion, largely by inhibiting the GnRH pulse frequency generator, but possibly also by direct pituitary actions. Oestrogens in the male reduce pituitary responsiveness to GnRH.
 
-That states clearly that there is no priming in males, only negative feedback. The last emboldened sentence in this quote directly contradicts Dr. Scally's quote above. If clomid were to produce estrogenic action in the pituitary, it would only serve to inhibit LH secretion.
+That states clearly that there is no priming in males, only negative feedback. The last emboldened sentence in this quote directly contradicts Dr. Scally's quote above. If Clomid were to produce estrogenic action in the pituitary, it would only serve to inhibit LH secretion.
 
 Grossman's statement is corroborated by the [more recent research](https://academic.oup.com/jcem/article/93/3/784/2598350) on the specific effects of androgens and estrogen on the pituitary and hypothalamus of healthy men. Here, it was shown that estrogenic action at the pituitary has an inhibitory effect on LH output. In other words, estrogen decreases pituitary sensitivity to GnRH. Estrogen does not produce positive feedback as seen in estrogen priming in females. The paper stated in its conclusion that: "These data confirm previous work from our group which ... showed \[estrogen\] has both hypothalamic and pituitary sites of negative feedback in the male." In fact, "negative feedback at the pituitary requires aromatization," as testosterone itself doesn't produce negative feedback at the pituitary.
 
@@ -570,7 +578,7 @@ Grossman's statement is corroborated by the [more recent research](https://acade
 
 In other words, estrogen levels during brain development are responsible for the sex-specific differences in gonadotrophin secretion and estrogen feedback at the pituitary. The important point of this research is that males (with the exception of homosexuals) were not found to have any positive feedback from estrogen. Those results that were "strongly confirmed."
 
-Finally, there's [this research](https://www.ncbi.nlm.nih.gov/pubmed/640052) (that was [referenced above](https://www.reddit.com/r/steroids/wiki/draft#wiki_serms.3A_nolvadex.2C_clomid.2C_toremifene.2C_.26amp.3B_raloxifene)), which couldn't have been any more relevant. It directly examined the effects of nolva and clomid on the pituitary of human males. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking Nolvadex at 20 mg/day had a significantly increased LH response to GnRH. In contrast, **the men taking clomid had reduced LH output, a decreased sensitivity to GnRH.** The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen seems the most probable explanation."
+Finally, there's [this research](https://www.ncbi.nlm.nih.gov/pubmed/640052) (that was [referenced above](https://www.reddit.com/r/steroids/wiki/draft#wiki_serms.3A_nolvadex.2C_clomid.2C_toremifene.2C_.26amp.3B_raloxifene)), which couldn't have been any more relevant. It directly examined the effects of Nolva and Clomid on the pituitary of human males. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking Nolvadex at 20 mg/day had a significantly increased LH response to GnRH. In contrast, **the men taking Clomid had reduced LH output, a decreased sensitivity to GnRH.** The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen seems the most probable explanation."
 
 ## Jcaesar369 Recommended PCT Protocol
 
@@ -583,7 +591,9 @@ Finally, there's [this research](https://www.ncbi.nlm.nih.gov/pubmed/640052) (th
 We will count down the last 6 weeks (plus 3 days - 45 days total). You will start the SERM's after day 0.
 
 * **T-minus 45 to 24 Days:** 500–1000 IU HCG 3x weekly (IM) for 3 weeks
-* **T-minus 23 to 2 Days:** 500–1000 IU HCG 2x weekly (IM) for 3 weeks **OR** 250 to 500 iu HCG 3x weekly (injected IM) for 3 weeks
+
+* **T-minus 23 to 2 Days:** 250-500 IU HCG 3x weekly (IM) for 3 weeks 
+
 * **T-minus 2 to 0 Days:** Wait 3 days before starting SERM's
 
 **Starting The SERMs**
@@ -624,12 +634,12 @@ The reason for the Nolvadex or Toremifine is to prevent the estrogen rebound tha
 **Weeks 1-2 (last 2 weeks of injecting test)**
 
 * Test C/E (normal TRT dose)
-* 400 iu HCG E3D
+* 400 IU HCG E3D
 * 20 mg Clomid EOD
 
 **Weeks 3-4**
 
-* 400 iu HCG E3D
+* 400 IU HCG E3D
 * 20 mg Clomid EOD
 
 **Weeks 5 - 6**
@@ -644,7 +654,9 @@ The reason for the Nolvadex or Toremifine is to prevent the estrogen rebound tha
 
 ## Triptorelin/GnRH
 
-A newer approach receiving recent attention is **Triptorelin**, the GnRH agonist.  This is used in a continuous manner to chemically castrate a man, but in a one off dose, has been reported to kick start the PTA in a hypogonadic BB. Triptorelin is a synthetic analogue of GnRH. It causes constant stimulation of the pituitary gland and by acting as such, it stimulates the pituitary gland to pump out LH and FSH. The dose needed to cause chemical castration is much greater than the dose one would use to restart HPTA. The way Triptorelin hinders gonadotropin release is similar to how HCG will hinder test production in the testes. A small amount of HCG will stimulate the Leydig cells to produce testosterone, but too much will desensitize the Leydig cells. This is what GnRH does, but with the pituitary gland. Triptorelin has been studied to restore full HPTA function in a steroid user who cycled for 13 years. Due to it's nature it is advised that Triptorelin only be used if coming off long-term blasting and cruising or if one plans to cease AAS forever.
+A newer approach receiving recent attention is **Triptorelin**, the GnRH agonist.  This is used in a continuous manner to chemically castrate a man, but in a one off dose, has been reported to kick start the PTA in a hypogonadic BB. Triptorelin is a synthetic analogue of GnRH. It causes constant stimulation of the pituitary gland and by acting as such, it stimulates the pituitary gland to pump out LH and FSH. The dose needed to cause chemical castration is much greater than the dose one would use to restart HPTA. 
+
+The way Triptorelin hinders gonadotropin release is similar to how hCG will hinder test production in the testes. A small amount of hCG will stimulate the Leydig cells to produce testosterone, but too much will desensitize the Leydig cells. This is what GnRH does, but with the pituitary gland. Triptorelin has been studied to restore full HPTA function in a steroid user who cycled for 13 years. Due to it's nature it is advised that Triptorelin only be used if coming off long-term blasting and cruising or if one plans to cease AAS forever.
 
 Anecdotal evidence claims that Triptorelin is capable of restoring HPTA function to those diagnosed with hypogonadism.
 
@@ -658,7 +670,7 @@ Anecdotal evidence claims that Triptorelin is capable of restoring HPTA function
 
 * While the literature is scant in this field, a recent paper has shed some light on this mechanism: [Short-Term Aromatase-Enzyme Blockade Unmasks Impaired Feedback Adaptations in Luteinizing Hormone and Testosterone Secretion in Older Men](http://jcem.endojournals.org/content/90/1/211.long)
 
-* **How clomid affects the eyes:** [Effect of clomiphene on [Ca2+]i rises and cell viability in rabbit corneal epithelial cells
+* **How Clomid affects the eyes:** [Effect of clomiphene on [Ca2+]i rises and cell viability in rabbit corneal epithelial cells
 ](http://onlinelibrary.wiley.com/doi/10.1002/ddr.20253/abstract)
 
 * **Explains the possible cause behind vision effects:** [Oxidative stress plays an important role in the pathogenesis of drug-induced retinopathy](http://www.ncbi.nlm.nih.gov/pubmed/15229354)
