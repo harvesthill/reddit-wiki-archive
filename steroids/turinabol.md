@@ -36,6 +36,10 @@ In women virilization may be a concern if higher doses are used. However even in
 
 Also like most oral steroids liver and cholesterol health should be a concern while running this compound. It can cause increased liver values, liver damage and reduction in a user's HDL cholesterol ("good" cholesterol) and increased LDL cholesterol ("bad"). This is why it is not a good idea to run this compound for an extended period of time.
 
+##Compound Experience Thread
+
+[Compound Experience Thread](https://www.reddit.com/r/steroids/comments/hpaq69/compounds_turinabol_aka_tbol/)
+
 ##References
 
 1. *Kaufmann G, Schumann G, Horhold C. Influence of 1-double bond and 11 beta-hydroxy group on stereospecific microbial reductions of 4-en-3-oxo-steroids. J Steroid Biochem. 1986 Oct;25(4):561-6.*
