@@ -42,6 +42,44 @@ Weekly dosage is low. In clinical studies, the injectable pellets used released 
 
 A common dose for AAS users is 10 mg per day, or 70 mg per week. Megablast dosages are anywhere from 25-50 mg per day, or 175-350 mg per week, even on up to 100 mg/day. Cycle duration is oft-limited to 6-8 weeks due to extremely rapid physique changes. 
 
+## Posts 
+
+A compilation of commentary on Trestolone. 
+
+* [Solo or No?](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gehtg6t)
+
+* [Dosage Guidelines](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcym1h4)
+
+* [Babies &amp; Birth Control](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gbgq0mb)
+
+* [E2/AI Culture Shift](https://www.reddit.com/r/steroids/comments/julipg/daily_ask_anything_20201115/gcenek5)
+
+* [Managing Estrogen, E2 &amp; Bone Density](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcylui8)
+
+* [Compound Experience Thread](https://www.reddit.com/r/steroids/comments/86t5st/compound_experience_saturday_trestolone_trest_ment/)
+
+* [Trestolone on Wikipedia](https://en.wikipedia.org/wiki/Trestolone)
+
+## Reviews
+
+* [Review](https://www.reddit.com/r/steroids/comments/hmc6rh/discussion_what_are_your_unpopular_opinionshot/fxt897j) “I can’t say that anything I’ve ever taken or any stack ever felt like this.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/hpd5cp/discussion_what_cycle_in_your_lifting_career_has/fxtwq1i) “Ten times more myotropic than Testosterone.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/hcmk9e/compound_trestolone_trest_ment/fvhxf4m) “This compound is God for me. Insane strength, growth and recovery. Growth is incredible.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/h8gmm4/trestolone_psa_compound/fur7vxk) “10 mg gives the same recovery and strength as a gram of test and 200 tren—without the side effects of either.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/k3vb9z/offtopic_daily_chat_20201130/ge6nnds/) “the best I've ever felt in my life.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/k3vb9z/offtopic_daily_chat_20201130/ge669wp) “The absolute best thing I’ve done since starting testosterone. Hands down the best call I’ve ever made. It’s crazy what this stuff can do. I’m hugely impressed.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/fxrzrb/daily_ask_anything_20200409/fmyx6iv) “Like a cross between Tren and Deca—without any of the negative sides. Far stronger than both combined: ‘*Test on test*’ or ‘*Super-test*.’”
+
+* [Review](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gei70ff) “Every single stage has been absolutely incredible as far as pushing more weight and building muscle even in a deficit. It's amazing.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gehnye7) “Test and Trest are the ideal synergistic combo. The duo can be used in cutting as well as lean bulking.”
+
 ##References
 
 1.  [Wikipedia: Trestolone](https://en.wikipedia.org/wiki/Trestolone)  
