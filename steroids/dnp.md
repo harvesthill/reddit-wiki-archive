@@ -55,6 +55,7 @@ Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 20
 **A note on safety: The longer DNP is run, the higher %potential for adverse effects.** 
 
 *Some users have been known to run upwards of 1g/day. This is not only overkill but it is also extremely dangerous, as 1g/day moving into stable blood levels can put you either just below, at, or above the overdose limit depending on your weight. Most users who will dose 1g, will do so as either a frontload or once a week as an added boost.* **Again, this is not necessary or recommended.**
+
 **[Click here - Graph of blood level accumulation based on dose/time](http://i.imgur.com/TUGgzjn.jpg)**
 
 ***
@@ -141,7 +142,38 @@ These side effects are incredibly rare - and are ALL a result of extremely long 
 
 ***
 
-##**Sources**
+##**Resources**
+
+# DNP Resources
+
+**New** r/DNP **Homepage**
+
+* [DNP's new home](https://analytical-augmentation.com/)
+* [DNP Resources](https://analytical-augmentation.com/resources/)
+* [DNP FAQ](https://analytical-augmentation.com/faq/)
+
+**Reddit**
+
+* [DNP Comeback thread](https://www.reddit.com/r/steroids/comments/kc46w7/compounds_dnp_has_become_increasingly_popular_in/gfpt38e?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+* [DNP Compound Profile](https://www.reddit.com/r/steroids/comments/23vbp1/compound_profile_dnp/)
+* [DNP subreddit](https://www.reddit.com/r/DNP) at r/DNP
+* [Compound Experience Thread 1](https://www.reddit.com/r/steroids/comments/8yxco9/compound_experience_saturday_24dinitrophenol_aka/)
+* [Compound Experience Thread 2](https://www.reddit.com/r/steroids/comments/5dr6o3/compound_experience_saturday_dnp_24dinitrophenol/)
+* [Compound Experience Thread 3](https://www.reddit.com/r/PEDs/comments/7ymmjc/compound_experience_thread_dnp_24dinitrophenol/)
+* [DNP 18-Day Log with Pics ](https://www.reddit.com/r/steroids/comments/5zsmcd/18day_dnp_log_375mgday_pics_protocol_diet_and/)
+* [DNP Before/After](https://www.reddit.com/r/steroids/comments/58l63b/dnp_beforeafter/)
+* [My Experience on DNP: DNP Log](https://www.reddit.com/r/steroids/comments/2hgyw2/my_experience_on_dnp_dnp_log/)
+* [DPN Before and After Photos](https://www.reddit.com/r/steroids/comments/2ypufy/dnp_before_and_after_photos/)
+
+**Media**
+
+* [DNP: A Possible Comeback](https://blogs.sciencemag.org/pipeline/archives/2015/03/03/dinitrophenol_a_possible_comeback)
+* [Banned weight-loss drug could combat liver disease, diabetes](https://www.sciencemag.org/news/2015/02/banned-weight-loss-drug-could-combat-liver-disease-diabetes)
+* [Would you use it with a seal of approval?](https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00124/full)
+
+&gt;“With advances in research, 2,4-DNP as a pharmaceutical drug in the future for treating **neurodegenerative diseases** and potentially for **weight loss** is not inconceivable.”
+
+###Additional Links
 
 [DNP Explained](http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CDAQFjAA&amp;url=http%3A%2F%2Fforum.bodybuilding.com%2Fattachment.php%3Fattachmentid%3D198602%26d%3D1114719063&amp;ei=A5lIU93OL8mx0QX4poDYBQ&amp;usg=AFQjCNHGv-P24DU2CdpUmuT32VScQbi5-w&amp;sig2=QKXZ1prmCWquiE4ijzB6hA&amp;bvm=bv.64542518,d.d2k) - Courtesy of /u/HyperactiveGray
 
