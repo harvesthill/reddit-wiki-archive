@@ -184,11 +184,11 @@ biological fluids, such as sera.
 
 ####**Which Filter Type Should I Use?**
 
-For sterile filtering of oils use PES, PVDF, Nylon, Cellulose Acetate, Cellulose Nitrate, Regenerated Cellulose, or MCE (Mixed Cellulose Esters).
+For sterile filtering of oils use PVDF, Nylon, Cellulose Acetate, Cellulose Nitrate, Regenerated Cellulose, or MCE (Mixed Cellulose Esters).
 
-Of the list, I recommend either PES or PVDF (They are very commonly found.)
+Of the list, I recommend PVDF (It's very commonly found.)
 
-PVDF will have greater filtering capacity, but PES will filter more quickly.
+PVDF will have greater filtering capacity. PES can dissolve under high concentrations of BA or BB. 
 
 ####**Syringe Filtering**
 
