@@ -64,6 +64,8 @@ A compilation of commentary on Trestolone.
 
 * [Review](https://www.reddit.com/r/steroids/comments/hmc6rh/discussion_what_are_your_unpopular_opinionshot/fxt897j) “I can’t say that anything I’ve ever taken or any stack ever felt like this.”
 
+* [Review](https://www.reddit.com/r/steroids/comments/kmdymm/daily_ask_anything_20201229/ghe85an) “Is it expensive? Yes. Is it worth it? Also yes. E2 management is not as hard as some people claim it to be. At 350mg/wk Trestolone, 200mg Testosterone, I only need to take 0.25mg Arimidex twice a week on Test injection days. Strength gains are substantial, muscle mass has been increasing rapidly as well. I’m very pleased with the effects and plan on including it in all my future cycles.”
+
 * [Review](https://www.reddit.com/r/steroids/comments/hpd5cp/discussion_what_cycle_in_your_lifting_career_has/fxtwq1i) “Ten times more myotropic than Testosterone.”
 
 * [Review](https://www.reddit.com/r/steroids/comments/hcmk9e/compound_trestolone_trest_ment/fvhxf4m) “This compound is God for me. Insane strength, growth and recovery. Growth is incredible.”
