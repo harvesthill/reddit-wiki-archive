@@ -95,7 +95,7 @@ The following material is presented on topics related to /r/steroids for educati
 |**GH**|Growth Hormone||
 |**Gyno**|Gynecomastia|Side effect resulting from increased prolactin and/or estrogen production|
 |**Halo**|Halotestin||
-|**HCG**|Human Chorionic Gonadotropin|Luteinizing Hormone provided to facilitate production of testosterone by gonads|
+|**HCG**|Human Chorionic Gonadotropin|Luteinizing Hormone provided to facilitate production of testosterone by gonads. Standard Dose: 250 IU EOD|
 |**HGH**|Human Growth Hormone||
 |**hMG**|Human Menopausal Gonadotropin|Luteinizing hormone and Follicle-stimulating hormone to facilitate the production of testosterone and spermatozoa by the gonads|
 |**HRT**|Hormone Replacement Therapy||

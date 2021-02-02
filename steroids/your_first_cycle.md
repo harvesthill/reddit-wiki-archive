@@ -277,7 +277,11 @@ Then, you will either do a [/r/steroids Recomended PCT](/r/steroids/wiki/thecycl
 
 ###**Why Should I Use HCG?**
 
-Running a small dose of [HCG](/r/steroids/wiki/hcg) will help to keep the testes full and will aid with recovery once you come to the end of your cycle and need to PCT. It’s not 100% necessary, but if you have access to some and don’t mind spending a small amount of money to speed up your recovery then it is probably worth looking at. **[Learn more on the PCT wiki page.](https://www.reddit.com/r/steroids/wiki/thecycle/pct)**
+Running a small dose of [HCG](/r/steroids/wiki/hcg) will help to keep the testes full and will aid with recovery once you come to the end of your cycle and need to PCT. It’s not 100% necessary, but if you have access to some and don’t mind spending a small amount of money to speed up your recovery then it is probably worth looking at. 
+
+Suggested Dose: **Run 250 IU EOD throughout the full cycle**. 
+
+**[Learn more on the PCT wiki page.](https://www.reddit.com/r/steroids/wiki/thecycle/pct)**
 
 ###**How Do I Mix And Run My HCG?**
 

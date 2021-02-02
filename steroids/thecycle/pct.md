@@ -166,10 +166,14 @@ HCG is ran a couple different ways:
 
 ***This is the preferred option***, as it keeps the Leydig cells active, reducing atrophy and the reactive oxygen species (ROS) free radical damage incurred by prolonged shutdown. HCG can be ran over the entire length of the cycle to make PCT easy and efficient, if desired:
 
-* **Over Entire Length Of Cycle:** 250 IU EOD 
+* **Over Entire Length Of Cycle: 250 IU EOD**
 * Stop HCG use before starting PCT (SERM)
 
-**Important Note:** 250 IU 2x/week is used by some, but there have been studies on maintaining intratesticular testosterone in healthy men with gonadotropin suppression. This study found 125 IU EOD (437.5 iu/week) was 25% less than baseline. Alternatively, 250 IU EOD (875 iu/week) was found to only be 7% below baseline.^(\[13\]) For this reason, **it is recommended to use at least 250 IU EOD**. If desiring to be as close to baseline as possible, you would need more than 875 IU/week (7% less than baseline) and less than 1750 IU/week (26% above baseline). This is where the 500 IU 2x/week comes in, but without a study comparing, we are only speculating and you could need more. Alternatively, if money is a factor, it is best to use some hCG rather than no hCG, and you may do less than the recommended: 500-750 IU/week.
+**Important Note:** 250 IU 2x/week is used by some, but there have been studies on maintaining intra-testicular testosterone in healthy men with gonadotropin suppression. This study found 125 IU EOD (437.5 iu/week) was 25% less than baseline. Alternatively, 250 IU EOD (875 iu/week) was found to only be 7% below baseline.^(\[13\]) 
+
+For this reason, **it is recommended to use 250 IU EOD**. If desiring to be as close to baseline as possible, you would need more than 875 IU/week (7% less than baseline) and less than 1750 IU/week (26% above baseline). This is where the 500 IU 2x/week comes in, but without a study comparing, we are only speculating and you could need more. Alternatively, if money is a factor, it is best to use some hCG rather than no hCG, and you may do less than the recommended: 500-750 IU/week.
+
+**If only taking it for PCT, and not regularly**:
 
 ### 2. Weeks Leading Up To PCT
 
