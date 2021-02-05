@@ -450,6 +450,15 @@ No heat. Took an hour to dissolve.
 
 ####**Injectible Orals**
 
+**Superdrol**
+
+* 40mg/mL to make 10mL of oil (scale up to whatever you want)
+* 0.4g Superdrol raws
+* 0.06mL BA
+* 2mL BB
+* 7.6mL MCT oil
+Starting dosage 4mg daily as recommended by u/PM_me_varbies but can be upped to 10mg with decent results.
+
 **M1T 30mg/ml - 60ml** submitted by u/JasonJewnova
 
 * 1.8g Powder
@@ -457,12 +466,12 @@ No heat. Took an hour to dissolve.
 * 9ml BB
 * 48.5ml Mig840
 
-**Methyl Tren 2.5mg/ml - 50ml** Submitted by u/JasonJewnova
+**Methyl Tren 2.5mg/mL - 50mL** Submitted by u/JasonJewnova
 
-* 125mg Methyl Tren Powder
-* .75ml BA
+* 125mg Methyltren raws
+* 0.75ml BA
 * 5ml BB
-* 44.14ml Mig840
+* 44.14mL Mig840
 
 ##Excipients
 
