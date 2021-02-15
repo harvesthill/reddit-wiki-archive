@@ -10,11 +10,25 @@ This wiki page will include how to administer the steroids, recommended doses an
 
 ###Can I Just Do An Oral Only Cycle?
 
-You can. Should you? Absolutely not. Oral steroids are going to suppress your natural Testosterone production hard. **You need to take them together with a dose of testosterone to replace your natural production, which will be shut down. Without a testosterone base, you will feel** ***weak, tired, depressed, low libido, erectile dysfunction, muscle loss and weakness***—***all the [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)***. As you won't have any testosterone to support the muscles you're building, you'll lose all your newfound, hard-earned gains just after you've gotten them. If you choose to do a orals-only cycle against all sound advice, you should look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [proper PCT](/r/steroids/wiki/thecycle/pct), as well. You should consider reading through this Wiki and *doing a real cycle*, ***complete with Testosterone***, *as you'll find better results, as well as feeling better too*.
+You can. Should you? Absolutely not. Oral steroids are going to suppress your natural Testosterone production hard. 
 
-###What About A Prohormone Or Designer Steroid Cycle That I Got At The Store?
+**ALL steroid cycles need to be taken together with a base of Testosterone to replace your natural production, which will be shut down.** 
 
-Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. **You need to take them together with a dose of testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)**. Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones / Designer Steroids is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
+**Without a Testosterone base, you will feel** ***weak, tired, depressed, low libido, erectile dysfunction, muscle loss and weakness***—***all the [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)***. 
+
+As you won't have any Testosterone to support the muscles you're building, you'll lose all your newfound, hard-earned gains just after you've gotten them.
+
+If you choose to do a orals-only cycle against all sound advice, you should look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [proper PCT](/r/steroids/wiki/thecycle/pct), as well. You should consider reading through this Wiki and *doing a real cycle*, **complete with Testosterone**, *as you'll find better results, as well as feeling better too*.
+
+###What About A Prohormone Or Designer Steroid Cycle?
+
+Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. 
+
+**You need to take ANY CYCLE*** **together with a base of Testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)**. 
+
+Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
+
+\* The *sole exception* to this rule is the novel research compound Trestolone (MENT). MENT was designed to be used as a prostate-safe replacement for Testosterone. MENT is under development by the USG as a rapidly reversible male contraceptive and as a replacement therapy for Testosterone. 
 
 #The Basic Bulk
 
