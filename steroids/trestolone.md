@@ -12,7 +12,9 @@ aka Trestolone Acetate, 7*α*\-**methyl**\-19-**nortestosterone** (MENT)
 
 ##Description
 
-**Trestolone** (**MENT**) is an experimental androgen/anabolic steroid (AAS) and progestogen medication under development by the USG and university partners for potential use as a form of hormonal birth control for men and in androgen replacement therapy for low testosterone levels in men, but has never been marketed for medical use. The compound is an extremely potent 19-nor derivative oft-described as a cross between tren and deca—but without any of the negative sides of either. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
+**Trestolone** (**MENT**) is an experimental androgen/anabolic steroid (AAS) and progestogen medication under development by the USG and university partners for potential use as a form of hormonal birth control for men and in androgen replacement therapy for low testosterone levels in men, but has never been marketed for medical use. 
+
+The compound is an extremely potent 19-nor derivative oft-described as a cross between tren and deca—but without any of the negative sides of either. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
 
 Trestolone delivers 10x more myotropic effect of testosterone. The *myotropic effect* is the effect of building muscle, making trestolone more effective in building muscle than any other commercial steroid in existence. In fact, trestolone outperforms trenbolone by a whopping 250% in this area. It's oft-described as “test on steroids” or “supercharged test.”
 
@@ -22,7 +24,7 @@ Trestolone is the *only steroid in production today* that is capable of sustaini
 
 Trestolone has an anabolic/androgenic rating of 2300:650.  In rats, it was found to be roughly ten times as myotropic as methyltestosterone. 
 
-The psychological effects MENT conveys include a positive sense of confidence, euthymia and well-being that are noted to be more heightened even than those conveyed by testosterone or DHT derivatives Proviron and Masteron.
+*In some users,* psychological effects MENT conveys include a positive sense of confidence, euthymia and well-being that are noted to be more heightened even than those conveyed by testosterone or DHT derivatives Proviron and Masteron.
 
 ##Clinical Studies
 
@@ -40,7 +42,7 @@ Recovery from MENT was *much more rapid* than from testosterone. The recovery pe
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural testosterone production values between 4-7 milligrams per day—ten times the strength of testosterone.
 
-A common dose for AAS users is 10 mg per day, or 70 mg per week. Megablast dosages are anywhere from 25-50 mg per day, or 175-350 mg per week, even on up to 100 mg/day. Cycle duration is oft-limited to 6-8 weeks due to extremely rapid physique changes. 
+A common dose for AAS users is 10 mg per day, or 70 mg per week. Blast dosages are anywhere from 25-50 mg per day, or 175-350 mg per week, on up to 100 mg/day. The compound's tolerance and lack of sides at these levels is remarkable and unique to the compound.    
 
 ## Posts 
 
