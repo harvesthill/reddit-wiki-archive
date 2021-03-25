@@ -31,6 +31,10 @@ There are several providers in the USA to choose from.
 * Anything with [Test 303756](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;search=303756) contains a lipid panel. 
 * The [Hormone Panel Unisex](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;show=2372&amp;category=14#2372) panel includes thyroid, lipids, estrogen and F&amp;T Testosterone LC/MS-MS.
 
+#### **ULTA Labs**
+
+[ULTA Labs](https://www.ultalabtests.com/ultdirect) -- Offering affordable bloodwork nationwide. Secure and confidential lab testing, most results available in 1-2 business days. Licensed Medical Director in every state that reviews each order.
+
 #### **LabsMD**
 
 * [Hormone Panel for Females](http://labsmd.com/tests.php?view=category_result&amp;show=2234&amp;category=14&amp;search=#2234) will provide the actual number for testosterone rather than "&gt; 1500". The assay used for testing estradiol will not give a false reading when using tren.
@@ -142,6 +146,7 @@ Of importance to look at is: LFT's or Liver Function Tests; fractionated cholest
 **Thyroid Function Tests:** Include free T3 and T4 as well as Thyroid Stimulating Hormone (TSH).
 
 **Cortisol**
+
 
 **Insulin and Glucose**
 

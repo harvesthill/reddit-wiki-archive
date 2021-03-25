@@ -301,7 +301,15 @@ Suggested Dose: **Run 250 IU EOD throughout the full cycle**.
 
 An easy ratio for mixing is 1ml of bacteriostatic water per 5000iu of HCG which results in 10 units ([5 small lines on a 1 mL insulin syringe](https://imgur.com/a/1Oekj) or [10 small lines on a 1/2 mL insulin syringe](https://imgur.com/a/5vGYd)) being 500iu of HCG.  
 
-&gt;  **Note**: To find out dosing for HCG use this [HCG calculator.](http://www.lostjuncture.com/HCG/HCGCalc.html)
+Generally hCG will come with a vial of lyophilized powder and an ampule of either sodium chloride solution or bacteriostatic water. You want the bacteriostatic water. The bac water is intended for multiple uses and will inhibit bacteria growth. The sodium chloride solution is intended to be used in a single injection, so if using it over multiple injections it may begin to grow bacteria.
+
+When you check your vial of lyophilized hCG it will generally be 5000iu, although it can come in other amounts.
+
+Using 5000iu as the most common example; if you take 2ml of Bac Water and inject that slowly into your vial of 5000iu hCG, you then have 250iu per tenth of a ml (cc). So every tenth of your 1ml insulin syringe would be 250iu.
+
+The other form hCG might come in is a liquid form. This is hCG in a solution with a preservative to keep it active. You may add bacteriostatic water to this in order to adjust your dosage if you need.
+
+In either case your hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing with bac water. The hCG should good for around 60 days when refrigerated. After that time poeriod it will loose a little potency as time goes on. (*Contributed by u/ThePenguinSmuggler*)
 
 ##Blood Work
 
@@ -380,6 +388,20 @@ The immediate byproduct of that adaptive response—17β-Oestradiol (E2) is high
 
 Your body knows how to handle testosterone. It's been synthesizing it since well before birth. It's essential for normal physiological functioning. The Wiki recommends 500 mg on your first cycle for good reason. 
 
+We here have listed a study that shows multiple doses and the difference between 300 and 600 weekly is significant.
+
+While changes in strength are relatively the same the amount of muscle is almost double that of the smaller dose.
+
+https://journals.physiology.org/doi/pdf/10.1152/ajpendo.2001.281.6.E1172
+
+Another study for Wilks, (first was Bashin):
+
+But let’s just say muscle size isn’t enough for you... “For starters, grouping the 300mg and the 600mg groups together in the 2001 Bashin study actually did a favor for the group taking the higher dose of 600mg per week. Their Wilks Score only improved by about 10%, versus about 15% for the 300mg group. The 600mg group DID gain more muscle and overall mass, but they only gained about the same amount of strength (a bit less, actually), so their performance relative to their size – which is what matters for Wilks Score – didn’t increase as much as the 300mg group’s did.”
+
+https://www.strongerbyscience.com/steroids-for-strength-sports/
+
+A lower dose just isn’t worth the risk:reward in terms of the shut down to your HPTA vs the gains you’ll make.
+
 Don't try to reinvent the wheel.
 
-– *Contributed by u/Decatest*
+– *Contributed by u/Decatest and u/ThePenguinSmuggler*
