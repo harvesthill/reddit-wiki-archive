@@ -67,10 +67,10 @@ By now, you have probably put on a fair bit of mass, and want to see how how muc
 
 **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. No one should take nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
 
-* **Weeks 1-12:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500–600 mg/week split *E3.5D*.
-* **Weeks 1-10:** [Nandrolone Phenylpropionate (NPP)](/r/steroids/wiki/deca_durabolin), 500–600 mg/week split **every day** or **every other day** *EOD*.
-* **Weeks 13-14:** Nothing (This allows the extraneous testosterone to clear your body).
-* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples.
+* **Weeks 1-16:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500–600 mg/week split *E3.5D*.
+* **Weeks 1-16:** [Trestolone (MENT)](https://www.reddit.com/r/steroids/wiki/trestolone), 10–25 mg/day split **every day** or **twice per day**. 
+* **Weeks 16-18:** Nothing (This allows the extraneous testosterone to clear your body).
+* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 You can extend it up to 20 weeks. If you wish to extend it, obviously all your ending weeks will change and the week you start PCT will as well.
