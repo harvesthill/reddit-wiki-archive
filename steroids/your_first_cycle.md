@@ -350,35 +350,35 @@ Test E &amp; C takes about six weeks to fully saturate the blood (*i.e.,* kick i
 
 We answer this question ten times a day. 
 
-500 mg is recommended for your first cycle.
+500mg is recommended for your first cycle.
 
-Contra what you may have been led to believe, this number was not just haphazardly chanced upon. There's actually a great deal of critical thinking and rationale that went into arriving at this figure. 
+*Contra* what you may have been led to believe, this number was not just haphazardly chanced upon. There's actually a great deal of critical thinking and rationale that went into arriving at this figure. 
 
 500 mg is a low dose. 
 
-Gains are linear up to 600 mg and beyond:
+Gains are log-linear up to 600 mg and well beyond.
 
 &gt; *[Testosterone dose-response relationships in healthy young men](https://www.ncbi.nlm.nih.gov/m/pubmed/11701431/)*
 &gt;
 &gt; *Lean body mass*: 
 &gt; 
-&gt; 125mg = +3.4 kg. 
+&gt; 125mg = +3.4 kg 
 &gt; 
-&gt; 300mg = +5.2 kg. 
+&gt; 300mg = +5.2 kg
 &gt; 
 &gt; 600mg = +7.9 kg
 
-If you're going with 300 mg you're still shutting yourself down, and you're leaving gains on the table for nothing. 
+If you're going with 300mg you're still shutting yourself down—and you're leaving free gains on the table for nothing. 
 
 There's no difference in sides between 300 and 500.
 
 There's no difference in shutdown between 300 and 500. 
 
-500 mg is a low dose in that you can take ten times that without any Ill effects. Someone who is a low aromatizer—*not all that rare*—can take 1000 mg Test with no AI and no sides, no problem. 
+500mg is a low dose in that you can take ten times that without any Ill effects. Someone who is a low aromatizer—*not all that rare*—can take 1000mg Test with no AI and no sides, no problem. 
 
-500 mg is a low dose in that bodybuilders usually start from there and work up. 500 is low. 750 is medium. 1000+ is advanced.
+500mg is a low dose in that bodybuilders usually start from there and work up. 500 is low. 750 is medium. 1000+ is advanced.
 
-At 300 mg, you're putting yourself in the no-man's land just between TRT and a full-on blast where it's difficult to dial in your aromatase inhibitor (AI). Managing your estrogen with an AI is one of the most important things you can learn from your first cycle.
+At 300mg, you're putting yourself in the no-man's land just between TRT and a full-on blast where it's difficult to dial in your aromatase inhibitor (AI). Managing your estrogen with an AI is one of the most important things you can learn from your first cycle.
 
 The r/steroids wiki incorporates thousands of clinical studies and case reports to come to its numbers. Test is a very benign compound. Unlike some of the synthetics, your body immediately recognizes it and knows just what to do. 
 
@@ -386,22 +386,10 @@ Taking a higher dose than it's naturally accustomed to simply results in adaptat
 
 The immediate byproduct of that adaptive response—17β-Oestradiol (E2) is highly anabolic, cardioprotective, neuroprotective, and essential for normal physiological functioning. No acute toxicity or organ stressors manifest themselves, even at doses hundreds of times that of normal.
 
-Your body knows how to handle testosterone. It's been synthesizing it since well before birth. It's essential for normal physiological functioning. The Wiki recommends 500 mg on your first cycle for good reason. 
+Your body knows how to handle testosterone. It's been synthesizing it since before birth. It's essential for normal physiological functioning. The Wiki recommends 500mg on your first cycle for good reason. 
 
-We here have listed a study that shows multiple doses and the difference between 300 and 600 weekly is significant.
-
-While changes in strength are relatively the same the amount of muscle is almost double that of the smaller dose.
-
-https://journals.physiology.org/doi/pdf/10.1152/ajpendo.2001.281.6.E1172
-
-Another study for Wilks, (first was Bashin):
-
-But let’s just say muscle size isn’t enough for you... “For starters, grouping the 300mg and the 600mg groups together in the 2001 Bashin study actually did a favor for the group taking the higher dose of 600mg per week. Their Wilks Score only improved by about 10%, versus about 15% for the 300mg group. The 600mg group DID gain more muscle and overall mass, but they only gained about the same amount of strength (a bit less, actually), so their performance relative to their size – which is what matters for Wilks Score – didn’t increase as much as the 300mg group’s did.”
-
-https://www.strongerbyscience.com/steroids-for-strength-sports/
-
-A lower dose just isn’t worth the risk:reward in terms of the shut down to your HPTA vs the gains you’ll make.
+A lower dose just isn’t worth the risk *vis à vis* reward in terms of the shutdown to your HPTA or the gains you’ll make.
 
 Don't try to reinvent the wheel.
 
-– *Contributed by u/Decatest and u/ThePenguinSmuggler*
+– *Contributed by u/Decatest*

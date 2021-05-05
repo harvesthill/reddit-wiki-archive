@@ -42,7 +42,21 @@ Recovery from MENT was *much more rapid* than from testosterone. The recovery pe
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural testosterone production values between 4-7 milligrams per day—ten times the strength of testosterone.
 
-A common dose for AAS users is 10 mg per day, or 70 mg per week. Blast dosages are anywhere from 25-50 mg per day, or 175-350 mg per week, on up to 100 mg/day. The compound's tolerance and lack of sides at these levels is remarkable and unique to the compound.    
+A common dose for AAS users is 10 mg per day, or 70 mg per week. Blast dosages are anywhere from 25-50 mg per day, or 175-350 mg per week, on up to 100 mg/day. The compound's tolerance and lack of sides at these levels is remarkable and unique to the compound.
+
+## Estrogen Management
+
+MENT doesn’t directly impact estradiol (E2). As 7α-Methylestradiol (7α-Me-E2), it differs from the estrogen produced by Dianabol (17-α), and it doesn't show on bloodwork. 
+
+When adding MENT, don't modify estrogen management. EQ/MENT or Primo/MENT ratio doesn't matter as much as the dose of Testosterone you're taking, as that's  going to be the primary aromatizing compound. 
+
+If you start MENT and begin to experience sides, just lower the dose. 7α-Methylestradiol is very quick in/out, so more frequent dosing will cut down on spikes. Treat MENT like TNE—you wouldn't adjust your AI dose when introducing TNE. 
+
+* “There's essentially zero estrogen sides. It's a side-effect-free, more powerful and effective love child of Trenbolone and Nandrolone that's so ridiculously perfect it feels almost too good to be true.”
+
+* “I experienced no issues at 350mg a week last off-season and I have absolutely zero idea why anyone would need to run MENT higher than that.”
+
+* “I have bad pubertal gyno and have run MENT up to 700 without a single side other than BP.”
 
 ## Posts 
 
