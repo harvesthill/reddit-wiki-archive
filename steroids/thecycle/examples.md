@@ -1,4 +1,4 @@
-# Example Cycles
+# Example Cycles 
 
 * Use [SteroidCalc](http://steroidcalc.com/) To Plot Out Cycles
 
@@ -29,18 +29,46 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 
 ***Note***: You can extend up to 20 weeks. If you wish to extend it, all your ending weeks will change and the week you start PCT will as well.
 
-**Alternatives/Additives:**
+**Supplemental Compounds:**
 
-####ECA Stack
+##### WARNING: Clenbuterol Toxicity
+
+Stay away from Clen. **It's cardiotoxic**. Clen kills the muscle cells that power your heart. You only get one of those. Clen *isn't worth your life.* 
+
+**Salbutamol** (aka common asthma inhaler **Albuterol**, *in tablet form*) is equally effective, and far safer, lacking sides and cardiotoxicity.
+
+* [Clenbuterol toxicity in a young male athlete](https://www.researchgate.net/publication/318547306_Clenbuterol_toxicity_in_a_young_male_athlete)
+* [Case report and review of clenbuterol cardiac toxicity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281511/)
+* [Clenbuterol toxicity: a NSW Poisons Information Centre experience](https://www.mja.com.au/journal/2014/200/4/clenbuterol-toxicity-nsw-poisons-information-centre-experience)
+* [Case report and review of clenbuterol cardiac toxicity](https://www.researchgate.net/publication/259168174_Case_report_and_review_of_clenbuterol_cardiac_toxicity)
+* [Acute clenbuterol overdose resulting in supraventricular tachycardia and atrial fibrillation](https://www.researchgate.net/publication/5776545_Acute_clenbuterol_overdose_resulting_in_supraventricular_tachycardia_and_atrial_fibrillation)
+* [Myocardial Injury Induced by the Long Acting Beta2 Adrenergic Agonist Clenbuterol](http://www.fortunejournals.com/articles/myocardial-injury-induced-by-the-long-acting-beta2-adrenergicnbspagonist-clenbuterol.pdf)
+* [Myotoxic effects of clenbuterol in the rat heart and soleus muscle](https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.00139.2002)
+* [Relative myotoxic and haemodynamic effects of the β-agonists fenoterol and clenbuterol measured in conscious unrestrained rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1828613/)
+* [Toxicity of Weight Loss Agents](https://link.springer.com/article/10.1007/s13181-012-0213-7)
+
+#####Salbutamol: Clen's Safer Cousin
+
+**Salbutamol** is far safer and just as effective than Clenbuterol.
+
+* **Increased HDL, Decreased LDL** [Positive effects of oral albuterol on serum lipids and carbohydrate metabolism in healthy men](https://pubmed.ncbi.nlm.nih.gov/8637445/)
+* [More fat burnt in a cardio session with salbutamol](https://www.ergo-log.com/salbutamoljoules.html)
+* Be sure to get Salbutamol **tablets**, rather than Albuterol inhaler spray, which is just a recipe to get shakiness and nausea. If you can get Salbutamol tabs, they're even more effective than ephedrine but far less dangerous than Clen.
+* This study shows an increase of 11.4% in resting energy expenditure among healthy subjects with Salbutamol: [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/)
+* Reddit [r/steroids](https://www.reddit.com/r/steroids/) Wiki [Salbutamol Stack](https://www.reddit.com/r/steroids/wiki/thecycle/examples#wiki_salbutamol_stack)
+* [Combination of salbutamol, caffeine and high-calorie diet: more muscle, less fat](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html)
+
+&gt;During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to **lose more fat** and at the same time **retain more muscle**. According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also **improve body composition** during a high-calorie diet if you combine salbutamol with caffeine.
+
+#####Salbutamol Stack
+
+Even more effective than an ECA stack is **Salbutamol** with caffeine. [This stack](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html) is more effective than ephedrine while  being far safer than clenbuterol. 
+
+#####ECA Stack
 
 Another thing to consider is using a **ECA** (**ephedrine, caffeine, aspirin**) or **EC** (**ephedrine, caffeine**) stack. This will function as an appetite suppressant and accelerate your metabolism and hence aid tremendously on a cut:
 
 * **Last 8 Weeks:** [ECA or EC Stack](/r/steroids/wiki/eca_stack), Up To 3xED
-
-####Salbutamol Stack
-
-Even more effective than an ECA stack is **Salbutamol** with caffeine. [This stack](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html) is more effective than ephedrine while  being far safer than clenbuterol. 
-
 * **Last 8 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
 
 If you use Test E &amp; C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
@@ -49,7 +77,7 @@ If you use Test E &amp; C, it takes about six weeks to fully saturate the blood 
 * **For 6 Weeks:** [Epistane (Epi)](/r/steroids/wiki/epitiostanol), 40-80 mg, ED **or**
 * **For 6 Weeks:** [Anavar (Var)](/r/steroids/wiki/anavar), 40-80 mg, ED
 
-**WARNINGS**:
+**ADDITIONAL WARNINGS**:
 
 * [Winstrol (Winny)](/r/steroids/wiki/winstrol) is  considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/r/steroids/wiki/winstrol#wiki_side_effects.2Frisks))
 * [Epistane (Epi)](/r/steroids/wiki/epitiostanol) is considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/r/steroids/wiki/epitiostanol#wiki_risks.2Fside_effects))

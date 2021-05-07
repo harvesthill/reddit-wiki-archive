@@ -227,25 +227,39 @@ You will eventually reach a genetic potential maximum ([calculate yours here](ht
 * [Chaos and Pain Question Genetic Maximums. (NSFW)](http://chaosandpain.blogspot.com/2012/12/ask-asshole-44-magnum-edition-part-1.html?zx=223139842b3ad1faLA)
 * [Natural Muscle Building: A Look At Potential, Genetics &amp; Arm Size](http://www.muscleandstrength.com/expert-guides/bodybuilding-genetics)
 
-## Why Young Men Should Not Take AAS
+## 💁🏼‍♀️📰  Why Young Men Should Not Take AAS
 
 [Originally](http://www.reddit.com/r/steroids/comments/1tup8j/why_young_men_shouldnt_take_aas/) by /u/hypnotoadIRL, [updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest.
+
+Don't short-circuit and shutdown your neuroendocrine system while it's still developing and at *lifetime peak natural production*.
+
+You shouldn't be using powerful exogenous hormones with the potential for **permanent**, **life**\-**changing disabilities** if you don't understand them forwards and backwards first.
+
+⚠️ It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
+
+Under the age of twenty-five you're far more liable to do yourself permanent damage. Having temporary glycogen-inflated muscles that disappear as soon as you come off isn't worth the increased risk of **long-term aggression, anxiety, depression, learning disorders** and **memory deficits** consequent **neurotoxicity**. **Infertility, hair loss, breast enlargement, loss of libido and motivation**, and **muscle wasting** are all associated with premature use.
+
+MRI scans show growth and development continues until the age of **25**. The last regions to finish growing are the most important: those associated with **intelligence, higher cognition, consciousness** and **emotional processing**.
+
+Anything exogenous that could short-circuit the feedback loops controlling neuroendocrine axis growth and development presents a far greater risk of atrophied neural and endocrine functionality, with concomitant and potentially permanent side effects.
+
+At your age you're easily able to pack on slabs of lean mass without steroids. It's not worth the risk when you've got so many years and so many natural gains still ahead of you. You've barely even started out.
 
 🚫 🚫 🚫
 
 &gt;“Anabolic steroids have been reported to induce psychiatric side effects such as *aggression* and *depression*. Adolescence represents an *extremely sensitive neurodevelopmental period* to influence by *detrimental effects*.”
 
-– [*Side Effects of Drugs Annual*](https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/nandrolone-decanoate) 
+– *Side Effects of Drugs Annual*
 
 &gt;“AAS use by teenagers is a primary concern because of the potential side effects where *remodeling of the brain and behavioral maturation* occurs.”
 
-– [*Journal of Behavioral Processes*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4364411/) 
+– *Journal of Behavioral Processes*
 
 &gt; “AAS use *impaired spatial learning and memory*, and this effect was not rescued by exercise. The harmful effects of AAS on learning and memory should be taken into account when athletes decide to use them for performance or body image improvement.” 
 
 &gt; “Testosterone and anabolic steroids have been found to affect the central nervous system (CNS) in humans and laboratory animals. The locations they affect include centers that regulate mood, sexuality and aggression. People who use steroids in excessive doses often experience mood disorders that meet the criteria of psychiatric disease categories such as *depression*, *anxiety*, *psychotic reactions* and *cognitive deterioration*.”
 
-– *[Anabolic Steroids Cause Longstanding Changes in the Brain](https://dopinglinkki.fi/en/info-bank/doping-substances/anabolic-steroids-cause-long-standing-changes-brain)*
+– *Anabolic Steroids Cause Longstanding Changes in the Brain*
 
 Until you're around **the age of 25**,^[1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/), ^[2](https://pubmed.ncbi.nlm.nih.gov/19609250/) your brain and endocrine system are still developing. This should be obvious as you are still going through the end of puberty, getting acne, etc. During this time period, supplementing with exogenous hormones is *extremely dangerous*.
 
@@ -279,7 +293,7 @@ Do you really want to add these variables to a still-growing and developing brai
 
 &gt; “Chronic use of anabolic steroids has also been shown to cause dysfunction of reward pathways in animals. Rats given twice daily nandrolone injections for four weeks showed loss of sweet preference (*a sign of reward dysfunction*) accompanied by reductions of dopamine, serotonin, and noradrenaline in the nucleus accumbens, a reward-related brain region. These effects persist for long after discontinuation of the drug.”
 
-– NIDA. 2020, August 3. [What are the risks of anabolic steroid use in teens?](https://www.drugabuse.gov/publications/research-reports/steroids-other-appearance-performance-enhancing-drugs-apeds/what-are-risks-anabolic-steroid-use-in-teens) 
+– NIDA 
 
 ## Premature Closing of Growth Plates
 
@@ -308,24 +322,6 @@ All of these can be accelerated and aggravated with exogenous androgen use.
 * How about being unable to use the bathroom due to the excruciating pain involved in the process? It's not pretty.
 
 Don't think it can't happen to you.
-
-# References
-
-A few references.
-
-* [Effects of anabolic-androgens on brain reward function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4549565/)
-
-* [Anabolic steroids cause longstanding changes in the brain](https://dopinglinkki.fi/en/info-bank/doping-substances/anabolic-steroids-cause-long-standing-changes-brain)
-
-* [17β-trenbolone, an anabolic-androgenic steroid as well as an environmental hormone, contributes to neurodegeneration](https://www.ncbi.nlm.nih.gov/m/pubmed/25461682/)
-
-* [The Impact of Nandrolone Decanoate on the Central Nervous System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462037/)
-
-* [Nandrolone eleven times more damaging to blood vessels than testosterone](https://www.ergo-log.com/nandrotest.html)
-
-* [Nandrolone Decanoate Induces Genetic Damage in Multiple Organs of Rats](https://www.ncbi.nlm.nih.gov/m/pubmed/23223961)
-
-* [Voluntary exercise does not ameliorate spatial learning and memory deficits induced by chronic administration of nandrolone decanoate in rats](https://www.academia.edu/26662918/Voluntary_exercise_does_not_ameliorate_spatial_learning_and_memory_deficits_induced_by_chronic_administration_of_nandrolone_decanoate_in_rats?email_work_card=view-paper)
 
 — *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 
