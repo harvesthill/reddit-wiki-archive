@@ -42,9 +42,9 @@ Recovery from MENT was *much more rapid* than from testosterone. The recovery pe
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural testosterone production values that fall between 4-7 milligrams per day—as MENT is ten times more myotropic than testosterone.
 
-Experienced users get good results on MENT solo or paired with Test and at doses as little as Trestolone at 5-10mg/day. A serious blast is 10-25mg/day, but it's also nice to ease into it. Why not? It's designed as a prostate-safe replacement for Testosterone. As an HRT candidate, you never have to come off it, you can just drop back down to a cruise.
+Experienced users get good results on MENT solo or paired with Test and at doses as little as a Trestolone blast of 5-10mg/day. A more serious blast is 10-25mg/day, but there's no need to rush to higher Dodds and it's nice to ease into it. Why not? It's designed as a prostate-safe replacement for Testosterone. As an HRT candidate, you never have to come off it—you can just drop back down to a cruise.
 
-Extreme blast dosages can range from 25-50 mg per day (175-350/wk) on up to 100 mg/day (700/wk) at extremes. The compound is extremely well-tolerated, and the  complete lack of sides coupled with its counterintuitive and powerful efficacy makes it a remarkable and unique addition to today's available  selection.
+*Extreme blast* doses range from 25-50 mg per day (175-350/wk) on up to 100 mg/day (700/wk). The compound is extremely well-tolerated, and the  complete lack of sides coupled with its counterintuitive and powerful efficacy makes it a remarkable and unique addition to today's available  selection.
 
 # MENT Example Cycle
 
@@ -116,15 +116,11 @@ A compilation of commentary on Trestolone.
 
 * [Solo? or No?](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gehtg6t)
 
-* [Dosage Guidelines](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcym1h4)
+* [Dosing Examples](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcym1h4)
 
 * [Babies &amp; Birth Control](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gbgq0mb)
 
-* [E2/AI Culture Shift?](https://www.reddit.com/r/steroids/comments/julipg/daily_ask_anything_20201115/gcenek5)
-
 * [Managing Estrogen, E2 &amp; Bone Density](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcylui8)
-
-* [Wikipedia entry for Trestolone](https://en.wikipedia.org/wiki/Trestolone)
 
 ## Reviews
 
