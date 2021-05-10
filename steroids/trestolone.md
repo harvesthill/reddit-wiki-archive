@@ -22,13 +22,13 @@ Trestolone delivers 10x more myotropic effect of testosterone. The *myotropic ef
 
 Trestolone is the *only steroid in production today* that is capable of sustaining normal male physiology in the complete absence of testosterone, including sexual functioning.
 
-Trestolone has an anabolic/androgenic rating of 2300:650.  In rats, it was found to be roughly ten times as myotropic as methyltestosterone. 
+Trestolone has an anabolic/androgenic rating of 2300:650. In rats, it was found to be roughly ten times as myotropic as methyltestosterone. 
 
 *In some users,* psychological effects MENT conveys include a positive sense of confidence, euthymia and well-being that are noted to be more heightened even than those conveyed by Testosterone, Dianabol, or DHT derivatives Proviron and Masteron.
 
 ##Clinical Studies
 
-In a 1992 study in rats investigating the pharmacology of MENT, researchers found the anabolic potency of MENT to be 10X greater than that of testosterone, while also being 12X more suppressive on HTPA. This means that if your average male produces 4-7mg of testosterone daily to keep muscle mass and sexual function, only 400-700mcg of MENT is needed to produce the same results.
+In a 1992 study in rats investigating the pharmacology of MENT, researchers found the anabolic potency of MENT to be 10x greater than Testosterone, while also being 12x more suppressive to the HTPA. This means that if your average male produces 4-7mg of testosterone daily to keep muscle mass and sexual function, only 400-700mcg of MENT is needed to produce the same results.
 
 In this same study, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for the unesterified compound (not the acetate, which should extend the half-life slightly). 
 
@@ -42,9 +42,9 @@ Recovery from MENT was *much more rapid* than from testosterone. The recovery pe
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural testosterone production values that fall between 4-7 milligrams per day—as MENT is ten times more myotropic than testosterone.
 
-Experienced users get good results on MENT solo or paired with Test and at doses as little as a Trestolone blast of 5-10mg/day. A more serious blast is 10-25mg/day, but there's no need to rush to higher Dodds and it's nice to ease into it. Why not? It's designed as a prostate-safe replacement for Testosterone. As an HRT candidate, you never have to come off it—you can just drop back down to a cruise.
+Experienced users get good results on MENT solo or paired with Test and at doses as little as Trestolone at 5-10mg/day. A typically-used dose level on blast is between 10-25mg/day, but there's no need to rush to higher doses while it's  more prudent to ease into it. Why not? It's designed as a prostate-safe replacement for Testosterone in HRT. As such, you never have to come off it—you can just drop back down to a cruise.
 
-*Extreme blast* doses range from 25-50 mg per day (175-350/wk) on up to 100 mg/day (700/wk). The compound is extremely well-tolerated, and the  complete lack of sides coupled with its counterintuitive and powerful efficacy makes it a remarkable and unique addition to today's available  selection.
+Higher end doses range from 25-50 mg per day (175-350/wk) on up to 100 mg/day (700/wk). The compound is extremely well-tolerated, and the  complete lack of sides coupled with its counterintuitive and powerful efficacy makes it a remarkable and unique addition to today's available  selection.
 
 # MENT Example Cycle
 
