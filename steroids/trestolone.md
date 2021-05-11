@@ -12,71 +12,79 @@ aka Trestolone Acetate, 7*α*\-**methyl**\-19-**nortestosterone** (MENT)
 
 ##Description
 
-**Trestolone** (**MENT**) is an experimental androgen/anabolic steroid (AAS) and progestogen medication under development by the USG and university partners for potential use as a form of hormonal birth control for men and in androgen replacement therapy for low testosterone levels in men, but has never been marketed for medical use. 
+**Trestolone** (**MENT**) is an experimental androgen/anabolic steroid (AAS) and SARM medication under development by the US Government, The Population Council, and university partners for potential use as a form of hormonal birth control for men and in androgen replacement therapy for low Testosterone levels in men, but has never been marketed for medical use. 
 
-The compound is an extremely potent 19-nor derivative oft-described as a cross between tren and deca—but without any of the negative sides of either. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
+The compound is an extremely potent 19-nor derivative oft-described as a cross between Trenbolone and Nandrolone—but without any of the negative sides of either. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
 
-Trestolone delivers 10x more myotropic effect of testosterone. The *myotropic effect* is the effect of building muscle, making trestolone more effective in building muscle than any other commercial steroid in existence. In fact, trestolone outperforms trenbolone by a whopping 250% in this area. It's oft-described as “test on steroids” or “supercharged test.”
+Trestolone delivers 10x more myotropic effect than testosterone. The *myotropic effect* is the effect of building muscle, making Trestolone more effective in building muscle than any other commercial steroid in existence. Whereas Trenbolone's Anabolic/Androgenic ratio is 500/500 to Testosterone's 100/100, MENT comes in at 2300/650. It's oft-described as “Test on steroids” or “supercharged Test.”
 
 ##Metabolic Equivalence to Testosterone 
 
 Trestolone is the *only steroid in production today* that is capable of sustaining normal male physiology in the complete absence of testosterone, including sexual functioning.
 
-Trestolone has an anabolic/androgenic rating of 2300:650. In rats, it was found to be roughly ten times as myotropic as methyltestosterone. 
+Trestolone has an anabolic/androgenic rating of 2300/650. This is higher than nearly any other available compound aside from designer Trenbolone analogue Methyltrienolone, *aka* Mtren, Metribolone, which is rated at 12000+/6000+, and is also dosed in the microgram range, between 500–1500mcg.
+
+In rats, MENT was found to be roughly ten times as myotropic as Methyltestosterone. 
 
 *In some users,* psychological effects MENT conveys include a positive sense of confidence, euthymia and well-being that are noted to be more heightened even than those conveyed by Testosterone, Dianabol, or DHT derivatives Proviron and Masteron.
 
 ##Clinical Studies
 
-In a 1992 study in rats investigating the pharmacology of MENT, researchers found the anabolic potency of MENT to be 10x greater than Testosterone, while also being 12x more suppressive to the HTPA. This means that if your average male produces 4-7mg of testosterone daily to keep muscle mass and sexual function, only 400-700mcg of MENT is needed to produce the same results.
+In a 1992 study in rats investigating the pharmacology of MENT, researchers found the anabolic potency of MENT to be 10x greater than Testosterone, while also being 12x more suppressive to the HTPA. This means that if your average male produces 4-7mg of testosterone daily to keep muscle mass and sexual function, only 400-700mcg of MENT is needed to produce the same results. One contraceptive study used one, two and four patches that released 400mcg per day each, for an effective daily dose of 400mcg, 800mcg, and 1600mcg (1.6mg).
 
-In this same study, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for the unesterified compound (not the acetate, which should extend the half-life slightly). 
+###Half-life 
 
-A comprehensive human study conducted on male subjects compared the effects of MENT to testosterone, both accompanied with the progestin etonogestrel, on spermatogenesis, as well as sex drive and safety biomarkers associated with androgen use. This was a robust study, containing 29 subjects tested for 48 weeks.^(8)
+In the first study, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for 500mcg of the compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM in contrast to that of IV. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates twice a day dosing to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values are also commercially available. 
 
-Participants either received two implant pellets each containing 135mg of MENT acetate calculated to release 400mcg daily, or three 600mg testosterone pellets, with one given every 12 weeks. Both groups received 68mg of etonogestrel. Both groups experienced significant reduction in sperm production, with 80% of both groups going from an average of 55 x 10^6 mL to just 1 x 10^6 mL after 12 weeks of supplementation.^(8)
+### Fertility Recovery 
 
-Recovery from MENT was *much more rapid* than from testosterone. The recovery period was 16 weeks for the MENT group, in which *semen concentration increased* to over 20 x 10^6 mL—whereas the testosterone group *still had azoospermia* until after 28 weeks.^(8)
+A comprehensive human study conducted on male subjects compared the effects of MENT to Testosterone, both *solo* and accompanied with the progestin Etonogestrel, on spermatogenesis, sex drive, and safety biomarkers associated with androgen use. This was a robust study, containing 29 subjects tested for 48 weeks.^(8)
+
+Participants either received two implant pellets each containing 135mg of MENT acetate calculated to release 400mcg daily, or three 600mg Testosterone pellets, with one given every 12 weeks. Both groups received 68mg of Etonogestrel. Both groups experienced significant reduction in sperm production, with 80% of both groups going from an average of 55 x 10^6 mL to just 1 x 10^6 mL after 12 weeks of supplementation.^(8)
+
+Recovery from MENT was *much more rapid* than from testosterone. The recovery period was 16 weeks for the MENT group, in which *semen concentration increased* to over 20 x 10^6 mL—whereas the Testosterone group *still had azoospermia* until after 28 weeks.^(8)
 
 ##Administration Guidelines 
 
-Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural testosterone production values that fall between 4-7 milligrams per day—as MENT is ten times more myotropic than testosterone.
+Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day—as MENT is ten times more myotropic than Testosterone. 
 
-Experienced users get good results on MENT solo or paired with Test and at doses as little as Trestolone at 5-10mg/day. A typically-used dose level on blast is between 10-25mg/day, but there's no need to rush to higher doses while it's  more prudent to ease into it. Why not? It's designed as a prostate-safe replacement for Testosterone in HRT. As such, you never have to come off it—you can just drop back down to a cruise.
+Many get good results on MENT solo, or paired with Test, at doses as little as 5-10mg/day. A typical blast is anywhere from 10-25mg/day. Higher end doses range from 25-50 mg per day (175-350/wk) on up to 100 mg/day (700/wk).
 
-Higher end doses range from 25-50 mg per day (175-350/wk) on up to 100 mg/day (700/wk). The compound is extremely well-tolerated, and the  complete lack of sides coupled with its counterintuitive and powerful efficacy makes it a remarkable and unique addition to today's available  selection.
+There's no need to rush to higher doses. It's far more prudent to ease into it. Why not? It's designed as a prostate-safe replacement for Testosterone in TRT/HRT. As such, you'd never have to come off it—you can just drop back down to a cruise of ~1mg.
+
+The compound is extremely well-tolerated, and the  complete lack of sides even at higher doses, coupled with its counterintuitive and powerful efficacy, makes it a remarkable and unique addition to today's available  selection.
 
 # MENT Example Cycle
 
-MENT can be run *Solo* **OR** *paired* with TRT test (80-150mg).
+MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
-* As an acetate, it needs to be run ED. Many even dose it *twice a day*. MENT doesn't bind to SHBG. Once it's cleaved from the ester, it's fully metabolized within 40 minutes, leaving no suppressive metabolites.
+* As a short-ester Acetate, it needs to be run every day (ED). Some even dose it *twice a day* for enhanced stability. MENT doesn't bind to SHBG. Once it's cleaved from the ester, it's fully metabolized *within 40 minutes*, leaving no suppressive metabolites.
 
 * Start with it at *Cruise* (400–700mcg).
 
-* Ease into it at 1-2mg.
+* Ease into it at 1-2mg. Note any results. 
 
-* Take some time with it at 5mg.
+* Take some time with it at 5mg. Again notice any changes.
 
-* A week or two at 10mg.
+* Try a week or two at 10mg.  Closely keep track of any differences.
 
-* Take it up to 25mg. No rush.
+* If tolerated, take it up to 25mg. No rush.
 
-* If you're ambitious, you can go to 50, 75, even 100mg ...
+* If you're ambitious, you can go to 50, 75—even 100mg. It's little-explored at these and higher doses, so any information or feedback you may have on personal response at those levels would make a valuable contribution to the knowledge base ...
 
-* yet many new users experience massive gains in physique, and *lifetime PRs*, on as little as 5–10mg a day. So why not keep your wallet and save the megadoses for later? There's *no need to rush* into anything higher. This compound will likely be an essential staple in your stack for decades to come. 
+* Many users experience massive gains in physique and *lifetime PRs* on as little as 5–10mg a day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. This compound will likely be an essential staple in your stack for decades to come. 
 
 * In taking it slowly, you'll find your sweet spot, save your wallet, and simultaneously *guarantee* the absence of any adverse sides.
 
-* When finished just drop back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe healthy replacement for TRT—so you don't even have to come completely off of it.
+* When finished just drop back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe and healthy replacement for TRT—so you don't have to come completely off of it.
 
-## Super bloat? Crazy gyno? 🤦🏼‍♂️
+## Super bloat? Crazy gyno? 
 
 *Don't believe the hype.* 
 
 7α-Methylestradiol has been shown to be *equipotent* to estrogen at the receptor. It isn't some magic powerful gyno trigger—especially when you're taking less than a milligram per day. Any aromatization issues are completely overblown.
 
-Review [these comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early *Compound Experience Threads*.
+Review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early *Compound Experience Threads*.
 
 &gt; u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
 &gt;
@@ -92,17 +100,17 @@ Here's some ***more recent***—and hence relevant—Compound Experience Threads
 
 * [January 2021](https://www.reddit.com/r/steroids/comments/kg8lif/compounds_trestolone_aka_trest_ment/) *Trestolone Compound Experience Thread*
 
-## 💁‍♀️ Estrogen Management
+## Estrogen Management
 
 MENT doesn’t directly impact estradiol (E2). As 7α-Methylestradiol (7α-Me-E2), it differs from the estrogen produced by Dianabol (17-α), and it doesn't show on bloodwork. 
 
 The 17α-Methylestradiol produced by Dianabol aromatizes at a much lower rate, but it's metabolism-resistant and lingers for a long time, so it can lead to side effects. 
 
-To the contrary, the 7α-Methylestradiol produced from MENT is rapidly rendered inert without suppressive metabolites.
+*Contra* Dianabol's 17α-Me-E2, the 7α-Methylestradiol produced from MENT is rapidly rendered inert without suppressive metabolites.
 
-When adding MENT, don't modify estrogen management. EQ/MENT or Primo/MENT ratio doesn't matter as much as the dose of Testosterone you're taking, as that's  going to be the primary aromatizing compound. 
+When adding MENT, don't modify estrogen management. EQ/MENT or Primo/MENT ratio doesn't matter as much as the dose of Testosterone you're taking, as that's going to be the primary aromatizing compound unless solo. 
 
-If you start MENT and begin to experience sides, just lower the dose. 7α-Methylestradiol is very quick in/out, so more frequent dosing will cut down on spikes. Treat MENT like TNE—you wouldn't adjust your AI dose when introducing TNE. 
+If you start MENT and begin to experience sides, just lower the dose. 7α-Methylestradiol is very quick in and out, so more frequent dosing will cut down on spikes. Treat MENT like TNE—you wouldn't adjust your AI dose when introducing TNE. 
 
 * “There's essentially zero estrogen sides. It's a side-effect-free, more powerful and effective love child of Trenbolone and Nandrolone that's so *ridiculously perfect* it feels almost too good to be true.”
 
@@ -150,8 +158,7 @@ A compilation of commentary on Trestolone.
  
 2. Reddit [Compound Experience Thread: Trestolone](https://www.reddit.com/r/steroids/comments/hcmk9e/compound_trestolone_trest_ment/?utm_source=amp&amp;utm_medium=&amp;utm_content=post_body)
 
-3. Reddit [Compound Experience Thread: Trestolone]
-(https://www.reddit.com/r/steroids/comments/kg8lif/compounds_trestolone_aka_trest_ment/)
+3. Reddit [Compound Experience Thread: Trestolone](https://www.reddit.com/r/steroids/comments/kg8lif/compounds_trestolone_aka_trest_ment/)
 
 4.  Anderson, Richard A., et al. “[Evidence for tissue selectivity of the synthetic androgen 7*α*-methyl-19-nortestosterone in hypogonadal men](https://www.ncbi.nlm.nih.gov/pubmed/12788888).” *The Journal of Clinical Endocrinology &amp; Metabolism* **88.6** (2003): 2784-2793.
 
@@ -162,3 +169,5 @@ A compilation of commentary on Trestolone.
 7.  Kumar, Narender, et al. “[Pharmacokinetics of 7*α*-methyl-19-nortestosterone in Men and Cynomolgus Monkeys](https://www.ncbi.nlm.nih.gov/pubmed/9283946).” *Journal of Andrology* **18.4** (1997): 352-358.
 
 8.  Walton, Melanie J., et al. "[7*α*-methyl-19-nortestosterone (MENT) vs Testosterone in Combination With Etonogestrel Implants for Spermatogenic Suppression in Healthy Men](https://www.ncbi.nlm.nih.gov/pubmed/17460095)." *Journal of Andrology* **28.5** (2007): 679-688.
+
+9. J Suvisaari, K Sundaram, G Noé, N Kumar, C Aguillaume, Y Y Tsong, P Lähteenmäki, C W Bardin, [Pharmacokinetics and pharmacodynamics of 7alpha-methyl-19-nortestosterone after intramuscular administration in healthy men](https://academic.oup.com/humrep/article/12/5/967/665464)., Human Reproduction, Volume 12, Issue 5, May 1997, Pages 967–973, https://doi.org/10.1093/humrep/12.5.967
