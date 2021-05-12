@@ -16,17 +16,17 @@ aka Trestolone Acetate, 7*α*\-**methyl**\-19-**nortestosterone** (MENT)
 
 The compound is an extremely potent 19-nor derivative oft-described as a cross between Trenbolone and Nandrolone—but without any of the negative sides of either. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
 
-Trestolone delivers 10x more myotropic effect than testosterone. The *myotropic effect* is the effect of building muscle, making Trestolone more effective in building muscle than any other commercial steroid in existence. Whereas Trenbolone's Anabolic/Androgenic ratio is 500/500 to Testosterone's 100/100, MENT comes in at 2300/650. It's oft-described as “Test on steroids” or “supercharged Test.”
+Trestolone delivers 10x more myotropic effect than testosterone. The *myotropic effect* is the effect of building muscle, making Trestolone more effective than any other commercial steroid in existence. Whereas Trenbolone's Anabolic/Androgenic ratio is 500/500 to Testosterone's 100/100, MENT comes in at 2300/650. It's oft-described as “Test on steroids” or “supercharged Test.”
 
 ##Metabolic Equivalence to Testosterone 
 
 Trestolone is the *only steroid in production today* that is capable of sustaining normal male physiology in the complete absence of testosterone, including sexual functioning.
 
-Trestolone has an anabolic/androgenic rating of 2300/650. This is higher than nearly any other available compound aside from designer Trenbolone analogue Methyltrienolone, *aka* Mtren, Metribolone, which is rated at 12000+/6000+, and is also dosed in the microgram range, between 500–1500mcg.
+Trestolone's anabolic/androgenic rating of 2300/650 is higher than nearly any other available compound aside from designer Trenbolone analogue Methyltrienolone, *aka* Mtren, Metribolone, which is rated at 12000+/6000+, and is also dosed in the microgram range, between 500–1500mcg. Mtren is of course *so* strong that it's used as the absolute reference standard for laboratory tests to measure binding to the androgen receptor (AR)—but its acute toxicity precludes widespread use. 
 
 In rats, MENT was found to be roughly ten times as myotropic as Methyltestosterone. 
 
-*In some users,* psychological effects MENT conveys include a positive sense of confidence, euthymia and well-being that are noted to be more heightened even than those conveyed by Testosterone, Dianabol, or DHT derivatives Proviron and Masteron.
+In many users, MENT conveys psychological effects including a positive sense of confidence, euthymia and well-being that are noted to be more heightened and notable than those conveyed by Testosterone, Dianabol, or DHT derivatives Proviron and Masteron.
 
 ##Clinical Studies
 
@@ -34,7 +34,7 @@ In a 1992 study in rats investigating the pharmacology of MENT, researchers foun
 
 ###Half-life 
 
-In the first study, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for 500mcg of the compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM in contrast to that of IV. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates twice a day dosing to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values are also commercially available. 
+In a study on the compound's half-life, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for 500mcg of the compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM in contrast to that of IV. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates twice a day dosing to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values are also commercially available. 
 
 ### Fertility Recovery 
 
@@ -58,7 +58,7 @@ The compound is extremely well-tolerated, and the  complete lack of sides even a
 
 MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
-* As a short-ester Acetate, it needs to be run every day (ED). Some even dose it *twice a day* for enhanced stability. MENT doesn't bind to SHBG. Once it's cleaved from the ester, it's fully metabolized *within 40 minutes*, leaving no suppressive metabolites.
+* As a short-ester Acetate, it needs to be run every day (ED) at minimum, and *twice a day* for enhanced stability. MENT doesn't bind to SHBG, so it's fully metabolized in no time flat. 
 
 * Start with it at *Cruise* (400–700mcg).
 
@@ -68,11 +68,11 @@ MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
 * Try a week or two at 10mg.  Closely keep track of any differences.
 
-* If tolerated, take it up to 25mg. No rush.
+* If tolerated, it can be taken to 25mg. No rush.
 
 * If you're ambitious, you can go to 50, 75—even 100mg. It's little-explored at these and higher doses, so any information or feedback you may have on personal response at those levels would make a valuable contribution to the knowledge base ...
 
-* Many users experience massive gains in physique and *lifetime PRs* on as little as 5–10mg a day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. This compound will likely be an essential staple in your stack for decades to come. 
+* Many users experience massive gains in physique and *lifetime PRs* on as little as 5–10mg a day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. The compound will likely be an essential staple in your stack for decades to come. 
 
 * In taking it slowly, you'll find your sweet spot, save your wallet, and simultaneously *guarantee* the absence of any adverse sides.
 
