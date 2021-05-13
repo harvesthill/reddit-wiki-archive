@@ -18,7 +18,7 @@ The compound is an extremely potent 19-nor derivative oft-described as a cross b
 
 Trestolone delivers 10x more myotropic effect than testosterone. The *myotropic effect* is the effect of building muscle, making Trestolone more effective than any other commercial steroid in existence. Whereas Trenbolone's Anabolic/Androgenic ratio is 500/500 to Testosterone's 100/100, MENT comes in at 2300/650. It's oft-described as “Test on steroids” or “supercharged Test.”
 
-##Metabolic Equivalence to Testosterone 
+###Equivalence to Testosterone 
 
 Trestolone is the *only steroid in production today* that is capable of sustaining normal male physiology in the complete absence of testosterone, including sexual functioning.
 
@@ -32,7 +32,37 @@ In many users, MENT conveys psychological effects including a positive sense of 
 
 In a 1992 study in rats investigating the pharmacology of MENT, researchers found the anabolic potency of MENT to be 10x greater than Testosterone, while also being 12x more suppressive to the HTPA. This means that if your average male produces 4-7mg of testosterone daily to keep muscle mass and sexual function, only 400-700mcg of MENT is needed to produce the same results. One contraceptive study used one, two and four patches that released 400mcg per day each, for an effective daily dose of 400mcg, 800mcg, and 1600mcg (1.6mg).
 
-###Half-life 
+### Neuroprotective?
+
+At least one MS (multiple sclerosis) study shows MENT to be **neuroprotective** and to *actively repair neurological damage* to the myelin sheath. 
+
+* [The neural androgen receptor: A therapeutic target for myelin repair in chronic demyelination](https://www.researchgate.net/publication/235386245_The_neural_androgen_receptor_A_therapeutic_target_for_myelin_repair_in_chronic_demyelination)
+
+&gt; The potent synthetic testosterone analogue 7α-methyl-19-nortestosterone (MENT), developed for long-term male contraception and androgen replacement therapy in hypogonadal males and does not stimulate prostate growth, also *efficiently promotes myelin repair*. 
+
+&gt; These data establish the efficacy of androgens as remyelinating agents and qualify the brain androgen receptor as a promising drug target for remyelination therapy, thus providing the preclinical rationale for a novel therapeutic use of androgens in males with multiple sclerosis.
+
+Another study that discusses the neuroprotective effects of SARM RAD140 tangentially mentions  MENT as one of the sole SARMs compatible with the aromatase enzyme, and hence benefiting from the neuroprotective advantages of metabolite 7α-Methylestradiol. 
+
+* [Selective Androgen Receptor Modulator RAD140 Is Neuroprotective in Cultured Neurons and Rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959610/)
+
+### Prostate-safe 
+
+Several studies discuss MENT's lack of 5-HT reduction and prostate-safe effects. Prostate cancer is the second leading cancer among aging men in terms of both prevalence and cause of death, is androgen-dependent and typically treated by androgen deprivation therapy. MENT holds potential as replacement to Testosterone in these cases.
+
+* [Protective actions of sex steroid hormones in Alzheimer's disease](https://europepmc.org/article/med/19427328) 
+
+* [7 alpha-methyl-nortestosterone (MENT): the optimal androgen for male contraception](https://pubmed.ncbi.nlm.nih.gov/8489761/)
+
+&gt; There is a need for an androgen preparation that provides appropriate, continuous replacement doses over long periods. An important feature of MENT is that it does not undergo 5 alpha- reduction in prostate as does testosterone. As a consequence, a dose of MENT sufficient to maintain normal muscle mass and gonadotrophin secretion will not hyperstimulate the prostate because its action in this organ is not amplified as is that of testosterone. Thus, MENT can be administered to men with the assurance that it will be less prone to cause diseases of the prostate than testosterone.
+
+&gt; Conclusions: (i) *MENT is the first androgen that has a health benefit compared to testosterone*; (ii) MENT will be promoted as one component of a two-implant system for male contraception, the other component being an implant that will release an LHRH analogue; (iii) MENT has potential uses in patients with a variety of disorders, including hypogonadism, prostatic hyperplasia and muscle wasting.
+
+&gt;	An important feature of MENT is that it does not undergo 5 alpha-reduction in prostate as does testosterone. As a consequence, a dose of MENT sufficient to maintain normal muscle mass and gonadotrophin secretion will not hyperstimulate the prostate because its action in this organ is not amplified as is that of testosterone. Thus, MENT can be administered to men with the assurance that it will be less prone to cause diseases of the prostate than testosterone.
+
+&gt;	Thus, MENT is less apt to cause benign prostatic hypertrophy and, possibly, prostate cancer than is testosterone. *MENT is the first androgen to promote health* (*i.e*., reduction of the incidence of prostate disease). Clinicians may also be able to use MENT to treat hypogonadism, prostatic hyperplasia, and muscle wasting.
+
+### Half-life 
 
 In a study on the compound's half-life, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for 500mcg of the compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM in contrast to that of IV. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates twice a day dosing to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values are also commercially available. 
 
@@ -44,7 +74,7 @@ Participants either received two implant pellets each containing 135mg of MENT a
 
 Recovery from MENT was *much more rapid* than from testosterone. The recovery period was 16 weeks for the MENT group, in which *semen concentration increased* to over 20 x 10^6 mL—whereas the Testosterone group *still had azoospermia* until after 28 weeks.^(8)
 
-##Administration Guidelines 
+## Administration Guidelines 
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day—as MENT is ten times more myotropic than Testosterone. 
 
@@ -54,7 +84,7 @@ There's no need to rush to higher doses. It's far more prudent to ease into it. 
 
 The compound is extremely well-tolerated, and the  complete lack of sides even at higher doses, coupled with its counterintuitive and powerful efficacy, makes it a remarkable and unique addition to today's available  selection.
 
-# MENT Example Cycle
+### MENT Example Cycle
 
 MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
@@ -78,7 +108,7 @@ MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
 * When finished just drop back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe and healthy replacement for TRT—so you don't have to come completely off of it.
 
-## Super bloat? Crazy gyno? 
+### Super bloat? Crazy gyno? 
 
 *Don't believe the hype.* 
 
@@ -100,7 +130,7 @@ Here's some ***more recent***—and hence relevant—Compound Experience Threads
 
 * [January 2021](https://www.reddit.com/r/steroids/comments/kg8lif/compounds_trestolone_aka_trest_ment/) *Trestolone Compound Experience Thread*
 
-## Estrogen Management
+### Estrogen Management
 
 MENT doesn’t directly impact estradiol (E2). As 7α-Methylestradiol (7α-Me-E2), it differs from the estrogen produced by Dianabol (17-α), and it doesn't show on bloodwork. 
 
@@ -152,7 +182,7 @@ A compilation of commentary on Trestolone.
 
 * [Review](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gehnye7) “Test and Trest are the ideal synergistic combo. The duo can be used in *cutting* as well as lean bulking.”
 
-##References
+## References
 
 1.  [Wikipedia: Trestolone](https://en.wikipedia.org/wiki/Trestolone)  
  
