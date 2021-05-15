@@ -64,7 +64,7 @@ Several studies discuss MENT's lack of 5-HT reduction and prostate-safe effects.
 
 ### Half-life 
 
-In a study on the compound's half-life, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for 500mcg of the compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM in contrast to that of IV. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates twice a day dosing to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values are also commercially available. 
+In a study on the compound's half-life, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for 500mcg of unesterified compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates twice a day dosing to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values are also commercially available. 
 
 ### Fertility Recovery 
 
@@ -110,11 +110,13 @@ MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
 ### Super bloat? Crazy gyno? 
 
+Concerned by the sides mentioned in the older Compound Experience Threads?
+
 *Don't believe the hype.* 
 
 7α-Methylestradiol has been shown to be *equipotent* to estrogen at the receptor. It isn't some magic powerful gyno trigger—especially when you're taking less than a milligram per day. Any aromatization issues are completely overblown.
 
-Review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early *Compound Experience Threads*.
+Review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early Experience Threads.
 
 &gt; u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
 &gt;
