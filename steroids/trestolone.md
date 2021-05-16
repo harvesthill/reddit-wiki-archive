@@ -94,11 +94,11 @@ MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
 * Ease into it at 1-2mg. Note any results. 
 
-* Take some time with it at 5mg. Again notice any changes.
+* Try a week or more at 5mg. Again pay close attention to any mental or physical changes. How's your sleep, mood, appetite? Many users experience heretofore unheard-of physique and strength gains, and record-shattering (1RM) lifts, even at this low dose regime. 
 
-* Try a week or two at 10mg.  Closely keep track of any differences.
+* Take a week or two between 5-10mg, or *slowly* work your way to 10mg.  Closely keep track of any changes along the way.
 
-* If tolerated, it can be taken to 25mg. No rush.
+* If tolerated, the daily dose can be taken to 25mg. Splitting it into multiple injections reduces any potential sides. There's no rush.
 
 * If you're ambitious, you can go to 50, 75—even 100mg. It's little-explored at these and higher doses, so any information or feedback you may have on personal response at those levels would make a valuable contribution to the knowledge base ...
 
