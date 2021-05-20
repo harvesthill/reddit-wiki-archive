@@ -227,23 +227,29 @@ You will eventually reach a genetic potential maximum ([calculate yours here](ht
 * [Chaos and Pain Question Genetic Maximums. (NSFW)](http://chaosandpain.blogspot.com/2012/12/ask-asshole-44-magnum-edition-part-1.html?zx=223139842b3ad1faLA)
 * [Natural Muscle Building: A Look At Potential, Genetics &amp; Arm Size](http://www.muscleandstrength.com/expert-guides/bodybuilding-genetics)
 
-## 💁🏼‍♀️📰  Why Young Men Should Not Take AAS
+# 💁🏼‍♀️📰  Why Young Men Should Not Take AAS
 
 [Originally](http://www.reddit.com/r/steroids/comments/1tup8j/why_young_men_shouldnt_take_aas/) by /u/hypnotoadIRL, [updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest.
 
+## Introduction 
+
 Don't short-circuit and shutdown your neuroendocrine system while it's still developing and at *lifetime peak natural production*.
 
-You shouldn't be using powerful exogenous hormones with the potential for **permanent**, **life**\-**changing disabilities** if you don't understand them forwards and backwards first.
+You shouldn't be using powerful exogenous hormones with the potential for ***permanent***, ***life***\-***changing disabilities*** if you don't first have a *thorough* understanding of their impact.
 
-⚠️ It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
+⚠️  It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
 
-Under the age of twenty-five you're far more liable to do yourself permanent damage. Having temporary glycogen-inflated muscles that disappear as soon as you come off isn't worth the increased risk of **long-term aggression, anxiety, depression, learning disorders** and **memory deficits** consequent **neurotoxicity**. **Infertility, hair loss, breast enlargement, loss of libido and motivation**, and **muscle wasting** are all associated with premature use.
+MRI scans show growth and development continues until the **age of 25**. The last regions to finish growing are the most important: those associated with **intelligence, higher cognition, consciousness** and **emotional processing**.
 
-MRI scans show growth and development continues until the age of **25**. The last regions to finish growing are the most important: those associated with **intelligence, higher cognition, consciousness** and **emotional processing**.
+Under the age of twenty-five you're far more liable to do yourself permanent damage. Having temporary glycogen-inflated muscles that disappear as soon as you come off isn't worth the increased risk of long-term aggression, anxiety, depression, learning disorders and memory deficits consequent stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the excitotoxicity of a blast.
 
-Anything exogenous that could short-circuit the feedback loops controlling neuroendocrine axis growth and development presents a far greater risk of atrophied neural and endocrine functionality, with concomitant and potentially permanent side effects.
+One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20 year old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). These compounds affect neurological development *from fetal growth onwards* with effects that are *cumulative* and *compounded* with exposure to AAS.
 
-At your age you're easily able to pack on slabs of lean mass without steroids. It's not worth the risk when you've got so many years and so many natural gains still ahead of you. You've barely even started out.
+Aside from neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting, are all risks that are associated with premature blasting. The whole idea is to minimize these negative environmental influences that *even our immediate ancestors* never had to address.
+
+**Anything exogenous** that could short-circuit the feedback loops controlling neuroendocrine axis growth and development presents a far greater risk of atrophied neural and endocrine functionality, with concomitant and potentially permanent side effects.
+
+At your age you're fortunate to be easily able to pack on slabs of lean mass *without using steroids as a crutch*. It's not worth the risk when you've got so many years and so many natural gains still ahead of you. You've barely even started out yet. **Good luck**.
 
 🚫 🚫 🚫
 
@@ -279,19 +285,21 @@ There's a serious potential for long-term side effects. People oft-say “I've s
 
 It's well known that hormones play a role in the development of cognitive brain function. **Your neuroendocrine system is still developing until the age of 25**. Adding external hormones when your brain is still developing can stunt normal development and maturation. All these effects are more serious in still-growing and developing brain:
 
-* Many steroids are neurotoxic.
+* *Many steroids are neurotoxic*.
 
-* They lead to depression, memory loss and learning difficulties.
+* *They lead to depression, memory loss and learning difficulties*.
 
-* They cause longstanding dysfunction in brain reward systems.
+* *They cause longstanding dysfunction in brain reward systems*.
 
-* They give rise to the accumulation of amyloid plaques, which leads to Alzheimers.
+* *They give rise to the accumulation of amyloid plaques, which leads to Alzheimers*.
 
-Do you really want to add these variables to a still-growing and developing brain? How can you know many years down the road there won't be even more problems?
+Do you really want to add these variables to a still-growing and developing brain? 
 
-&gt; “Males who begin using anabolic steroids during teen years show increased impulsivity and decreased attention compared to men who began using steroids in their adult years. In adolescent rats, anabolic steroid exposure is associated with electrolytic imbalances, hyperactivity, anxiety, and increased sympathetic autonomic modulation (*e.g., fight or flight response*) during adulthood, *even when steroid use was discontinued* during adolescence. Adolescent males given anabolic steroids show increased aggression even *after steroid use is discontinued*. These aggressive effects are paralleled by changes in levels of serotonin and androgen receptors in the brain.”
+How can you know many years down the road there won't be even more problems?
 
-&gt; “Chronic use of anabolic steroids has also been shown to cause dysfunction of reward pathways in animals. Rats given twice daily nandrolone injections for four weeks showed loss of sweet preference (*a sign of reward dysfunction*) accompanied by reductions of dopamine, serotonin, and noradrenaline in the nucleus accumbens, a reward-related brain region. These effects persist for long after discontinuation of the drug.”
+&gt; “Males who begin using anabolic steroids during *teen years* show **increased impulsivity and decreased attention** *compared to men* who began using steroids in their *adult years*. In adolescent rats, anabolic steroid exposure is associated with hyperactivity, anxiety, and increased sympathetic autonomic modulation (*e.g., fight or flight response*) during adulthood, *even when steroid use was discontinued* during adolescence. Adolescent males given anabolic steroids show increased aggression even *after steroid use is discontinued*. These aggressive effects are paralleled by changes in levels of serotonin and androgen receptors in the brain.”
+
+&gt; “Chronic use of anabolic steroids has been shown to cause dysfunction of reward pathways in animals. Rats given twice daily nandrolone injections for four weeks showed loss of sweet preference (*a sign of reward dysfunction*) accompanied by reductions of dopamine, serotonin, and noradrenaline in the nucleus accumbens, a reward-related brain region. These effects persist for long after discontinuation of the drug.”
 
 – NIDA 
 
@@ -301,7 +309,7 @@ This one is the most known about. Even if you think you've stopped growing, ther
 
 ## Cancer, Liver, Kidney Disease
 
-You hear all the time teenagers say “Well my friends it and they got big and nothing happened to them.” Really? How do you know? Have they been to a doctor and had their liver and kidney values checked? Just because a person looks okay on the outside, doesn't mean that they don't already host serious problems on the inside. If treated improperly or in an untimely manner, liver and kidney damage can eventually be fatal.
+You hear all the time teenagers say “Well, my friends did it and they got big and nothing happened to them.” Really? How do you know? Have they been to a doctor and had their liver and kidney values checked? Just because a person looks okay on the outside doesn't mean that they don't already host serious problems on the inside. If treated improperly or in an untimely manner, liver and kidney damage can eventually be fatal.
 
 ## Impotence
 
@@ -315,13 +323,13 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 All of these can be accelerated and aggravated with exogenous androgen use.
 
-* Have you seen a 20-year old already going bald?
+* *Have you seen a 20-year old already going bald?*
 
-* What about permanent scarring from severe cystic acne?
+* *What about permanent scarring from severe cystic acne?*
 
-* How about being unable to use the bathroom due to the excruciating pain involved in the process? It's not pretty.
+* *How about being unable to use the bathroom due to the excruciating pain involved in the process?* 
 
-Don't think it can't happen to you.
+It's not pretty. Don't think it can't happen to you.
 
 — *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 
