@@ -68,8 +68,8 @@ Even more effective than an ECA stack is **Salbutamol** with caffeine. [This sta
 
 Another thing to consider is using a **ECA** (**ephedrine, caffeine, aspirin**) or **EC** (**ephedrine, caffeine**) stack. This will function as an appetite suppressant and accelerate your metabolism and hence aid tremendously on a cut:
 
-* **Last 8 Weeks:** [ECA or EC Stack](/r/steroids/wiki/eca_stack), Up To 3xED
-* **Last 8 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
+* **Last 4-6 Weeks:** [ECA or EC Stack](/r/steroids/wiki/eca_stack), Up To 3xED
+* **Last 4-6 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
 
 If you use Test E &amp; C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
 
