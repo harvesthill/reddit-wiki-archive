@@ -24,6 +24,10 @@ Promonolan does not convert to estrogen and therefore estrogenic side effects sh
 
 In terms of therapeutic/medical use of methenolone, it has been argued by some researchers that it has shown some ability to promote immune system function in AIDS patients. This is different than the anti-muscle wasting properties that some anabolic steroids are used for. In several studies it's been demonstrated that methenolone does not exhibit this capability. However in terms of enhancing immune function this could be attributed to the increased nitrogen retention that methenolone promotes^4 . While this effect alone won't prevent muscle wasting in those suffering from AIDS, it can help to maintain muscle mass in less severe circumstances, such as calorie restricted diets. But despite these advantages methenolone is not approved for any type of medical use in North America.
 
+##Is Primobolan a Weak Steroid?
+
+[This chart](https://www.instagram.com/p/CO_iqC5od8v/) demonstrates it to yield comparable gains to both Testosterone *and* Nandrolone.
+
 ##Use/Dosing
 
 The difference in the dosing that is required for the oral and injectable versions of methenolone, as described earlier, is due to the action of the liver and the fact that the majority of the oral compound will not make it to circulation in the body. Also, due to the differing esters/structures of the compounds the frequency with which a user must administer them is also different. The oral form of methenolone should be administered at least once per day to maintain consistent blood levels of the drug, while the active life of the injectable version of the drug is such that administering it once per week is possible because of the enanthate ester, although splitting the doses to twice per week would provide much more consistent blood levels of the drug. 

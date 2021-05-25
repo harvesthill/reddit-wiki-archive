@@ -116,6 +116,8 @@ Concerned by the sides mentioned in the older Compound Experience Threads?
 
 7α-Methylestradiol has been shown to be *equipotent* to estrogen at the receptor. It isn't some magic powerful gyno trigger—especially when you're taking less than a milligram per day. Any aromatization issues are completely overblown.
 
+*For those who say MENT is particularly estrogenic, see [this chart](https://www.instagram.com/p/CPIavffgeso/), which shows near equivalent aromatization to 19-nortestosterone (Nandrolone)*. 
+
 Review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early Experience Threads.
 
 &gt; u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
