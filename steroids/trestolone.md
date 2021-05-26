@@ -14,7 +14,7 @@ aka Trestolone Acetate, 7*α*\-**methyl**\-19-**nortestosterone** (MENT)
 
 **Trestolone** (**MENT**) is an experimental androgen/anabolic steroid (AAS) and SARM medication under development by the US Government, The Population Council, and university partners for potential use as a form of hormonal birth control for men and in androgen replacement therapy for low Testosterone levels in men, but has never been marketed for medical use. 
 
-The compound is an extremely potent 19-nor derivative oft-described as a cross between Trenbolone and Nandrolone—but without any of the negative sides of either. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
+The compound is an extremely potent 19-nor derivative oft-described as a cross between Trenbolone and Nandrolone—but without many of the worst negative sides of either. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
 
 Trestolone delivers 10x more myotropic effect than testosterone. The *myotropic effect* is the effect of building muscle, making Trestolone more effective than any other commercial steroid in existence. Whereas Trenbolone's Anabolic/Androgenic ratio is 500/500 to Testosterone's 100/100, MENT comes in at 2300/650. It's oft-described as “Test on steroids” or “supercharged Test.”
 
@@ -76,13 +76,13 @@ Recovery from MENT was *much more rapid* than from testosterone. The recovery pe
 
 ## Administration Guidelines 
 
-Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day—as MENT is ten times more myotropic than Testosterone. 
+Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day—as MENT is ten times more myotropic than Testosterone. Contraceptive studies found that implants timed to release 400, 800 and 1600 mcg per day were both well-tolerated and consistent in ensuring that patients were azoospermic below fertility threshold values.
 
-Many get good results on MENT solo, or paired with Test, at doses as little as 5-10mg/day. A typical blast is anywhere from 10-25mg/day. Higher end doses range from 25-50 mg per day (175-350/wk) on up to 100 mg/day (700/wk).
+Many cruise on MENT solo, or paired with Test, at 400-700mcg/day, and for weightlifting purposes it's possible to get good results on MENT solo at doses as little as 5-10mg/day. Higher-end doses range from 10-25 (70-175/wk), 25-50 (175-350/wk), on up to 100 mg/day (700/wk). In sensitive individuals, sides such as high blood pressure, gynecomastia, or night sweats may manifest at the higher end of the dosage range, making it imperative to titrate up from cruise.
 
-There's no need to rush to higher doses. It's far more prudent to ease into it. Why not? It's designed as a prostate-safe replacement for Testosterone in TRT/HRT. As such, you'd never have to come off it—you can just drop back down to a cruise of ~1mg.
+There's no need to rush into taking higher doses. It's far more prudent to ease into it and take the minimum dose required. MENT is a relatively new and untested compound. Harm reduction would dictate administering the minimum required and titrating dosage upwards. As MENT is designed as a prostate-safe replacement for Testosterone in TRT/HRT, in theory you never have to come off it—you can just drop back down to a cruise of ~400-700 mcg/day.
 
-The compound is extremely well-tolerated, and the  complete lack of sides even at higher doses, coupled with its counterintuitive and powerful efficacy, makes it a remarkable and unique addition to today's available  selection.
+The compound is extremely well-tolerated, and the complete absence of sides at the optimal dosing range, coupled with its counterintuitive and powerful efficacy, makes Trestolone a remarkable and unique addition to today's available range of anabolic compounds.
 
 ### MENT Example Cycle
 
@@ -92,21 +92,21 @@ MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
 * Start with it at *Cruise* (400–700mcg).
 
-* Ease into it at 1-2mg. Note any results. 
+* Ease into it at 1-2 mg/day. Note any results. 
 
-* Try a week or more at 5mg. Again pay close attention to any mental or physical changes. How's your sleep, mood, appetite? Many users experience heretofore unheard-of physique and strength gains, and record-shattering (1RM) lifts, even at this low dose regime. 
+* Try a week or more at 5 mg/day. Again pay close attention to any mental or physical changes. How's your sleep, mood, appetite? Many users experience heretofore unheard-of physique and strength gains, and record-shattering PR (1RM) lifts, even at this low dose regime. 
 
-* Take a week or two between 5-10mg, or *slowly* work your way to 10mg.  Closely keep track of any changes along the way.
+* If you're interested in dosing higher, take a week or two at 5mg, or *slowly* work your way to 10mg.  Closely keep track of any changes along the way.
 
-* If tolerated, the daily dose can be taken to 25mg. Splitting it into multiple injections reduces any potential sides. There's no rush.
+* If well-tolerated, the daily dose can be taken to 25mg. Splitting it into multiple injections reduces any potential sides. There's no rush. Note the incidence of sides increases with higher doses. 
 
-* If you're ambitious, you can go to 50, 75—even 100mg. It's little-explored at these and higher doses, so any information or feedback you may have on personal response at those levels would make a valuable contribution to the knowledge base ...
+* If you're ambitious, you can go to 50, 75—even 100mg. It's little-explored at these levels, and safety studies haven't yet been conducted here, so you're in uncharted terrain.
 
-* Many users experience massive gains in physique and *lifetime PRs* on as little as 5–10mg a day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. The compound will likely be an essential staple in your stack for decades to come. 
+* Many users experience massive gains in physique and *lifetime PRs* on as little as 5–10mg per day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. The compound will likely be an essential staple in your stack for decades to come. 
 
-* In taking it slowly, you'll find your sweet spot, save your wallet, and simultaneously *guarantee* the absence of any adverse sides.
+* In taking it slowly, you'll find your sweet spot, save your wallet, and simultaneously *guarantee* the absence of adverse side effects.
 
-* When finished just drop back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe and healthy replacement for TRT—so you don't have to come completely off of it.
+* When finished, just drop back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe and healthy replacement for TRT—so it's not necessary to completely come off of it.
 
 ### Super bloat? Crazy gyno? 
 
@@ -144,9 +144,11 @@ The 17α-Methylestradiol produced by Dianabol aromatizes at a much lower rate, b
 
 When adding MENT, don't modify estrogen management. EQ/MENT or Primo/MENT ratio doesn't matter as much as the dose of Testosterone you're taking, as that's going to be the primary aromatizing compound unless solo. 
 
-If you start MENT and begin to experience sides, just lower the dose. 7α-Methylestradiol is very quick in and out, so more frequent dosing will cut down on spikes. Treat MENT like TNE—you wouldn't adjust your AI dose when introducing TNE. 
+If you start MENT and begin to experience sides, just lower the dose. 7α-Methylestradiol is very quick in and out, so more frequent dosing will cut down on spikes. Treat MENT like TNE—you wouldn't adjust your AI dose when introducing TNE.
 
-* “There's essentially zero estrogen sides. It's a side-effect-free, more powerful and effective love child of Trenbolone and Nandrolone that's so *ridiculously perfect* it feels almost too good to be true.”
+⚠️ Some users report trouble managing aromatization with MENT. Have Aromasin, Nolvadex or Raloxifine at the ready. On the other hand, the majority of users present with no sides. If you follow guidelines and titrate up from a cruise, this should never become an issue.
+
+* “There's essentially zero E2 sides. It's a side-effect-free, more powerful and effective love child of Trenbolone and Nandrolone that's so *ridiculously perfect* it feels almost too good to be true.”
 
 * “I experienced *no issues* at 350mg a week last off-season and I have absolutely zero idea why anyone would need to run MENT higher than that.”
 
