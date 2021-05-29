@@ -66,7 +66,7 @@ Several studies discuss MENT's lack of 5-HT reduction and prostate-safe effects.
 
 In a study on the compound's half-life, MENT acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is also VERY short, calculated to be only 40 min for 500mcg of unesterified compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates twice a day dosing to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values are also commercially available. 
 
-### Fertility Recovery 
+### Rapid Recovery 
 
 A comprehensive human study conducted on male subjects compared the effects of MENT to Testosterone, both *solo* and accompanied with the progestin Etonogestrel, on spermatogenesis, sex drive, and safety biomarkers associated with androgen use. This was a robust study, containing 29 subjects tested for 48 weeks.^(8)
 
