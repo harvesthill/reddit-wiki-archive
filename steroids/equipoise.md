@@ -20,7 +20,7 @@
 
 Boldenone is more similar to testosterone than any other anabolic steroid. It was the first synthetic derivative of Testosterone, long before even Dianabol was conceived of in 1958. Dianabol, or Methandrostenolone, carries many similarities—it's actually a C17-alpha alkylated version of Equipoise. It differs from Boldenone only via a methyl group attached to the 17-beta position on the steroid ring. However, this addition completely changes the chemical properties of Dianabol, making it an entirely different steroid altogether.
 
-After exploring several ester configurations, Ciba introduced boldenone for clinical use in the undecylenate ester configuration under the brand name **Parenabol**, which was prescribed by doctors around the world throughout the late 1960s and early 1970s. However, Parenabol was discontinued before the end of the 1970s, subsequently purchased and introduced by **Squibb** under the brand name **Equipose** for veterinary use. The commercial product is now most commonly sold for administration to horses—though its popularity with strength athletes and bodybuilders likely exceeds its veterinary applications.  
+After exploring several ester configurations, Ciba introduced boldenone for clinical use in the undecylenate ester configuration under the brand name **Parenabol**, which was prescribed by doctors around the world throughout the late 1960s and early 1970s. However, Parenabol was discontinued before the end of the 1970s, subsequently purchased and introduced by **Squibb** under the brand name **Equipose** for veterinary use. The commercial product is now most commonly sold for administration to horses—though its popularity with strength athletes and bodybuilders far exceeds its veterinary utility.  
 
 ## Benefits
 
