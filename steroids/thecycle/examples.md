@@ -181,7 +181,7 @@ For **EQ** to really shine, it needs to be run longer and at higher doses than a
 
 **EQ** can be run as an accessory to tren on a cut cycle to help mitigate the reduction in cardiovascular capacity that comes along with tren use, while keeping muscle fullness, and helping to avoid looking flat.
 
-**EQ** really shines as the main compound in a recomposition cycle, where it allows you to keep your muscle fullness and vascularity while building a few pounds of muscle and dropping a few percent body fat.
+**EQ** really shines as the main compound in a recomposition cycle, where it allows you to keep your muscle fullness and vascularity while building a few pounds of muscle and dropping a few percent body fat. **ALWAYS RUN A TEST BASE**.
 
 ## Bulk Cycles
 
