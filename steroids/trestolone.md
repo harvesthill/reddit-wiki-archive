@@ -112,15 +112,19 @@ MENT can be run *Solo* **OR** *paired* with TRT Testosterone (80-150mg).
 
 Concerned by the sides mentioned in the older Compound Experience Threads?
 
-*Don't believe the hype.* 
+***Don't believe the hype.*** 
+
+**Equipotent to E2** — 7α-methyl-Methylestradiol is [*equipotent* to estrogen](https://en.wikipedia.org/wiki/7α-Methylestradiol) at the receptor. It isn't some magic powerful gyno trigger—especially when you're taking less than a milligram on up to a few milligrams per day. *Aromatization issues are completely overblown*.
+
+**Aromatizes at the same rate as Nandrolone** — [This chart](https://www.instagram.com/p/CPIavffgeso/) demonstrates equivalent aromatization to Nandrolone (Deca, or 19-nortestosterone). 
 
 A MENT solo cruise as HRT/TRT replacement for 22 consecutive weeks [yields estrogen values](https://www.reddit.com/r/steroids/comments/nlgfsc/daily_ask_anything_20210526/gzjlog1/) of about *5* pg/mL as shown on LC-MS/MS sensitive bloodwork.  
 
-5-Methylestradiol has been shown to be *equipotent* to estrogen at the receptor. It isn't some magic powerful gyno trigger—especially when you're taking less than a milligram per day. Any aromatization issues are completely overblown.
+**Veteran input** — How about some input from some of the most respected r/steroids veteran contributors?
 
-For those who believe MENT is particularly estrogenic, see [this chart](https://www.instagram.com/p/CPIavffgeso/),  which demonstrates near equivalent aromatization to 19-nortestosterone (Nandrolone). 
+&gt; u/platewrecked: The side effects are the stuff of broscience. Those old writeups are like they were taking a completely different compound. A bunch of us have been playing with it over the last couple of years and only a small number of guys running substantial MENT cycles need any AI at all and I don’t know a single user who got gyno from MENT.
 
-Review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early Experience Threads.
+Or review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early Experience Threads.
 
 &gt; u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
 &gt;
@@ -128,7 +132,7 @@ Review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq
 &gt;
 &gt; I have pretty bad pubertal gyno that Tren fucks with. I ran MENT paired with EQ, and didn’t touch an AI for my entire cycle. Nothing. At. All. Not a single side effect, other than getting swole as fuck. When I bumped it from 350 to 700, I couldn’t control my BP even with lots of cardio and meds, so I had to lower it back to 350. That's it. 
 &gt;
-&gt;It’s almost like today’s MENT is a different drug alltogether from those old threads. Maybe synthesizing techniques have changed and it slightly altered things since then? Maybe guys had themselves under the *placebo effect* seeing all these sides that they expected so badly? I assume it’s the latter. *Anyhooo*. Yeah. That’s the *real* story.
+&gt;It’s almost like today’s MENT is a different drug altogether from those old threads. Maybe synthesizing techniques have changed and it slightly altered things since then? Maybe guys had themselves under the *placebo effect* seeing all these sides that they expected so badly? I assume it’s the latter. *Anyhooo*. Yeah. That’s the *real* story.
 
 Here's some ***more recent***—and hence relevant—Compound Experience Threads:
 
