@@ -18,6 +18,8 @@ The compound is an extremely potent 19-nor derivative oft-described as a cross b
 
 Trestolone delivers 10x more myotropic effect than testosterone. The *myotropic effect* is the effect of building muscle, making Trestolone more effective than any other commercial steroid in existence. Whereas Trenbolone's Anabolic/Androgenic ratio is 500/500 to Testosterone's 100/100, MENT comes in at 2300/650. It's oft-described as “Test on steroids” or “supercharged Test.”
 
+Unlike its sister compound Dimethandrolone (DMAU), MENT is still capable of aromatizing, so the benefits of estrogen will still be present: extra strength, better glycogen use, upgrading of androgen receptors, increased GH output, and more IGF-1. Like parent hormone Trestolone, 7*α*\-Methylestradiol shows less affinity to binding proteins, and Is rapidly metabolized from the system. 
+
 ###Equivalence to Testosterone 
 
 Trestolone is the *only steroid in production today* that is capable of sustaining normal male physiology in the complete absence of testosterone, including sexual functioning.
