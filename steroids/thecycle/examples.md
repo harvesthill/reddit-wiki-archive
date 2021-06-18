@@ -31,7 +31,7 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 
 **Supplemental Compounds:**
 
-##### WARNING: Clenbuterol Toxicity
+## WARNING: Clenbuterol Toxicity
 
 Stay away from Clen. **It's cardiotoxic**. Clen kills the muscle cells that power your heart. You only get one of those. Clen *isn't worth your life.* 
 
@@ -47,7 +47,7 @@ Stay away from Clen. **It's cardiotoxic**. Clen kills the muscle cells that powe
 * [Relative myotoxic and haemodynamic effects of the β-agonists fenoterol and clenbuterol measured in conscious unrestrained rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1828613/)
 * [Toxicity of Weight Loss Agents](https://link.springer.com/article/10.1007/s13181-012-0213-7)
 
-#####Salbutamol: Clen's Safer Cousin
+## Salbutamol: Clen's Safer Cousin
 
 **Salbutamol** is far safer and just as effective than Clenbuterol.
 
