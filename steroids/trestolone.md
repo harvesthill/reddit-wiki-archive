@@ -124,11 +124,11 @@ A MENT solo cruise as HRT/TRT replacement for 22 consecutive weeks [yields estro
 
 **Veteran input** — How about some input from some of the most respected r/steroids veteran contributors?
 
-&gt; u/platewrecked: The side effects are the stuff of broscience. Those old writeups are like they were taking a completely different compound. A bunch of us have been playing with it over the last couple of years and only a small number of guys running substantial MENT cycles need any AI at all and I don’t know a single user who got gyno from MENT.
+&gt; **Review** from u/platewrecked: The side effects are the stuff of broscience. Those old writeups are like they were taking a completely different compound. A bunch of us have been playing with it over the last couple of years and only a small number of guys running substantial MENT cycles need any AI at all and I don’t know a single user who got gyno from MENT.
 
 Or review [these recent comments](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx2wic9/?context=3) and subsequent [reply from BicepBandito](https://www.reddit.com/r/steroids/comments/n5fceq/daily_ask_anything_20210505/gx32oyh/?context=3) in regards to the disinformation and broscience so prevalent in the early Experience Threads.
 
-&gt; u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
+&gt; **Review** from u/BicepBandito: MENT is my favorite steroid ever after just one run with it. I feel like those old Compound Experience threads were guys just parroting stuff they’d read. Often if you’re expecting sides, you’ll find them if you look hard enough, even if they’re not actually there. *Placebo works both ways*.
 &gt;
 &gt; MENT used to be *sooo* rare, and wildly expensive, that only a handful of really experienced guys had run it. Not so anymore. Price has come down considerably, and most underground labs seem to be carrying it nowadays. Everyone I know personally that’s run it has reported *zero sides* other than blood pressure issues at higher doses. I’ve seen *one person* report low *T* symptoms when he tried to run it solo.
 &gt;
@@ -141,6 +141,8 @@ Here's some ***more recent***—and hence relevant—Compound Experience Threads
 * [July 2020](https://www.reddit.com/r/steroids/comments/hcmk9e/compound_trestolone_trest_ment/?utm_source=amp&amp;utm_medium=&amp;utm_content=post_body) *Trestolone Compound Experience Thread*
 
 * [January 2021](https://www.reddit.com/r/steroids/comments/kg8lif/compounds_trestolone_aka_trest_ment/) *Trestolone Compound Experience Thread*
+
+* [June 2021](https://www.reddit.com/r/steroids/comments/o49ywj/compounds_trestolone_or_ment/) *Trestolone Compound Experience Thread*
 
 ### Estrogen Management
 
@@ -176,7 +178,9 @@ A compilation of commentary on Trestolone.
 
 ## Reviews
 
-* [Review](https://www.reddit.com/r/steroids/comments/hmc6rh/discussion_what_are_your_unpopular_opinionshot/fxt897j) “I can’t say that anything I’ve ever taken or any stack ever felt like this.”
+* [Review](https://www.reddit.com/r/steroids/comments/nlgfsc/daily_ask_anything_20210526/gzjlog1) u/CallLivesMatter on MENT as TRT: Update at 21 weeks 
+
+* [Review](https://www.reddit.com/r/steroids/comments/hmc6rh/discussion_what_are_your_unpopular_opinionshot/fxt897j) “… feels so much better than any other AAS I’ve tried. Such an incredible mood. I can’t imagine going back to straight Test. It's turned me into a muscle building machine.  Incredible aggression when you want it. I’m a psycho in the gym, and the best form of myself in daily life.”
 
 * [Review](https://www.reddit.com/r/steroids/comments/kmdymm/daily_ask_anything_20201229/ghe85an) “Is it expensive? Yes. Is it worth it? Also yes. E2 management is not as hard as people claim it to be. At 350mg/wk MENT with 200mg Testosterone, I only need 0.25mg Arimidex twice a week on Test injection days. Strength gains are substantial, muscle mass has been increasing rapidly as well. I’m very pleased with the effects and plan on including it in *all* future cycles.”
 

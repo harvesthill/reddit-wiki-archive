@@ -105,7 +105,7 @@ As demonstrated, **Nolvadex came out on top** here in LH, Testosterone &amp; Nor
 
 ## Dosing
 
-### Nolvadex
+### Nolvadex: Recommended PCT 10mg/day
 
 In all studies involving Nolvadex, for doses used to stimulate endogenous Testosterone production, only 20–40 mg daily of Nolvadex was utilized, and it has in fact been shown that doubling the dose to 40 mg or higher will not produce any significant difference in endogenous Testosterone secretion. 
 
@@ -117,21 +117,23 @@ Furthermore, the first week of PCT, there may be lingering suppressive AAS still
 
 Recent studies have found that even lower doses than traditionally-prescribed are equally as effective.
 
-* [A weekly low-dose tamoxifen vs raloxifene vs placebo in premenopausal women with estrogen receptor-positive breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053157) 
-* [Randomized dose trial of tamoxifen at low doses in hormone replacement therapy](https://www.ncbi.nlm.nih.gov/m/pubmed/17709798/) 
-* [Randomized trial of low-dose tamoxifen on breast cancer proliferation and estrogen biomarkers](https://www.ncbi.nlm.nih.gov/m/pubmed/12783932/)
+* [A weekly low-dose tamoxifen vs raloxifene vs placebo in premenopausal women with estrogen receptor-positive breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053157)  — This study examined the efficacy of doses at **1mg** and **5mg** per day and found *the two lower doses are just as effective* *as the previous standard of 20mg per day*. “Considering results of our previous studies we are now focusing on tamoxifen at 5mg per day. A weekly dose of 10mg/week is suggested as an alternative.”   
+
+* [Randomized dose trial of tamoxifen at low doses in hormone replacement therapy](https://www.ncbi.nlm.nih.gov/m/pubmed/17709798/) — This study examined the efficacy of tamoxifen at doses of **1mg**, **5mg** and **10mg** per day. “A dose of *5 mg/day was the most effective* and has been selected for a phase III trial in HRT users.”
+
+* [Randomized trial of low-dose tamoxifen on breast cancer proliferation and estrogen biomarkers](https://www.ncbi.nlm.nih.gov/m/pubmed/12783932/) — “We compared the effects of tamoxifen at **1 mg/day** and **5 mg/day** with those of the standard dose of **20 mg/day**. The effects of lower doses … were comparable to those achieved with the standard dose.” 
 
 ⚠️ **PCT dosing with Nolvadex has been updated (2020) as follows**:
 
-* **6–8 Weeks** at **10 mg ED**. Doses can be taken as low as **5 mg/day** if sides are a concern.
+* **6–8 Weeks** at **10 mg ED**. Doses can be taken as low as ***5 mg/day*** if sides are a concern.
 
-### Clomid
+### Clomid (*not recommended*) 
 
-According to the study previously mentioned,^(\[14\]) and thus recommended by the FDA, clomid for hypogonadism should be run at 25 mg EOD, 25 mg ED, or 50 mg EOD. Again, the side effects of clomid can be quite bothersome and bad. Why risk vision changes or loss running +50-150 mg ED when you could just do 25mg ED or 50mg EOD and get fantastic results? Dosing of a PCT including Clomid is as follows:
+According to the study previously mentioned,^(\[14\]) and thus recommended by the FDA, clomid for hypogonadism should be run at 25 mg EOD, 25 mg ED, or 50 mg EOD. Again, the side effects of Clomid can be quite bothersome and bad. Why risk vision changes or loss running +50-150 mg ED when you could just do 25mg ED or 50mg EOD and get fantastic results? Dosing of a PCT including Clomid is as follows:
 
 * **6-8 Weeks:** 25mg ED or 50mg EOD
 
-### Torem
+### Torem (*not recommended*)
 
 In the study above comparing Nolva, Torem, &amp; Ralox, 60mg was the dosage used and found to be very sufficient for PCT purposes. 60mg ED is the FDA recommended dosage and they found no benefit upon doubling the dose in women with breast cancer. Again, doubling the dose for the purpose of achieving optimal peak blood plasma levels quicker isn't necessary and just further increases your risk of potential sides. Dosing of a PCT including Torem is as follows:
 
