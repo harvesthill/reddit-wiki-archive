@@ -75,7 +75,7 @@ There are several providers in the USA to choose from.
 
 5. Wait to be emailed the lab results.
 
-### In the UK
+### UK – United Kingdom
 
 #### **Medichecks**
 
@@ -85,7 +85,11 @@ There are several providers in the USA to choose from.
 
 [Blue Horizon Medical](http://www.bluehorizonmedicals.co.uk/)  
 
-### In Canada
+### Canada
+
+####Ontario
+
+If you live in Ontario you can use [GetMaple.ca](http://www.GetMaple.ca) to easily talk to a doctor and get a requisition form for blood work. It's $50 to talk to a doctor online. You show your health card, tell them you're on steroids, answer their questions and tell them what you want to have checked. They email you a requisition form in a few minutes that you can take to a life labs or similar.
 
 [**Info Taken From This Post**](https://www.reddit.com/r/steroids/comments/6yqkqw/crowdsource_canadian_blood_work/)
 
@@ -95,19 +99,31 @@ There are several providers in the USA to choose from.
 
 &gt;* Worth saying, just go to a walk-in. Say you're on steroids, don't be embarrassed, literally no one cares. Is there a chance you encounter a doctor who says SHAME and refuses to give you healthcare? Sure. Less likely than them just covering their asses and checking your shit. Maybe you won't get uncapped Test levels but you'll get your lipids and liver enzymes.
 
+#### New Brunswick
+
 &gt;* In New Brunswick.
 I don't have a family doctor, so I went to a walk in clinic and told the doctor I was planning to go on steroids, and wanted bloodwork done. He filled out a bloodwork order form that I could take to the hospital, or to a walk-in blood clinic.
 After a couple visits, I asked for the order to be made a recurring one. So now I can just stop in at the walk-in blood clinic (they charge $14 to draw) and they'll use the order they have on file and send it to the hospital lab.
 Lab results get sent to the doctor that ordered them. I generally don't go to the clinic to review results, I go to the personal health records office at the hospital and request a hard copy of the results. They print it out and hand it over to me.
 
+#### British Columbia
+
 &gt;* In BC but this should go for anywhere in Canada (Naturopaths cannot order blood tests in New Brunswick). Go to a naturopathic doctor, they can request blood tests. Most benefits packages include visits to naturopaths, so it's in a way almost free.
+
+#### Montreal
 
 &gt;* I'm in Montreal, and i just went to a doctor, walk-in clinic and asked for blood test, the reason if I remember was test booster, feeling moody.
 He gave me a paper with the test he wanted checked, i checked the rest, didn't get in trouble.
 
+#### Quebec
+
 &gt;* In Quebec. I went to my doctor and basically told her I was on and explained why blood work was important for me to stay safe. If the doc is reasonable they will hook you up, if the doc is hard-headed (the first doc I tried was like this) then just go to another doc. The thing that sucks is that you can't get bloods as often as you'd like because the doc probably won't think its necessary.
 
+#### Ottawa
+
 &gt;* I go to a medical clinic in Ottawa (Sandy Hill Clinic) that has large numbers of drug users. Every big town or city has one. Just look up HIV Prevention on your cities web site. There they practice "Harm Reduction" so when you ask a doc for any test in order to reduce harm, they will do it eagerly.
+
+#### Alberta
 
 &gt;* Honestly I just kept asking ... This is in Alberta btw. Ended up finding someone at a walk in clinic (Calgary) willing to write me up for what I wanted.
 
