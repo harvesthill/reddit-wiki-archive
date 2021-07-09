@@ -26,7 +26,7 @@ In terms of therapeutic/medical use of methenolone, it has been argued by some r
 
 ##Is Primobolan a Weak Steroid?
 
-[This chart](https://www.instagram.com/p/CO_iqC5od8v/) demonstrates it to yield comparable gains to both Testosterone *and* Nandrolone.
+[This chart](https://imgur.com/f4paBmR) demonstrates it to yield comparable gains to both Testosterone *and* Nandrolone.
 
 ##Use/Dosing
 
