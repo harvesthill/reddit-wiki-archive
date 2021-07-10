@@ -28,6 +28,8 @@ In terms of therapeutic/medical use of methenolone, it has been argued by some r
 
 [This chart](https://imgur.com/f4paBmR) demonstrates it to yield comparable gains to both Testosterone *and* Nandrolone.
 
+**Source**: [Comparative androgenic, myotrophic and antigonadotrophic properties of some anabolic steroids](https://www.sciencedirect.com/science/article/abs/pii/S0039128X70800046) by Alfred Boris, Richard H. Stevenson, and Thelma Trmal, in *Steroids*, Vol. **15**, Issue 1 (*pp.* 61-71). **ISSN 0039-128X**. [Full paper download](https://ur.booksc.eu/book/20356389/0768cc/).
+
 ##Use/Dosing
 
 The difference in the dosing that is required for the oral and injectable versions of methenolone, as described earlier, is due to the action of the liver and the fact that the majority of the oral compound will not make it to circulation in the body. Also, due to the differing esters/structures of the compounds the frequency with which a user must administer them is also different. The oral form of methenolone should be administered at least once per day to maintain consistent blood levels of the drug, while the active life of the injectable version of the drug is such that administering it once per week is possible because of the enanthate ester, although splitting the doses to twice per week would provide much more consistent blood levels of the drug. 
