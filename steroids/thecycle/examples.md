@@ -60,16 +60,17 @@ Stay away from Clen. **It's cardiotoxic**. Clen kills the muscle cells that powe
 
 &gt;During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to **lose more fat** and at the same time **retain more muscle**. According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also **improve body composition** during a high-calorie diet if you combine salbutamol with caffeine.
 
-#####Salbutamol Stack
+### **Salbutamol Stack**
 
 Even more effective than an ECA stack is **Salbutamol** with caffeine. [This stack](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html) is more effective than ephedrine while  being far safer than clenbuterol. 
 
-#####ECA Stack
+* **Last 4-6 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
+
+### **ECA Stack**
 
 Another thing to consider is using a **ECA** (**ephedrine, caffeine, aspirin**) or **EC** (**ephedrine, caffeine**) stack. This will function as an appetite suppressant and accelerate your metabolism and hence aid tremendously on a cut:
 
 * **Last 4-6 Weeks:** [ECA or EC Stack](/r/steroids/wiki/eca_stack), Up To 3xED
-* **Last 4-6 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
 
 If you use Test E &amp; C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
 
