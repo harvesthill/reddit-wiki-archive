@@ -164,11 +164,17 @@ If you start MENT and begin to experience sides, just lower the dose. 7α-Methyl
 
 * “I have bad pubertal gyno and have run MENT up to 700 *without a single side* other than BP.”
 
+### Solo? Or no?
+
+Some prefer to run MENT with Testosterone, some prefer to run it solo. In absence of a medical condition such as a prostate condition that necessitates using MENT solo, it's recommended to try it both ways to ascertain personal preference.  
+
+In part this depends on how one responds to DHT, or the absence thereof, as replaced by another potent androgen (MENT).
+
+Most have no problems running it solo, but one early adopter experienced a subtle loss of drive and motivation that was corrected by reintroducing Test at TRT levels. Since then, many others have run it solo for months to years at a time without any negative sides or problems. 
+
+Test is cheap, so there's no problem in continuing to run it at TRT levels just to be conservative. Others who aromatize more heavily may prefer to run MENT solo so they aren't doubling up on estrogen management. 
+
 ## Posts 
-
-A compilation of commentary on Trestolone. 
-
-* [Solo? or No?](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gehtg6t)
 
 * [Dosing Examples](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcym1h4)
 
