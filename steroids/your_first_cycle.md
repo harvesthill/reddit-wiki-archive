@@ -299,17 +299,17 @@ Suggested Dose: **Run 250 IU EOD throughout the full cycle**.
 
 ###**How Do I Mix And Run My HCG?**
 
-An easy ratio for mixing is 1ml of bacteriostatic water per 5000iu of HCG which results in 10 units ([5 small lines on a 1 mL insulin syringe](https://imgur.com/a/1Oekj) or [10 small lines on a 1/2 mL insulin syringe](https://imgur.com/a/5vGYd)) being 500iu of HCG.  
+An easy ratio for mixing is 1 mL bacteriostatic water per 5000 IU hCG, which results in 10 units ([5 small lines on a 1 mL insulin syringe](https://imgur.com/a/1Oekj) or [10 small lines on a 1/2 mL insulin syringe](https://imgur.com/a/5vGYd)) being 500 IU of hCG.  
 
-Generally hCG will come with a vial of lyophilized powder and an ampule of either sodium chloride solution or bacteriostatic water. You want the bacteriostatic water. The bac water is intended for multiple uses and will inhibit bacteria growth. The sodium chloride solution is intended to be used in a single injection, so if using it over multiple injections it may begin to grow bacteria.
+Generally hCG will come with a vial of lyophilized powder and an ampule of either sodium chloride solution or bacteriostatic water. You want the bacteriostatic water. Bac water is intended for multiple uses and will inhibit bacteria growth. The sodium chloride solution is intended for female fertility use purposes and is to be used in a single injection. If used over multiple injections it may begin to grow bacteria.
 
-When you check your vial of lyophilized hCG it will generally be 5000iu, although it can come in other amounts.
+When you check your vial of lyophilized hCG it will generally be 5000 IU, although it can come in other amounts.
 
-Using 5000iu as the most common example; if you take 2ml of Bac Water and inject that slowly into your vial of 5000iu hCG, you then have 250iu per tenth of a ml (cc). So every tenth of your 1ml insulin syringe would be 250iu.
+Using 5000 IU as the most common example; if you take 2mL of Bac Water and inject that slowly into your vial of 5000 IU hCG, you then have 250 IU per tenth of a mL (cc). So every tenth of your 1mL insulin syringe would be 250 IU.
 
 The other form hCG might come in is a liquid form. This is hCG in a solution with a preservative to keep it active. You may add bacteriostatic water to this in order to adjust your dosage if you need.
 
-In either case your hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing with bac water. The hCG should good for around 60 days when refrigerated. After that time poeriod it will loose a little potency as time goes on. (*Contributed by u/ThePenguinSmuggler*)
+In either case, hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing it with bac water. hCG should be good for around 60 days when refrigerated. After that time it will lose potency at about ten percent per week as time goes on. 
 
 ##Blood Work
 
@@ -354,29 +354,15 @@ We answer this question ten times a day. 
 
 *Contra* what you may have been led to believe, this number was not just haphazardly chanced upon. There's actually a great deal of critical thinking and rationale that went into arriving at this figure. 
 
-500 mg is a low dose. 
+500 mg is a low dose. Gains are log-linear up to 600 mg and well beyond. If you're going with 300mg, you're still shutting yourself down—and you're leaving a lot of free gains on the table for nothing. 
 
-Gains are log-linear up to 600 mg and well beyond.
-
-&gt; *[Testosterone dose-response relationships in healthy young men](https://www.ncbi.nlm.nih.gov/m/pubmed/11701431/)*
-&gt;
-&gt; *Lean body mass*: 
-&gt; 
-&gt; 125mg = +3.4 kg 
-&gt; 
-&gt; 300mg = +5.2 kg
-&gt; 
-&gt; 600mg = +7.9 kg
-
-If you're going with 300mg you're still shutting yourself down—and you're leaving free gains on the table for nothing. 
-
-There's no difference in sides between 300 and 500.
+There's little to no difference in sides between 300 and 500.
 
 There's no difference in shutdown between 300 and 500. 
 
-500mg is a low dose in that you can take ten times that without any Ill effects. Someone who is a low aromatizer—*not all that rare*—can take 1000mg Test with no AI and no sides, no problem. 
+500mg is a low dose in that you can take *well over ten times that amount* without any Ill effects. Someone who is a low aromatizer—*not all that rare*—can take 1000mg, or ***one full gram* of Test with no AI and no sides. 
 
-500mg is a low dose in that bodybuilders usually start from there and work up. 500 is low. 750 is medium. 1000+ is advanced.
+500mg is a low dose in that bodybuilders have long started from there and worked up. 500 is low. 750 is intermediate. 1000+ is a little bit more advanced. 10,000 milligrams, e.g. **10 full grams**, is IFBB Pro (Dallas McCarver) territory. 
 
 At 300mg, you're putting yourself in the no-man's land just between TRT and a full-on blast where it's difficult to dial in your aromatase inhibitor (AI). Managing your estrogen with an AI is one of the most important things you can learn from your first cycle.
 
@@ -384,7 +370,7 @@ The r/steroids wiki incorporates thousands of clinical studies and case reports 
 
 Taking a higher dose than it's naturally accustomed to simply results in adaptation to temporarily produce relatively higher levels of aromatase to accommodate for the influx of hormone and attain equilibrium.
 
-The immediate byproduct of that adaptive response—17β-Oestradiol (E2) is highly anabolic, cardioprotective, neuroprotective, and essential for normal physiological functioning. No acute toxicity or organ stressors manifest themselves, even at doses hundreds of times that of normal.
+The immediate byproduct of that adaptive response—17β-Oestradiol (E2) is highly anabolic, cardioprotective, neuroprotective, important for lipid balance and libido, and essential for normal physiological functioning. No acute toxicity or organ stressors manifest themselves, even at doses hundreds of times that of normal.
 
 Your body knows how to handle testosterone. It's been synthesizing it since before birth. It's essential for normal physiological functioning. The Wiki recommends 500mg on your first cycle for good reason. 
 
