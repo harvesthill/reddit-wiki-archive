@@ -60,7 +60,7 @@ Several studies point to MENT's lack of 5α-reductase metabolism and prostate-sa
 
 ###f. Short Half-life 
 
-In a study on MENT's half-life, MENT Acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is **VERY** short, calculated to be only 40 minutes for 500mcg of unesterified compound injected IV. A Swedish study^(9) injecting MENT Acetate IM found a longer half-life of 224 minutes due to the extended absorption time of IM injection. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. This short half-life mandates *twice a day dosing* to maintain stable plasma levels of the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values to be injected twice per week and once per week, respectively, are also commercially available. 
+In a study on MENT's half-life, MENT Acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is **VERY** short, calculated to be only 40 minutes for 500mcg of *unesterified* compound injected IV. A Swedish study^(9) injecting MENT IM found a longer half-life of 224 minutes due to the extended absorption time of IM injection. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. Daily administration should be sufficient with the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values to be injected twice per week and once per week, respectively, are also commercially available. 
 
 ###g. Rapid Recovery 
 
@@ -74,31 +74,37 @@ Recovery from MENT was *much more rapid* than from Testosterone. The recovery pe
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day, given that MENT is ten times more myotropic than Testosterone. Contraceptive studies found that implants timed to release 400, 800 and 1600 mcg per day were well-tolerated. 400-700mcg on up to 1-2mg were employed by clinical studies as an approximate translation to TRT. Given the complete lack of side effects and the nominal impact on bloodwork, many bodybuilders opt to follow an “enhanced” cruise protocol of MENT at 5-10mg/day. 
 
-Trestolone can be taken *solo* or paired with Testosterone. For weightlifting purposes good results and accelerated progress can be made at doses as little as 5-10mg/day. Increasing blast doses range from 10-25mg (70-175/wk), 25-50mg (175-350/wk), on up to 100mg per day (700/wk). The average cycle settles upon 25-35mg/day. Acetate ester blasts are typically 8 weeks in duration, whereas Enanthate and Decanoate are longer at 12-20 weeks. 
+Trestolone is intended be taken *solo* as a replacement or paired with Testosterone. For weightlifting purposes good results and accelerated progress can be made at doses as little as 5-10mg/day. Commonly-used blast doses range from 10-25mg (70-175/wk), 25-50mg (175-350/wk), on up to 100mg per day (700/wk). The average cycle settles upon 25-35mg/day. Acetate ester blasts are typically 8 weeks in duration, whereas Enanthate and Decanoate are longer at 12-20 weeks. 
 
-There's no need to rush into taking higher doses. Harm reduction would dictate administering the minimum required and titrating dose upwards. In sensitive individuals, side effects such as high blood pressure, gynecomastia, or night sweats may manifest at the higher end of the dosage range, making it imperative to have AI on hand and to titrate up from cruise. 
+There's no need to rush into taking higher doses. Harm reduction would dictate administering the minimum required and titrating dose upwards. Pairing with Test conveys estrogen's protective benefits. In sensitive individuals, side effects such as high blood pressure, gynecomastia, or night sweats may manifest at the higher end of the dosage range, making it imperative to have AI on hand and to titrate up from cruise. 
 
 As MENT is designed as a prostate-safe replacement for Testosterone in TRT, following completion of the blast phase one can simply drop back down to a cruise. Trestolone is extremely well-tolerated, and the complete absence of sides at the therapeutic dosing range—coupled with its impressive anabolic response–makes Trestolone a unique addition to the contemporary range of anabolic compounds.
 
 ### a. Example Cycle
 
-MENT can be run *Solo* **OR** *paired* with TRT doses of Testosterone (typically 80-150mg). The following holds for **Trestolone Acetate**. Enanthate and Decanoate esters take far longer to reach saturation, so weekly changes would be too quick to discern sufficient metrics before moving forward. 
+MENT has long been run *Solo* **OR** *paired* with TRT doses of Testosterone (typically 80-150mg). The following holds for **Trestolone Acetate**. Enanthate and Decanoate esters take far longer to reach saturation, so weekly changes would be too quick to discern sufficient metrics before moving forward. 
 
-* As a short-ester Acetate, injections should occur every day (ED) at minimum, and *twice a day* for enhanced stability. MENT doesn't bind to SHBG, so it's fully metabolized in no time flat. 
+Trestolone is intended as a rapidly-reversible male contraceptive and as a replacement for Testosterone in HRT. Long-term clinical research found no adverse effects or problems in long-term studies of 48 weeks that administered Trestolone solo. Anecdotal reports from some users indicate MENT is better when paired with TRT levels of Testosterone. This is particularly advisable from a medical perspective given the neuroprotective and cardioprotective benefits conveyed by estradiol. 
 
-* **Week One**. Start with a *Cruise* dose of 1-2mg and note any effects on strength, training and recovery. 
+* As a short-ester Acetate, injections should occur every day. MENT doesn't bind to SHBG, so it's fully metabolized in no time flat. 
 
-* Try a week or so at 5mg/day. Again pay close attention to any mental or physical changes. How are sleep, mood, appetite affected? Many users experience heretofore unheard-of physique and strength gains, and record-shattering PR (1RM) lifts, even at this low dose regime. 
+* **Week One**. Start with a *Cruise* dose of ~1g and note any effects on strength, training and recovery. 
 
-* If you're interested in taking it higher, work your way to 10mg.  Closely keep track of any changes along the way.
+* Try a week or so going up to 5mg/day. Again pay close attention to any mental or physical changes. How are sleep, mood, appetite affected? Many users experience heretofore unheard-of physique and strength gains, and record-shattering PR (1RM) lifts, even at this low dose regime. 
 
-* If well-tolerated, the daily dose can be taken to 25mg, splitting into multiple injections to reduce potential side effects. There's no rush. 
+* If you're interested in taking it higher, work your way to 10mg.  Closely keep track of any changes along the way. Keep in mind clinical studies haven't been conducted above ~2mg per day. 
 
-* If ambitious, you can go to 50, 75—even 100mg. Less conservative coaches recommend starting MENT at 30mg/day and quickly moving on up to 50mg/day+. Safety studies haven't yet been conducted this high, so you're in uncharted terrain.
+* If well-tolerated, the daily dose is oft-taken to 25mg, splitting into multiple injections to reduce the potential of side effects.
 
-* When the cycle is complete, choose between termination of the cycle or dropping back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe, healthy replacement for TRT—so it's not unheard of the blast and cruise with it as oft-practiced with Testosterone.
+* Many bodybuilders have taken MENT to 50, 75—even 100mg. *Less conservative* coaches recommend starting MENT at 30mg/day and quickly moving on up to 50mg/day+.
 
-Many users experience massive improvement in physique and *lifetime PRs* on as little as 5–10mg per day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. The compound will likely be an essential staple in your stack for decades to come. In taking it slowly the first time, you'll find your sweet spot, save your wallet, and simultaneously *guarantee* the absence of adverse side effects.
+* *Safety studies haven't yet been conducted anywhere near this high*, so you're in uncharted terrain. This is the principle reason for titrating from ~1mg.
+
+* When the cycle is complete, choose between termination of the cycle or dropping back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe, healthy replacement for TRT—so it's not unheard of to blast and cruise with it as oft-practiced with Testosterone.
+
+Yet again: there's no need to rush into higher doses just because they're the prevailing paradigm. *Harm reduction would dictate administering the minimum required and titrating dose upwards*. In sensitive individuals, side effects such as high blood pressure, gynecomastia, or night sweats may manifest at the higher end of the dosage range, making it imperative to *titrate up* from cruise.
+
+Many users experience massive improvement in physique and *lifetime PRs* on as little as 5 mg per day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. In taking it slowly the first time, you'll find your sweet spot, save your wallet, and simultaneously *guarantee* the absence of adverse side effects.
 
 ### b. Super bloat? Crazy gyno? 
 
@@ -110,7 +116,7 @@ A MENT solo cruise as HRT/TRT replacement for 22 consecutive weeks [yields estro
 
 **Equipotent to E2** — 7α-Methylestradiol is [*equipotent* to estrogen](https://en.wikipedia.org/wiki/7α-Methylestradiol) at the receptor. It isn't some magical powerful gyno trigger—especially when you're taking a few milligrams per day. *Aromatization issues are completely overblown*.
 
-**Aromatizes at the same rate as Nandrolone** — [This chart](https://www.instagram.com/p/CPIavffgeso/) demonstrates that MENT has an equivalent aromatization rate as Nandrolone (Deca, or 19-nortestosterone). 
+**Aromatizes at the same rate as Nandrolone** — [This chart](https://www.instagram.com/p/CPIavffgeso/) demonstrates that MENT has an equivalent aromatization rate as Nandrolone (Deca, or 19-nortestosterone).^10
 
 The only exceptional characteristic of MENT's 7α-Methylestradiol is its methylation, which can arguably make it slower to metabolize. Yet this feature is shared with Dianabol's active metabolite, 17α-Methylestradiol, and people aren't lining up with alarmist cries to denounce Dianabol for crazy and uncontrollable sides. 
 
@@ -166,8 +172,6 @@ Test is cheap, so there's no problem in continuing to run it at TRT levels just 
 
 ## 3. Posts 
 
-* [Dosing Examples](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcym1h4)
-
 * [Babies &amp; Birth Control](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gbgq0mb)
 
 * [Managing Estrogen, E2 &amp; Bone Density](https://www.reddit.com/r/steroids/comments/jpqfxo/daily_ask_anything_20201107/gcylui8)
@@ -217,5 +221,9 @@ Test is cheap, so there's no problem in continuing to run it at TRT levels just 
 8.  Kumar, Narender, et al. “[Pharmacokinetics of 7*α*-methyl-19-nortestosterone in Men and Cynomolgus Monkeys](https://www.ncbi.nlm.nih.gov/pubmed/9283946).” *Journal of Andrology* **18.4** (1997): 352-358.
 
 9.  Walton, Melanie J., et al. "[7*α*-methyl-19-nortestosterone (MENT) vs Testosterone in Combination With Etonogestrel Implants for Spermatogenic Suppression in Healthy Men](https://www.ncbi.nlm.nih.gov/pubmed/17460095)." *Journal of Andrology* **28.5** (2007): 679-688.
+
+10. [Victor Black Masterclass](https://www.instagram.com/p/CPIavffgeso/
+), from [*Dimethandrolone (7α,11β-dimethyl-19-nortestosterone) and 11β-methyl-19-nortestosterone are not converted to aromatic A-ring products in the presence of recombinant human aromatase*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575079/).
+ 
 
 10. J Suvisaari, K Sundaram, G Noé, N Kumar, C Aguillaume, Y Y Tsong, P Lähteenmäki, C W Bardin, [Pharmacokinetics and pharmacodynamics of 7alpha-methyl-19-nortestosterone after intramuscular administration in healthy men](https://academic.oup.com/humrep/article/12/5/967/665464)., Human Reproduction, Volume 12, Issue 5, May 1997, Pages 967–973, https://doi.org/10.1093/humrep/12.5.967
