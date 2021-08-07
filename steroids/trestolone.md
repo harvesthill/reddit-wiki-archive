@@ -222,8 +222,7 @@ Test is cheap, so there's no problem in continuing to run it at TRT levels just 
 
 9.  Walton, Melanie J., et al. "[7*α*-methyl-19-nortestosterone (MENT) vs Testosterone in Combination With Etonogestrel Implants for Spermatogenic Suppression in Healthy Men](https://www.ncbi.nlm.nih.gov/pubmed/17460095)." *Journal of Andrology* **28.5** (2007): 679-688.
 
-10. [Victor Black Masterclass](https://www.instagram.com/p/CPIavffgeso/
-), from [*Dimethandrolone (7α,11β-dimethyl-19-nortestosterone) and 11β-methyl-19-nortestosterone are not converted to aromatic A-ring products in the presence of recombinant human aromatase*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575079/).
+10. [*Dimethandrolone (7α,11β-dimethyl-19-nortestosterone) and 11β-methyl-19-nortestosterone are not converted to aromatic A-ring products in the presence of recombinant human aromatase*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575079/).
  
 
 10. J Suvisaari, K Sundaram, G Noé, N Kumar, C Aguillaume, Y Y Tsong, P Lähteenmäki, C W Bardin, [Pharmacokinetics and pharmacodynamics of 7alpha-methyl-19-nortestosterone after intramuscular administration in healthy men](https://academic.oup.com/humrep/article/12/5/967/665464)., Human Reproduction, Volume 12, Issue 5, May 1997, Pages 967–973, https://doi.org/10.1093/humrep/12.5.967
