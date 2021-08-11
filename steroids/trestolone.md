@@ -88,7 +88,7 @@ Trestolone is intended as a rapidly-reversible male contraceptive and as a repla
 
 * As a short-ester Acetate, injections should occur every day. MENT doesn't bind to SHBG, so it's fully metabolized in no time flat. 
 
-* **Week One**. Start with a *Cruise* dose of ~1g and note any effects on strength, training and recovery. 
+* **Week One**. Start with a *Cruise* dose of ~1mg and note any effects on strength, training and recovery. 
 
 * Try a week or so going up to 5mg/day. Again pay close attention to any mental or physical changes. How are sleep, mood, appetite affected? Many users experience heretofore unheard-of physique and strength gains, and record-shattering PR (1RM) lifts, even at this low dose regime. 
 
