@@ -116,7 +116,7 @@ A MENT solo cruise as HRT/TRT replacement for 22 consecutive weeks [yields estro
 
 **Equipotent to E2** — 7α-Methylestradiol is [*equipotent* to estrogen](https://en.wikipedia.org/wiki/7α-Methylestradiol) at the receptor. It isn't some magical powerful gyno trigger—especially when you're taking a few milligrams per day. *Aromatization issues are completely overblown*.
 
-**Aromatizes at the same rate as Nandrolone** — [This chart](https://www.instagram.com/p/CPIavffgeso/) demonstrates that MENT has an equivalent aromatization rate as Nandrolone (Deca, or 19-nortestosterone).^10
+**Aromatizes at the same rate as Nandrolone** — [This chart](https://imgur.com/a/D9vCY5g) from [this study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575079/) demonstrates that MENT has an equivalent aromatization rate as Nandrolone (Deca, or 19-nortestosterone).^10
 
 The only exceptional characteristic of MENT's 7α-Methylestradiol is its methylation, which can arguably make it slower to metabolize. Yet this feature is shared with Dianabol's active metabolite, 17α-Methylestradiol, and people aren't lining up with alarmist cries to denounce Dianabol for crazy and uncontrollable sides. 
 
