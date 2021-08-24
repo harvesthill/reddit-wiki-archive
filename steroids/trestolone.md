@@ -70,6 +70,52 @@ Participants either received two implant pellets each containing 135mg of MENT a
 
 Recovery from MENT was *much more rapid* than from Testosterone. The recovery period was 16 weeks for the MENT group, in which *semen concentration increased* to over 20×10^6 mL—whereas the Testosterone group *still had azoospermia* until after 28 weeks.^(8)
 
+###h. Birth Control
+
+* MENT is 12× more suppressive than Testosterone and is under development by USG and university research partners as a rapidly-reversible male oral or implant-based contraceptive. 
+
+* Recovery from MENT is twice as fast as from Testosterone. 
+
+* Check this excellent Program Overview on MENT from the [Population Council](https://www.popcouncil.org/research/ment-subdermal-implants-for-men).
+
+#### Contraceptive Studies 
+
+#####⚠️ Efficacy 
+
+* **Months 1-6**: 82% azoospermic
+
+* **Months 6-12**: 100% azoospermic
+
+Testosterone or MENT are oft-paired with a progestin such as etonogestel to further suppress spermatogenesis. 
+
+The results of the following study indicate that MENT alone is sufficient to suppress spermatogenesis, and also that MENT's efficacy as an androgen replacement is unaffected when paired with the second compound.
+
+82% of patients were azoospermia in the **first six months** and 100% of patients were azoospermic in the **second six months** of treatment. 
+
+[Comparison of 7α-methyl-19-nortestosterone effectiveness alone or combined with progestins on androgen receptor mediated-transactivation](https://rep.bioscientifica.com/view/journals/rep/143/2/211.xml)
+
+&gt; Suppression of gonadotropin secretion with exogenously administered testosterone and therefore testicular activity is important for hormone-based male contraception approach.
+&gt;
+&gt; In this regard, MENT when administered to healthy men leads to gonadotropin suppression and inhibition of spermatogenesis making it potentially useful as a male contraceptive (von Eckardstein et al. 2003). 
+&gt;
+&gt;In the case of testosterone, combination with gonadotropin-inhibiting agents such as progestins results in a more effective formulation for spermatogenic suppression than testosterone alone (Bebb et al. 1996). 
+&gt;
+&gt;Recently,  Walton et al. (2007) showed that combination of MENT with a progestin resulted in rapid inhibition of spermatogenesis similar to the combined testosterone formulation and pointed out the importance of the synthetic progestin dose over the androgen dose in improving spermatogenesis suppression.
+&gt;
+&gt; However, **subjects treated with four MENT implants exhibited higher and longer spermatogenesis suppression than subjects treated with two MENT implants plus two ENG implants** (Walton et al. 2007). 
+&gt;
+&gt;Four MENT implants induced azoospermia or severe oligozoospermia (sperm count &lt;1×10^6/ml) in 82% and 100% of subjects during the first and second 6-month periods of treatment respectively. Thus, during the last 6 months of treatment, **MENT alone was as effective as testosterone undecanoate plus NET enanthate** administered at 8-week intervals.
+
+## References
+
+* [Wikipedia article](https://en.m.wikipedia.org/wiki/Trestolone)
+
+* [Compound Description Page](https://www.reddit.com/r/steroids/wiki/trestolone )
+
+* [7α-Methyl-19-nortestasterone (MENT): The optimal androgen for male contraception and replacement therapy](https://www.researchgate.net/publication/12468041_7a-Methyl-19-nortestasterone_MENT_The_optimal_androgen_for_male_contraception_and_replacement_therapy)
+
+* [7α-methyl-19-nortestosterone (MENTR): the population council's contribution to research on male contraception and treatment of hypogonadism](https://pubmed.ncbi.nlm.nih.gov/23063338/)
+
 ## 2. Administration Guidelines 
 
 Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day, given that MENT is ten times more myotropic than Testosterone. Contraceptive studies found that implants timed to release 400, 800 and 1600 mcg per day were well-tolerated. 400-700mcg on up to 1-2mg were employed by clinical studies as an approximate translation to TRT. Given the complete lack of side effects and the nominal impact on bloodwork, many bodybuilders opt to follow an “enhanced” cruise protocol of MENT at 5-10mg/day. 
