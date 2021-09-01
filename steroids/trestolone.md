@@ -106,12 +106,6 @@ The results of the following study indicate that MENT alone is sufficient to sup
 &gt;
 &gt;Four MENT implants induced azoospermia or severe oligozoospermia (sperm count &lt;1×10^6/ml) in 82% and 100% of subjects during the first and second 6-month periods of treatment respectively. Thus, during the last 6 months of treatment, **MENT alone was as effective as testosterone undecanoate plus NET enanthate** administered at 8-week intervals.
 
-## References
-
-* [Wikipedia article](https://en.m.wikipedia.org/wiki/Trestolone)
-
-* [Compound Description Page](https://www.reddit.com/r/steroids/wiki/trestolone )
-
 * [7α-Methyl-19-nortestasterone (MENT): The optimal androgen for male contraception and replacement therapy](https://www.researchgate.net/publication/12468041_7a-Methyl-19-nortestasterone_MENT_The_optimal_androgen_for_male_contraception_and_replacement_therapy)
 
 * [7α-methyl-19-nortestosterone (MENTR): the population council's contribution to research on male contraception and treatment of hypogonadism](https://pubmed.ncbi.nlm.nih.gov/23063338/)
