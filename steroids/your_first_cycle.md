@@ -34,25 +34,28 @@ Prohormones &amp; Designer Steroids are no better (or even worse in some cases) 
 
 The Basic Bulk, that is recommend, is a 12–20 week cycle of Testosterone while running a moderate calorie surplus with emphasis on gaining as much lean muscle tissue as possible and progressively adding weight to your lifts.
 
-Testosterone is a powerful tool, if used correctly and can put a good **+12–15lbs of LEAN mass** on you (excluding water and fat gain) over the course of 16 weeks. It is also a relatively mild compound and causes little to no issues with side effects. Again, most potential side effects can be avoided entirely if the cycle is followed correctly and the proper precautions are taken.
+Testosterone is a powerful tool, if used correctly and can put on a good **+8-12 lbs of LEAN mass** (excluding water and fat gain) over the course of 16 weeks. Testosterone is a relatively mild compound  that causes little to no issues with side effects. Again, most potential side effects can be avoided entirely if the cycle is followed correctly and the proper precautions are taken.
 
-**Read Other Users Experiences With Testosterone:**
+**Read Other Experiences With Testosterone:**
 
 * [**1st Compound Experience Thread**](https://www.reddit.com/r/steroids/comments/5usm3i/compound_experience_saturday_testosterone_test/)
 * [**2nd Compound Experience Thread**](https://www.reddit.com/r/steroids/comments/8fndzm/compound_experience_saturday_testosterone_test/)
 
-When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Receptor Modulator) it is advised to buy pharmaceutical grade products when possible. Your Testosterone can be pharmaceutical grade or from an underground lab (UGL). Just make sure you do plenty of research of the brand before you spend any money to make sure they have good reviews. 
+When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Receptor Modulator) it is advised to buy pharmaceutical grade products whenever possible. Your Testosterone can be pharmaceutical grade or from an underground lab (UGL). Just make sure you do plenty of research of the brand before you spend any money to make sure they have good reviews. 
 
-**REMINDER: This forum is not the place for you to do research or request source information.**
+**REMINDER: NO SOURCE TALK. This forum is not the place for you to do research or request source information.**
 
 ##What You Will Need
 
 ###Essentials
 
 * Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate)  - 4 x 10 mL Vials (generally dosed 250-300mg per mL)
-* An Aromatase Inhibitor (AI) like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin)  
+
+* An Aromatase Inhibitor (AI) like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin)
+  
 * PCT Medication  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- [/r/steroids Recomended PCT](/r/steroids/wiki/thecycle/pct#wiki_pct_protocols)
+
 * [Syringes and Needles](https://www.reddit.com/r/steroids/wiki/thecycle/injecting#wiki_pin_suppliers)  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Luer Lock Syringes  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 21g Needles (1" to 1.5") for drawing  
@@ -63,8 +66,10 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 ###Optional Items
 
 * **[An Oral Steroid](/r/steroids/wiki/your_first_cycle#wiki_what_oral_steroid_should_i_use.3F)**
+
 * [HCG](/r/steroids/wiki/hcg) (Learn more on [the PCT wiki page](https://www.reddit.com/r/steroids/wiki/thecycle/pct))  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Bacteriostatic Water  
+
 * [SERM in case of a gyno flair-up](/r/steroids/wiki/the_estrogen_handbook#wiki_nolvadex_vs._raloxifene_for_gyno)  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Raloxifene  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; **or**  
@@ -91,85 +96,104 @@ This will result in *ever so-slightly* more stable bloods with Cypionate.
 
 [**Please See Our Esters Wiki Page: Here**](/r/steroids/wiki/compounds/esters)
 
-##Arimidex or Aromasin?
+##AI. Arimidex or Aromasin?
 
-You should read [the AI portion of The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook#wiki_aromatase_inhibitors_.28ais.29), as well as the compound profiles for each, and make that choice on your own. Arimidex's compound profile: [Here](/r/steroids/wiki/arimidex). Aromasin's compound profile: [Here](/r/steroids/wiki/aromasin).
+⚠️ ***Do not take AI preemptively***.
 
-**If you choose Arimidex:** [Just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/r/steroids/wiki/faq/list#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) (In case of a [gyno flair-up](/r/steroids/wiki/the_estrogen_handbook#wiki_gyno_flair-up_protocol) - see more below)
+You should read the AI portion of [The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook#wiki_aromatase_inhibitors_.28ais.29), as well as the compound profiles for each, and make that choice on your own. 
 
-**If you choose Aromasin:** [BE SURE TO TAKE IT WITH FATS](/r/steroids/wiki/faq/list#wiki_q.3A_does_aromasin_need_to_be_taken_with_fat.3F)
+* [Arimidex compound profile](/r/steroids/wiki/arimidex)
+
+* [Aromasin compound profile](/r/steroids/wiki/aromasin)
+
+**If you choose Arimidex:** [Just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/r/steroids/wiki/faq/list#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) (In case of a [gyno flair-up](/r/steroids/wiki/the_estrogen_handbook#wiki_gyno_flair-up_protocol). See more below)
+
+**If you choose Aromasin**: [TAKE WITH FATS](/r/steroids/wiki/faq/list#wiki_q.3A_does_aromasin_need_to_be_taken_with_fat.3F)
 
 ##How Much AI Do I Need?
 
-How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot’. **MOST** users will find .5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good starting dose. Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much.
+Hopefully none! How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot.’ **MOST** users will find 0.5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good dose. Some may need more frequent (EOD) dosing. Some may even need less than E3.5D. *Some don't need any AI at all.* This is something that varies widely from person-to-person.
 
 In [The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook), it gives an idea of side effects for both low and high Estrogen levels which may help you gauge an idea of where you’re at should you become confused and not want to have bloods taken, **BUT** blood work will be the only way to know 100%.
 
-It is **HIGHLY UNLIKELY** that you will need this dose on 500mg of Testosterone, but it is suggested to have enough to run the Arimidex 1mg EOD or Aromasin 25mg EOD, this will give you more than what you realistically should need. **REMEMBER:** Get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in the AI dose you may need.
+It is **HIGHLY UNLIKELY** that you will need this dose on 500mg of Testosterone, but it is suggested to have enough to run the Arimidex 1mg EOD or Aromasin 25mg EOD, this will give you more than what you realistically should need. 
+
+**REMEMBER:** ***Get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in the AI dose you may need***.
 
 ##When Should You Start Your AI?
 
 There are two different trains of thought:
 
-1.	 Dose preventatively (*i.e.*, before you get high bp, spicy nips, *etc.*)
+1.	 Dose preventatively (*i.e.*, before you get high bp, spicy nips, *etc.*) (**OUTDATED**)
 
-2.	 Dose ***only when you start to notice sides*** (acne, bloating/water retention, high blood pressure, nips that are a bit zesty)
+2.	 Dose ***only when you start to notice sides*** (acne, bloating/water retention, high blood pressure, nips that are a bit zesty) (**PREFERRED**)
 
-To be cautious, we will cover when you should start preventatively. We are also going to be presuming that this is your first cycle and as such we will be going by what’s outlined on this wiki page. However, the ***preferred method*** is only to take an AI only **when sides necessitate**. 
+The ***preferred method*** is only to take an AI only **when sides necessitate**. 
 
-Estrogen (E₂) is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Crashed E₂ sides are far worse than the inverse, and estrogen should be proportionally high just as test, so long as sides don't get out of hand. Gyno takes weeks to develop, and new gyno can effectively be taken care of with SERMS while continuing the cycle.
+**Why?** 🤔
 
-###**What We Know**
+Estrogen (E₂) is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. 
+
+Crashed E₂ sides are far worse than the inverse, and estrogen should be proportionally high just as test, so long as sides don't get out of hand. 
+
+Gyno takes weeks to develop, and new gyno can effectively be taken care of with SERMS while continuing the cycle.
 
 ####**Testosterone Peaks**
 
 Testosterone will peak shortly after your first injection. See below:
 
-* Test E has been shown to peak as soon as ~6-10hr after injection^([1](https://imgur.com/a/ECYhEXk)[2](https://www.fertstert.org/article/S0015-0282(16\)46108-X/pdf))
+* Testosterone Enanthate has been shown to peak as soon as ~6-10 hours after injection^([1](https://imgur.com/a/ECYhEXk)[2](https://www.fertstert.org/article/S0015-0282(16\)46108-X/pdf))
 
-* Test C has been shown to have pharmacokinetics very similar to the pharmacokinetics of testosterone enanthate, with peak testosterone serum concentrations shortly occurring after injection.^[[1]](https://imgur.com/a/ECYhEXk)[[3]](https://www.fertstert.org/article/S0015-0282(16\)59237-1/pdf)
+* Testosterone Cypionate has been shown to have pharmacokinetics very similar to the pharmacokinetics of testosterone enanthate, with peak testosterone serum concentrations shortly occurring after injection.^[[1]](https://imgur.com/a/ECYhEXk)[[3]](https://www.fertstert.org/article/S0015-0282(16\)59237-1/pdf)
 
-With the above, it may indirectly answer another question we see a lot. “When does the Test kick in?” and to which the research shows your levels will rise very quick to supraphysiological levels. You will build upon this with each shot. You probably will start noticing some increased recovery and some mild weight gain (depending on diet) around week 3-4. You probably won’t notice much outside of greater recovery unless you had low(er) T to begin with.
+With the above, it may indirectly answer another question we see a lot. “When does the Test kick in?” and to which the research shows your levels will rise very quick to supraphysiological levels. You will build upon levels with each shot. You probably will start noticing enhanced recovery and mild weight gain (depending on diet) around week 3-4. You probably won’t notice much outside of greater recovery unless you had low(er) ***T*** to begin with. 
 
 ####**Estradiol Rise**
 
-With this testosterone peak, Estradiol (E2) has been found to correlate directly.^[[5]](https://academic.oup.com/jcem/article/95/8/3955/2597323) This is no surprise as aromatization will occur, causing Estradiol to peak shortly after as well. See below:
+With this testosterone peak, Estradiol (E2) has been found to correlate directly.^[[5]](https://academic.oup.com/jcem/article/95/8/3955/2597323) This is no surprise as aromatization will occur, causing Estradiol to peak shortly after as well. 
 
-* One study found that after a 200mg Test E injection, E2 values rose significantly in just 6hrs post injection in eugonadal men and that peaked at 2 days after injection (base serum E2 was 23 ± 4 pg/ml, peaked at day 2 (45 ± 4 pg/ml). Alternatively, hypogonadal men were also studied and found to increase significantly in just 6hrs as well and peaking the day after the injection, but bringing them to a more optimal range (base serum E2 was 7.2 ± 2 pg/ml, peaked at day 1 to 29 ± 4 pg/ml).^[[2]](https://www.fertstert.org/article/S0015-0282(16\)46108-X/pdf) Another study supports this level of change in Hypogonadal men.^[[4]](https://www.jstage.jst.go.jp/article/endocrj/53/3/53_3_305/_pdf)
+See below:
 
-* Another study found that after a 200mg Test C injection, E2 values rose significantly from a mean of 26.2 ± 14.9 pg/ml to 76.9 ± 26.3 pg/ml on days 4 to 5.^[[3]](https://www.fertstert.org/article/S0015-0282(16\)59237-1/pdf)
+* One study found that after a 200mg Test E injection, E₂ values rose significantly in just 6hrs post injection in eugonadal men and that peaked at 2 days after injection (base serum E2 was 23 ± 4 pg/ml, peaked at day 2 (45 ± 4 pg/ml). Alternatively, hypogonadal men were also studied and found to increase significantly in just 6hrs as well and peaking the day after the injection, but bringing them to a more optimal range (base serum E₂ was 7.2 ± 2 pg/ml, peaked at day 1 to 29 ± 4 pg/ml).^[[2]](https://www.fertstert.org/article/S0015-0282(16\)46108-X/pdf) Another study supports this level of change in Hypogonadal men.^[[4]](https://www.jstage.jst.go.jp/article/endocrj/53/3/53_3_305/_pdf)
 
-The above two studies are strange showing that despite them being similar, Test E seems to peak E2 much faster than Test C (side note: Test C is shown peaking Test levels much slower than seen in other studies as well.^[[1]](https://imgur.com/a/ECYhEXk) I believe it’s important to remember how much variance we can have as individuals). It’s important to note that these peaks shown above are just that, the peaks — the levels begin to drop off after them, but with each new injection you will reach a new peak, until finally around the time saturation levels are reached. Note that you should reach close to ~94% saturation by the beginning of the 4th week and with that by week 5 you should know if your AI dosing is working for you or not, but week 5 or 6 get blood work done to confirm.
+* Another study found that after a 200mg Test C injection, E₂ values rose significantly from a mean of 26.2 ± 14.9 pg/ml to 76.9 ± 26.3 pg/ml on days 4 to 5.^[[3]](https://www.fertstert.org/article/S0015-0282(16\)59237-1/pdf)
 
-One factor that you’ll notice from the first bullet point is the difference between raise in Estradiol in eugonadal vs hypogonadal. For most individuals starting their first cycle it can be assumed you are eugonadal unless you have been properly diagnosed as hypogonadal, thus your Estradiol can spike close to the upper range after your first shot of Test. If you are doing the "Your First Cycle" outlined on this wiki page then your first shot will be 250mg — 50mg over that of the study. 
+The above two studies are strange showing that despite them being similar, Test E seems to peak E₂ much faster than Test C (Side note: Test C is shown peaking Test levels much slower than seen in other studies as well.^[[1]](https://imgur.com/a/ECYhEXk) It's important to remember how much variance we have as individuals). It’s important to note that these peaks shown above are just that, the peaks — the levels begin to drop off after them, but with each new injection you will reach a new peak, until finally around the time saturation levels are reached. Note that you should reach close to ~94% saturation by the beginning of the fourth week, and with that, by week 5 you should know if your AI dosing is working for you or not, but week 5 or 6 get blood work done to confirm.
 
-Another point of thought is your age. It was shown in individuals ~65 y/o that the aromatization is far greater than that of someone in their 20s. This was even the case when controlling percentage fat mass as that can increase aromatase.^[[5]](https://academic.oup.com/jcem/article/95/8/3955/2597323)[[6]](https://www.ncbi.nlm.nih.gov/pubmed/11399122) So if your Gramps is wanting to do his first cycle, you may want to start his AI sooner. Likewise If you are entering your 40s-50s, you may want to dose slightly early, if not I think you will be fine with the below.
+One factor that you’ll notice from the first bullet point is the difference between raise in Estradiol in eugonadal vs hypogonadal. For most individuals starting their first cycle it can be assumed you are eugonadal unless you have been properly diagnosed as hypogonadal, thus your Estradiol can spike close to the upper range after your first shot of Test. If you are doing the “Your First Cycle” outlined on this wiki page then your first shot will be 250mg. That's 50mg over that of the study. 
+
+Another point of consideration is your age. It has been shown in individuals ~65 y/o that the aromatization is far greater than that of someone in their 20s. This was even the case when controlling percentage fat mass as that can increase aromatase.^[[5]](https://academic.oup.com/jcem/article/95/8/3955/2597323)[[6]](https://www.ncbi.nlm.nih.gov/pubmed/11399122) So if your Gramps is wanting to do his first cycle, he may want to watch for high estrogen sides sooner. Likewise If you are entering your 40s-50s, you may want to watch for sides slightly earlier, but otherwise you'll be fine with the below.
 
 ###Study Disclaimer
 
-The problem with these studies for us as anabolic steroid users are we’re not just injecting once. We are injecting weekly, and with that we don’t have cold hard data for right at the beginning of the cycle—how E2 is affected injection by injection. The best we have is a table showing 300 mg and 600 mg injected weekly for 5 months, but the table with the data is just the average over the 5 months, this doesn’t show us each point of data that they took. It would be interesting to see the first few weeks of the study.
+The problem with these studies for us as anabolic steroid users are we’re not just injecting once. We are injecting weekly, and with that we don’t have cold hard data for right at the beginning of the cycle—how E₂ is affected injection by injection. The best we have is a table showing 300 mg and 600mg injected weekly for 5 months, but the table with the data is just the average over the 5 months, this doesn’t show us each point of data that they took. It would be interesting to see the first few weeks of the study.
 
 ###Putting It All Together.
 
-Since we are focusing on dosing preventatively and:
- 
 * Assuming you are a healthy eugonadal male
+
 * Assuming you’re using Test E or C
-* Assuming you are of decent BF% (ideal close to 10%)
-* Assuming that you are a young guy (in your 20s-30s).
-* Assuming your pre-cycle blood work did not show that you have borderline out-of-range high estradiol to begin with. 
 
-**You would start dosing on your 3rd injection.**
+* Assuming you are of decent BF% (ideally less than 15%)
 
-For Example:  
-You are injecting on Mondays and Thursdays:
+* Assuming that you are a young male (20s-30s).
+
+* Assuming pre-cycle blood work did not show that you have borderline out-of-range high E₂ to begin with. 
+
+* You would *typically* start to experience sides somewhere after your third injection.
+
+**Example**:  
+
+If you're injecting on Mondays and Thursdays:
 
 * You do your first injection on Monday
-* You would start your AI on or after the following Monday injection
+* You would start your AI only if showing unambiguous sides on or after the following Monday's injection
 
 ###**Dosing Disclaimer**
 
-We are all different. You may need to dose sooner than the above (sometime between your 1st and 3rd injection), or you may feel symptoms of low E2 and skip a dose, but if possible, *wait for sides* before lowering your E2. As a highly anabolic, cardioprotective and neuroprotective compound, estrogen provides multiple advantages that enhance the effectiveness of your cycle. 
+We are all different. You may exhibit sides sooner than the above, but if possible, *wait for unambiguous signs of high estrogen sides* before lowering your E2. 
+
+As a highly anabolic, cardioprotective and neuroprotective compound, estrogen provides multiple advantages that enhance the effectiveness of your cycle. 
 
 **Get regular blood work if you are unsure of anything**.
 
