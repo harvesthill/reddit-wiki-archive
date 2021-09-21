@@ -43,6 +43,9 @@ Testosterone is a powerful tool, if used correctly and can put on a good **+8-12
 
 When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Receptor Modulator) it is advised to buy pharmaceutical grade products whenever possible. Your Testosterone can be pharmaceutical grade or from an underground lab (UGL). Just make sure you do plenty of research of the brand before you spend any money to make sure they have good reviews. 
 
+**NO SOURCE TALK**
+
+
 **REMINDER: NO SOURCE TALK. This forum is not the place for you to do research or request source information.**
 
 ##What You Will Need
@@ -96,7 +99,7 @@ This will result in *ever so-slightly* more stable bloods with Cypionate.
 
 [**Please See Our Esters Wiki Page: Here**](/r/steroids/wiki/compounds/esters)
 
-##AI. Arimidex or Aromasin?
+## Arimidex or Aromasin?
 
 ⚠️ ***Do not take AI preemptively***.
 
@@ -112,7 +115,11 @@ You should read the AI portion of [The Estrogen Handbook](/r/steroids/wiki/the_e
 
 ##How Much AI Do I Need?
 
-Hopefully none! How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot.’ **MOST** users will find 0.5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good dose. Some may need more frequent (EOD) dosing. Some may even need less than E3.5D. *Some don't need any AI at all.* This is something that varies widely from person-to-person.
+***Hopefully none!***
+
+How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot.’ **MOST** users will find 0.5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good dose. Some may need more frequent (EOD) dosing. Some may even need less than E3.5D. 
+
+*Some don't need any AI at all.* This is something that varies widely from person-to-person.
 
 In [The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook), it gives an idea of side effects for both low and high Estrogen levels which may help you gauge an idea of where you’re at should you become confused and not want to have bloods taken, **BUT** blood work will be the only way to know 100%.
 
@@ -121,6 +128,8 @@ It is **HIGHLY UNLIKELY** that you will need this dose on 500mg of Testosterone,
 **REMEMBER:** ***Get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in the AI dose you may need***.
 
 ##When Should You Start Your AI?
+
+⚠️ ***Do not take AI preemptively***. 
 
 There are two different trains of thought:
 
@@ -180,18 +189,21 @@ The problem with these studies for us as anabolic steroid users are we’re not 
 
 * Assuming pre-cycle blood work did not show that you have borderline out-of-range high E₂ to begin with. 
 
-* You would *typically* start to experience sides somewhere after your third injection.
+* You would *typically* start to experience high estrogenic sides somewhere after your third injection.
 
 **Example**:  
 
 If you're injecting on Mondays and Thursdays:
 
-* You do your first injection on Monday
-* You would start your AI only if showing unambiguous sides on or after the following Monday's injection
+* You do your first AAS injection on Monday
+
+* You would start your AI *only if showing unambiguous sides* on or after the following Monday's injection
 
 ###**Dosing Disclaimer**
 
-We are all different. You may exhibit sides sooner than the above, but if possible, *wait for unambiguous signs of high estrogen sides* before lowering your E2. 
+⚠️ ***Do not take AI preemptively***.
+
+We are all different. You may exhibit sides sooner than the above, but *wait for unambiguous signs of high estrogen sides* before lowering your E2. 
 
 As a highly anabolic, cardioprotective and neuroprotective compound, estrogen provides multiple advantages that enhance the effectiveness of your cycle. 
 
