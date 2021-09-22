@@ -31,31 +31,38 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 
 **Supplemental Compounds:**
 
-## WARNING: Clenbuterol Toxicity
+## WARNING: Clenbuterol Toxicity 
 
-Stay away from Clen. **It's cardiotoxic**. Clen kills the muscle cells that power your heart. You only get one of those. Clen *isn't worth your life.* 
+***Clenbuterol*** *is effective, but* ***Salbutamol*** *is safer:*
 
-**Salbutamol** (aka common asthma inhaler **Albuterol**, *in tablet form*) is equally effective, and far safer, lacking sides and cardiotoxicity.
+* Mislabeled and inaccurately overdosed UGL liquid Clen is a serious standing concern. 
 
-* [Clenbuterol toxicity in a young male athlete](https://www.researchgate.net/publication/318547306_Clenbuterol_toxicity_in_a_young_male_athlete)
-* [Case report and review of clenbuterol cardiac toxicity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281511/)
-* [Clenbuterol toxicity: a NSW Poisons Information Centre experience](https://www.mja.com.au/journal/2014/200/4/clenbuterol-toxicity-nsw-poisons-information-centre-experience)
-* [Case report and review of clenbuterol cardiac toxicity](https://www.researchgate.net/publication/259168174_Case_report_and_review_of_clenbuterol_cardiac_toxicity)
-* [Acute clenbuterol overdose resulting in supraventricular tachycardia and atrial fibrillation](https://www.researchgate.net/publication/5776545_Acute_clenbuterol_overdose_resulting_in_supraventricular_tachycardia_and_atrial_fibrillation)
-* [Myocardial Injury Induced by the Long Acting Beta2 Adrenergic Agonist Clenbuterol](http://www.fortunejournals.com/articles/myocardial-injury-induced-by-the-long-acting-beta2-adrenergicnbspagonist-clenbuterol.pdf)
+* [Clenbuterol toxicity: a NSW Poisons Information Centre experience](https://www.mja.com.au/journal/2014/200/4/clenbuterol-toxicity-nsw-poisons-information-centre-experience) *“Exposure was associated with cardiotoxicity including one* ***cardiac arrest*** *in a 21-year-old man.”*
+
+* [Myocardial Injury Induced by the Long Acting β2 Adrenergic Agonist Clenbuterol](http://www.fortunejournals.com/articles/myocardial-injury-induced-by-the-long-acting-beta2-adrenergicnbspagonist-clenbuterol.pdf) *Hospitalization and cardiotoxicity* ***on just 40mcg***
+
 * [Myotoxic effects of clenbuterol in the rat heart and soleus muscle](https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.00139.2002)
-* [Relative myotoxic and haemodynamic effects of the β-agonists fenoterol and clenbuterol measured in conscious unrestrained rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1828613/)
-* [Toxicity of Weight Loss Agents](https://link.springer.com/article/10.1007/s13181-012-0213-7)
 
-## Salbutamol: Clen's Safer Cousin
+* [Clenbuterol toxicity in a young male athlete](https://www.researchgate.net/publication/318547306_Clenbuterol_toxicity_in_a_young_male_athlete) *“Acute toxicity resulting in symptoms of sympathetic activation with haemodynamic instability and ECG signs of myocardial damage.”*
 
-**Salbutamol** is far safer and just as effective than Clenbuterol.
+* [Case report and review of clenbuterol cardiac toxicity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281511/)
 
-* **Increased HDL, Decreased LDL** [Positive effects of oral albuterol on serum lipids and carbohydrate metabolism in healthy men](https://pubmed.ncbi.nlm.nih.gov/8637445/)
-* [More fat burnt in a cardio session with salbutamol](https://www.ergo-log.com/salbutamoljoules.html)
-* Be sure to get Salbutamol **tablets**, rather than Albuterol inhaler spray, which is just a recipe to get shakiness and nausea. If you can get Salbutamol tabs, they're even more effective than ephedrine but far less dangerous than Clen.
-* This study shows an increase of 11.4% in resting energy expenditure among healthy subjects with Salbutamol: [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/)
-* Reddit [r/steroids](https://www.reddit.com/r/steroids/) Wiki [Salbutamol Stack](https://www.reddit.com/r/steroids/wiki/thecycle/examples#wiki_salbutamol_stack)
+* [Acute clenbuterol overdose resulting in supraventricular tachycardia and atrial fibrillation](https://www.researchgate.net/publication/5776545_Acute_clenbuterol_overdose_resulting_in_supraventricular_tachycardia_and_atrial_fibrillation)
+
+* [Relative myotoxic and haemodynamic effects of the β-agonists fenoterol and clenbuterol measured in conscious unrestrained rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1828613/) *“Large doses can induce cardiomyocyte death.”*
+ 
+## Salbutamol 
+
+***Salbutamol*** *tablets are also effective while being far less dangerous than Clen:*
+
+* Be sure to get Salbutamol *tablets*, rather than Albuterol inhaler *spray*, which is just a recipe for shakiness and nausea.
+
+* [Positive effects of oral albuterol on serum lipids and carbohydrate metabolism in healthy men](https://pubmed.ncbi.nlm.nih.gov/8637445/) *Increased HDL, Decreased LDL*
+
+* [More fat burnt in a cardio session with Salbutamol](https://www.ergo-log.com/salbutamoljoules.html) 
+
+* [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/) *11.4% increase in resting energy expenditure among healthy subjects with Salbutamol
+
 * [Combination of salbutamol, caffeine and high-calorie diet: more muscle, less fat](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html)
 
 &gt;During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to **lose more fat** and at the same time **retain more muscle**. According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also **improve body composition** during a high-calorie diet if you combine salbutamol with caffeine.
@@ -96,13 +103,13 @@ By now, you have probably put on a fair bit of mass, and want to see how how muc
 
 **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. No one should take nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
 
-* **Weeks 1-16:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500–600 mg/week split *E3.5D*.
-* **Weeks 1-16:** [Trestolone (MENT)](https://www.reddit.com/r/steroids/wiki/trestolone), 10–25 mg/day (Titrate up to tolerance, MENT as atypical 19-nor with safer profile as an alternative to Deca or Tren)
+* **Weeks 1-16:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500 mg/week split *E3.5D*.
+* **Weeks 1-16:** [Trestolone (MENT)](https://www.reddit.com/r/steroids/wiki/trestolone), 5–25 mg/day (Titrate up to tolerance, MENT as atypical 19-nor with safer profile as an alternative to Deca or Tren)
 * **Weeks 16-18:** Nothing (This allows the extraneous testosterone to clear your body).
 * **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
-You can extend it up to 20 weeks. If you wish to extend it, obviously all your ending weeks will change and the week you start PCT will as well.
+You can extend for up to 20 weeks. If you wish to extend it, obviously all your ending weeks will change and the week you start PCT will as well.
 
 ## Cut/Recomp Cycles
 
@@ -190,8 +197,8 @@ For **EQ** to really shine, it needs to be run longer and at higher doses than a
 
 For those with minimal AAS experience this cycle will add around 10–15 lbs of dry lean gains and you won't lose much (if any) during PCT.
 
-* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 300 mg, E3D
-* **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 200 mg, E3D
+* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg, E3D
+* **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg, E3D
 * **Run Testosterone for 8 weeks after dropping EQ to allow the Uncdeylenate ester to clear**.
 * On-hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **Crashed E2**: test no ester (TNE) or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
@@ -200,7 +207,7 @@ For those with minimal AAS experience this cycle will add around 10–15 lbs of 
 
 Keep an AI on hand but you shouldn't need it.
 
-* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 450 mg (E3D)
+* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
 * **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg every three days (E3D)
 * **Run Testosterone for 8 weeks after dropping EQ to allow the Uncdeylenate ester to clear**.
 * On-hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
@@ -210,8 +217,8 @@ Keep an AI on hand but you shouldn't need it.
 
 This cycle ups the dose a bit on the test and EQ and adds in some masteron to help keep the estrogen down and the water off. Recommend running Aromasin proactively to hold down E2
 
-* **Weeks 1-20:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 600 mg (E3D)
-* **Weeks 1-28:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 450 mg every three days (E3D)
+* **Weeks 1-20:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
+* **Weeks 1-28:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg every three days (E3D)
 * **Weeks 1-20:** [Masteron Enanthate](http://www.reddit.com/r/steroids/wiki/masteron), 250 mg every three days (E3D)
 * **Weeks 1-20:** [Deca-Durabolin](http://www.reddit.com/r/steroids/wiki/deca_durabolin), 200 mg (E3D)
 * **Weeks 1-20:** Aromasin, 12.5 mg, E3D — Adjust as needed
@@ -228,8 +235,8 @@ If you aren't subject to the increase in appetite that sometimes comes along wit
 
 Surprisingly, the same doseages as the Beginner Bulk, however, adjust your calories to be in a caloric deficit no more than 80% of your TDEE.
 
-* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 300 mg (E3D)
-* **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 200 mg, E3D
+* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
+* **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg, E3D
 * On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 * **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
@@ -238,7 +245,7 @@ Surprisingly, the same doseages as the Beginner Bulk, however, adjust your calor
 
 The effect of Tren and EQ on your physique during a cut is nothing short of freakish. Estrogen is kept low so de novo lipogenesis is strongly inhibited, Tren leans you out while both Tren and EQ give that huge boulder shoulder and traps look.
 
-* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 450 mg, E3D
+* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg, E3D
 * **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg (E3D)
 * **Weeks 4-16:** [Trenbolone Acetate](http://www.reddit.com/r/steroids/wiki/trenbolone), 50-100 mg, every day (ED) to your tolerance level
 * **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
@@ -251,8 +258,8 @@ The effect of Tren and EQ on your physique during a cut is nothing short of frea
 
 Ensure that you have run several cycles with these compounds before attempting.
 
-* **Weeks 1-20:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 600 mg (E3D)
-* **Weeks 1-28:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 450 mg (E3D)
+* **Weeks 1-20:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
+* **Weeks 1-28:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg (E3D)
 * **Weeks 4-20:** [Trenbolone Acetate](http://www.reddit.com/r/steroids/wiki/trenbolone), 50-100 mg, ED to your tolerance level
 * **Weeks 1-20:** [Masteron Propionate](http://www.reddit.com/r/steroids/wiki/masteron), 200 mg (E3D)
 * **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
