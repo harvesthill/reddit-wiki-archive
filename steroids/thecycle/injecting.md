@@ -425,7 +425,7 @@ One thing that can cause pain is when the oil/solvents are absorbed by the body 
 **The Concentration Of The Gear**  
 Pain can also be caused by concentration of your gear. Building off of point 1: Hypothetically, let's say it takes the body 24 hours to absorb 1mL of a certain oil/solvent blend and 24 hours to absorb 50mg of Testosterone Propionate. If 50mg (or less) of Testosterone Propionate is in 1mL of that oil, this injection should be painless. On the other hand, if 100mg of Testosterone Propionate is in that same 1mL of solution, then after 24 hours the body will have absorbed 50mg and 1mL, leaving 50mg behind in the injection area, crystalized and painful.  
 
-It's better to shoot 3mL of 150mg/mL Testosterone Propionate, than 1mL of 150mg/mL Testosterone Propionate.  
+It's better to shoot 3mL of 50mg/mL low concentration Testosterone Propionate than 1mL of 150mg/mL high concentration Testosterone Propionate: the high concentration is more likely to cause *pip*.   
 
 This is also why water based suspensions (Testosterone base/no ester, Winstrol, etc.) hurt the most; water is very easily absorbed in the body.  
 
