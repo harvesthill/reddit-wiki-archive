@@ -188,13 +188,13 @@ Here's some ***more recent***—and hence relevant—Compound Experience Threads
 
 MENT doesn’t directly impact estradiol (E2). As 7α-Methylestradiol (7α-Me-E2), its estrogen is similar to the 17α-Methylestradiol (17α-Me-E2) produced by Dianabol, and it doesn't show on bloodwork. 
 
-When adding MENT to an existing stack, don't modify existing estrogen management.  The Equipoise or Primobolan ratio doesn't matter as much as the dose of Testosterone you're taking, as that's the primary aromatizing compound unless you're going solo. 
+When adding MENT to an existing stack, the Equipoise or Primobolan ratio doesn't matter so much as the dose of Testosterone you're taking unless you're going solo. 
 
-If you start MENT and begin to experience sides,  simply lower the dose. MENT is metabolized quickly, so more frequent dosing will cut down on spikes. Treat MENT like TNE—you wouldn't adjust your AI dose when introducing TNE.
+If you start MENT and begin to experience sides,  simply lower the dose. MENT is metabolized quickly, so more frequent dosing will cut down on spikes. Treat MENT like TNE.
 
-As some users report trouble managing aromatization with MENT, have Aromasin, Nolvadex or Raloxifine at the ready. The  majority of users present with no sides. If you follow the Wiki guidelines and titrate up from a cruise, this should never become an issue.
+As some users report trouble managing aromatization with MENT, *have Aromasin, Nolvadex or Raloxifine at the ready*. The  majority of users present with no sides. If you follow the Wiki guidelines and titrate up from a cruise, this should never become an issue.
 
-* “There's essentially zero E2 sides. It's a side-effect-free, more powerful and effective love child of Trenbolone and Nandrolone that's so *ridiculously perfect* it feels almost too good to be true.”
+* “MENT is a side-effect-free, more powerful and effective love child of Trenbolone and Nandrolone that's so *ridiculously perfect* it feels almost too good to be true.”
 
 * “I experienced *no issues* at 350mg a week last off-season and I have absolutely zero idea why anyone would need to run MENT higher than that.”
 
