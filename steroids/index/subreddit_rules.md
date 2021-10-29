@@ -59,9 +59,9 @@ The following attributes usually describe *low-quality content*.
 
 * Are you new to AAS and haven't used our daily Ask Anything thread to ask your first 5-10 questions?  
 
-The aforementioned likely constitute Low-Quality Content. 
+*The aforementioned likely constitute Low-Quality Content*.
 
-##Community Rules
+#COMMUNITY RULES
 
 The following rules apply to this community; disregarding them will result in a ban.  All of the standard [rules of Reddit](http://www.reddit.com/rules) apply here.
 
