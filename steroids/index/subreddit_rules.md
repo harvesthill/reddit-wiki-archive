@@ -65,7 +65,7 @@ The following attributes usually describe *low-quality content*.
 
 The following rules apply to this community; disregarding them will result in a ban.  All of the standard [rules of Reddit](http://www.reddit.com/rules) apply here.
 
-###1. No Personal Information / No Doxxing / No Involuntary Pornography.
+##1. No Personal Information / No Doxxing / No Involuntary Pornography.
 
 You are free to post your own personal information, however, [you cannot post other people's personal information.](http://www.reddit.com/wiki/faq#wiki_is_posting_personal_information_ok.3F) In addition to a ban from /r/steroids, it will be reported to Reddit admins and may result in a [shadowban.](http://www.urbandictionary.com/define.php?term=shadowban)
 
@@ -73,7 +73,8 @@ Reddit has updated their Terms of Service. By using Reddit, [you agree to follow
 
 **Therefore, it is prohibited for users of this subreddit to post any nude or sexual image of any person other than themselves or professional models.** 
 
-###2. No Source Talk / No Monetization.
+##2. NO SOURCE TALK / NO MONETIZATION
+
 The spirit of the "no source talk" rule is to promote goal #5 of the community: 
 
 &gt; 5.) Keep the environment free from any monetary influences.
@@ -188,7 +189,7 @@ Reddit does not take lightly to users soliciting in this way and the user will b
 
 [**PLEASE CLICK HERE TO MESSAGE THE MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=steroids&amp;utm_content=t5_2rifm)
 
-###3. Use Caution / Disclose Guesses / Cite Information
+##3. Use Caution / Disclose Guesses / Cite Information
 
 This is a semi-anonymous internet community.  People in discussion in this community are not experts, even if they claim to be experts.  Remain skeptical of claims, protect your identity and freedom and have fun.
 
@@ -216,7 +217,7 @@ Always cite info when possible, but if you are claiming something that is not co
 
 ***This community does not provide medical, legal or any other types of advice.  We provide only anecdotal experience-based information.  All medical practices should be in consultation with a licensed physician.***
 
-###4. Keep It Friendly &amp; On-Topic.
+##4. Keep It Friendly &amp; On-Topic.
 
 This is a mature community with a specific tone and manner that excels compared to most communities. That tone and manner will be maintained. 
 
@@ -256,7 +257,7 @@ This is not a forum for you to where your ban like a badge of honor. If you or s
 
 Comments &amp; Post topics that have a [HARSH] tag on them will be moderated less-strictly. This does not mean that we will allow personal attacks, escalated bickering or non-productive comments / criticism. A Comment or Topic with the [HARSH] tag still requires constructive criticism in a comment in order to be productive.
 
-###5. Approved Posters &amp; High-Quality Content Only. 
+##5. Approved Posters &amp; High-Quality Content Only. 
 
 After 90 days of participation (comments) in the community, you will automatically be approved to create new topics by /u/steroidsBot. 
 
@@ -280,7 +281,7 @@ If you are ever in doubt if something you want to post is [Low Quality Content](
 
 **A:** Most likely, if the post doesn't fall under [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F), then it is *most likely* 'High Quality Content'. If you are ever in doubt if something you want to post is [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
 
-###6. No Unlawful Discussions.
+##6. No Unlawful Discussions.
 
 This community is for harm reduction and educational purposes only. This is not the place to figure out how to break the law. This includes, but not limited to: 
 
