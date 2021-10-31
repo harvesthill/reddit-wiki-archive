@@ -148,17 +148,16 @@ A:** Because we cannot verify that the source compounds are bad.  Some people ma
 **A:** We would, in all fairness, have to allow the source to defend themselves.  This leads to a proliferation of sources in the sub, profiteering and drama.
 
 **Q**: Why can't we post commonly known brand names?  
+**A**: Brand names allow quick access to a source.  We do not differentiate between what is a Pharma brand name and what is a UGL brand name for the same reason. This includes blends (pre workout or not), pro-hormones, and designer steroids. Please use the compound's chemical name ("generic name") or chemical structure, if necessary. (eg: Tren No Ester, Test No Ester, Epistane / 2a,3a-epithio-17a-methyl-5a-androstan-17b-ol, Sdrol, Msten, DMZ, Testosterone Undecanoate.)  
 
-**A:** Brand names allow quick access to a source.  We do not differentiate between what is a Pharma brand name and what is a UGL brand name for the same reason. This includes blends (pre workout or not), pro-hormones, and designer steroids. Please use the compound's chemical name ("generic name") or chemical structure, if necessary. (eg: Tren No Ester, Test No Ester, Epistane / 2a,3a-epithio-17a-methyl-5a-androstan-17b-ol, Sdrol, Msten, DMZ, Testosterone Undecanoate.)  
+**A:** [HGH brand names](/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list) are one of the only exceptions to this rule. The other only other exception being any FDA approved medication. They are considered ubiquitous and fine to mention.  
 
-**A:** [HGH brand names](/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list) are One of the only exceptions to this rule. The other only other exception being any FDA approved medication. They are considered ubiquitous and fine to mention.  
-
-**A:** This leads to shill-type advertising posts, "Is my brand of Tren a good deal? 10ml @ 100mg / mL for $60 per!"  Quick search on brand name, find the source with the sale and purchase.
+**A:** This leads to shill-type advertising posts, "Is my brand of Tren a good deal? 10ml @ 100mg / mL for $60 per!"  Quick search on brand name, find the source with the sale, and purchase.
 
 **Q:** What if the source/brand/lab is private or even no longer around?  
-A:** No, you still may not discuss the source in any shape or form.
+**A:** No, you still may not discuss the source in any shape or form.
 
-**Q:** I see that we can't make comments "fishing" for sources. What does that mean?  
+**Q:** I see that we can't make comments "*fishing*" for sources. What the heck does that mean?  
 
 **A:** The expression ("fishing") is mostly used by people trying to "fish" for compliments. Think a hot chick saying "I'm so ugly" or "I'm so fat" and the responses they get that tell them how hot they are or whatever, they went into it with the goal of a specific response. "Fishing" for sources is doing things like saying you don't know where to find things in a way that makes it sound as though you are inviting people to tell you -- This is common with people who are familiar enough with the rules to know they can't outright ask for sources / brands / etc. so they try to do it in ways that are more vague. 
 
@@ -181,11 +180,11 @@ But beware other users can report you and if they do so, **you WILL be banned.**
 Even if a person is banned from /r/steroids, they can still PM whomever they like. Block users who you do not want to PM you. If you are feeling harassed, report the user (and alts) to Reddit admins. 
 
 **Q:** When do I PM the mods of /r/steroids?   
-** A:** If you are receiving unsolicited offers to purchase gear, please report the user to the mods with a screen shot. 
+**A:** If you are receiving unsolicited offers to purchase gear, please report the user to the mods with a screen shot. 
 
 Reddit does not take lightly to users soliciting in this way and the user will be removed and possibly IP banned. If you feel harassed or need help / advice about how to proceed.  
 
-**A:** If you are private messaged by another user asking for sources or claiming to be a source, please take a screenshot of the PM and use https://imgur.com/ (or any other anonymous photo sharing website of your preference) to send the mods the screenshot.
+If you are private messaged by another user asking for sources or claiming to be a source, please take a screenshot of the PM and use https://imgur.com/ (or any other anonymous photo sharing website of your preference) to send the mods the screenshot.
 
 [**PLEASE CLICK HERE TO MESSAGE THE MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=steroids&amp;utm_content=t5_2rifm)
 
