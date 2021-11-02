@@ -331,6 +331,46 @@ All of these can be accelerated and aggravated with exogenous androgen use.
 
 It's not pretty. Don't think it can't happen to you.
 
+## Testimonials 🔞
+
+*Here's a few firsthand accounts from other young guys who started young, screwed up big time, and now regret it*.
+
+### Testimonial 1
+
+&gt;u/ghettotuesday: It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest regrets is doing a cycle at 19 before I was even ready, definitely fucked some brain development and definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
+
+### Testimonial 2
+
+&gt;I wish I'd listened to everyone all over the internet that shouts that no matter what, don't take them if you're young. I did my first cycle at age 17 (I'd been training for 4.5 years by this point) and while it wasn't horrendous at the time, I became even moodier, angrier and more stubborn, and the growing health issues are the biggest kicker.  
+&gt;  
+&gt;My blood pressure was awful for a while. I'd pass out frequently. My testicles took a lot of time to kick back in properly on top of so many other smaller things, so overall it's something I really regret quite a lot.  
+&gt;  
+&gt;I heard everyone telling me not to take steroids but I thought I'd be different—the bad stuff wouldn't happen to me, etc, just as I'm sure every kid thinks. Lo and behold, it did happen, and I can confirm, is not worth it.  
+&gt;  
+&gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't. Just take their advice and wait until you're physically and emotionally matured and more experienced, you've stopped growing, your body and hormones have natural baselines, and your moods are consistent. ​  
+&gt;  
+&gt;Ironically, I'm about to hop back on again now—but this is because of low T, with the help of medical professionals, etc. There's no way to know if the reason for my ED and low levels now is because of the reckless abandonment I treated the decision with way back then.
+
+### Testimonial 3
+
+&gt;Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big.  
+&gt;  
+&gt;Being big that was all in my mind and i was saying to myself ahh nothing will happen to me, but my 3rd and 4th cycle i was really supressed and still recovering even after finishing the pct 1 month ago. Now it has been 1 week after the bloodwork. i haven't used 19 nors and my cycles were mild and simple. I used winstrol, anavar, dianabol and test e low dosages and did pct on every cycle except the first one but i recovered good until the 3rd.  
+&gt;  
+&gt;So now i have low libido and ED. im planing to do another pct and stop steroids for good and see if i will recover, maybe i won' t, maybe i will.. time will tell.  
+&gt;  
+&gt;Btw this is not just for me i want the other youngsters that plan to use steroids to read it and i advise you not to start when you are young. I was young and i thought i knew everything and nothing will happen to me. There was only one thing on my mind and that was to get big, but after some time i realized that doesn 't matter and my goals faded away over some time and yeah..  
+&gt;  
+&gt;The point is you shouldn 't start young because you don 't know shit first of all and you think you know. We don' t even know how to wipe our ass and we are starting to use steroids at young age. While we are young we don 't think straight we just look only for the day ahead of us and not our future.  
+&gt;  
+&gt;We don t even know what we are gonna be when we grow up, maybe that dream will fade away like mine did and you gonna regret what you have done to yourself for the rest of your life. I know because i was thinking that way too.  
+&gt;  
+&gt;I want to tell you that you don' t need muscles to go out with hot girls and you can do it naturally. I ve been there and Im telling you this. Don' t start steroids until you know 100% what are you doing with them, the diet and training and your development is really complete like they suggest.
+
+## What's safe?
+
+For hypogonadal patients *under the age of 25* the standard of treatment from endocrinologists is either (***a***) hCG or (***b***) Clomid monotherapy. Each have sides and disadvantages—but nowhere near the debilitating side effects of AAS.
+
 — *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 
 ## Women &amp; AAS
