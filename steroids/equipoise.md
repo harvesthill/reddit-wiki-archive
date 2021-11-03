@@ -32,15 +32,28 @@ Athletes other than bodybuilders or those concerned primarily with strength may 
 
 ## Dosing
 
-A versatile compound, boldenone's effective dose ranges from 300 mg to well over 3 grams depending on the purposes of the cycle. Its effective dosage range depends entirely on  objectives. For cardiovascular endurance and stamina in competitive sports, as little as 300 mg may make a difference, given the increase in red blood cell count, *i.e.*, Boldenone as a *"poor man's EPO."* For the usual bulking purposes, 600 all the way up to 1800+ mg/wk. Boldenone's unique dosing requirements are explored in this excerpt from a 2012 *IronMag* [article](http://www.ironmagazine.com/2012/boldenone-realizing-its-full-potential/) by Mike Arnold.  
+* **CARDIO**: 300–600mg/wk
+* **BULKING**: 600–1200mg/wk
 
-&gt;Unlike most other steroids, which usually begin to reach the point of diminishing returns at between 500–1,000 mg per week, EQ tends to reach its **optimal dosing range** much later on: around **2 grams** per week. Great results will be found between **1.5**–**3.0 grams**. Of course, all steroids will continue to activate more receptor sites, and thus provide greater muscle growth, up until about 3,500 mg per week, but with Boldenone, it seems that the gains are just starting to get good at 1 gram per week—while most other AAS seem to be nearly tapped out by that point, quickly hitting the point of diminishing returns.  
+A versatile compound, Boldenone's effective dose depends entirely on  objectives. 
+
+***For cardiovascular endurance and stamina*** in competitive sports, as little as **300mg** may make a difference, given the increase in red blood cell count, *i.e.*, Boldenone as a *“poor man's EPO.”*
+
+For ***bulking purposes***, **600–1200**mg/wk. 
+
+Boldenone's unique dosing range is explored in this excerpt from a 2012 *IronMag* [article](http://www.ironmagazine.com/2012/boldenone-realizing-its-full-potential/) by bodybuilder Mike Arnold.  
+
+**DISCLAIMER**: This is from an IFBB Pro bodybuilder's perspective. Unless you're aiming to compete with [Dallas McCarver](https://amp.reddit.com/r/bodybuilding/comments/7gfmpo/dallas_mccarvers_test_levels_were_550ngml_or/), stick with the aforementioned more sensible lower dosing range. 
+
+&gt;Unlike most other steroids, which usually begin to reach the point of diminishing returns at between 500–1,000 mg per week, EQ tends to reach its optimal dosing range much later on: around 2 grams per week. 
+&gt;
+&gt; Of course, all steroids will continue to activate more receptor sites, and thus provide greater muscle growth, up until about 3,500 mg per week, but with Boldenone, it seems that the gains are just starting to get good at 1 gram per week—while most other AAS seem to be nearly tapped out by that point, quickly hitting the point of diminishing returns.  
 &gt;  
 &gt;One factor which makes higher dosing with EQ possible is its relatively mild nature in terms of side effects. While many steroids would be rather unpleasant to run at 2 grams weekly, many individuals will find Boldenone to be rather tame at that dose. This is an important consideration because after all, no one wants to be miserable on-cycle. It's understandable to think some may initially be put off by these doses, as the typical steroid user frequently views anything over 1 gram per week (per steroid) as “mega-dosing” and therefore, excessive. Presumably, this mentality was instilled through the repeated dosing recommendations of other AAS, which by their intrinsic nature, do not need to be dosed much higher than 1 gram weekly in order to achieve near optimal results—but with Boldenone, we are dealing with a different animal altogether.  
 &gt;  
 &gt; Boldenone is a steroid which needs to be dosed higher than other AAS if one wishes to take advantage of its full capabilities. When dosed at the above-mentioned higher range, Boldenone becomes a formidable muscle-builder, *packing on genuine muscle fiber rather quickly*. The next time you consider using Bold as a part of your cycle, try to look at it from a fresh perspective—as a drug that “needs” to be utilized at higher dosages in order to experience all that it has to offer. If you do, I can promise you impressive, high-quality, water-free increases in muscle tissue, along with dramatic increases in vascularity over a 12–16 week period.
 
-Boldenone has been run up to 2–3 grams without diminishing returns or side effects. It's a very mild, safe compound. Boldenone—and to a certain extent, Primobolan—are the only two AAS mild enough to be comfortably run at gram-plus levels absent sides or diminishing returns. Boldenone is the only anabolic you'll find being run at two grams plus in an effectively “normal” cycle, notwithstanding IFBB megadose blasts.
+Boldenone—and to a certain extent, Primobolan—are the only two AAS mild enough to be comfortably run at gram-plus levels absent sides or diminishing returns. Boldenone is the only anabolic you'll find being run at grams plus levels in an effectively “normal” cycle, notwithstanding IFBB megadose blasts.
 
 ## Aromatase Inhibition
 
