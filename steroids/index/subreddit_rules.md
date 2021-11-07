@@ -79,24 +79,23 @@ The spirit of the "no source talk" rule is to promote goal #5 of the community:
 
 &gt; 5.) Keep the environment free from any monetary influences.
 
-&amp;nbsp;
-
 ###**PREAMBLE**  
 
-Everything listed below includes **(BUT NOT LIMITED TO)**: AAS (gear), Ancillaries (AI, SERMs, etc.), HGH [(not listed here)](https://www.reddit.com/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list), Insulin, DNP, Performance Enhancing Drugs, Drugs (prescription / in general), Research Chemicals, Prohormones, SARMs, Peptides, or **ANY** product that could be mistaken as legit of any of the previous listed - this includes "steroid alternatives", "test boosters", or OTC "PCT" brands.  
-&amp;nbsp;
+Everything listed below includes **(BUT NOT LIMITED TO)**: AAS (gear), TRT, TRT Clinics, Ancillaries (AI, SERMs, etc.), hGH [(not listed here)](https://www.reddit.com/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list), Insulin, DNP, Performance Enhancing Drugs, Preworkouts, Prescription Drugs, Over-the-Counter Drugs, Research Chemicals, Prohormones, SARMs, Peptides, OR **ANY** product similar to or that could be mistaken as legit of any of the previous listed—this includes "herbal steroids," "steroid alternatives", "test boosters", or over-the-counter fake AAS or "PCT" brands.  
 
-Chances are, if you are talking about **ANY COMPANY**, **ANY SOURCE**, **ANY SPECIFIC BRAND**, or **ANY OTHER FORUM/SUBREDDIT THAT ALLOWS SOURCE TALK** regardless of legality in your area, it will be considered source talk. There are no warnings and you will be banned. Please read over the following carefully and [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) if you have any questions.
+Chances are, if you are talking about **ANY COMPANY**, **ANY SOURCE**, **ANY SPECIFIC BRAND**, **ANY DOCTOR**, **ANY CLINIC**, **ANY OTHER FORUM**, or **ANY OTHER SUBREDDIT THAT ALLOWS SOURCE TALK**, regardless of legality in your area, it will be considered source talk. 
+
+**THERE ARE NO WARNINGS AND YOU WILL BE BANNED.** 
+
+Please read over the following carefully and [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) if you have any questions.
 
 * Do not attempt to gain any monetary advantage, in any way, through participation in this community.
 
 * If steroids, ancillaries, etc.  are  available Over-The-Counter (OTC) in your country, that's fine to talk about. **BUT DO NOT EVER** discuss any specific pharmacy or source.
 
-* Do not publicly: ask for sources / brands / etc., ask to be PM'd source / brands / etc. info, or offer to PM source / brand / etc. info.
+* Do not publicly or privately ask for sources, brands, etc., ask for private messages for sources, brands, info, etc. or offer to PM source, brand, info, etc.
 
-* Do not PM to ask for sources / brands / etc., ask to be PM'd source / brands / etc. info, or offer to PM source / brand / etc. info.
-
-* Do not publicly or privately (PM) mention sources / brands / etc. by name, abbreviation, or in any way that makes the source / brand / etc. identifiable to other users. 
+* Do not publicly or privately (PM) mention or request for information on DOCTORS OR TRT CLINICs. 
 
 * Do not mention sources / brands / etc. that are private or not even around anymore (*i.e.* "busted", quit, etc.).     
 
