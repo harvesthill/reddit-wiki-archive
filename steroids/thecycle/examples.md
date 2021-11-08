@@ -29,29 +29,27 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 
 ***Note***: You can extend up to 20 weeks. If you wish to extend it, all your ending weeks will change and the week you start PCT will as well.
 
-**Supplemental Compounds:**
+##SUPPLEMENTAL COMPOUNDS 
 
-## WARNING: Clenbuterol Toxicity 
+### Clenbuterol 
+
+####⚠️ WARNING: Toxicity
 
 ***Clenbuterol*** *is effective, but* ***Salbutamol*** *is safer:*
 
-* Mislabeled and inaccurately overdosed UGL liquid Clen is a serious standing concern. 
+* *Mislabeled* or *inaccurately overdosed* UGL liquid Clen is a serious continuing concern. 
 
-* [Clenbuterol toxicity: a NSW Poisons Information Centre experience](https://www.mja.com.au/journal/2014/200/4/clenbuterol-toxicity-nsw-poisons-information-centre-experience) *“Exposure was associated with cardiotoxicity including one* ***cardiac arrest*** *in a 21-year-old man.”*
+* [Clenbuterol toxicity: a NSW Poisons Information Centre experience](https://www.mja.com.au/journal/2014/200/4/clenbuterol-toxicity-nsw-poisons-information-centre-experience) *Exposure was associated with cardiotoxicity including one cardiac arrest in a 21-year-old man.*
 
-* [Myocardial Injury Induced by the Long Acting β2 Adrenergic Agonist Clenbuterol](http://www.fortunejournals.com/articles/myocardial-injury-induced-by-the-long-acting-beta2-adrenergicnbspagonist-clenbuterol.pdf) *Hospitalization and cardiotoxicity* ***on just 40mcg***
+* [Myocardial Injury Induced by the Long Acting β2 Adrenergic Agonist Clenbuterol](http://www.fortunejournals.com/articles/myocardial-injury-induced-by-the-long-acting-beta2-adrenergicnbspagonist-clenbuterol.pdf) *Hospitalization and cardiotoxicity on just 40mcg*
 
-* [Myotoxic effects of clenbuterol in the rat heart and soleus muscle](https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.00139.2002)
+* [Myotoxic effects of clenbuterol in the rat heart and soleus muscle](https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.00139.2002) *Doses commonly employed to elicit Clenbuterol’s anabolic properties also induce significant myocyte necrosis in the heart and soleus muscle.*
 
-* [Clenbuterol toxicity in a young male athlete](https://www.researchgate.net/publication/318547306_Clenbuterol_toxicity_in_a_young_male_athlete) *“Acute toxicity resulting in symptoms of sympathetic activation with haemodynamic instability and ECG signs of myocardial damage.”*
+* [Clenbuterol toxicity in a young male athlete](https://www.researchgate.net/publication/318547306_Clenbuterol_toxicity_in_a_young_male_athlete) *Acute toxicity resulting in symptoms of sympathetic activation with haemodynamic instability and ECG signs of myocardial damage.*
 
-* [Case report and review of clenbuterol cardiac toxicity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6281511/)
-
-* [Acute clenbuterol overdose resulting in supraventricular tachycardia and atrial fibrillation](https://www.researchgate.net/publication/5776545_Acute_clenbuterol_overdose_resulting_in_supraventricular_tachycardia_and_atrial_fibrillation)
-
-* [Relative myotoxic and haemodynamic effects of the β-agonists fenoterol and clenbuterol measured in conscious unrestrained rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1828613/) *“Large doses can induce cardiomyocyte death.”*
+* [Acute clenbuterol overdose resulting in supraventricular tachycardia and atrial fibrillation](https://www.researchgate.net/publication/5776545_Acute_clenbuterol_overdose_resulting_in_supraventricular_tachycardia_and_atrial_fibrillation) *Mislabeled UGL liquid Clen*
  
-## Salbutamol 
+### Salbutamol 
 
 ***Salbutamol*** *tablets are also effective while being far less dangerous than Clen:*
 
@@ -61,11 +59,11 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 
 * [More fat burnt in a cardio session with Salbutamol](https://www.ergo-log.com/salbutamoljoules.html) 
 
-* [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/) *11.4% increase in resting energy expenditure among healthy subjects with Salbutamol
+* [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/) *11.4% increase in resting energy expenditure among healthy subjects with Salbutamol*
 
 * [Combination of salbutamol, caffeine and high-calorie diet: more muscle, less fat](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html)
 
-&gt;During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to **lose more fat** and at the same time **retain more muscle**. According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also **improve body composition** during a high-calorie diet if you combine salbutamol with caffeine.
+&gt; *During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
 
 ### **Salbutamol Stack**
 
