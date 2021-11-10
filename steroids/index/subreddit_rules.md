@@ -283,13 +283,15 @@ If you are ever in doubt if something you want to post is [Low Quality Content](
 
 This community is for harm reduction and educational purposes only. This is not the place to figure out how to break the law. This includes, but not limited to: 
 
-* Discussing the process or how to obtain AAS/drugs/etc.
+* Discussing the process or how to obtain AAS/drugs/etc
 
 * Discussion of regional legality of AAS 
 
-* Prices of AAS/drugs/etc. (nothing lawful comes of this - we're not here to discuss prices)
+* Prices of AAS/drugs/etc. (nothing lawful comes of this. We're not here to discuss prices)
 
 * Instruction of obtaining/sending cryptocurrencies (even if it's not for illicit activities)
+
+* Discussing technical means that could be used to circumvent existing legislation, *e.g.* stealth, Mac Address modification, VPNs, DarkNet, Tails, Tor onion routing, encryption, *etc.*  (even if it's not for illicit activities)
 
 * How to place a money order
 
@@ -301,12 +303,12 @@ This community is for harm reduction and educational purposes only. This is not 
 
 * Any form of smuggling
 
-* etc. etc. 
+* *etc. etc.*
 
 **Do not ask or direct others where to go to find any of this type information.**  
 If you partake in discussions of any of the aforementioned topics or ways to break laws (even if they don't pertain to your country) you will receive in a ban.  
 
-The only exceptions to this rule is how to purchase needles/syringes or how to obtain blood work in areas where there are laws regulating these. Homebrewing is also excluded as it will fall under harm reduction as well.
+The only exceptions to this rule is how to purchase needles/syringes, how to obtain blood work, homebrewing, and HPLC testing, as it will fall under harm reduction.
 
 **If you're not sure if something falls under this rule or not, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) for clarification.**
 
