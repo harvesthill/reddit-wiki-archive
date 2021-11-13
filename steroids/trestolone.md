@@ -162,7 +162,11 @@ The only exceptional characteristic of MENT's 7α-Methylestradiol is its methyla
 
 Simply start low and titrate to tolerance. If you encounter sides, lower the dose. MENT's halflife is on order of minutes. *Its rapid metabolism makes any sides self-limiting.*
 
-**Veteran input** — How about some input from some of the most respected r/steroids veteran contributors?
+***Keep AI on-hand*** *in case of gyno or high estrogen sides*, but don't pop AI like candy or you'll crash your E2 levels. 
+
+**Veteran input** 
+
+Input from r/steroids veteran contributors:
 
 &gt; **Review** from u/platewrecked: The side effects are the stuff of broscience. Those old writeups are like they were taking a completely different compound. A bunch of us have been playing with it over the last couple of years and only a small number of guys running substantial MENT cycles need any AI at all and I don’t know a single user who got gyno from MENT.
 
@@ -190,9 +194,9 @@ MENT doesn’t directly impact estradiol (E2). As 7α-Methylestradiol (7α-Me-E2
 
 When adding MENT to an existing stack, the Equipoise or Primobolan ratio doesn't matter so much as the dose of Testosterone you're taking unless you're going solo. 
 
-If you start MENT and begin to experience sides,  simply lower the dose. MENT is metabolized quickly, so more frequent dosing will cut down on spikes. Treat MENT like TNE.
+If you start MENT and begin to experience sides, take a normal dose of AI and/or simply lower the dose. MENT is metabolized quickly, so more frequent dosing will cut down on spikes.
 
-As some users report trouble managing aromatization with MENT, *have Aromasin, Nolvadex or Raloxifine at the ready*. The  majority of users present with no sides. If you follow the Wiki guidelines and titrate up from a cruise, this should never become an issue.
+As some users report trouble managing aromatization with MENT, *have Aromasin, Nolvadex or Raloxifine at the ready*. Fortunately, the majority of users present with no sides. If you follow the Wiki guidelines and titrate up from a cruise, this should never become an issue.
 
 * “MENT is a side-effect-free, more powerful and effective love child of Trenbolone and Nandrolone that's so *ridiculously perfect* it feels almost too good to be true.”
 
@@ -264,5 +268,4 @@ Test is cheap, so there's no problem in continuing to run it at TRT levels just 
 
 10. [*Dimethandrolone (7α,11β-dimethyl-19-nortestosterone) and 11β-methyl-19-nortestosterone are not converted to aromatic A-ring products in the presence of recombinant human aromatase*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575079/).
  
-
 10. J Suvisaari, K Sundaram, G Noé, N Kumar, C Aguillaume, Y Y Tsong, P Lähteenmäki, C W Bardin, [Pharmacokinetics and pharmacodynamics of 7alpha-methyl-19-nortestosterone after intramuscular administration in healthy men](https://academic.oup.com/humrep/article/12/5/967/665464)., Human Reproduction, Volume 12, Issue 5, May 1997, Pages 967–973, https://doi.org/10.1093/humrep/12.5.967
