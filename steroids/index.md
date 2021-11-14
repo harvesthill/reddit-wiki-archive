@@ -233,15 +233,45 @@ You will eventually reach a genetic potential maximum ([calculate yours here](ht
 
 ## Introduction 
 
-Don't short-circuit and shutdown your neuroendocrine system while it's still developing and at *lifetime peak natural production*.
+🔞 [MINIMUM AGE ***25***](https://www.reddit.com/r/steroids/wiki/index#wiki_.1F481.1F3FC.200D.2640.FE0F.1F4F0__why_young_men_should_not_take_aas) 🚫
 
-You shouldn't be using powerful exogenous hormones with the potential for ***permanent***, ***life***\-***changing disabilities*** if you don't first have a *thorough* understanding of their impact.
+##Not yet. Minimum Age 25.
+
+###⚠️You aren't *old enough* to be using. 
+
+Exogenous androgens act as epigenetic growth signaling termination factors. 
+
+**TRANSLATION**: it isn't just your height that's stunted. It's your IQ. AAS atrophy brain development and higher cognitive functions. 
+
+• r e t u r n 🦧 t o 🦍 m o n k e • 
+
+Clinical studies showed this leads to ***long-term aggression, anxiety, depression, cocognitive deficits and memory problems***—*among others.*
+
+✅ You're smart. Use foresight. Think ahead. 
+
+[Wait until the age MRI scans show developmental completion at the age of ***25***.](https://www.reddit.com/r/steroids/wiki/index#wiki_.1F481.1F3FC.200D.2640.FE0F.1F4F0__why_young_men_should_not_take_aas)
+
+***Until then***, train natty. If you have ***low T symptoms***, Clomid monotherapy or hCG-only cycles function as far safer alternatives. Consult with an endocrinologist. 
+
+Right now you're at peak Testosterone output, peak natty growth potential, and the perfect time to bulk naturally. 
+
+Don't short-circuit your brain and body natural direction when it's so young and vulnerable and pure—and at the highest it will ever be in your lifetime.
+
+Don't shutdown your neuroendocrine system while it's still developing and primed for pumping out hormones at *peak natural production*.
+
+Don't pick up powerful exogenous hormones with the potential for ***permanent***, ***life***\-***changing disabilities*** if you're not finished growing and don't yet have a *thorough* understanding of their impact.
 
 ⚠️  It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
 
-MRI scans show growth and development continues until the **age of 25**. The last regions to finish growing are the most important: those associated with **intelligence, higher cognition, consciousness** and **emotional processing**.
+MRI scans show that adolescent brain and neuroendocrine system growth and development continues until the ***age of 25***. The last regions to finish growing are the *singlemost important*—those associated with **reason and intelligence, higher cognition, self-awareness, **emotional processing** and **impulse control**. 
 
-Under the age of twenty-five you're far more liable to do yourself permanent damage. Having temporary glycogen-inflated muscles that disappear as soon as you come off isn't worth the increased risk of long-term aggression, anxiety, depression, learning disorders and memory deficits consequent stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the excitotoxicity of a blast.
+*While still under the age of twenty-five* your fragile, newly-formed neural pathways are far more exposed to the potential for permanent damage. 
+
+You wouldn't play Russian roulette with a cheap bottle of vodka and a loaded handgun aimed directly at your head. Don't play Russian roulette with your developing brain and neuroendocrine system. Your future fertility, family, happiness and fulfillment are on the line. Don't take any chances. Don't leave it to luck. Take back your power while you still can. 
+
+Having temporary glycogen-inflated muscles that disappear as soon as you come off just isn't worth the added risk of long-term aggression, anxiety, depression. It's not worth the learning disorders and memory deficits. It's not worth all the unpredictable lifelong consequences of stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the excitotoxicity of a blast.
+
+###⚠️ Environmental Estrogens 
 
 One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20 year old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). These compounds affect neurological development *from fetal growth onwards* with effects that are *cumulative* and *compounded* with exposure to AAS.
 
