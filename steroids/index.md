@@ -1,14 +1,14 @@
 # Overview
 
-The /r/steroids wiki provides common knowledge on Anabolic-Androgenic Steroid (AAS) use as well as specifics about the subreddit and our community.
+The r/steroids Wiki provides a unique and comprehensive compendium of knowledge on anabolic steroids, as well as specifics about our community, r/steroids, which is the largest steroid community in the English-speaking world. 
 
-[View the traffic statistics](http://www.reddit.com/r/steroids/about/traffic/) or [growth tracking](http://redditmetrics.com/r/steroids) for /r/steroids at any time.
+[View the traffic statistics](http://www.reddit.com/r/steroids/about/traffic/) or [growth tracking](http://redditmetrics.com/r/steroids) for r/steroids at any time.
 
-## Please Read The [Community Goals, Responsibility, &amp; Rules](/r/steroids/wiki/index/subreddit_rules) Prior To Participation.
+## Please Read The [Community Goals, Responsibility, &amp; Rules](/r/steroids/wiki/index/subreddit_rules) prior to posting or participation.
 
 ## Critical Thinking
 
-Participation in this sub and with this habit requires one to execute [critical thinking](https://www.reddit.com/r/steroids/wiki/critical_thinking) very well, to determine truth from falsehood.  Practice daily for best results.
+Participation in this sub and with this habit requires one to execute [critical thinking](https://www.reddit.com/r/steroids/wiki/critical_thinking) very well, to determine truth from falsehood. Practice daily for best results.
 
 ##Quick Links
 
@@ -118,11 +118,11 @@ The following material is presented on topics related to /r/steroids for educati
 |**VG**|Ventro Glute|A very common muscle in which to inject|
 |**Winny**|Winstrol||
 
-## Sharing Files &amp; Photos to /r/steroids
+## Sharing Files &amp; Photos to r/steroids
 
-## Posting Progress Pictures to /r/steroids
+## Posting Progress Pictures to r/steroids
 
-The community does enjoy progress pictures.  If you are going to post progress pictures, here is what we like to see.
+The community enjoys progress pictures. If you're going to post progress pictures, here is what we like to see.
 
 * Use [imgur.com](https://imgur.com/) or another anonymous photosharing website of your preference
 * Head-to-toe pics are preferred to specific body part pics—unless it's relevant to some other discussion.
@@ -136,11 +136,11 @@ The community does enjoy progress pictures.  If you are going to post progress p
 On occasion there are files that one would like to share with others.  In order to facilitate clean anonymous sharing, please do the following:
 
 * Use [file.io](https://www.file.io/) as it will keep files anonymous.
-* Make sure to scrub any identifying information from the files
+* Make sure to scrub any identifying information from the files.
 
 ## What Are Steroids?
 
-The term “steroids” refers to a **class of hormones with a classic polyphenol ring structure that are derived from the cholesterol molecule**. There are two types of steroids. They are often confused: **Anabolic** and **Catabolic**. These two steroids serve different medical purposes.
+The term “steroids” refers to a *class of hormones with a classic polyphenol ring structure that are derived from the cholesterol molecul**. There are two types of steroids. They are often confused: **Anabolic** and **Catabolic**. These two steroids serve different medical purposes.
 
 ## Catabolic Steroids (Glucocorticoids)
 
@@ -148,50 +148,54 @@ A group of steroid hormones produced in the adrenal cortex or made synthetically
 
 **Glucocorticoids are utilized to treat:**
 
-1. Arthritis
-2. Asthma
-3. Autoimmune diseases such as lupus and multiple sclerosis
-4. Skin conditions such as eczema and rashes
-5. Some kinds of cancer
+* Arthritis
+* Asthma
+* Autoimmune diseases such as lupus and multiple sclerosis
+* Skin conditions such as eczema and rashes
+* Some kinds of cancer
 
 Side effects of glucocorticoids can include fat gain (particularly trunk), muscle atrophy, weakened bones, and cataracts.
 
 ## Anabolic Steroids (AAS)
 
-A synthetic steroid hormone that resembles testosterone in promoting the growth of muscle. Such hormones are used medicinally to treat some forms of weight loss and by some athletes and others to enhance physical performance. The proper term for these compounds is Anabolic-Androgenic Steroids (AAS).
+A synthetic steroid hormone that resembles Testosterone in promoting the growth of muscle. Such hormones are used medicinally to treat some forms of weight loss and by some athletes and others to enhance physical performance. The proper term for these compounds is Anabolic-Androgenic Steroids (AAS).
 
-**Use of anabolic steroids can have side effects which include:**
+**Use of anabolic steroids can have side effects including:**
 
-1. Acne and cysts
-2. Breast growth and shrinking of testicles in men
-3. Voice deepening and growth of body hair
-4. Heart problems, including heart attack
-5. Liver disease, including cancer
-6. Aggressive behavior
+* Acne and cysts
+* Breast growth and shrinking of testicles in men
+* Voice deepening and growth of body hair
+* Heart problems, including heart attack
+* Liver disease, including cancer
+* Aggressive behavior
 
-See [Additional Sides](https://www.reddit.com/r/steroids/wiki/sides/list)
+See *[Additional Sides](https://www.reddit.com/r/steroids/wiki/sides/list)*
 
 ## How Do Anabolic Steroids Work?
 
-There is generally considered to be three mechanisms of action of AAS.
+There are generally considered to be three mechanisms of action of AAS.
 
-Firstly, by binding to the androgen receptor located in the cytoplasm, AAS stimulate protein synthesis in the muscle. Secondly, they bind to the glucocorticoid receptor, blocking the catabolic actions of cortisol on muscle (protein breakdown). Last, psychological effects include increased motivation and aggression, leading to increased training intensity.
+**1**. By binding to the androgen receptor located in the cytoplasm, AAS stimulate protein synthesis in the muscle. 
 
-See [Pharmacology of AAS](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2439524/)
+**2**. AAS bind to the glucocorticoid receptor, blocking the catabolic actions of cortisol on muscle (protein breakdown). 
 
-## Are They Dangerous?
+**3**. Psychological effects include increased motivation and aggression, leading to increased training intensity.
+
+See *[Pharmacology of AAS](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2439524/).*
+
+## Are AAS Dangerous?
 
 The general consensus is that if used properly, in conjunction with blood tests, AAS can be used safely. However, the potential side effects can be extreme if they are used incorrectly. Most commonly, a lipid profile imbalance which favors plaque deposition in the arteries occurs. The strict diet of most bodybuilders means this is minimized by a low fat intake.
 
-Liver problems can occur, particularly with the use of orals. Rare cases of hepatic peliosis (blood filled cysts in the liver), more commonly known as a liver cancer, have been associated with oral AAS. While these cases have been rare, it emphasizes the need for blood testing during a cycle.
+Liver problems can occur with the use of 17α-alkylated oral anabolic steroids. Rare cases of hepatic peliosis (blood filled cysts in the liver), more commonly known as a liver cancer, have been associated with the use of oral AAS. While these cases have been rare, they emphasize the need for blood testing during a cycle.
 
-Gynecomastia can occur as a result of high levels of testosterone being partially converted to estrogen, the main one being estradiol. The enzyme responsible for this conversion is aromatase, and can be inhibited by a class of drugs called Aromatase Inhibitors (AI). However, a Selective Estrogen Receptor Modulator (SERM, such as Raloxifine or Nolvadex) is also used because it blocks the estrogen receptor, rather than the enzyme.
+Gynecomastia can occur as a result of high levels of Testosterone being partially converted to estrogen, the primary metabolite being estradiol (E2). The enzyme responsible for this conversion is called *aromatase*. It can be inhibited by a class of drugs called Aromatase Inhibitors (AI). Another class of drugs called a Selective Estrogen Receptor Modulator (SERM), such as Raloxifine or Nolvadex, can also be used because it blocks estrogen from binding with the estrogen receptor, rather than the binding with the enzyme that metabolizes from Testosterone to Estrogen.
 
-## Are There Any Long Term Effects?
+## Are There Any Long-Term Effects?
 
-AAS have been used in humans to improve performance since the 1930s. This was a crude extract from male dog urine. Nazi paratroopers were thought to be the first to take testosterone for performance. In the fifties, drug development company Ciba developed Dianabol—and the race was then on to find the best steroid in terms of anabolic-androgenic dissociation.
+AAS have been used in humans to improve performance since the 1930s. This was a crude extract from male dog urine. Nazi paratroopers were thought to be the first to take Testosterone for performance. In the fifties, drug development company Ciba developed Dianabol—and the race was then on to find the best steroid in terms of anabolic-androgenic dissociation.
 
-The long history of use by many thousands of people has shown that if used reasonably, most people do not experience any long-term effects. However, there is a distinct lack of research in this area, with the occasional case study in the medical literature. The mass media likes to sensationalize the death of any past steroid user.
+The long history of use by many thousands of people has shown that if used reasonably, most people do not experience any long-term adverse effects. However, there is a distinct lack of research in this area, with the occasional case study in the medical literature. The mass media likes to sensationalize the death of any past steroid user.
 
 The fact is, the most likely problem would be an increase in arterial plaque deposition as a result of an unfavorable blood lipid levels. This does not affect all users, hence another reason for blood testing.
 
@@ -201,17 +205,17 @@ The fact is, the most likely problem would be an increase in arterial plaque dep
 
 ## Should I Begin Taking Anabolic Steroids?
 
-The generally accepted criteria for starting the use AAS is as follows:
+*The generally accepted criteria for starting AAS is as follows:*
 
-1. Research and obtain a very good understanding of what you are considering putting in your body **PRIOR** to your cycle.
+1. Research until you have a very good understanding of what you are considering putting into your body. **Do this PRIOR to your cycle**.
 
-2. If you are **under 25** years old it is possible to incur permanent damage from a cycle; there is also a greater risk of unwanted side effects.
+2. If you are ***under 25 years of age*** you have a heightened risk of incurring *permanent damage* from a cycle. There's also a much higher risk of unwanted side effects. Wait until you're at least 25.
 
-3. Do not run a cycle without having a **PCT** and an **AI** on hand. If you "can't afford" either, then you can not afford to run a cycle.
+3. Do not run a cycle without having a **PCT** and an **AI** on hand. If you can't afford either, you can't afford to cycle.
 
-4. The best first cycle is a simple first cycle. **KISS**. As more experience is gained and you learn how your body reacts to gear, cycles can become more complex. Adding two previously unused elements to a cycle makes it impossible to know which thing may be causing issues. Grow into your dose.
+4. The best first cycle is a simple first cycle. **KISS**. As more experience is gained and you learn how your body reacts to gear, cycles can become more complex. Adding two previously unused elements to a cycle makes it impossible to know which thing may be causing issues. One new compound at a time, and grow into your dose. You don't need grams and grams of gear. 
 
-5. Steroids are magic. But just like any spell, this magic doesn't work without the right incantation. That incantation, in this case, is a very good **diet** and **exercise** program. With these two in place, keep your expectations reasonable and you'll be happy.
+5. ***Steroids are magic***. But just like any spell, this magic doesn't work without the right incantation. That incantation, in this case, is a very good *caloric surplus*, **healthy diet** and **progressive overload exercise** regime. With these factors in place, keep your expectations reasonable and you'll be happy.
 
 6. For your cycle duration, **remain aware** of how your body is reacting both physically and emotionally. If something feels "off" or "not right", and it's not a known side, it probably isn't right. Typical beginner cycles make people feel very good overall.
 
@@ -219,12 +223,16 @@ The generally accepted criteria for starting the use AAS is as follows:
 
 You will eventually reach a genetic potential maximum ([calculate yours here](http://www.weightrainer.net/bodypred.html)) with regards to strength and size. There are often people giving advice to "reach your genetic maximum potential first" before using gear. Some at /r/steroids give and promote this advice, some do not. This advice is preference.
 
-**Information about how gear helps vs natural:**
+**Information about how steroids help** *vs* **natural**
 
 * [Steroids vs Natural](http://www.aworkoutroutine.com/steroids-vs-natural/)
+
 * [Natural Bodybuilder Cut Study](http://www.ncbi.nlm.nih.gov/pubmed/23412685)
+
 * [Genetic Maximum Potential Models](http://www.bodyrecomposition.com/muscle-gain/whats-my-genetic-muscular-potential.html)
+
 * [Chaos and Pain Question Genetic Maximums. (NSFW)](http://chaosandpain.blogspot.com/2012/12/ask-asshole-44-magnum-edition-part-1.html?zx=223139842b3ad1faLA)
+
 * [Natural Muscle Building: A Look At Potential, Genetics &amp; Arm Size](http://www.muscleandstrength.com/expert-guides/bodybuilding-genetics)
 
 # 💁🏼‍♀️📰  Why Young Men Should Not Take AAS
@@ -243,15 +251,13 @@ Exogenous androgens act as epigenetic growth signaling termination factors.
 
 **TRANSLATION**: it isn't just your height that's stunted. It's your IQ. AAS atrophy brain development and higher cognitive functions. 
 
-• r e t u r n 🦧 t o 🦍 m o n k e • 
-
-Clinical studies showed this leads to ***long-term aggression, anxiety, depression, cocognitive deficits and memory problems***—*among others.*
+Clinical studies showed this leads to ***long-term aggression, anxiety, depression, cognitive deficits and memory problems***—*among others.*
 
 ✅ You're smart. Use foresight. Think ahead. 
 
 [Wait until the age MRI scans show developmental completion at the age of ***25***.](https://www.reddit.com/r/steroids/wiki/index#wiki_.1F481.1F3FC.200D.2640.FE0F.1F4F0__why_young_men_should_not_take_aas)
 
-***Until then***, train natty. If you have ***low T symptoms***, Clomid monotherapy or hCG-only cycles function as far safer alternatives. Consult with an endocrinologist. 
+***Until then***, train natty. If you have ***low T symptoms***, Clomid monotherapy or hCG-only cycles function as far safer alternatives to taking steroids. Read the Wiki section on hypogonadotropic hypogonadism (HH). Consult with a family physician for a referral to an endocrinologist. 
 
 Right now you're at peak Testosterone output, peak natty growth potential, and the perfect time to bulk naturally. 
 
@@ -263,19 +269,19 @@ Don't pick up powerful exogenous hormones with the potential for ***permanent***
 
 ⚠️  It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
 
-MRI scans show that adolescent brain and neuroendocrine system growth and development continues until the ***age of 25***. The last regions to finish growing are the *singlemost important*—those associated with **reason and intelligence, higher cognition, self-awareness, **emotional processing** and **impulse control**. 
+MRI scans show that the adolescent brain and neuroendocrine system growth and development continues until the ***age of 25***. The last regions to finish growing are the *single-most important—those associated with higher cognition, reason and intelligence, self-awareness, emotional processing and impulse control*. 
 
-*While still under the age of twenty-five* your fragile, newly-formed neural pathways are far more exposed to the potential for permanent damage. 
+*While still under the age of* ***25***, the fragile connections that make up your newly-forged neural pathways are far more exposed and vulnerable to the potential for permanent damage than previously set, well-worn and established pathways. 
 
-You wouldn't play Russian roulette with a cheap bottle of vodka and a loaded handgun aimed directly at your head. Don't play Russian roulette with your developing brain and neuroendocrine system. Your future fertility, family, happiness and fulfillment are on the line. Don't take any chances. Don't leave it to luck. Take back your power while you still can. 
+You wouldn't play Russian roulette with a cheap bottle of vodka and a loaded handgun aimed directly at your head. Don't play Russian roulette with your developing brain and body. Your fertility, family, and future fulfillment are on the line. Don't take any chances. Don't leave it to luck. Take back your power and exercise it while you can. 
 
-Having temporary glycogen-inflated muscles that disappear as soon as you come off just isn't worth the added risk of long-term aggression, anxiety, depression. It's not worth the learning disorders and memory deficits. It's not worth all the unpredictable lifelong consequences of stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the excitotoxicity of a blast.
+Having temporary glycogen-inflated muscles that deflate like balloons as soon as you come off just isn't worth the added risk of long-term aggression, anxiety, depression. It's not worth the learning disorders and memory deficits. It's not worth all the unpredictable lifelong consequences of stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the unprotected excitotoxicity of a blast.
 
 ###⚠️ Environmental Estrogens 
 
-One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20 year old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). These compounds affect neurological development *from fetal growth onwards* with effects that are *cumulative* and *compounded* with exposure to AAS.
+One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20-year-old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). Just like AAS, these estrogen-mimetic compounds affect neurological development *from fetal growth onwards*, with effects that are *cumulative* and *compounded* with any concomitant exposure to AAS.
 
-Aside from neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting, are all risks that are associated with premature blasting. The whole idea is to minimize these negative environmental influences that *even our immediate ancestors* never had to address.
+Aside from neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting, are these risks are shared and associated with premature AAS usage. The core objective is to minimize exposure. Stay away from these negative environmental influences that *even our immediate ancestors* never had to address.
 
 **Anything exogenous** that could short-circuit the feedback loops controlling neuroendocrine axis growth and development presents a far greater risk of atrophied neural and endocrine functionality, with concomitant and potentially permanent side effects.
 
@@ -305,7 +311,7 @@ Be the adult you claim to be and make a good decision for your health. A man who
 
 ## Natural Blast
 
-Your body is already pumping out blast levels of testosterone as part of the natural course of late adolescence. It's the highest that it's ever going to be in your lifetime.
+Your body is already pumping out blast levels of Testosterone as part of the natural course of late adolescence. It's the highest that it's ever going to be in your lifetime.
 
 Why prematurely shut that down and ruin a great thing? You're essentially on free steroids right now. Don't take that opportunity for granted and abort your own physiological development by injecting additional variables that short-circuit the whole equation.
 
@@ -319,9 +325,9 @@ It's well known that hormones play a role in the development of cognitive brain 
 
 * *They lead to depression, memory loss and learning difficulties*.
 
-* *They cause longstanding dysfunction in brain reward systems*.
+* *They cause longstanding dysfunction in the brain's natural reward systems*.
 
-* *They give rise to the accumulation of amyloid plaques, which leads to Alzheimers*.
+* *They give rise to the accumulation of amyloid plaques, which leads to dementia and early-onset Alzheimers disease*.
 
 Do you really want to add these variables to a still-growing and developing brain? 
 
@@ -351,7 +357,7 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 ## Hair Loss, Acne, Prostate Dysfunction
 
-All of these can be accelerated and aggravated with exogenous androgen use.
+*All of these can be accelerated and aggravated with exogenous androgen use*.
 
 * *Have you seen a 20-year old already going bald?*
 
@@ -361,45 +367,47 @@ All of these can be accelerated and aggravated with exogenous androgen use.
 
 It's not pretty. Don't think it can't happen to you.
 
-## Testimonials 🔞
+## 🔞Testimonials🔞
 
 *Here's a few firsthand accounts from other young guys who started young, screwed up big time, and now regret it*.
 
 ### Testimonial 1
 
-&gt;u/ghettotuesday: It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest regrets is doing a cycle at 19 before I was even ready, definitely fucked some brain development and definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
+&gt; u/ghettotuesday: I started young, did SARMs at 18, and ended up doing steroids at 19. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a very negative way. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy.
+&gt;
+&gt; It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest life regrets is doing a cycle at 19 before I was even ready. Definitely fucked some brain development. Definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
 
 ### Testimonial 2
 
-&gt;I wish I'd listened to everyone all over the internet that shouts that no matter what, don't take them if you're young. I did my first cycle at age 17 (I'd been training for 4.5 years by this point) and while it wasn't horrendous at the time, I became even moodier, angrier and more stubborn, and the growing health issues are the biggest kicker.  
+&gt;I wish I'd listened to everyone all over the internet that shouts that no matter what, don't take them if you're young. I did my first cycle at age 17. I'd been training for 4.5 years by this point, and while it wasn't obvious to me then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and the growing health issues are the biggest kicker.  
 &gt;  
 &gt;My blood pressure was awful for a while. I'd pass out frequently. My testicles took a lot of time to kick back in properly on top of so many other smaller things, so overall it's something I really regret quite a lot.  
 &gt;  
-&gt;I heard everyone telling me not to take steroids but I thought I'd be different—the bad stuff wouldn't happen to me, etc, just as I'm sure every kid thinks. Lo and behold, it did happen, and I can confirm, is not worth it.  
+&gt;I heard everyone telling me not to take steroids but I thought I'd be different—the bad stuff wouldn't happen to me, etc, just as I'm sure every kid thinks. just as I'm sure you think. Lo and behold, it did happen, and I can confirm, it is NOT worth it.  
 &gt;  
-&gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't. Just take their advice and wait until you're physically and emotionally matured and more experienced, you've stopped growing, your body and hormones have natural baselines, and your moods are consistent. ​  
+&gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't... Just take their advice and wait until you're physically and emotionally matured and more experienced, you've stopped growing, your body and hormones have natural baselines, and your moods are consistent. ​  
 &gt;  
-&gt;Ironically, I'm about to hop back on again now—but this is because of low T, with the help of medical professionals, etc. There's no way to know if the reason for my ED and low levels now is because of the reckless abandonment I treated the decision with way back then.
+&gt;Ironically, I'm about to hop back on again now... but this is because of ruined T levels, I really need help from medical professionals, etc. There's no way to know if the reason for my ED, my low levels, my other problems now is because of the reckless abandonment I treated the decision with way back then. Its too late for me already but its not too late for you. Really listen to coach u/Decatest. Don't even think about starting. There's so many other options out there.
 
 ### Testimonial 3
 
-&gt;Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big.  
+&gt; Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big. but now im really fucked.
 &gt;  
-&gt;Being big that was all in my mind and i was saying to myself ahh nothing will happen to me, but my 3rd and 4th cycle i was really supressed and still recovering even after finishing the pct 1 month ago. Now it has been 1 week after the bloodwork. i haven't used 19 nors and my cycles were mild and simple. I used winstrol, anavar, dianabol and test e low dosages and did pct on every cycle except the first one but i recovered good until the 3rd.  
+&gt; Being big that was all in my mind and i was saying to myself ahh nothing will happen to me, but my 3rd and 4th cycle i was really supressed and still recovering even after finishing the pct 1 month ago. Now it has been 1 week after the bloodwork. i haven't ever used 19 nors and my cycles were mild and simple. I used winstrol, anavar, dianabol and test e low dosages and did pct on every cycle except the first one but i recovered good until the 3rd.  
 &gt;  
-&gt;So now i have low libido and ED. im planing to do another pct and stop steroids for good and see if i will recover, maybe i won' t, maybe i will.. time will tell.  
+&gt; So now i have low libido and ED. im planing to do another pct and stop steroids for good and see if i will recover, maybe i won' t, maybe i will.. time will tell.  
 &gt;  
-&gt;Btw this is not just for me i want the other youngsters that plan to use steroids to read it and i advise you not to start when you are young. I was young and i thought i knew everything and nothing will happen to me. There was only one thing on my mind and that was to get big, but after some time i realized that doesn 't matter and my goals faded away over some time and yeah..  
+&gt; Btw this is not just for me i want the other youngsters that plan to use steroids to read it and i advise you not to start when you are young. I was young and i thought i knew everything and nothing will happen to me. There was only one thing on my mind and that was to get big, but after some time i realized that doesn't matter and my goals faded away over some time and yeah.. .
 &gt;  
-&gt;The point is you shouldn 't start young because you don 't know shit first of all and you think you know. We don' t even know how to wipe our ass and we are starting to use steroids at young age. While we are young we don 't think straight we just look only for the day ahead of us and not our future.  
+&gt; The point is you shouldn't start young because you don't know shit first of all and you think you know. We don't even know how to wipe our ass and we are starting to use steroids at young age. While we are young we don't think straight we just look only for the day ahead of us and not our future.  
 &gt;  
-&gt;We don t even know what we are gonna be when we grow up, maybe that dream will fade away like mine did and you gonna regret what you have done to yourself for the rest of your life. I know because i was thinking that way too.  
+&gt; We don't even know what we are gonna be when we grow up, maybe that dream will fade away like mine did and you gonna regret what you have done to yourself for the rest of your life. I know because i was thinking that way too.  
 &gt;  
-&gt;I want to tell you that you don' t need muscles to go out with hot girls and you can do it naturally. I ve been there and Im telling you this. Don' t start steroids until you know 100% what are you doing with them, the diet and training and your development is really complete like they suggest.
+&gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids until you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your development is really complete like they suggest.
 
 ## What's safe?
 
-For hypogonadal patients *under the age of 25* the standard of treatment from endocrinologists is either (***a***) hCG or (***b***) Clomid monotherapy. Each have sides and disadvantages—but nowhere near the debilitating side effects of AAS.
+For hypogonadal patients *under the age of 25* the standard of treatment from endocrinologists is either (**a**) *hCG* or (**b**) *Clomid monotherapy*. Each option has its own unique side effects, relative merits and disadvantages—but either of the two are far safer and nowhere near matching the debilitating negative side effects that can arise as a consequence of AAS mismanagement or abuse.
 
 — *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 
@@ -415,11 +423,12 @@ You can also look at the reputation of the journal itself. There is a ranking sy
 
 Another factor of course is how relevant the research is. Was it in mice? Was it in elderly women? Was the study well designed to test what you want to know?
 
-One interesting area is the reference section. Here you can find yourself valuable information on studies that might be more relevant to what you want. Throughout the text assertions are made that are backed up by prior research. This is then referred to the reference section.  Pubmed is wonderful at this as there are related citations to the right side. 
+One interesting area is the reference section. Here you can find yourself valuable information on studies that might be more relevant to what you want. Throughout the text assertions are made that are backed up by prior research. This is then referred to the reference section.  PubMed is wonderful at this as there are related citations to the right side. 
 
-For example:  [Performance-enhancing drugs on the web: a growing public-health issue.](http://www.ncbi.nlm.nih.gov/pubmed/23414502)
-
-Links to research/references:
+##References
 
 * [Testosterone dose-response relationships in healthy young men](http://ajpendo.physiology.org/content/281/6/E1172.long)
-* [Androgen receptor in human skeletal muscle and cultured muscle satellite cells: up-regulation by androgen treatment](https://www.ncbi.nlm.nih.gov/pubmed/15472231).
+
+* [Androgen receptor up-regulation by androgen treatment](https://www.ncbi.nlm.nih.gov/pubmed/15472231)
+
+* [Performance-enhancing Drugs on the Web: A growing public-health issue.](http://www.ncbi.nlm.nih.gov/pubmed/23414502)
