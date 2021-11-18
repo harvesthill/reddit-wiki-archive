@@ -77,15 +77,17 @@ Reddit has updated their Terms of Service. By using Reddit, [you agree to follow
 
 The spirit of the "no source talk" rule is to promote goal #5 of the community: 
 
-&gt; 5.) Keep the environment free from any monetary influences.
+&gt; 5.) Keep the environment free from ***any monetary influences***.
 
 ###**PREAMBLE**  
 
-Everything listed below includes **(BUT NOT LIMITED TO)**: AAS (gear), TRT, TRT Clinics, Ancillaries (AI, SERMs, etc.), hGH [(not listed here)](https://www.reddit.com/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list), Insulin, DNP, Performance Enhancing Drugs, Preworkouts, Prescription Drugs, Over-the-Counter Drugs, Research Chemicals, Prohormones, SARMs, Peptides, OR **ANY** product similar to or that could be mistaken as legit of any of the previous listed—this includes "herbal steroids," "steroid alternatives", "test boosters", or over-the-counter fake AAS or "PCT" brands.  
+No MONETIZATION. This is a forum to discuss AAS/PEDs. This is *not* a review forum to discuss commercial products! **DO NOT DISCUSS COMMERCIAL PRODUCTS OF ANY KIND**. 
 
-Chances are, if you are talking about **ANY COMPANY**, **ANY SOURCE**, **ANY SPECIFIC BRAND**, **ANY DOCTOR**, **ANY CLINIC**, **ANY OTHER FORUM**, or **ANY OTHER SUBREDDIT THAT ALLOWS SOURCE TALK**, regardless of legality in your area, it will be considered source talk. 
+If you are talking about **ANY COMPANY**, **ANY SOURCE**, **ANY SPECIFIC BRAND**, **ANY DOCTOR**, **ANY CLINIC**, **ANY OTHER FORUM**, or **ANY OTHER SUBREDDIT THAT ALLOWS SOURCE TALK**, regardless of legality in your area, it will be considered source talk. 
 
 **THERE ARE NO WARNINGS AND YOU WILL BE BANNED.** 
+
+Everything listed below includes **(BUT NOT LIMITED TO)**: AAS (gear), TRT, TRT Clinics, Ancillaries (AI, SERMs, etc.), hGH [(not listed here)](https://www.reddit.com/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list), Insulin, DNP, Performance Enhancing Drugs, Preworkouts, Prescription Drugs, Over-the-Counter Drugs, Research Chemicals, Prohormones, SARMs, Peptides, OR **ANY** product similar to or that could be mistaken as legit of any of the previous listed—this includes "herbal steroids," "steroid alternatives", "test boosters", or over-the-counter fake AAS or "PCT" brands.  
 
 Please read over the following carefully and [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) if you have any questions.
 
@@ -95,7 +97,7 @@ Please read over the following carefully and [message the moderators](http://www
 
 * Do not publicly or privately ask for sources, brands, etc., ask for private messages for sources, brands, info, etc. or offer to PM source, brand, info, etc.
 
-* Do not publicly or privately (PM) mention or request for information on DOCTORS OR TRT CLINICs. 
+* Do not publicly or privately (PM) mention or request for information on DOCTORS OR TRT CLINICS. 
 
 * Do not mention sources / brands / etc. that are private or not even around anymore (*i.e.* "busted", quit, etc.).     
 
