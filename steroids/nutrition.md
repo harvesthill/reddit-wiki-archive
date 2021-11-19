@@ -174,8 +174,6 @@ Dr. Mary Vernon Lecture - A video playlist of great information and resources.
 
 [My Fitness Pal](http://www.myfitnesspal.com) - An online and smartphone application to track macronutrients and calories. The TDEE calculator in this is not very good.
 
-[Low Carb Recipes](http://www.thelowcarbrecipes.com) - One redditor’s excellent collection of meal recipes
-
 ##References
 1. Ullrich IH, Peters PJ, Albrink MJ. Effect of low-carbohydrate diets high in either fat or protein on thyroid function, plasma insulin, glucose, and triglycerides in healthy young adults. J Am Coll Nutr. 1985;4(4):451-9.
 
