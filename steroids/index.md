@@ -241,11 +241,9 @@ You will eventually reach a genetic potential maximum ([calculate yours here](ht
 
 ## Introduction 
 
-🔞 [MINIMUM AGE ***25***](https://www.reddit.com/r/steroids/wiki/index#wiki_.1F481.1F3FC.200D.2640.FE0F.1F4F0__why_young_men_should_not_take_aas) 🚫
+**Not yet. Minimum Age 25**.
 
-##Not yet. Minimum Age 25.
-
-###⚠️You aren't *old enough* to be using. 
+🔞 🚫 You aren't *old enough* to be using. 🔞 🚫
 
 Exogenous androgens act as epigenetic growth signaling termination factors. 
 
@@ -259,15 +257,15 @@ Clinical studies showed this leads to ***long-term aggression, anxiety, depressi
 
 ***Until then***, train natty. If you have ***low T symptoms***, Clomid monotherapy or hCG-only cycles function as far safer alternatives to taking steroids. Read the Wiki section on hypogonadotropic hypogonadism (HH). Consult with a family physician for a referral to an endocrinologist. 
 
-Right now you're at peak Testosterone output, peak natty growth potential, and the perfect time to bulk naturally. 
+Right now you're at peak Testosterone output, peak natty growth potential, and the perfect time to bulk naturally.  
 
-Don't short-circuit your brain and body natural direction when it's so young and vulnerable and pure—and at the highest it will ever be in your lifetime.
+&gt; Don't short-circuit your brain and body natural direction when it's so young and vulnerable and pure—and at the highest it will ever be in your lifetime.
 
-Don't shutdown your neuroendocrine system while it's still developing and primed for pumping out hormones at *peak natural production*.
+&gt; Don't shut down your neuroendocrine system while it's still developing and primed for pumping out hormones at *peak natural production*.
 
-Don't pick up powerful exogenous hormones with the potential for ***permanent***, ***life***\-***changing disabilities*** if you're not finished growing and don't yet have a *thorough* understanding of their impact.
+&gt; Don't pick up powerful exogenous hormones with the potential for ***permanent***, ***life***\-***changing disabilities*** if you're not finished growing and don't yet have a *thorough* understanding of their impact.
 
-⚠️  It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
+It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
 
 MRI scans show that the adolescent brain and neuroendocrine system growth and development continues until the ***age of 25***. The last regions to finish growing are the *single-most important—those associated with higher cognition, reason and intelligence, self-awareness, emotional processing and impulse control*. 
 
@@ -277,17 +275,19 @@ You wouldn't play Russian roulette with a cheap bottle of vodka and a loaded han
 
 Having temporary glycogen-inflated muscles that deflate like balloons as soon as you come off just isn't worth the added risk of long-term aggression, anxiety, depression. It's not worth the learning disorders and memory deficits. It's not worth all the unpredictable lifelong consequences of stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the unprotected excitotoxicity of a blast.
 
-###⚠️ Environmental Estrogens 
+### Environmental Toxins
 
-One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20-year-old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). Just like AAS, these estrogen-mimetic compounds affect neurological development *from fetal growth onwards*, with effects that are *cumulative* and *compounded* with any concomitant exposure to AAS.
+⚠️ One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20-year-old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). Just like AAS, these estrogen-mimetic compounds affect neurological development *from fetal growth onwards*, with effects that are *cumulative* and *compounded* with any concomitant exposure to AAS.
 
-Aside from neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting, are these risks are shared and associated with premature AAS usage. The core objective is to minimize exposure. Stay away from these negative environmental influences that *even our immediate ancestors* never had to address.
+Aside from neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting, are these risks are shared and associated with premature AAS usage. 
+
+The core objective is to minimize exposure to any and all exogenous risk factors. Stay away from these negative environmental influences that *even our immediate ancestors*—even your grandparents and great-grandparents—never had to address. With today's environmental devastation, accelerating climate change, and increasing number of species under threat of endangerment and extinction, you're already far from playing on a level playing field. Don't make it any harder on yourself. You want to make it to their age, and you want to be healthy getting there. 
 
 **Anything exogenous** that could short-circuit the feedback loops controlling neuroendocrine axis growth and development presents a far greater risk of atrophied neural and endocrine functionality, with concomitant and potentially permanent side effects.
 
-At your age you're fortunate to be easily able to pack on slabs of lean mass *without using steroids as a crutch*. It's not worth the risk when you've got so many years and so many natural gains still ahead of you. You've barely even started out yet. **Good luck**.
+At your age you're fortunate to be easily able to pack on slabs of lean mass *without using steroids as a crutch*. It's *not worth the risk* when you've got so many years and so many natural gains still ahead of you. You've barely even started out yet. **Good luck**.
 
-🚫 🚫 🚫
+🚫 🔞 🚫 🔞 🚫 🔞 
 
 &gt;“Anabolic steroids have been reported to induce psychiatric side effects such as *aggression* and *depression*. Adolescence represents an *extremely sensitive neurodevelopmental period* to influence by *detrimental effects*.”
 
@@ -309,7 +309,7 @@ Taking *anything* before you are completely finished with puberty can have negat
 
 Be the adult you claim to be and make a good decision for your health. A man who has patience and responsibility for his own life and health is vastly more masculine than one jabbing themselves with hormones to get swole prematurely, damned be all the consequences. 
 
-## Natural Blast
+### Natural Blast
 
 Your body is already pumping out blast levels of Testosterone as part of the natural course of late adolescence. It's the highest that it's ever going to be in your lifetime.
 
@@ -317,9 +317,11 @@ Why prematurely shut that down and ruin a great thing? You're essentially on fre
 
 There's a serious potential for long-term side effects. People oft-say “I've stopped growing, so it's okay.” No: it's not okay. The rest of you hasn't finished developing yet. There are many other potential side effects besides simply your growth plates. Here are a few.
 
-## Brain Function, Memory, Alzheimers Disease
+### Brain Function, Memory, Alzheimers Disease
 
-It's well known that hormones play a role in the development of cognitive brain function. **Your neuroendocrine system is still developing until the age of 25**. Adding external hormones when your brain is still developing can stunt normal development and maturation. All these effects are more serious in still-growing and developing brain:
+It's well known that hormones play a role in the development of cognitive brain function. **Your neuroendocrine system is still developing until the age of 25**. 
+
+⚠️ Adding external hormones when your brain is still developing can stunt normal development and maturation. All these effects are more serious in still-growing and developing brain:
 
 * *Many steroids are neurotoxic*.
 
@@ -339,23 +341,23 @@ How can you know many years down the road there won't be even more problems?
 
 – NIDA 
 
-## Premature Closing of Growth Plates
+### Premature Closing of Growth Plates
 
 This one is the most known about. Even if you think you've stopped growing, there still is a potential for height increase over time. Scientists have found that growth plates don't fuse completely in some cases until individuals are past 22. Don't be deterred just because you haven't grown taller in awhile. You grow out as well as up. Do you want broader shoulders, or do you want to stay stuck with what you've got now?
 
-## Cancer, Liver, Kidney Disease
+### Cancer, Liver, Kidney Disease
 
 You hear all the time teenagers say “Well, my friends did it and they got big and nothing happened to them.” Really? How do you know? Have they been to a doctor and had their liver and kidney values checked? Just because a person looks okay on the outside doesn't mean that they don't already host serious problems on the inside. If treated improperly or in an untimely manner, liver and kidney damage can eventually be fatal.
 
-## Impotence
+### Impotence
 
 Your neuroendocrine system is still developing. Supplementing with hormones while you are still growing can potentially cause *permanent* impotence and fertility issues in teenagers. When you add testosterone, estrogen and a wealth of other synthetic androgens to your body it can cause problems with your normal testicular growth and function. Remember, some of these effects are more than just temporary.
 
-## Gyno, or “Bitch Tits”
+### Gyno, or “Bitch Tits”
 
 Androgen usage in teens increases the risk of gyno. Gyno has already been known to happen naturally in many teenagers because of fluctuating hormones. When you add more hormones to the mix, you dramatically increase the problems. Remember once you have gyno, it's very hard to get rid of. Unless you take the proper precautions up front, you'll have to resort to surgery and go under the knife.
 
-## Hair Loss, Acne, Prostate Dysfunction
+### Hair Loss, Acne, Prostate Dysfunction
 
 *All of these can be accelerated and aggravated with exogenous androgen use*.
 
@@ -367,17 +369,17 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 It's not pretty. Don't think it can't happen to you.
 
-## 🔞Testimonials🔞
+### Testimonials
 
 *Here's a few firsthand accounts from other young guys who started young, screwed up big time, and now regret it*.
 
-### Testimonial 1
+**🔞 Testimonial 1**
 
 &gt; u/ghettotuesday: I started young, did SARMs at 18, and ended up doing steroids at 19. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a very negative way. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy.
 &gt;
 &gt; It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest life regrets is doing a cycle at 19 before I was even ready. Definitely fucked some brain development. Definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
 
-### Testimonial 2
+**🔞 Testimonial 2**
 
 &gt;I wish I'd listened to everyone all over the internet that shouts that no matter what, don't take them if you're young. I did my first cycle at age 17. I'd been training for 4.5 years by this point, and while it wasn't obvious to me then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and the growing health issues are the biggest kicker.  
 &gt;  
@@ -389,7 +391,7 @@ It's not pretty. Don't think it can't happen to you.
 &gt;  
 &gt;Ironically, I'm about to hop back on again now... but this is because of ruined T levels, I really need help from medical professionals, etc. There's no way to know if the reason for my ED, my low levels, my other problems now is because of the reckless abandonment I treated the decision with way back then. Its too late for me already but its not too late for you. Really listen to coach u/Decatest. Don't even think about starting. There's so many other options out there.
 
-### Testimonial 3
+**🔞 Testimonial 3**
 
 &gt; Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big. but now im really fucked.
 &gt;  
@@ -403,7 +405,7 @@ It's not pretty. Don't think it can't happen to you.
 &gt;  
 &gt; We don't even know what we are gonna be when we grow up, maybe that dream will fade away like mine did and you gonna regret what you have done to yourself for the rest of your life. I know because i was thinking that way too.  
 &gt;  
-&gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids until you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your development is really complete like they suggest.
+&gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids untswil you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your development is really complete like they suggest.
 
 ## What's safe?
 
