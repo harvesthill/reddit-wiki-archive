@@ -33,7 +33,7 @@ DNP inhibits ATP production in cell mitochondria through uncoupling the metaboli
 
 ***
 
-##**How to use DNP:** 
+##**How to use DNP** 
 
 **Beginner (First) Cycle examples:**
 
@@ -138,7 +138,7 @@ These side effects are incredibly rare - and are ALL a result of extremely long 
 
 ***
 
-*DNP is not fully understood and lacks research to validate many claims of harsh side effects not mentioned here. While this compound profile attempts to explain everything known about DNP in an effort to ensure maximum safety of use, as with anything - individual use will vary. Always exercise caution when using DNP.*
+*While this compound profile attempts to explain everything known about DNP in an effort to ensure maximum safety of use, as with anything, individual use will vary. Always exercise caution when using DNP.*
 
 ***
 

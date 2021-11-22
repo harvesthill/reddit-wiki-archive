@@ -267,19 +267,19 @@ Right now you're at peak Testosterone output, peak natty growth potential, and t
 
 It's not just your *height* that's stunted by taking steroids too young, it's *your brain*.
 
-MRI scans show that the adolescent brain and neuroendocrine system growth and development continues until the ***age of 25***. The last regions to finish growing are the *single-most important—those associated with higher cognition, reason and intelligence, self-awareness, emotional processing and impulse control*. 
+MRI scans show that the adolescent brain and neuroendocrine system growth and development continues until the ***age of 25***. The last regions to finish growing are the *absolute most important—those associated with consciousness, sense of self, abstract reasoning, conscientiousness, high-bandwidth emotional processing, higher cognition and impulse control*. 
 
 *While still under the age of* ***25***, the fragile connections that make up your newly-forged neural pathways are far more exposed and vulnerable to the potential for permanent damage than previously set, well-worn and established pathways. 
 
 You wouldn't play Russian roulette with a cheap bottle of vodka and a loaded handgun aimed directly at your head. Don't play Russian roulette with your developing brain and body. Your fertility, family, and future fulfillment are on the line. Don't take any chances. Don't leave it to luck. Take back your power and exercise it while you can. 
 
-Having temporary glycogen-inflated muscles that deflate like balloons as soon as you come off just isn't worth the added risk of long-term aggression, anxiety, depression. It's not worth the learning disorders and memory deficits. It's not worth all the unpredictable lifelong consequences of stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the unprotected excitotoxicity of a blast.
+Having temporary glycogen-inflated muscles that deflate like balloons as soon as you come off just isn't worth the added risk of long-term aggression, anxiety and depression. It's not worth the learning disorders and memory deficits. It's not worth all the unpredictable lifelong consequences of stunted growth triggered by the interplay of different androgen markers—and neuron apoptosis, or cell death, consequent the unprotected excitotoxicity of a blast.
 
 ### Environmental Toxins
 
 ⚠️ One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20-year-old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). Just like AAS, these estrogen-mimetic compounds affect neurological development *from fetal growth onwards*, with effects that are *cumulative* and *compounded* with any concomitant exposure to AAS.
 
-Aside from neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting, are these risks are shared and associated with premature AAS usage. 
+Aside from detrimental neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting—the risks of exposure to exogenous estrogen-mimetic compounds are shared with many of the same risks that are tied to premature AAS usage—for obvious reasons: aside from their androgenic effects, the aromatase enzyme metabolizes these compounds to [17β-Estradiol (E2)](https://en.wikipedia.org/wiki/Estradiol).
 
 The core objective is to minimize exposure to any and all exogenous risk factors. Stay away from these negative environmental influences that *even our immediate ancestors*—even your grandparents and great-grandparents—never had to address. With today's environmental devastation, accelerating climate change, and increasing number of species under threat of endangerment and extinction, you're already far from playing on a level playing field. Don't make it any harder on yourself. You want to make it to their age, and you want to be healthy getting there. 
 
@@ -287,7 +287,13 @@ The core objective is to minimize exposure to any and all exogenous risk factors
 
 At your age you're fortunate to be easily able to pack on slabs of lean mass *without using steroids as a crutch*. It's *not worth the risk* when you've got so many years and so many natural gains still ahead of you. You've barely even started out yet. **Good luck**.
 
+## What's safe?
+
+For hypogonadal patients *under the age of 25* the standard of care medical professionals advise for the treatment of low Testosterone levels is either (**a**) *hCG* or (**b**) *Clomid monotherapy*. Each option has its own unique side effects, relative merits and disadvantages—but either one of these two options are far safer, and nowhere near risking the debilitating negative side effects that can come as a consequence of AAS mismanagement or abuse.
+
 🚫 🔞 🚫 🔞 🚫 🔞 
+
+## What are the different risks?
 
 &gt;“Anabolic steroids have been reported to induce psychiatric side effects such as *aggression* and *depression*. Adolescence represents an *extremely sensitive neurodevelopmental period* to influence by *detrimental effects*.”
 
@@ -309,7 +315,7 @@ Taking *anything* before you are completely finished with puberty can have negat
 
 Be the adult you claim to be and make a good decision for your health. A man who has patience and responsibility for his own life and health is vastly more masculine than one jabbing themselves with hormones to get swole prematurely, damned be all the consequences. 
 
-### Natural Blast
+### Don't Short-Circuit Your Natural Blast
 
 Your body is already pumping out blast levels of Testosterone as part of the natural course of late adolescence. It's the highest that it's ever going to be in your lifetime.
 
@@ -369,35 +375,35 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 It's not pretty. Don't think it can't happen to you.
 
-### Testimonials
+## Testimonials
 
 *Here's a few firsthand accounts from other young guys who started young, screwed up big time, and now regret it*.
 
 **🔞 Testimonial 1**
 
-&gt; u/ghettotuesday: I started young, did SARMs at 18, and ended up doing steroids at 19. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a very negative way. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy.
+&gt; u/ghettotuesday: *I started young*. I did SARMs at 18, and ended up doing steroids at 19. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a **very negative way**. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy as fuck.
 &gt;
-&gt; It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest life regrets is doing a cycle at 19 before I was even ready. Definitely fucked some brain development. Definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
+&gt; It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest life regrets is doing a cycle at 19 before I was ready. Definitely fucked some brain development. Definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
 
 **🔞 Testimonial 2**
 
-&gt;I wish I'd listened to everyone all over the internet that shouts that no matter what, don't take them if you're young. I did my first cycle at age 17. I'd been training for 4.5 years by this point, and while it wasn't obvious to me then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and the growing health issues are the biggest kicker.  
+&gt;*I wish I'd listened* to everyone all over the internet that shouts that **No matter what, DON'T take them if you're young**. I did my first cycle at age 17. I'd been training for 4.5 years by this point, and while it wasn't obvious to me back then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and I couldn't even see it. All the growing health issues are the biggest kicker.  
 &gt;  
 &gt;My blood pressure was awful for a while. I'd pass out frequently. My testicles took a lot of time to kick back in properly on top of so many other smaller things, so overall it's something I really regret quite a lot.  
 &gt;  
-&gt;I heard everyone telling me not to take steroids but I thought I'd be different—the bad stuff wouldn't happen to me, etc, just as I'm sure every kid thinks. just as I'm sure you think. Lo and behold, it did happen, and I can confirm, it is NOT worth it.  
+&gt;I heard everyone telling me not to take steroids but *I thought I'd be different*—the bad stuff wouldn't happen to me, etc, just as I'm sure every kid thinks. just as I'm sure you think. Lo and behold, it did happen, and I can confirm, it is NOT worth it.  
 &gt;  
-&gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't... Just take their advice and wait until you're physically and emotionally matured and more experienced, you've stopped growing, your body and hormones have natural baselines, and your moods are consistent. ​  
+&gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't... Just take their advice and wait until you're physically and emotionally more matured and more experienced, you've stopped growing, your body and hormones have steady natural baselines, and your moods are consistent. ​  
 &gt;  
-&gt;Ironically, I'm about to hop back on again now... but this is because of ruined T levels, I really need help from medical professionals, etc. There's no way to know if the reason for my ED, my low levels, my other problems now is because of the reckless abandonment I treated the decision with way back then. Its too late for me already but its not too late for you. Really listen to coach u/Decatest. Don't even think about starting. There's so many other options out there.
+&gt;Ironically, I'm about to hop back on again now... but this is because of my totally trashed hormone levels. I now require lifelong medical intervention to survive. My T levels are trashed. My thyroid hormones are trashed. There's no way to know if the reason for my ED, my low levels, my many other problems now is because of the reckless abandonment I treated the issue with way back then. Its already way too late for me but its not too late for you. **Listen to the Coach** u/Decatest. Hes good as they come. He'll tell what you're thinking and what you need two - three steps down the road without you even knowing it yet. Don't even think about starting. There's so many other options out there. Take the alternatives follow their advice and wait. 
 
 **🔞 Testimonial 3**
 
 &gt; Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big. but now im really fucked.
 &gt;  
-&gt; Being big that was all in my mind and i was saying to myself ahh nothing will happen to me, but my 3rd and 4th cycle i was really supressed and still recovering even after finishing the pct 1 month ago. Now it has been 1 week after the bloodwork. i haven't ever used 19 nors and my cycles were mild and simple. I used winstrol, anavar, dianabol and test e low dosages and did pct on every cycle except the first one but i recovered good until the 3rd.  
+&gt; Being BIG that was all in my mind and i was saying to myself ahh nothing will happen to me, but my 3rd and 4th cycle i was really suppressed and still recovering even after finishing the pct over a month ago. Now it has been 1 week after the bloodwork. i haven't ever used 19 nors and my cycles were mild and simple. I used winstrol, anavar, dianabol and test e low dosages and did pct on every cycle except the first one but i recovered good until the 3rd.  
 &gt;  
-&gt; So now i have low libido and ED. im planing to do another pct and stop steroids for good and see if i will recover, maybe i won' t, maybe i will.. time will tell.  
+&gt; So now i have low libido and ED. im planing to do another pct and stop steroids for good and see if i will recover, maybe i won' t get better maybe i will.. only time will tell.  
 &gt;  
 &gt; Btw this is not just for me i want the other youngsters that plan to use steroids to read it and i advise you not to start when you are young. I was young and i thought i knew everything and nothing will happen to me. There was only one thing on my mind and that was to get big, but after some time i realized that doesn't matter and my goals faded away over some time and yeah.. .
 &gt;  
@@ -406,10 +412,6 @@ It's not pretty. Don't think it can't happen to you.
 &gt; We don't even know what we are gonna be when we grow up, maybe that dream will fade away like mine did and you gonna regret what you have done to yourself for the rest of your life. I know because i was thinking that way too.  
 &gt;  
 &gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids untswil you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your development is really complete like they suggest.
-
-## What's safe?
-
-For hypogonadal patients *under the age of 25* the standard of treatment from endocrinologists is either (**a**) *hCG* or (**b**) *Clomid monotherapy*. Each option has its own unique side effects, relative merits and disadvantages—but either of the two are far safer and nowhere near matching the debilitating negative side effects that can arise as a consequence of AAS mismanagement or abuse.
 
 — *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 
