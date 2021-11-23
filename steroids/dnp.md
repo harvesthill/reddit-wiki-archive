@@ -52,7 +52,7 @@ A Critical Survey of Clinical Results](http://www.ncbi.nlm.nih.gov/pmc/articles/
 
 Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 200mg/day cycles from advanced users lasting ~30 days. This can be considered a cruise dose. The blast dose of 600mg+ is usually run for 14-21 days. 
 
-**A note on safety: The longer DNP is run, the higher %potential for adverse effects.** 
+**A note on safety: The higher dose and longer time that DNP is run, the higher the potential for adverse effects.** 
 
 *Some users have been known to run upwards of 1g/day. This is not only overkill but it is also extremely dangerous, as 1g/day moving into stable blood levels can put you either just below, at, or above the overdose limit depending on your weight. Most users who will dose 1g, will do so as either a frontload or once a week as an added boost.* **Again, this is not necessary or recommended.**
 
@@ -78,29 +78,29 @@ Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 20
 
 ***
 
-##**Side effects (Mild):**
+##Side effects (Mild)
 
-- Intense feelings of heat [Unavoidable]
+- Intense feelings of heat [Dose dependent]
 
-- Profuse sweating [Unavoidable]
+-  Perspiration [Dose dependent]
 
 - Lethargy [Simple sugars (fructose) will mitigate]
 
-- Insomnia [Dose/user dependent - do not mistake for heat/sweating causing sleep disturbance]
+- Insomnia [Dose/user dependent]
 
 - Shortness of breath [Dose/user dependent] 
 
-- Headache [Dose/user dependent] 
+- Headache [Infrequent, user dependent] 
 
-- Dry/Sore throat [Dose/user dependent] 
+- Dry/Sore throat [Infrequent, user dependent] 
 
-- Yellowing of the eyes [Dose/user dependent - NOT A RESULT OF LIVER DAMAGE] 
+- Yellowing of the eyes [Dose dependent, NOT A RESULT OF LIVER DAMAGE] 
 
-- Yellowing of semen/urine/sweat [Dose/user dependent - often cured by increase in water intake] 
+- Yellowing of semen/urine/sweat [Dose dependent, often cured by increase in water intake] 
 
-##Side effects (Harsh)
+##Side effects (Uncommon)
 
-These side effects are incredibly rare - and are ALL a result of extremely long cycles, overdose, or gender + age specific. 
+These side effects are INCREDIBLY RARE - and are ALL a result of OVERDOSE, EXTREMELY LONG CYCLES, gender and age specific. 
 
 - Cataracts [In a trial of 100,000 people, less than ~0.1% developed cataracts. These were predominantly women aged ~45, who used DNP for ~11 months, and developed cataracts ~7-15 months after use. In the VERY RARE cases of males ~22-25 recently developing cataracts, they ran DNP at 1g+ daily and for extended periods of time]
 
