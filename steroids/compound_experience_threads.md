@@ -116,6 +116,7 @@ Compound | 1st Thread | 2nd Thread
 
 Topic | 1st Thread | 2nd Thread 
 :--------------|:--------------:|:-------------:
+**Healing Compounds** | [1st Thread](https://www.reddit.com/r/steroids/comments/r09d1b/compounds_healing_compounds/)
 **Appetite Increasing Compounds** | [1st Thread](https://www.reddit.com/r/steroids/comments/7auhwg/compound_experience_saturday_appetite_increasing/)
 **Athletic Performance Stacks** | [1st Thread](https://www.reddit.com/r/steroids/comments/a4cv6j/compound_experience_saturday_athletic_performance/)
 **Bulking Cycles** | [1st Thread](https://www.reddit.com/r/steroids/comments/74vgkv/compound_experience_thread_bulking_cycles/)
