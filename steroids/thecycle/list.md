@@ -3,8 +3,6 @@ Typical AAS usage comes in pre-planned lengths of time that a person is taking a
 
 There are several different items that need to be understood to execute a good cycle.
 
-A decent summary post in [That Pastebin](http://pastebin.com/LkwiVjJc).
-
 ##Pre-cycle Check list
 The following check list has been created to help new users ensure that all bases are covered.
 
