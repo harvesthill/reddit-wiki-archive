@@ -1,6 +1,7 @@
 #The Community
 
-##Community Goals
+##Community Goals 
+
 The following goals have been adopted by the community.
 
 1. Maintain user safety as a primary concern in all discussions.
@@ -65,7 +66,7 @@ The following attributes usually describe *low-quality content*.
 
 The following rules apply to this community; disregarding them will result in a ban.  All of the standard [rules of Reddit](http://www.reddit.com/rules) apply here.
 
-##1. No Personal Information / No Doxxing / No Involuntary Pornography.
+# 1. No Personal Information / No Doxxing / No Involuntary Pornography.
 
 You are free to post your own personal information, however, [you cannot post other people's personal information.](http://www.reddit.com/wiki/faq#wiki_is_posting_personal_information_ok.3F) In addition to a ban from /r/steroids, it will be reported to Reddit admins and may result in a [shadowban.](http://www.urbandictionary.com/define.php?term=shadowban)
 
@@ -73,121 +74,147 @@ Reddit has updated their Terms of Service. By using Reddit, [you agree to follow
 
 **Therefore, it is prohibited for users of this subreddit to post any nude or sexual image of any person other than themselves or professional models.** 
 
-##2. NO SOURCE TALK / NO MONETIZATION
+# 2. No Source Talk / No Monetization 
 
-The spirit of the "no source talk" rule is to promote goal #5 of the community: 
+The spirit of the Rule is to promote Goal #5 of the community:
 
-&gt; 5.) Keep the environment free from ***any monetary influences***.
+*Keep the environment free from any monetary influences.*  
 
-###**PREAMBLE**  
+&gt;**Don't ask WHERE** *to get it.*  
+&gt;  
+&gt;**Don't ask HOW** *to get it.*  
+&gt;  
+&gt;**Don't ask for RECOMMENDED labs, brands or suppliers.**  
+&gt;
+&gt;**Don't discuss BRANDS, COMPANIES, PRODUCTS** *of any sort.*
+&gt;
+&gt; WHETHER LEGAL OR NOT.
 
-No MONETIZATION. This is a forum to discuss AAS/PEDs. This is *not* a review forum to discuss commercial products! **DO NOT DISCUSS COMMERCIAL PRODUCTS OF ANY KIND**. 
+###🚫 **No Source Talk**
 
-If you are talking about **ANY COMPANY**, **ANY SOURCE**, **ANY SPECIFIC BRAND**, **ANY DOCTOR**, **ANY CLINIC**, **ANY OTHER FORUM**, or **ANY OTHER SUBREDDIT THAT ALLOWS SOURCE TALK**, regardless of legality in your area, it will be considered source talk. 
+***No Source Talk.*** Everything listed below includes (**BUT IS NOT LIMITED TO**): AAS (*gear*), Ancillaries (AI, SERMs, *etc.*), hGH (*those not listed in the Wiki or the rules*), Insulin, DNP, PEDs (*Performance Enhancing Drugs*), Drugs (*prescription or otherwise*), Research Chemicals, Pro-hormones, SARMs, Peptides … or ANY PRODUCT that could be mistaken as legit of any of the previous listed. This includes “steroid alternatives,” “Testosterone Boosters,” or over-the-counter  “PCT” brands.
 
-**THERE ARE NO WARNINGS AND YOU WILL BE BANNED.** 
+Chances are … if you are talking about ANY COMPANY, ANY SOURCE, ANY SPECIFIC BRAND, ANY OTHER FORUM. OR SUBREDDIT THAT ALLOWS SOURCE TALK—REGARDLESS OF LEGALITY in your area, this will be considered under NO SOURCE TALK.
 
-Everything listed below includes **(BUT NOT LIMITED TO)**: AAS (gear), TRT, TRT Clinics, Ancillaries (AI, SERMs, etc.), hGH [(not listed here)](https://www.reddit.com/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list), Insulin, DNP, Performance Enhancing Drugs, Preworkouts, Prescription Drugs, Over-the-Counter Drugs, Research Chemicals, Prohormones, SARMs, Peptides, OR **ANY** product similar to or that could be mistaken as legit of any of the previous listed—this includes "herbal steroids," "steroid alternatives", "test boosters", or over-the-counter fake AAS or "PCT" brands.  
+###🚫 **No Monetization**
 
-Please read over the following carefully and [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) if you have any questions.
+***No Monetization***. This part of rule #2 deals with monetary influences such as advertising, sales and marketing, brand discussion, lobbying, *etc*. and is broader than the first part of *No Source Talk* as it includes practically **ANY BRAND OR PRODUCT YOU CAN THINK OF**. This is a forum to discuss AAS/PEDs. This is *not* a review forum to discuss commercial products! **DO NOT DISCUSS COMMERCIAL PRODUCTS OF ANY KIND**. 
 
-* Do not attempt to gain any monetary advantage, in any way, through participation in this community.
+**IF IT'S FOR SALE IT'S VERBOTEN**
 
-* If steroids, ancillaries, etc.  are  available Over-The-Counter (OTC) in your country, that's fine to talk about. **BUT DO NOT EVER** discuss any specific pharmacy or source.
+**There are no warnings and you will be banned**.
 
-* Do not publicly or privately ask for sources, brands, etc., ask for private messages for sources, brands, info, etc. or offer to PM source, brand, info, etc.
+This board is altogether source, brand, and product-free to avoid ANY KIND of monetary influence or incentive to manipulate information. If money can be made, competition and bias will soon follow. It doesn't matter if you're selling Tren or grandma's chocolate chip cookies. *Someone else's grandma* is a **real cutthroat** and will **cut you down** to get ahead.
 
-* Do not publicly or privately (PM) mention or request for information on DOCTORS OR TRT CLINICS. 
+### Why No Sources?
 
-* Do not mention sources / brands / etc. that are private or not even around anymore (*i.e.* "busted", quit, etc.).     
+**Reddit's Network Administrators** shut down our sister sub, r/SST (**Steroid Source Talk**), and banned the Moderators for *Enabling Access to Illegal Compounds.*
 
-* Do not hint or make mention of any sources on any forms of social media. 
+The pencil-pushing bureaucrats have it out for us, too. They're biased, they're locked and loaded, and they're ready to pull the trigger due to the controversial subject nature and content on our sub. *Most subreddits dealing with controlled substances get shut down rather quickly*, so we're skating on thin ice as it is.
 
-* Do not post pictures with source or brand information visible.
+*As the single largest AAS forum in the English-speaking world*, our leadership prominence makes us an even bigger target as we grow larger and more influential. We get attention they'd rather not see—from politicians, from lawmakers, from law enforcement, and from every Karen out in the Wild West—so they'd rather see us *disappeared*.
 
-* Do not offer to any other user anything that falls under the Preamble — even if you're sending it for free.
+For that reason, **Rule 2**: ***No Source Talk*** is our ***strictest guideline***—**with no exceptions**. Without it, we'd be quickly shut down by Reddit administration … just like r/SST. We'd like to think that we provide a valuable public service through *education* and *harm reduction*—and we'd like to stick around for a while, so we take the rule quite seriously.
 
-* Do not mention Source Aggregators.  This includes other sites/subs that allow source talk, or even your personal comment/submissions history.
+If you're looking for vendor recommendations, practically *every other AAS forum* on the Internet allows source talk, has vendor reviews, commercial sponsors, *etc*. r/steroids is essentially the *only* exception to the rule, because **we don't own Reddit**. We're still just a simple subreddit, so we have to play by *their* rules.
 
-* Do not post **ANY** brand names, this includes blends. *List the compounds that make up the blend instead*. For pro-hormones / designer steroids use the "generic" name or Chemical Structure, if necessary (Epistane / 2a,3a-epithio-17a-methyl-5a-androstan-17b-ol, Msten, DMZ, etc). It doesn’t matter if they’re legal. The [hGH brand names in our list](/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list) are one of the only exceptions to this. If your brand isn't listed there, just refer to it as "generic HGH". The only other exception being any **FDA-approved medication**, e.g. *Bayer Testoviron* is okay.
+### Reddit Terms of Service
 
-* Do not link or discuss **ANY** site/sub that allows reviews of products (any that would fall under the preamble) — whether legal or not. 
+You indicated consent to the [Reddit Terms of Service (TOS)](https://www.redditinc.com/policies/user-agreement-october-15-2020) when you signed up for an account. This mandates a number of strict limitations and behavioral guidelines that curtail your activities while using the service. We'd strongly encourage you to familiarize yourself with Reddit's sitewide [Terms Of Service](https://www.redditinc.com/policies/user-agreement-october-15-2020), the r/steroids [Rules](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf#wiki_community_rules), the r/steroids [FAQ](https://www.reddit.com/r/steroids/comments/jscjwc/steroids_faq/) and the r/steroids [Wiki](https://www.reddit.com/r/steroids/wiki). *You'll find the answers to most introductory questions there*, and it can save you a lot of time, trouble, and expense. Familiarize yourself with the material so we don't have to.
 
-* Do not link or discuss **ANY** site that has sources and/or a product list and/or even discusses sources. This includes things that could be mistaken as legitimate products.
+Please read over the following carefully and *message the moderators* if you have any questions.
 
-* Do not link or discuss **ANY** site that has advertising for sources. This includes things that could be mistaken as legitimate products.
+* If steroids, ancillaries, *etc.* are available Over-the-Counter (OTC) in your country; that's fine to talk about, but DO NOT DISCUSS any SPECIFIC pharmacy or source.
+* Do **not** PUBLICLY or PRIVATELY: OFFER or ASK for sources/brands/*etc.*, OFFER or ASK to PM source/brands/*etc.*, or OFFER or ASK any of the aforementioned via Private Messaging.
+* Do **not** MENTION SOURCES/BRANDS/*etc*. by name, abbreviation, or in any way that makes the source/brand/etc. identifiable to other users
+* Do **not** mention sources/brands/*etc*. that are *private* … those that are “not even around anymore” (*i.e* “busted,” “quit,” *etc.*).
+* Do **not** hint or make mention of any sources on any other forms of social media.
+* Do **not** post pictures with source or brand information visible.
+* Do **not** offer to any other user anything that falls under the Preamble, even if you're sending it for free.
+* Do **not** mention source aggregators. This includes other sites/subs that allow source talk, or even your personal comment/submissions history.
+* Do **not** post ANY brand names, this includes blends (list the compounds that make up the blend instead). For pro-hormones / designer steroids use the "generic" name or Chemical Structure, if necessary (Epistane / 2a,3a-epithio-17a-methyl-5a-androstan-17b-ol, Msten, DMZ, *etc*). It doesn’t matter if they’re legal.
+* The **hGH brand names** in our list are one of the *only exceptions* to this. If your brand isn't listed there just refer to it as “*generic hGH*.” The only other exception being **any FDA-approved medication**, **blood work, homebrew, or HPLC testing**. These fall under harm reduction practices.
+* Do **not** link or discuss ANY site/sub that allows reviews of products—***legal or illegal***, anything that would fall under the preamble—*legal or not*.
+* Do **not** link or discuss ANY site that has sources and/or a product list and/or even discusses sources. This includes things that could be mistaken as legit products.
+* Do **not** link or discuss ANY site that has ads for sources. This includes things that could be mistaken as legit products.
+* Do **not** link or discuss “*research sites*.”
+* Do **not** link or discuss ANY kind of media personalities (*i.e.* ***YouTube***, *etc*.) who sell, recommend, or promote any products—*legal or not*.
+* Do **not** have a username that is similar to a source, source talk, a product, or indicates that you are a source. Also a reminder to not have a discriminatory, insulting, offensive or disparaging user name that would be forbidden in Rule 4 or under the **Reddit Terms of Service**.
+* 🚫🎣 Do **not** make comments that could be taken as “fishing” for a source. This includes making posts or comments that mention your inability to find or obtain anything that falls under The Preamble above: “I'm having trouble finding \[good/inexpensive/*etc*.\] Primo” or “It's tough to get Tren,” “My source just stopped carrying,” or “It seems impossible to find MENT.”
+* Do **not** HINT or OFFER to source. Even if you just source to locals, *make no mention* of it.
+* Do **not** suggest or refer anyone to ANY doctor or clinic that could potentially help someone obtain a source, even if it's for a legitimate purpose such as TRT.
+* **AGAIN**: Do not \[*publicly or privately*\] ASK or OFFER ***To*** PM, ASK or OFFER ***For*** PM, ***or PM*** **ANYTHING** related to sources or source talk.
+* Do **not** REPLY to Source Talk, other than to warn the poster of the incoming ban.
 
-* Do not link or discuss “research sites.”  
+**Ask yourself this**:
 
-* Do not link or discuss **ANY** kind of media personalities (*i.e.* YouTube, etc.) who sell, recommend, or promote any of the products in The Preamble — whether legal or not.
+With one or two mouse clicks and/or Google searches, could someone find a source from this comment, post or question?
 
-* Do not choose a username that is similar to a source/source talk, or indicates that you are or can source.
+* Anything other than an absolute ***NO*** will result in a ban.
 
-* Do not make comments that could be taken as “*fishing*” for a source. This includes making posts or comments mentioning how hard it is to find something or your inability to obtain any of the aforementioned from **The Preamble** above.
+###**F.A.Q.**
 
-* Do not *hint*, *tease*, or *offer* to source. Even if you just source to locals, make no mention of it.
+**Q: Why don't you allow source talk?**
 
-* Do not suggest or refer anyone to **ANY** doctor/clinic that could potentially help someone obtain a source — TRT, *etc*., even if it's for a legitimate purpose.
+**A**: In addition to the information listed in the wiki, this board is source free so as to remain well clear of any kind of *monetary incentive to manipulate information*. If money can be made by giving out bad information, bad information will follow. Prohibiting source talk also slows down new users and forces more research. We want to make it clear to users that it is not to be taken lightly.
 
-* **AGAIN**, Do not PM, do not ask for PM, do not offer to PM **ANY** of the aforementioned!
+**Q: Why can't we notify members of “bad” sources?**
 
-* **Do not reply to source talk, other than to warn the poster of the incoming ban.**   
+**A**: Because we cannot verify that the source compounds are bad. Some people may be misusing or mishandling compounds. **Some may be lying to harm a competitor**. Jumping to conclusions should be avoided.
 
-Ask yourself this:
-  
-**With one or two Google searches, could someone find a source from this post?**  
-Anything other than an absolute NO will result in a ban.
+**A**: We would, in all fairness, have to allow the source to defend themselves. This leads to a proliferation of sources in the sub, as well as profiteering, confusion and drama.
 
-####**FAQ**
+**Q: Why can't we post commonly-known brand names?**
 
-**Q: Why don't you allow source talk?  
-A:** In addition to the information listed in the wiki, this board is source free so as to remain well clear of any kind of monetary incentive to manipulate information. If money can be made by giving out bad information, bad information will follow. Prohibiting source talk also slows down new users and forces more research. We want to make it clear to users that it is not to be taken lightly.
+**A**: Brand names allow quick access to a Source. We do not differentiate between what is a Pharma brand name and what is a UGL brand name for the same reason. This includes blends (*preworkout or not*), prohormones, and designer steroids. Please use the compound's chemical name, generic name, or chemical structure, if necessary. For example: Tren No Ester, Test No Ester, Epistane, or 2a,3a-epithio-17a-methyl-5a-androstan-17b-ol, Sdrol, Msten, DMZ, Testosterone Undecanoate.
 
-**Q: Why can't we notify members of "bad" sources?  
-A:** Because we cannot verify that the source compounds are bad.  Some people may be mis-using or mis-handling compounds.  Jumping to conclusions should be avoided.
+**A**: hGH brand names are one of the ***only exceptions*** to this rule. The ***only other exception*** being any FDA-approved medications such as Sustanon, Viagra or Testoviron Depot. These are considered ubiquitous, and they are approved for discussion because of the strict FDA regulations against advertising that pharmaceutical companies are mandated to follow.
 
-**A:** We would, in all fairness, have to allow the source to defend themselves.  This leads to a proliferation of sources in the sub, profiteering and drama.
+**A**: This leads to shill-type advertising posts, “Is my \[brand\] Tren a good deal at this price? 10mL for $60!” With a quick search on the brand name, one can readily locate the source with the sale, and purchase products from the source.
 
-**Q**: Why can't we post commonly known brand names?  
-**A**: Brand names allow quick access to a source.  We do not differentiate between what is a Pharma brand name and what is a UGL brand name for the same reason. This includes blends (pre workout or not), pro-hormones, and designer steroids. Please use the compound's chemical name ("generic name") or chemical structure, if necessary. (eg: Tren No Ester, Test No Ester, Epistane / 2a,3a-epithio-17a-methyl-5a-androstan-17b-ol, Sdrol, Msten, DMZ, Testosterone Undecanoate.)  
+**A**: For more “conventional” products, **this is not a review board**. It's r/steroids, not some place to discuss the latest sports cars, tennis shoes, weightlifter fashion (r/fitness, r/bodybuilding), paid workout programs such as Meadows, GVT, *etc* (these are also better suited for r/fitness, r/weightlifting, or r/bodybuilding).
 
-**A:** [HGH brand names](/r/steroids/wiki/growth_hormone#wiki_hgh_brands_list) are one of the only exceptions to this rule. The other only other exception being any FDA approved medication. They are considered ubiquitous and fine to mention.  
+**Q: What if the Source, brand, or lab is private, or even no longer around?**
 
-**A:** This leads to shill-type advertising posts, "Is my brand of Tren a good deal? 10ml @ 100mg / mL for $60 per!"  Quick search on brand name, find the source with the sale, and purchase.
+**A**: ***No***. You still may not discuss the source in any way, shape or form.
 
-**Q:** What if the source/brand/lab is private or even no longer around?  
-**A:** No, you still may not discuss the source in any shape or form.
+**Q: 🚫🎣 I see that we can't make comments “fishing” for sources. What does that mean?**
 
-**Q:** I see that we can't make comments "*fishing*" for sources. What the heck does that mean?  
+**A**: The expression (“**fishing**”) is mostly used by people trying to “fish *for compliments*.” Think of a hot chick saying “*I'm so ugly*” or “*I'm so fat*” and the responses they get that tell them how hot they are. They went into it with the goal of a *specific response*.
 
-**A:** The expression ("fishing") is mostly used by people trying to "fish" for compliments. Think a hot chick saying "I'm so ugly" or "I'm so fat" and the responses they get that tell them how hot they are or whatever, they went into it with the goal of a specific response. "Fishing" for sources is doing things like saying you don't know where to find things in a way that makes it sound as though you are inviting people to tell you -- This is common with people who are familiar enough with the rules to know they can't outright ask for sources / brands / etc. so they try to do it in ways that are more vague. 
+“Fishing” for sources is doing things like saying you don't know where to find things in a way that makes it sound as though you are **inviting people** to tell you. This is common with people who are familiar enough with the rules to know they can't outright ask for sources, brands, *etc*. so they try to do it in ways that are more vague.
 
-Some examples of "fishing" for sources is saying things like: "I don't even know where to start finding xxx" or "I'm having trouble finding xxx" or "I really wish I could get xxx", because presumably they're hoping someone will answer that question for them. It is best to just refrain from mentioning your inability to source something. We take it seriously when something looks like it could possibly be fishing—even if mild.
+Some examples of fishing include saying things like: *“I don't even know where to start finding real Testosterone”* or “*I'm having trouble finding* *good Primo”* or “*I really wish I could get* *MENT*,” because they hope someone will volunteer the information without having to officially ask the question. We take it seriously when something even *looks like* it could **possibly** be fishing … *even if mildly hinting*.
 
 **Q:** Will the mods help me find a source?  
 
-**A:** Mods will not give out source information.  Do not bother PM'ing. 
+**A:** Mods will not give out source information.  Do not bother PM'ing. Sending a PM to the Mods or the Modmail to request sources is ***the*** *fastest way to get a ban*.
 
-**Q:** What is the policy for PMs?  
+**Q:** What is the policy for Private Messages / Direct Messages?  
 
-**A:** *See Below*
+**A:** *See Below* …
 
-####**PM Moderation**
+###**Moderation of Private Messages**
 
 Simply put, **there is no moderation of PMs.**  
 
-But beware other users can report you and if they do so, **you WILL be banned.**
+BUT! other users can report you for sourcing and if they do so, you WILL be banned from r/steroids.
 
-Even if a person is banned from /r/steroids, they can still PM whomever they like. Block users who you do not want to PM you. If you are feeling harassed, report the user (and alts) to Reddit admins. 
+Even if a person is banned from r/steroids, they're still able to private message others. There's no way for the r/steroids mods to stop this aside from messaging the Reddit administrators to ban the account. The fastest solution is to block users who you do not want to PM you. If you are feeling harassed, report the user (and any alt accounts) to Reddit admins via [www.reddit.com/report](http://www.reddit.com/report).  
 
-**Q:** When do I PM the mods of /r/steroids?   
-**A:** If you are receiving unsolicited offers to purchase gear, please report the user to the mods with a screen shot. 
+**Q:** When do I PM the Moderators of r/steroids?
+  
+**A:** If you are receiving unsolicited offers to purchase gear, please report the user to the mods or Modmail with a screenshot, and then to Reddit admins via [www.reddit.com/report](http://www.reddit.com/report).
 
-Reddit does not take lightly to users soliciting in this way and the user will be removed and possibly IP banned. If you feel harassed or need help / advice about how to proceed.  
+Reddit does not take lightly to users soliciting in this way. The user will be removed and possibly IP banned. 
 
-If you are private messaged by another user asking for sources or claiming to be a source, please take a screenshot of the PM and use https://imgur.com/ (or any other anonymous photo sharing website of your preference) to send the mods the screenshot.
+Message the mods if you feel harassed or need help or advice about how to proceed.  
 
-[**PLEASE CLICK HERE TO MESSAGE THE MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=steroids&amp;utm_content=t5_2rifm)
+If you are private messaged by another user asking for sources or claiming to be a source, please take a screenshot of the PM and use https://imgur.com/ (or any other anonymous photo sharing website of your preference) to send the Moderators and Reddit Admins a screenshot.
+
+[**PLEASE CLICK HERE TO MESSAGE THE R/STEROIDS MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=steroids&amp;utm_content=t5_2rifm)
+
+[**PLEASE CLICK HERE TO MESSAGE THE REDDIT ADMINISTRATORS**](http://www.reddit.com/report)
 
 ##3. Use Caution / Disclose Guesses / Cite Information
 
