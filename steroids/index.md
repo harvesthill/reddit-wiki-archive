@@ -373,19 +373,19 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 * *How about being unable to use the bathroom due to the excruciating pain involved in the process?* 
 
-It's not pretty. Don't think it can't happen to you.
+It's not pretty. Don't think it can't happen to you. 
 
-## Testimonials
+##Testimonials
 
 *Here's a few firsthand accounts from other young guys who started young, screwed up big time, and now regret it*.
 
-**🔞 Testimonial 1**
+###**🔞 Testimonial 1**
 
 &gt; u/ghettotuesday: *I started young*. I did SARMs at 18, and ended up doing steroids at 19. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a **very negative way**. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy as fuck.
 &gt;
 &gt; It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest life regrets is doing a cycle at 19 before I was ready. Definitely fucked some brain development. Definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
 
-**🔞 Testimonial 2**
+###**🔞 Testimonial 2**
 
 &gt;*I wish I'd listened* to everyone all over the internet that shouts that **No matter what, DON'T take them if you're young**. I did my first cycle at age 17. I'd been training for 4.5 years by this point, and while it wasn't obvious to me back then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and I couldn't even see it. All the growing health issues are the biggest kicker.  
 &gt;  
@@ -395,9 +395,9 @@ It's not pretty. Don't think it can't happen to you.
 &gt;  
 &gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't... Just take their advice and wait until you're physically and emotionally more matured and more experienced, you've stopped growing, your body and hormones have steady natural baselines, and your moods are consistent. ​  
 &gt;  
-&gt;Ironically, I'm about to hop back on again now... but this is because of my totally trashed hormone levels. I now require lifelong medical intervention to survive. My T levels are trashed. My thyroid hormones are trashed. There's no way to know if the reason for my ED, my low levels, my many other problems now is because of the reckless abandonment I treated the issue with way back then. Its already way too late for me but its not too late for you. **Listen to the Coach** u/Decatest. Hes good as they come. He'll tell what you're thinking and what you need two - three steps down the road without you even knowing it yet. Don't even think about starting. There's so many other options out there. Take the alternatives follow their advice and wait. 
+&gt;Ironically, I'm about to hop back on again now... but this is because of my totally trashed hormone levels. I now require lifelong medical intervention to survive. My T levels are trashed. My thyroid hormones are trashed. There's no way to know if the reason for my ED, my low levels, my many other problems now is because of the reckless abandonment I treated the issue with way back then. Its already way too late for me but its not too late for you. *Listen to Coach* u/Decatest. Hes good as they come. He'll tell what you're thinking and what you need two - three steps down the road without you even knowing it yet. Don't even think about starting. There's so many other options out there. Take the alternatives follow their advice and wait. 
 
-**🔞 Testimonial 3**
+###**🔞 Testimonial 3**
 
 &gt; Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big. but now im really fucked.
 &gt;  
@@ -412,6 +412,43 @@ It's not pretty. Don't think it can't happen to you.
 &gt; We don't even know what we are gonna be when we grow up, maybe that dream will fade away like mine did and you gonna regret what you have done to yourself for the rest of your life. I know because i was thinking that way too.  
 &gt;  
 &gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids untswil you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your development is really complete like they suggest.
+
+###**🔞 Testimonial 4**
+
+&gt; I started around 19. It fucked up my test and now I’m on TRT at 26 and will be for I guess the rest of my life. Yeah it’s cool being big but I think if I could go back I probably wouldn’t do it at all. It’s just not as important as I thought it was back then.
+&gt;
+&gt; I started at Test E 200/week. I’m not sure there’s a guaranteed path to not fucking up your hormones permanently. I know it’s a lot coming from a stranger, but before I’d start anything I would do a little soul searching for why you want to be big. There are a lot of downsides if you end up having to do TRT forever.
+
+###**🔞 Testimonial 5**
+
+&gt; I started around ***19***. It fucked up my test and now I’m on TRT at 26 and will be for I guess the rest of my life. Yeah it’s cool being big but I think if I could go back I probably wouldn’t do it at all. It’s just not as important as I thought it was back then. Obviously this only applies if you don’t have low T to start with.
+
+###**🔞 Testimonial 6**
+
+&gt; I was put on oral test by a quack doctor at ***19*** and I was totally in because I wanted the benefits of Test. I got off because he was quack and expensive af, but did my first cycle of 400mg test at 21.
+&gt;
+&gt;I'm 34 now and I've stayed away from aas for years at a time, but am currently on and spent a few years since on AAS. My natural production is not great, and wasn't really great prior to starting, but if I could go back to 19 with any wisdom in me, I never would have started. I'd try to ride the body I have for what it is worth until it was failing me, either with really shit hormones or I was actually experiencing significant enough sides of aging to bother with TRT.
+&gt;
+&gt; One of the reasons I love this sub is so many users self-reflect. AAS fuck with your brain, and your well-being. They can make you feel better than you've ever imagined and leave you in a hole that is not easy to climb out of. I started back when there were a lot less people willing to self-reflect, and if I had no idea what it felt like to cycle I would be fine with that. I don't want to lie to you and tell you there's nothing great in steroid use, but for most I don't think the juice is worth the squeeze.
+If you decide to go ahead, wait until 25 like the wiki says. 
+&gt;
+&gt; Something that isn't brought up a ton here that I think deserves more discussion is what actually constitutes a great life. I think so much of a great life is intimacy. The ability to share your experiences and feel seen and heard. Also, to see and hear others. Its why so many users flock to r/steroids, because here we can experience that. When you use gear most people in real life cannot know about it, and even if they can know they can't understand. It serves as another barrier between you and other people that you have to keep hidden in order to be safe and/or respected. 
+&gt;
+&gt; I'm not suggesting what other people think should drive your decision, but I have found the more things like AAS I've added to my life the more difficult it becomes to really share aspects of my existence. Even though AAS isn't the main ingredient, it is part of so many experiences. 
+&gt;
+&gt; I'm lucky that I have a few friends that I can talk about this stuff with and now that I'm in my 30's hiding it matters less since I own a home. But dancing around hiding things from 21-24 with roommates sucked and probably created tensions the same way hiding an affair might. My guilt or discomfort was channeled into situations and there was no way for anyone else to understand or be prepared because I wasn't sharing the why with them. Just party, work out, look the best you can and have some fun with your friends.
+
+##MRI Scan for Tracking Development
+
+*Have a look at this research paper that tracks the adolescent brain through various phases of development.* 
+
+### [Maturation of the Adolescent Brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/) 
+
+&gt;Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
+&gt;  
+&gt;Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
+&gt;  
+&gt;In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
 
 — *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 

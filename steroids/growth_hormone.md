@@ -65,11 +65,15 @@ No type of post-cycle therapy is necessary when discontinuing growth hormone as 
 
 Although not necessary, some opt to use growth hormone peptides to help promote their release of natural growth hormone.
 
-##Side Effects/Risks
+##Side Effects and Risks 
 
-For the most part, human growth hormone is a relatively mild compound with little in the way of side effects when compared to anabolic steroids. However there are some that can occur. The most common side effects experienced by users are bloating and/or joint pain. The majority of users anecdotally report that any joint pain they experience most often ceases after a few weeks of administration of the drug^2 . 
+For the most part, human growth hormone is a relatively mild compound with little in the way of side effects when compared to anabolic steroids. 
 
-In addition, it is possible to experience such things are enlarged organs, carpal tunnel syndrome and acromegaly, which is a thickening of or abnormal growth of the bones^7 . For this reason it would be advisable for users that are in their mid to late 20s or younger to consult with a doctor if they are administering growth hormone. This is due to the fact that if the growth plates of a user are not yet fused, there is a potential for disproportionate bone growth. As well if there is a chance that a user has cancer or other tumours it is imperative that they ensure that they do not begin administering human growth hormone prior to getting medically cleared. This is due to the fact that growth hormone can help to accelerate the rate at which tumours will grow. 
+The most common side effects experienced by users are sleepiness, bloating and/or joint pain. hGH improves sleep quality by a large margin, but when first taking it, it's not uncommon to feel intermittent sleepiness throughout the day like you want to take a nap. 
+
+The majority of users anecdotally report that any joint pain they experience most often ceases after a few weeks of administration of the drug^2 . 
+
+In addition, at extreme high doses and long durations, it's possible to induce enlarged organs, carpal tunnel syndrome and acromegaly, which is a thickening of or abnormal growth of the bones^7 . Think of Andre the Giant. For this reason, it would be advisable for users that are in their mid-to-late 20's or younger to consult with a physician if they're planning on administering growth hormone. This is due to the fact that if the growth plates of a user aren't yet fused, there's  a potential for disproportionate bone growth. If there's a chance that a user has cancer or other tumours, it's imperative they ensure that they don't begin administering growth hormone prior to getting medically cleared. This is due to the fact that hGH can accelerate tumor growth rates.  
 
 Some users may also experience some other conditions related to use of growth hormone. Thyroid suppression, insulin resistance, and prostate growth are all possible side effects that could be experienced. There are various methods to help deal with these occurrences, ranging from the mild to the very aggressive. This profile will not go into great detail about these therapies, however it should be noted that most users are unlikely to have major difficulties with these side effects if their doses remain relatively moderate. 
 
@@ -78,6 +82,7 @@ Human growth hormone has also been shown to cause gynocomastia in some users. Th
 ##Does using HGH shut down natural HGH production?
 
 **Answer:** 
+
 &gt;The mechanism by which chronic exposure to hGH leads to tolerance, dependence, and a withdrawal syndrome is unclear and does not involve the suppression of hormone secretion. During the nadir of growth velocity, which follows the withdrawal of prolonged drug therapy, serum GH levels remain normal, as do serum IGF-I and IGF-binding protein-3 levels (4). Moreover, endogenous pulsatile secretion of GH resumes within days even after long-term hGH therapy (7).
 
 &gt;http://press.endocrine.org/doi/full/10.1210/jcem.87.8.8721
