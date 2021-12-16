@@ -12,24 +12,21 @@
 
 ***
 
-⚠️ **Disclaimer: Reading this entire profile is imperative to ensuring proper DNP administration.**
+⚠️ **Disclaimer: Reading this entire profile is imperative to ensuring proper administration. Always exercise caution. Safe &amp; side-free use is ENTIRELY POSSIBLE simply by following a few basic common sense precautions.**
 
 ##**What is DNP?**
 
-DNP is the most powerful compound available used to drop body fat. On a cycle of 250mg-600mg/day, the average user will lose 1lb+ of body fat a day. This is not without a price, as DNP side effects can be debilitating and DNP overdoses are guaranteed to kill the user. Researching DNP as thoroughly as possible is vital to ensuring maximum safety of use. 
-
-The NIH has a very good article on the history and risks of DNP here:
-[2,4-Dinitrophenol \(DNP\): A Weight Loss Agent with Significant Acute Toxicity and Risk of Death](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3550200/)
+DNP is the most powerful compound available for the reduction of body fat. On a cycle of 250–600mg/day, the average user will lose 1lb+ of body fat a day. This is not without a price, as DNP overdose may result in death. Researching DNP as thoroughly as possible is vital to ensuring maximum safety of use. 
 
 ##**How does DNP work?**
 
 DNP inhibits ATP production in cell mitochondria through uncoupling the metabolic pathway oxidative phosphorylation. This has two consequences which result in fat loss:
 
-- Instead of being converted into ATP, all consumed and stored macromolecules are converted into significant amounts of heat, which in turn raises body temperature and increases the bodies basal metabolic rate between 50%-75% depending on dose. 
+- Instead of being converted into ATP, all consumed and stored macromolecules are converted into significant amounts of heat, which in turn raises body temperature and increases the bodies basal metabolic rate between 50–75% depending on dose. 
 
-- When your ATP levels fall below the necessary range for your body to function properly, your body attempts to convert all stored glycogen and fat into ATP. Since the body cannot achieve this, the body burns from stored "energy reserves (fat)" for the entirety of time that you run DNP. 
+- When your ATP levels fall below the necessary range for your body to function properly, your body attempts to convert all stored glycogen and fat into ATP. Since the body cannot achieve this, the body burns from stored energy reserves (fat) for the entirety of time that you run DNP. 
 
-*While the raise in body temperature determines the effectiveness of DNP supplementation, it is also what is so dangerous about its use. An overdose of DNP* **will** *lead to fatal hyperthermia. The first cycle of DNP use will ultimately be the most vital to understanding the compound, how your body reacts to it and how to utilize it safely.*
+\* *An overdose of DNP* ***will*** *lead to fatal hyperthermia. This is COMPLETELY AVOIDABLE by following the basic precautions below. The first cycle of DNP use will ultimately be the most vital to understanding how your body reacts to the compound and how to utilize it safely.*
 
 ***
 
@@ -41,40 +38,41 @@ Begin use at ~200mg/day for 3-4 days.
 
 - After 4 days, continue 200mg/day for an additional 10-17 days.
 
-or
+**OR**
 
-- If you can handle the side effects, ramp up to 400mg/day for an additional 10 days.
+- If you don't experience significant side effects, you may feel free to ramp up to 400mg/day for an additional 10 days.
 
-When DNP was in common use, the dose was usually around 300 mg/day. There's a JAMA paper from 1934 on DNP that has details on dosages and cycle lengths. [Use of Dinitrophenol in Nutritional Disorders
-A Critical Survey of Clinical Results](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1558869/)
+When DNP was in common use, the dose was usually around 300 mg/day. A 1934 JAMA paper details doses and cycle lengths:
+
+* [Use of Dinitrophenol in Nutritional Disorders: A Critical Survey of Clinical Results](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1558869/)
 
 **Advanced Cycles:**
 
-Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 200mg/day cycles from advanced users lasting ~30 days. This can be considered a cruise dose. The blast dose of 600mg+ is usually run for 14-21 days. 
+Advanced DNP users can safely cycle on up to 800mg/day. Generally, cycles range from 200-800mg. We most often see 200mg/day cycles from advanced users lasting ~30 days. This can be considered a cruise dose. A blast dose of 600mg+ is usually run for 14-21 days. 
 
 **A note on safety: The higher dose and longer time that DNP is run, the higher the potential for adverse effects.** 
 
-*Some users have been known to run upwards of 1g/day. This is not only overkill but it is also extremely dangerous, as 1g/day moving into stable blood levels can put you either just below, at, or above the overdose limit depending on your weight. Most users who will dose 1g, will do so as either a frontload or once a week as an added boost.* **Again, this is not necessary or recommended.**
+\* *Users have been known to run upwards of* ***more than one gram per day*** *for extended periods. This is not only overkill but it is also extremely dangerous, as over 1g/day for extended periods of time can put you either just below, at, or above the overdose limit, depending on your weight. Most users who will dose 1 gram do so as either a frontload or once a week as an added boost.* ***Again, this is not necessary or recommended.***
 
-**[Click here - Graph of blood level accumulation based on dose/time](http://i.imgur.com/TUGgzjn.jpg)**
+**[Graph of blood level accumulation based on dose/time](http://i.imgur.com/TUGgzjn.jpg)**
 
 ***
 
 ##**Guidelines for use:** 
 
-- Do NOT use DNP in hot environments (Extended periods of time in the sun, use in a sauna, steam room, etc.) This can cause fatal hyperthermia.
+- Do NOT use DNP in hot environments. Extended periods of time in the sun, use in a sauna, steam room, *etc* can cause fatal hyperthermia.
 
-- Do NOT consume alcohol while on DNP (This is far more important than the dangers of consuming alcohol with oral steroids, as this relates to hyperthermia and not liver damage).
+- Do NOT consume alcohol while on DNP. This is far more important than the dangers of consuming alcohol with oral steroids, as this relates to hyperthermia, not liver damage. 
 
 - Do NOT take diuretics while using DNP. 
 
-- Drink 2-3 gallons of water or more a day.
+- Drink 2–3 gallons of water or more a day.
 
-- Discontinue use if your oral temperature rises above 103 - Continue use of a lower dose when temperature returns to normal.
+- Discontinue use if your oral temperature rises above 103 degrees. Continue use of a lower dose when temperature returns to normal.
 
 - Supplement with electrolytes
 
-- Optional: Supplement with Antioxidants (prevent free radical damage from fat oxidation) and Glycerol (may prevent muscle catabolism)  
+- Optional: Supplement with antioxidants to prevent free radical damage from fat oxidation and glycerol to prevent the potential for muscle catabolism. T3 may also be taken in small doses to maintain energy levels while on cycle. 
 
 ***
 
@@ -94,7 +92,7 @@ Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 20
 
 - Dry/Sore throat [Infrequent, user dependent] 
 
-- Yellowing of the eyes [Dose dependent, NOT A RESULT OF LIVER DAMAGE] 
+- Yellowing of the eyes [Dose dependent, often cured by increase in water intake, NOT A RESULT OF LIVER DAMAGE] 
 
 - Yellowing of semen/urine/sweat [Dose dependent, often cured by increase in water intake] 
 
@@ -102,37 +100,37 @@ Advanced DNP users can safely dose between 200mg-800mg/day. Generally, we see 20
 
 These side effects are INCREDIBLY RARE - and are ALL a result of OVERDOSE, EXTREMELY LONG CYCLES, gender and age specific. 
 
-- Cataracts [In a trial of 100,000 people, less than ~0.1% developed cataracts. These were predominantly women aged ~45, who used DNP for ~11 months, and developed cataracts ~7-15 months after use. In the VERY RARE cases of males ~22-25 recently developing cataracts, they ran DNP at 1g+ daily and for extended periods of time]
+- Cataracts [In a trial of 100,000 people, less than ~0.1% developed cataracts. These were predominantly women aged ~45, who used DNP for ~11 months, and developed cataracts ~7-15 months after use. In the VERY RARE cases of males ~22-25 recently developing cataracts, they ran DNP at 1g+ daily for extended periods of time]
 
-- Peripheral Neuropathy [This may first present as numbness. Symptoms include tingling, pain, itching, crawling, and pins and needles. Pain can become intense enough to require use of opioid (narcotic) drugs.] [See this post](https://www.reddit.com/r/steroids/comments/2ngfzi/psa_dnp_peripheral_neuropathy/) for a user's experience.
+- Peripheral Neuropathy [This may first present as numbness. Symptoms include tingling, pain, itching, crawling, and pins and needles. Pain can become intense enough to require use of opioid (narcotic) drugs.] [See this post](https://www.reddit.com/r/steroids/comments/2ngfzi/psa_dnp_peripheral_neuropathy/) for a user's experience. Dose and duration dependent. Preventable if you stop upon onset of symptoms. 
 
-- Death [Death is due to overdose resulting in fatal hperthermia - Completely avoidable by following the conservative dosing protocols discussed above]
+- Death [Death is due to overdose resulting in fatal hyperthermia - COMPLETELY AVOIDABLE by following the conservative dosing protocols discussed above]
 
 ***
 
 ##**Additional notes:** 
 
-- During the first 3-4 days of use, DNP will deplete your body of glycogen. The full range of DNP's side effects will NOT be observable until after this time frame. This is why ramping up for a first time use is necessary. 
+- During the first 3–4 days of use, DNP will deplete your body of glycogen. The full range of DNP's side effects will NOT be observable until after this time frame. This is why ramping up for a first time use is necessary. 
 
-- When your body lacks glycogen your muscles appear flat and small. DNP will also force your body to retain a LOT of water. These two consequences result in a physique opposite of the desired results from DNP use. THIS IS TEMPORARY - Your body will lose all water weight and replenish glycogen ~5 days after cycle. Until then, be aware that your appearance and weight will be deceiving.
+- When your body lacks glycogen your muscles appear flat and small. DNP will also force your body to retain a LOT of water. These two consequences result in a physique opposite of the desired results from DNP use. THIS IS TEMPORARY. Your body will lose all water weight and replenish glycogen ~5 days after cycle. Until then, be aware that your appearance and weight will be deceiving.
 
 - DNP is Yellow. DNP has been used as an incredibly strong yellow dye. This potential is what causes yellowing of the eyes and semen, among other fluids such as sweat and urine. This is nothing to be concerned about, and increases in water consumption often prevents this. 
 
 - If you take DNP and develop a rash or hives IMMEDIATELY discontinue use. A rash indicates allergy to DNP. The allergic reaction will subside without medical intervention - and there IS a protocol to overcoming the allergy, but I will not cover it here. 
 
-- It is not advised to exercise with any sort of high intensity while on DNP. 
+- It is not advised to do heavy exercise while on DNP. 
 
-- DNP may cause nausea/vomiting, generally cause by dosing on an empty stomach.
+- DNP may cause nausea if taken on an empty stomach. 
 
-- A good protocol for DNP use is before bed (on a single dose) or before bed and upon wake up (on multiple doses). 
+- A good protocol for DNP use is before bed (on a single dose) or before bed and upon waking (multiple doses). 
 
 - Split large doses equal hours apart if possible. 
 
-- Eating carbs while on DNP will cause your body to suffer a temporary heat wave - it is thought the carbs are being instantly burned away.  
+- Eating carbs while on DNP will cause your body to produce a temporary heat wave - it is thought the carbs are being instantly burned away.  
 
-- DNP comes it two forms: Crystal and Powder. It is generally believed that powder is more potent than crystal by a ratio of ~5:4
+- DNP comes in two forms: Crystal and Powder. It is generally believed that powder is more potent than crystal by a ratio of ~5:4
 
-- Your body cannot build a tolerance to DNP. This is both a positive and negative attribute. While you can take DNP at a single dose for as long as you want, this is also precisely the reason that a fatal overdose is cause for alarm. If overdosed, your body does not possess a single method of saving itself. 
+- Your body CANNOT BUILD A TOLERANCE to DNP. Don't listen to anyone saying otherwise. This is both a positive and negative attribute. While you can take DNP at a single dose for as long as you want, this is also precisely the reason that a fatal overdose is cause for alarm. If overdosed, your body does not possess a method for saving itself. 
 
 - DNP will cause your body to stop creating T3. At 200mg/day, this is usually seen around day 10. At 400mg-600mg/day, this can be seen as early as day 3. Supplementing with T3 is advisable.   
 
@@ -142,7 +140,7 @@ These side effects are INCREDIBLY RARE - and are ALL a result of OVERDOSE, EXTRE
 
 ***
 
-##**Novel Developments**
+##**New Developments**
 
 * *Science Magazine*, Yale University [Dinitrophenol: A Possible Comeback](https://blogs.sciencemag.org/pipeline/archives/2015/03/03/dinitrophenol_a_possible_comeback)
 
@@ -288,15 +286,17 @@ Low-dose DNP shows promise as treatment or preventative pro-health and pro-longe
 
 **Reddit**
 
+* [DNP Crowdsource Information Thread with links to several references and files](http://www.reddit.com/r/steroids/comments/22t945/crowdsource_dnp_24dinitrophenol/)
+
 * [DNP Compound Profile](https://www.reddit.com/r/steroids/comments/23vbp1/compound_profile_dnp/)
 
-* [DNP subreddit](https://www.reddit.com/r/DNP) at r/DNP
+* [DNP Subreddit](https://www.reddit.com/r/DNP) at r/DNP
 
-* [Compound Experience Thread 1](https://www.reddit.com/r/steroids/comments/8yxco9/compound_experience_saturday_24dinitrophenol_aka/)
+* [DNP Compound Experience Thread 1](https://www.reddit.com/r/steroids/comments/8yxco9/compound_experience_saturday_24dinitrophenol_aka/)
 
-* [Compound Experience Thread 2](https://www.reddit.com/r/steroids/comments/5dr6o3/compound_experience_saturday_dnp_24dinitrophenol/)
+* [DNP Compound Experience Thread 2](https://www.reddit.com/r/steroids/comments/5dr6o3/compound_experience_saturday_dnp_24dinitrophenol/)
 
-* [Compound Experience Thread 3](https://www.reddit.com/r/PEDs/comments/7ymmjc/compound_experience_thread_dnp_24dinitrophenol/)
+* [DNP Compound Experience Thread 3](https://www.reddit.com/r/PEDs/comments/7ymmjc/compound_experience_thread_dnp_24dinitrophenol/)
 
 * [DNP 18-Day Log with Pics ](https://www.reddit.com/r/steroids/comments/5zsmcd/18day_dnp_log_375mgday_pics_protocol_diet_and/)
 
@@ -312,27 +312,25 @@ Low-dose DNP shows promise as treatment or preventative pro-health and pro-longe
 
 * [Banned weight-loss drug could combat liver disease, diabetes](https://www.sciencemag.org/news/2015/02/banned-weight-loss-drug-could-combat-liver-disease-diabetes)
 
-* [Would you use it with a seal of approval?](https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00124/full)
+* [Would you use DNP with a seal of approval?](https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00124/full)
 
 &gt;“With advances in research, 2,4-DNP as a pharmaceutical drug in the future for treating **neurodegenerative diseases** and potentially for **weight loss** is not inconceivable.”
 
 ##Additional Links
 
-[DNP Explained](http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CDAQFjAA&amp;url=http%3A%2F%2Fforum.bodybuilding.com%2Fattachment.php%3Fattachmentid%3D198602%26d%3D1114719063&amp;ei=A5lIU93OL8mx0QX4poDYBQ&amp;usg=AFQjCNHGv-P24DU2CdpUmuT32VScQbi5-w&amp;sig2=QKXZ1prmCWquiE4ijzB6hA&amp;bvm=bv.64542518,d.d2k) - Courtesy of /u/HyperactiveGray
+* [DNP Explained](http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CDAQFjAA&amp;url=http%3A%2F%2Fforum.bodybuilding.com%2Fattachment.php%3Fattachmentid%3D198602%26d%3D1114719063&amp;ei=A5lIU93OL8mx0QX4poDYBQ&amp;usg=AFQjCNHGv-P24DU2CdpUmuT32VScQbi5-w&amp;sig2=QKXZ1prmCWquiE4ijzB6hA&amp;bvm=bv.64542518,d.d2k) - Courtesy of /u/HyperactiveGray
 
-[DNP In-depth Side effects/Health Risks](http://www.atsdr.cdc.gov/toxprofiles/tp64-c2.pdf) - Courtesy of /u/IthinkI_likeu
+* [DNP In-depth Side effects/Health Risks](http://www.atsdr.cdc.gov/toxprofiles/tp64-c2.pdf) - Courtesy of /u/IthinkI_likeu
 
-[DNP &amp; Cataracts](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760503/)
+* [DNP &amp; Cataracts](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760503/)
 
-[DNP discussed on Pubmed: Complete with additional references](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3550200/)
-
-[Use of Dinitrophenol in Nutritional Disorders: A Critical Survey of Clinical Results](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1558869/
+* [Use of Dinitrophenol in Nutritional Disorders: A Critical Survey of Clinical Results](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1558869/
 ), a 1934  paper from *American Journal of Public Health and the Nation's Health*.
 
-[Cataracts Following the Use of Dinitrophenol: A Summary of Thirty-Two Cases](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760503/), a 1936 paper from *California and Western Medicine*.
+* [Cataracts Following the Use of Dinitrophenol: A Summary of Thirty-Two Cases](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1760503/), a 1936 paper from *California and Western Medicine*.
 
-[THE USE OF 2:4-DINITROPHENOL AS A METABOLIC STIMULANT](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2444737/) Br Med J. Mar 24, 1934; 1(3820): 524–527.
+* [THE USE OF 2:4-DINITROPHENOL AS A METABOLIC STIMULANT](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2444737/) Br Med J. Mar 24, 1934; 1(3820): 524–527.
 
-[DNP at Wikipedia, Complete with additional references](http://en.wikipedia.org/wiki/2,4-Dinitrophenol)
+* [Wikipedia: DNP](http://en.wikipedia.org/wiki/2,4-Dinitrophenol)
 
-Everyone from the [Crowdsource Thread](http://www.reddit.com/r/steroids/comments/22t945/crowdsource_dnp_24dinitrophenol/)
+* [2,4-Dinitrophenol \(DNP\): A Weight Loss Agent with Significant Acute Toxicity and Risk of Death](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3550200/)
