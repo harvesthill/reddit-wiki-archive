@@ -99,6 +99,26 @@ This will result in *ever so-slightly* more stable bloods with Cypionate.
 
 [**Please See Our Esters Wiki Page: Here**](/r/steroids/wiki/compounds/esters)
 
+## WhEn DoEs tHe TeSt KiCk In?
+
+*Be patient*. It's a marathon, not a sprint. 
+
+###**Testosterone Peaks**
+
+Blood serum concentrations quickly rise to supraphysiological levels.
+
+* Testosterone *Enanthate* levels have been shown to peak [as soon as \~6-10 hours after injection](https://imgur.com/a/ECYhEXk).[**^(1)**](https://www.fertstert.org/article/S0015-0282\(16\)46108-X/pdf)
+
+* Testosterone *Cypionate* has been shown to have pharmacokinetics very similar to the pharmacokinetics of Enanthate, with peak serum concentrations occurring [shortly after injection](https://imgur.com/a/ECYhEXk).[**^(1)**](https://www.fertstert.org/article/S0015-0282\(16\)59237-1/pdf)
+
+* Just because your ***T*** levels are high doesn't mean you'll transform into *The Hulk* overnight. Enhanced protein synthesis is directed from the cell nucleus and is a long-term recursive metabolic process.
+
+* ***Testosterone Enanthate and Cypionate each take about 6 weeks to fully saturate***.
+
+* You probably will start noticing enhanced recovery and mild weight gain around ***Weeks 3***–***4***. 
+
+* You probably ***won’t notice much*** aside from greater recovery unless you had ***low T levels*** to begin with.
+
 ## Arimidex or Aromasin?
 
 ⚠️ ***Do not take AI preemptively***.
@@ -146,16 +166,6 @@ Estrogen (E₂) is highly anabolic, cardioprotective and neuroprotective, and es
 Crashed E₂ sides are far worse than the inverse, and estrogen should be proportionally high just as test, so long as sides don't get out of hand. 
 
 Gyno takes weeks to develop, and new gyno can effectively be taken care of with SERMS while continuing the cycle.
-
-####**Testosterone Peaks**
-
-Testosterone will peak shortly after your first injection. See below:
-
-* Testosterone Enanthate has been shown to peak as soon as ~6-10 hours after injection^([1](https://imgur.com/a/ECYhEXk)[2](https://www.fertstert.org/article/S0015-0282(16\)46108-X/pdf))
-
-* Testosterone Cypionate has been shown to have pharmacokinetics very similar to the pharmacokinetics of testosterone enanthate, with peak testosterone serum concentrations shortly occurring after injection.^[[1]](https://imgur.com/a/ECYhEXk)[[3]](https://www.fertstert.org/article/S0015-0282(16\)59237-1/pdf)
-
-With the above, it may indirectly answer another question we see a lot. “When does the Test kick in?” and to which the research shows your levels will rise very quick to supraphysiological levels. You will build upon levels with each shot. You probably will start noticing enhanced recovery and mild weight gain (depending on diet) around week 3-4. You probably won’t notice much outside of greater recovery unless you had low(er) ***T*** to begin with. 
 
 ####**Estradiol Rise**
 
