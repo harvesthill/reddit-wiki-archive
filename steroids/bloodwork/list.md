@@ -146,7 +146,7 @@ There are several providers in the USA to choose from.
 
 ## Australia, New Zealand 
 
-[Bloodworks AU](http://www.bloodworks.com.au/) - Regardless of whether you get your bloods done by your local doctor or by an online service, you can get expert interpretation of blood tests at http://www.bloodworks.com.au/ (mention Reddit to receive this service for AUD$80).
+[Bloodworks.info](http://www.bloodworks.info/) — Regardless of whether you get your bloods done by your local doctor or by an online service, you can get expert interpretation of blood tests at Bloodworks.info.
 
 ## United Kingdom (UK)
 

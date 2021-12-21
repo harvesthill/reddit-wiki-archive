@@ -406,6 +406,8 @@ There's little to no difference in sides between 300 and 500.
 
 There's no difference in shutdown between 300 and 500. 
 
+Some low responders need as much as 250mg just to reach normal levels of Testosterone as addressed by TRT. 
+
 500mg is a low dose in that you can take *well over ten times that amount* without any Ill effects. Someone who is a low aromatizer—*not all that rare*—can take 1000mg, or ***one full gram* of Test with no AI and no sides. 
 
 500mg is a low dose in that bodybuilders have long started from there and worked up. 500 is low. 750 is intermediate. 1000+ is a little bit more advanced. 10,000 milligrams, e.g. **10 full grams**, is IFBB Pro (Dallas McCarver) territory. 
