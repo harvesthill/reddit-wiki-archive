@@ -222,6 +222,12 @@ Test is cheap, so there's no problem in continuing to run it at TRT levels just 
 
 ## 4. Reviews
 
+* [Review](https://www.reddit.com/r/steroids/comments/roav61/comment/hpx9j7b/) from u/deemos85 “Started at 20mg on the guidance of u/Decatest a while ago. Went all the way up to 50mg a day without any sides. Dropped body fat and strength went up. Ended up thinking I needed more compounds so added in Tren at 400mg a week. Changed the way I look. Dropped the Tren now. Zero sides. Will do 250 Test a week next and 50mg MENT a day with some Anadrol. *MENT is insane*. That's all I can say.”
+
+* [Review](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gehnye7) from Doc, a medical doctor and surgeon, u/MrGilmoresProperty “Test and Trest are the ideal synergistic combo. The duo can be used in *cutting* as well as lean bulking, which I found to be as simple as adjusting macros accordingly. The key here is that I’ve never looked swollen; rather always hard and lean. I took my weight down from 249–228 on a cut with Trest and it was almost effortless. Now I'm on the bulking side back up to 240, looking at 255-260 as a goal. Still lean. Zero sides. Zero appetite suppression. Zero dick issues. Possibly 12.5 Aromasin every third day or so *p.r.n.* (*pro re nata, aka* “as needed”).
+
+ **Physique pic**: [1mo MENT at 100mg/day](https://imgur.com/a/bsmgWx1). “Mid cut, sitting at 235lb. Vascularity got better as I closed in on 228lb.”
+
 * [Review](https://www.reddit.com/r/steroids/comments/nlgfsc/daily_ask_anything_20210526/gzjlog1) u/CallLivesMatter on *[MENT solo as TRT: Update at 21 Weeks](https://www.reddit.com/r/steroids/comments/nlgfsc/daily_ask_anything_20210526/gzjlog1)* 
 
 * [Review](https://reddit.com/r/steroids/comments/oq8cz8/_/h6cu0vf/) from u/Olvankarr “… I've been on 10mg/day for the past couple of years. Fantastic compound, no sides at all, and all my markers are in range despite … creatively cruising, ahhemm.”
@@ -243,8 +249,6 @@ Test is cheap, so there's no problem in continuing to run it at TRT levels just 
 * [Review](https://www.reddit.com/r/steroids/comments/fxrzrb/daily_ask_anything_20200409/fmyx6iv) “Like a cross between Tren and Deca—without any of the negative sides. Far stronger than both combined: ‘*Test on test*’ or ‘*Super-test*.’”
 
 * [Review](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gei70ff) “Every single stage has been absolutely incredible as far as pushing more weight and building muscle even in a deficit. It's amazing.”
-
-* [Review](https://www.reddit.com/r/steroids/comments/k5wrhv/daily_ask_anything_20201203/gehnye7) from Doc (u/MrGilmoresProperty), a medical doctor and surgeon: “Test and Trest are the ideal synergistic combo. The duo can be used in *cutting* as well as lean bulking, which I found to be as simple as adjusting macros accordingly. The key here is that I’ve never looked swollen; rather always hard and lean. I took my weight down from 249–228 on a cut with Trest and it was almost effortless. Now I'm on the bulking side back up to 240, looking at 255-260 as a goal. Still lean. Zero sides. Zero appetite suppression. Zero dick issues. Possibly 12.5 Aromasin every third day or so *p.r.n.* (*pro re nata, aka* “as needed”). **Physique pic**: [1mo MENT at 100mg/day](https://imgur.com/a/bsmgWx1). “Mid cut, sitting at 235lb. Vascularity got better as I closed in on 228lb.”
 
 ## 5. References
 
