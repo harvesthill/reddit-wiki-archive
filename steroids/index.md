@@ -10,7 +10,7 @@ The r/steroids Wiki provides a unique and comprehensive compendium of knowledge 
 
 Participation in this sub and with this habit requires one to execute [critical thinking](https://www.reddit.com/r/steroids/wiki/critical_thinking) very well, to determine truth from falsehood. Practice daily for best results.
 
-##Quick Links
+#🎗TABLE OF CONTENTS
 
 * [**The Community**](/r/steroids/wiki/index/subreddit_rules)
 * [**Overview / Index** (This Page)](/r/steroids/wiki)
@@ -393,9 +393,11 @@ It's not pretty. Don't think it can't happen to you.
 &gt;  
 &gt;I heard everyone telling me not to take steroids but *I thought I'd be different*—the bad stuff wouldn't happen to me, etc, just as I'm sure every kid thinks. just as I'm sure you think. Lo and behold, it did happen, and I can confirm, it is NOT worth it.  
 &gt;  
-&gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't... Just take their advice and wait until you're physically and emotionally more matured and more experienced, you've stopped growing, your body and hormones have steady natural baselines, and your moods are consistent. ​  
+&gt;If you're reading this as a teenager thinking you'll be fine, you'll deal with the consequences later, etc etc, you won't... Just take their advice and wait until you're physically and emotionally more matured and more experienced, you've stopped growing, your body and hormones have steady natural baselines, your brain is matured and your moods are consistent. ​  
 &gt;  
-&gt;Ironically, I'm about to hop back on again now... but this is because of my totally trashed hormone levels. I now require lifelong medical intervention to survive. My T levels are trashed. My thyroid hormones are trashed. There's no way to know if the reason for my ED, my low levels, my many other problems now is because of the reckless abandonment I treated the issue with way back then. Its already way too late for me but its not too late for you. *Listen to Coach* u/Decatest. Hes good as they come. He'll tell what you're thinking and what you need two - three steps down the road without you even knowing it yet. Don't even think about starting. There's so many other options out there. Take the alternatives follow their advice and wait. 
+&gt;Ironically, I'm about to hop back on again now... but this is because of my totally trashed hormone levels. I now require lifelong medical intervention to survive. *My T levels are trashed. My thyroid hormones are trashed*. There's no way to know if the reason for my ED, my low levels, my many other problems now is because of the reckless abandonment I treated the issue with way back then. Its already way too late for me but its not too late for you.
+&gt;
+&gt; *Listen to Coach* u/Decatest. Hes good as they come. He'll tell what you're thinking and what you need two - to - three steps down the road without you even knowing it yet. Don't even think about starting. There's so many other options. Take the alternatives follow the advice and wait. 
 
 ###**🔞 Testimonial 3**
 
@@ -438,7 +440,7 @@ If you decide to go ahead, wait until 25 like the wiki says.
 &gt;
 &gt; I'm lucky that I have a few friends that I can talk about this stuff with and now that I'm in my 30's hiding it matters less since I own a home. But dancing around hiding things from 21-24 with roommates sucked and probably created tensions the same way hiding an affair might. My guilt or discomfort was channeled into situations and there was no way for anyone else to understand or be prepared because I wasn't sharing the why with them. Just party, work out, look the best you can and have some fun with your friends.
 
-##MRI Scan for Tracking Development
+##Tracking Neurological Development
 
 *Have a look at this research paper that tracks the adolescent brain through various phases of development.* 
 
@@ -446,7 +448,7 @@ If you decide to go ahead, wait until 25 like the wiki says.
 
 &gt;Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
 &gt;  
-&gt;Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
+&gt;Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. *These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics*. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
 &gt;  
 &gt;In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
 
@@ -454,7 +456,7 @@ If you decide to go ahead, wait until 25 like the wiki says.
 
 ## Women &amp; AAS
 
-The side effects seen in women can be **permanent**. AAS can lower voice, facial hair growth, and induce clitoral enlargement. For this reason, AAS administration to women must be used very cautiously—if at all.
+Just as seen in adolescents, the side effects seen in women can be **permanent**. AAS can lower voice, facial hair growth, and induce clitoral enlargement. For this reason, AAS administration to women must be used very cautiously—if at all.
 
 ## Tips For Interpreting Scientific Studies
 

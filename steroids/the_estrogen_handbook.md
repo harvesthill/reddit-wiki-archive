@@ -48,9 +48,7 @@ Low and high Estrogen sides are very alike, the more experienced you get the eas
 * Loss of libido
 * Water retention (Bloat)
 * Moon face
-* Small testicles
 * Scrotum hanging too high
-* Soft testicles
 * Extreme oiliness all over
 * Moodiness (Aggression, depression, increased irritability)
 * Lethargy
