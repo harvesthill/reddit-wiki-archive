@@ -68,6 +68,11 @@ The following rules apply to this community; disregarding them will result in a 
 
 # 1. No Personal Information / No Doxxing / No Involuntary Pornography.
 
+**DO NOT POST NUDES OR PERSONAL INFO.**
+
+
+**OFFERING TO SHARE NUDES OR PERSONAL INFORMATION OF OTHERS IS THE SAME AS SHARING AND WILL RESULT IN A PERMANENT BAN. IN ADDITION, IT WILL BE REPORTED TO REDDIT ADMINS.**
+
 You are free to post your own personal information, however, [you cannot post other people's personal information.](http://www.reddit.com/wiki/faq#wiki_is_posting_personal_information_ok.3F) In addition to a ban from /r/steroids, it will be reported to Reddit admins and may result in a [shadowban.](http://www.urbandictionary.com/define.php?term=shadowban)
 
 Reddit has updated their Terms of Service. By using Reddit, [you agree to follow their rules whether or not you agree with them,](https://www.reddit.com/help/useragreement/) and as moderators it is our duty to follow their rules as well as ours. Reddit no longer allows users to post Involuntary Pornography.
