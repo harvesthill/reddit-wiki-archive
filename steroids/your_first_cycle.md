@@ -113,7 +113,7 @@ Blood serum concentrations quickly rise to supraphysiological levels.
 
 * Just because your ***T*** levels are high doesn't mean you'll transform into *The Hulk* overnight. Enhanced protein synthesis is directed from the cell nucleus and is a long-term recursive metabolic process.
 
-* ***Testosterone Enanthate and Cypionate each take about 6 weeks to fully saturate***.
+* **Testosterone E and C both take between** [*14-19 days*](https://i.imgur.com/mXtlh9e.jpg) **to fully saturate, depending on your individual metabolism**.
 
 * You probably will start noticing enhanced recovery and mild weight gain around ***Weeks 3***–***4***. 
 
