@@ -440,6 +440,63 @@ If you decide to go ahead, wait until 25 like the wiki says.
 &gt;
 &gt; I'm lucky that I have a few friends that I can talk about this stuff with and now that I'm in my 30's hiding it matters less since I own a home. But dancing around hiding things from 21-24 with roommates sucked and probably created tensions the same way hiding an affair might. My guilt or discomfort was channeled into situations and there was no way for anyone else to understand or be prepared because I wasn't sharing the why with them. Just party, work out, look the best you can and have some fun with your friends.
 
+###**🔞 Testimonial 7**
+
+&gt; I took gear at 18. How screwed am I? What do I do?
+&gt;
+&gt;Yes, I know I'm an idiot. Please don't touch gear if you're under 25.
+The pandemic left me with a physique of a bloated whale and I was so motivated to look good again (I looked okay pre pandemic, was at a high bodyfat% but looked good enough to your average Joe and pulled girls) so I started gear.
+&gt;
+&gt;I did a shit ton of research. Knew what exactly to use. When to employ an AI, SERM on cycle for gyno flare up, PCT protocol, injection frequency, etc. I had it all dialed in. Although everyone on this sub was very much against starting before 25, I still did. I've seen enough anecdotal evidence of 18 year olds starting Test and it being "the best decision of their lives" (No way to know that since they haven't had enough time to experience the sides), so I said f*ck it and hopped on.
+&gt;
+&gt;Absolutely no bloodwork done before or after either cycles. One of my biggest regrets honestly. I have no understanding of what my baseline was, although I'm assuming I was on the higher end of the natural Test levels because I was horny 24/7, grew body hair everywhere, voice was relatively deep, and was able to make good and quick muscle and strength gains even before hopping on gear.
+&gt;
+&gt;First cycle was 16 weeks of 350mg Test E. I did 350mg because that was what my ampoules were dosed at, and any higher dose would break the bank as I bought everything from oversea sellers, and that shit was expensive as f*ck. At the time I didn't know about locally produced pharma grade Test, which is as cheap as a bag of chips lol.
+&gt;
+&gt;Anyway, this cycle was an absolute mess. Here's some main observations of it:
+&gt;
+&gt;I was very very inconsistent with training. I'd train a week then skip 2 because I just didn't feel like it.
+&gt;
+&gt;My diet was complete garbage. Although I was trying to cut (dumb on a blast, I know), I ended up binge eating as Test increased my appetite ten fold. I already had a big appetite beforehand so this was a disaster.
+&gt;
+&gt;The weeks I trained were enough for me to notice quick mass and strength gains. Muscle memory + Steroids made me put on muscle at a ridiculous speed.
+&gt;
+&gt;Thanks to the Muscle Memory + Steroids + Huge calorie surplus I was in, I ended up gaining stretch marks EVERYWHERE. Forearms, chest, delts, back, stomach, I had this shit everywhere. It destroyed my self esteem, which was already low at the time.
+&gt;
+&gt;I looked like a bloated powerlifter because of the bloat and weight gain. My face looked the worst it has ever been. People were commenting on how I've gotten fatter all the goddamn time.
+&gt;
+&gt; Overall , it was a failure of a cycle. Didn't gain much but stretch marks and temporary water weight.
+&gt;
+&gt;I was so demotivated during the PCT that I completely stopped training. Massive brain fog and social anxiety. I couldn't take it anymore. Probably the worst I felt my entire life. This was during the start of college so I decided I didn't want to ruin the best years of my life PCTing and feeling like a cuck, so I cut it short. Probably PCT'd for about a month and then I decided to hop on again. This is the period where I discovered dirt cheap Pharma grade Test sold in local pharmacies with any prescription (Best thing about Egypt), and so I was even more inclined to start a proper cycle since it was much more affordable.
+&gt;
+&gt;Fatter than ever with an even uglier body thanks to the failure of last cycle, I hopped on 500mg Test. All that was on my mind at the time was to look good and f*ck bitches. Dreams of any 18 year old really.
+&gt;
+&gt; Needless to say, the 2nd cycle was a bit better than the 1st. Currently at the 10th week of it. Summary so far:
+&gt;
+&gt;More consistent with diet relative to first cycle. Still shitty though and ate at a surplus a lot.
+&gt;
+&gt;More consistent with working out, but not perfect.
+&gt;
+&gt; Made some noticeable quick gains. Old stretch marks are fading a bit. No new noticeable new ones.
+&gt;
+&gt;Still have brain fog and an overall feeling of shitiness. Could be just my low self esteem because of my body or just sides from the gear itself. No clue.
+&gt;
+&gt;Probably cutting cycle short at 10 weeks because I've kind of come to my senses. I have time to get my training and diet in check until I'm 25, then maybe consider on hopping on gear then. The cycle was a very stupid thing to do and I worry about potential damage done.
+&gt;
+&gt;All in all, this showed me why no 18 year old should touch gear and why I should've took everyone's advice to heart. Other than the potential permanent life changing physical changes, very rarely do you find an 18 year old with perfect diet and training to make the most out of a potentially health harming cycle. I wasted months of my life harming and damaging my body (maybe even permanently) just to look even worse. This would've been a different story had I had my shit in check, but it would've still been dumb at such a young age.
+&gt;
+&gt;I'm still concerned about a couple of stuff though, which is the main reason for this post.
+&gt;
+&gt;Losing that feeling of being "on gear" - If you were ever on gear, you'd know that feeling. Feeling like a beast in the gym. Having some type of drive in life. More energy, more assertiveness, etc. I'm scared of losing that feeling to be honest and going back to what could possibly be an inferior feeling.
+&gt;
+&gt;Natural Test production - While I don't mind on being on TRT for life, hopping on at this age would just suck. I still have a couple of years of naturally high natural Test production if I haven't damaged my HPTA. Very worried about if whether I'll recover or not.
+&gt;
+&gt;Fertility - Was my biggest worry throughout cycle. I'm very keen on the idea of starting a family one day. Will there have been any permanent damage done that can't be recovered with a good PCT and fertility protocol?
+&gt;
+&gt;Brain damage and cognitive impairment - I value cognitive abilities highly and I hope these 2 short cycles had minimal damages done, since I didn't touch anything that is extremely neurotoxic like Tren for example. Weirdly though, I always felt weird on cycle. Brain fog, hazy memory, feeling more stupid, social anxiety, fatigue etc. (Could be attributed to running a SERM on cycle for gyno prevention and letting E2 get high, but not too sure) Could I have damaged my brain in just 2 cycles? Permanent sides or will everything eventually go back to normal?
+&gt;
+&gt; I know I f*cked up so go easy on me. I went against everyone's advice and deeply regret it. So, am I f*cked? What do I do?
+
 ##Tracking Neurological Development
 
 *Have a look at this research paper that tracks the adolescent brain through various phases of development.* 
