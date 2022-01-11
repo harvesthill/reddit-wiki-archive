@@ -375,19 +375,31 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 It's not pretty. Don't think it can't happen to you. 
 
+##Tracking Neurological Development
+
+*Have a look at this research paper that tracks the adolescent brain through various phases of development.* 
+
+### [Maturation of the Adolescent Brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/) 
+
+&gt;Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
+&gt;  
+&gt;Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. *These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics*. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
+&gt;  
+&gt;In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
+
 ##Testimonials
 
 *Here's a few firsthand accounts from other young guys who started young, screwed up big time, and now regret it*.
 
-###**🔞 Testimonial 1**
+### **🔞 Testimonial 1**
 
-&gt; u/ghettotuesday: *I started young*. I did SARMs at 18, and ended up doing steroids at 19. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a **very negative way**. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy as fuck.
+&gt; u/ghettotuesday: *I started young*. I did SARMs at eighteen, and ended up doing steroids at nineteen. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a **very negative way**. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy as fuck.
 &gt;
 &gt; It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest life regrets is doing a cycle at 19 before I was ready. Definitely fucked some brain development. Definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
 
-###**🔞 Testimonial 2**
+### **🔞 Testimonial 2**
 
-&gt;*I wish I'd listened* to everyone all over the internet that shouts that **No matter what, DON'T take them if you're young**. I did my first cycle at age 17. I'd been training for 4.5 years by this point, and while it wasn't obvious to me back then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and I couldn't even see it. All the growing health issues are the biggest kicker.  
+&gt;*I wish I'd listened* to everyone all over the internet that shouts that **No matter what, DON'T use steroids if you're young**. I did my first cycle at age seventeen. I'd been training for 4.5 years by this point, and while it wasn't obvious to me back then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and I couldn't even see it. All the growing health issues are the biggest kicker.  
 &gt;  
 &gt;My blood pressure was awful for a while. I'd pass out frequently. My testicles took a lot of time to kick back in properly on top of so many other smaller things, so overall it's something I really regret quite a lot.  
 &gt;  
@@ -399,7 +411,7 @@ It's not pretty. Don't think it can't happen to you.
 &gt;
 &gt; *Listen to Coach* u/Decatest. Hes good as they come. He'll tell what you're thinking and what you need two - to - three steps down the road without you even knowing it yet. Don't even think about starting. There's so many other options. Take the alternatives follow the advice and wait. 
 
-###**🔞 Testimonial 3**
+### **🔞 Testimonial 3**
 
 &gt; Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big. but now im really fucked.
 &gt;  
@@ -413,101 +425,91 @@ It's not pretty. Don't think it can't happen to you.
 &gt;  
 &gt; We don't even know what we are gonna be when we grow up, maybe that dream will fade away like mine did and you gonna regret what you have done to yourself for the rest of your life. I know because i was thinking that way too.  
 &gt;  
-&gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids untswil you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your development is really complete like they suggest.
+&gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids until you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your brain and body development is really complete like they suggest.
 
-###**🔞 Testimonial 4**
+### **🔞 Testimonial 4**
 
-&gt; I started around 19. It fucked up my test and now I’m on TRT at 26 and will be for I guess the rest of my life. Yeah it’s cool being big but I think if I could go back I probably wouldn’t do it at all. It’s just not as important as I thought it was back then.
+&gt; I started around nineteen. It fucked up my test for life. Now I’m on TRT at 26 and will be for I guess the rest of my life. Yeah it’s cool being big but I think if I could go back I probably wouldn’t do it at all. It’s just not as important as I thought it was back then.
 &gt;
 &gt; I started at Test E 200/week. I’m not sure there’s a guaranteed path to not fucking up your hormones permanently. I know it’s a lot coming from a stranger, but before I’d start anything I would do a little soul searching for why you want to be big. There are a lot of downsides if you end up having to do TRT forever.
 
-###**🔞 Testimonial 5**
+### **🔞 Testimonial 5**
 
-&gt; I started around ***19***. It fucked up my test and now I’m on TRT at 26 and will be for I guess the rest of my life. Yeah it’s cool being big but I think if I could go back I probably wouldn’t do it at all. It’s just not as important as I thought it was back then. Obviously this only applies if you don’t have low T to start with.
-
-###**🔞 Testimonial 6**
-
-&gt; I was put on oral test by a quack doctor at ***19*** and I was totally in because I wanted the benefits of Test. I got off because he was quack and expensive af, but did my first cycle of 400mg test at 21.
+&gt; I was put on oral test by a quack doctor at ***19*** and I was totally in because I wanted the benefits of Test. I got off because he was quack and expensive AF, but did my first cycle of 400mg test at 21.
 &gt;
-&gt;I'm 34 now and I've stayed away from aas for years at a time, but am currently on and spent a few years since on AAS. My natural production is not great, and wasn't really great prior to starting, but if I could go back to 19 with any wisdom in me, I never would have started. I'd try to ride the body I have for what it is worth until it was failing me, either with really shit hormones or I was actually experiencing significant enough sides of aging to bother with TRT.
+&gt;I'm 34 now and I've stayed away from AAS for years at a time, but am currently on and spent a few years since on AAS. My natural production is not great, and wasn't really great prior to starting, but if I could go back to 19 with any wisdom in me, I never would have started. I'd try to ride the body I have for what it is worth until it was failing me, either with really shit hormones or I was actually experiencing significant enough sides of aging to bother with TRT.
 &gt;
 &gt; One of the reasons I love this sub is so many users self-reflect. AAS fuck with your brain, and your well-being. They can make you feel better than you've ever imagined and leave you in a hole that is not easy to climb out of. I started back when there were a lot less people willing to self-reflect, and if I had no idea what it felt like to cycle I would be fine with that. I don't want to lie to you and tell you there's nothing great in steroid use, but for most I don't think the juice is worth the squeeze.
-If you decide to go ahead, wait until 25 like the wiki says. 
 &gt;
-&gt; Something that isn't brought up a ton here that I think deserves more discussion is what actually constitutes a great life. I think so much of a great life is intimacy. The ability to share your experiences and feel seen and heard. Also, to see and hear others. Its why so many users flock to r/steroids, because here we can experience that. When you use gear most people in real life cannot know about it, and even if they can know they can't understand. It serves as another barrier between you and other people that you have to keep hidden in order to be safe and/or respected. 
+&gt; If you decide to go ahead, wait until 25 like the wiki says. 
+&gt;
+&gt; Something that isn't brought up a ton here that I think deserves more discussion is what actually constitutes a great life. I think so much of a great life is intimacy. The ability to share your experiences and feel seen and heard. Also, to see and hear others. It's why so many users flock to r/steroids, because here we can experience that. When you use gear most people in real life cannot know about it, and even if they can know they can't understand. It serves as another barrier between you and other people that you have to keep hidden in order to be safe and/or respected. 
 &gt;
 &gt; I'm not suggesting what other people think should drive your decision, but I have found the more things like AAS I've added to my life the more difficult it becomes to really share aspects of my existence. Even though AAS isn't the main ingredient, it is part of so many experiences. 
 &gt;
-&gt; I'm lucky that I have a few friends that I can talk about this stuff with and now that I'm in my 30's hiding it matters less since I own a home. But dancing around hiding things from 21-24 with roommates sucked and probably created tensions the same way hiding an affair might. My guilt or discomfort was channeled into situations and there was no way for anyone else to understand or be prepared because I wasn't sharing the why with them. Just party, work out, look the best you can and have some fun with your friends.
+&gt; I'm lucky that I have a few friends that I can talk about this stuff with and now that I'm in my 30's hiding it matters less since I own a home. But dancing around hiding things from 21–24 with roommates sucked and probably created tensions the same way hiding an affair might. My guilt or discomfort was channeled into situations and there was no way for anyone else to understand or be prepared because I wasn't sharing the why with them. Just party, work out, look the best you can and have some fun with your friends.
 
-###**🔞 Testimonial 7**
+### **🔞 Testimonial 6**
 
-&gt; I took gear at 18. How screwed am I? What do I do?
+&gt; ***I took gear at 18. How screwed am I? What do I do?***
 &gt;
-&gt;Yes, I know I'm an idiot. Please don't touch gear if you're under 25.
-The pandemic left me with a physique of a bloated whale and I was so motivated to look good again (I looked okay pre pandemic, was at a high bodyfat% but looked good enough to your average Joe and pulled girls) so I started gear.
+&gt; **I know I'm an idiot. DON'T touch gear if you're under 25.** 
 &gt;
-&gt;I did a shit ton of research. Knew what exactly to use. When to employ an AI, SERM on cycle for gyno flare up, PCT protocol, injection frequency, etc. I had it all dialed in. Although everyone on this sub was very much against starting before 25, I still did. I've seen enough anecdotal evidence of 18 year olds starting Test and it being "the best decision of their lives" (No way to know that since they haven't had enough time to experience the sides), so I said f*ck it and hopped on.
+&gt;The pandemic left me with a physique of a bloated whale. I was so motivated to look good I started gear.
 &gt;
-&gt;Absolutely no bloodwork done before or after either cycles. One of my biggest regrets honestly. I have no understanding of what my baseline was, although I'm assuming I was on the higher end of the natural Test levels because I was horny 24/7, grew body hair everywhere, voice was relatively deep, and was able to make good and quick muscle and strength gains even before hopping on gear.
+&gt;I thought I did a shit ton of research. Knew what exactly to use. When to employ an AI. SERM on cycle for gyno flare-up. PCT, injection frequency, *etc*. I had it all dialed in. 
 &gt;
-&gt;First cycle was 16 weeks of 350mg Test E. I did 350mg because that was what my ampoules were dosed at, and any higher dose would break the bank as I bought everything from oversea sellers, and that shit was expensive as f*ck. At the time I didn't know about locally produced pharma grade Test, which is as cheap as a bag of chips lol.
+&gt;Although everyone on this sub was totally against starting before 25 I did it anyway. What could go wrong? I thought I'd seen enough anecdotal evidence of 18-year olds starting Test and saying it was “the best decision of their lives,” even though there's absolutely no way to know that, since they haven't even had any time to experience the sides yet. So I said **f*ck it!** and hopped on.
 &gt;
-&gt;Anyway, this cycle was an absolute mess. Here's some main observations of it:
+&gt;Absolutely NO bloodwork done before or after either cycles … one of my greatest regrets. I have no understanding my baseline was, although I'm assuming I was on the higher end of natural Test levels because I was horny 24/7, grew body hair everywhere, voice was relatively deep, and I was able to make solid and fast muscle and strength gains even before hopping on gear.
 &gt;
-&gt;I was very very inconsistent with training. I'd train a week then skip 2 because I just didn't feel like it.
+&gt;My first cycle was 16 weeks of 350mg Test E. 350mg was what my ampoules were dosed at. Any higher dose would break the bank as I bought everything from oversea sellers and that shit was expensive as **f*ck**. At the time I didn't even know about locally-produced UGL Test, which is as cheap as a bag of chips lol.
 &gt;
-&gt;My diet was complete garbage. Although I was trying to cut (dumb on a blast, I know), I ended up binge eating as Test increased my appetite ten fold. I already had a big appetite beforehand so this was a disaster.
+&gt;Anyway, my cycle was an absolute shitshow. It was this bad:
 &gt;
-&gt;The weeks I trained were enough for me to notice quick mass and strength gains. Muscle memory + Steroids made me put on muscle at a ridiculous speed.
+&gt; * I was very very inconsistent with training. I'd train a week then skip 2 just because I *didn't feel like it*.
 &gt;
-&gt;Thanks to the Muscle Memory + Steroids + Huge calorie surplus I was in, I ended up gaining stretch marks EVERYWHERE. Forearms, chest, delts, back, stomach, I had this shit everywhere. It destroyed my self esteem, which was already low at the time.
+&gt; * My diet was complete garbage. Although I was trying to cut (dumb on a blast, I know), I ended up binge eating as Test increased my appetite tenfold. I already had a big appetite beforehand, so this was a disaster.
 &gt;
-&gt;I looked like a bloated powerlifter because of the bloat and weight gain. My face looked the worst it has ever been. People were commenting on how I've gotten fatter all the goddamn time.
+&gt; * The weeks I trained were enough for me to notice quick mass and strength gains. Muscle memory made me put on muscle at a ridiculous speed.
 &gt;
-&gt; Overall , it was a failure of a cycle. Didn't gain much but stretch marks and temporary water weight.
+&gt; * Thanks to the (muscle memory + steroids + huge calorie surplus) that I was in, I ended up gaining stretch marks EVERYWHERE. Forearms, chest, deltoids, back, stomach, this shit was everywhere. It destroyed my self-esteem, which was already in the gutter.
 &gt;
-&gt;I was so demotivated during the PCT that I completely stopped training. Massive brain fog and social anxiety. I couldn't take it anymore. Probably the worst I felt my entire life. This was during the start of college so I decided I didn't want to ruin the best years of my life PCTing and feeling like a cuck, so I cut it short. Probably PCT'd for about a month and then I decided to hop on again. This is the period where I discovered dirt cheap Pharma grade Test sold in local pharmacies with any prescription (Best thing about Egypt), and so I was even more inclined to start a proper cycle since it was much more affordable.
+&gt; * I looked like a fat bloated powerlifter. My face looked the worst it has ever been. People were commenting on how I'd gotten fatter all the goddamn time.
 &gt;
-&gt;Fatter than ever with an even uglier body thanks to the failure of last cycle, I hopped on 500mg Test. All that was on my mind at the time was to look good and f*ck bitches. Dreams of any 18 year old really.
+&gt; *  Overall it was a wasted failure of a cycle. Didn't gain much but stretch marks and water weight.
 &gt;
-&gt; Needless to say, the 2nd cycle was a bit better than the 1st. Currently at the 10th week of it. Summary so far:
+&gt;I was so demotivated during PCT that I completely stopped training. 
 &gt;
-&gt;More consistent with diet relative to first cycle. Still shitty though and ate at a surplus a lot.
+&gt;Massive brain fog and social anxiety. I couldn't take it anymore.
 &gt;
-&gt;More consistent with working out, but not perfect.
+&gt;This was probably the worst I felt my entire life. 
 &gt;
-&gt; Made some noticeable quick gains. Old stretch marks are fading a bit. No new noticeable new ones.
+&gt;This was during the start of college. I didn't want to ruin the best years of my life looking and feeling like a cuckold, so I cut it short. I probably ran PCT for about a month before I decided to hop on again. I discovered dirt cheap pharma-grade Test sold in local pharmacies (best thing about being here in Egypt) so I was even more inclined to hop back on cycle.
 &gt;
-&gt;Still have brain fog and an overall feeling of shitiness. Could be just my low self esteem because of my body or just sides from the gear itself. No clue.
+&gt; Now I'm fatter than ever with an even uglier body thanks to the failure of the first cycle. So what did I do? Recklessly hopped on 500mg Test. All that was on my mind was to **look good + f*ck bitches**. Dreams of many an 18-year old. 
+&gt; 
+&gt; I *still* have all the brain fog and overall I feel like shit. Could it be my low self-esteem, my body, just sides from the gear itself?? No clue.
 &gt;
-&gt;Probably cutting cycle short at 10 weeks because I've kind of come to my senses. I have time to get my training and diet in check until I'm 25, then maybe consider on hopping on gear then. The cycle was a very stupid thing to do and I worry about potential damage done.
+&gt; I'm probably cutting my cycle short at 10 weeks because I've started to come to my senses. I have time to get my training and diet in check *at least until I'm 25.* I can always consider on hopping on gear then. Doing a cycle was a very stupid thing to do and I worry about the potential damage I may have already done.
 &gt;
-&gt;All in all, this showed me why no 18 year old should touch gear and why I should've took everyone's advice to heart. Other than the potential permanent life changing physical changes, very rarely do you find an 18 year old with perfect diet and training to make the most out of a potentially health harming cycle. I wasted months of my life harming and damaging my body (maybe even permanently) just to look even worse. This would've been a different story had I had my shit in check, but it would've still been dumb at such a young age.
+&gt;All these experiences showed me why no 18-year old should EVER touch gear and why I should've took everyone's advice to heart. Other than the potential for *permanent* and life-changing negative mental and physical side effects, no 18-year old has perfect diet and training to make the most out of a premature and harmful cycle anyway. I wasted months of my life harming and damaging my body, perhaps permanently, just to look even worse. This might have been a different story if I had my shit in check, but it would've still been dumb to do at such a young age.
 &gt;
-&gt;I'm still concerned about a couple of stuff though, which is the main reason for this post.
+&gt;I'm still concerned about a couple of stuff, which is the main reason for this post.
 &gt;
-&gt;Losing that feeling of being "on gear" - If you were ever on gear, you'd know that feeling. Feeling like a beast in the gym. Having some type of drive in life. More energy, more assertiveness, etc. I'm scared of losing that feeling to be honest and going back to what could possibly be an inferior feeling.
+&gt; * **Losing the feeling of being "on."** If you were ever on gear, you know that feeling like a beast in the gym. Having some type of drive in life. More energy, more assertiveness. I'm scared of losing that feeling to be honest and going back to what could possibly feeling inferior.
 &gt;
-&gt;Natural Test production - While I don't mind on being on TRT for life, hopping on at this age would just suck. I still have a couple of years of naturally high natural Test production if I haven't damaged my HPTA. Very worried about if whether I'll recover or not.
+&gt;* **Natural Test production**. While I don't mind on being on TRT for life, hopping on ALREADY at this early age while still a teenager would just suck. I still should have a couple of years of high natural Test production if I haven't permanently damaged my HPTA. Very worried about if whether I'll recover or not.
 &gt;
-&gt;Fertility - Was my biggest worry throughout cycle. I'm very keen on the idea of starting a family one day. Will there have been any permanent damage done that can't be recovered with a good PCT and fertility protocol?
+&gt;* **Fertility**. This was my biggest worry throughout cycle. I'm keen on the idea of starting a family one day. Will there have been any permanent damage done that can't be recovered with a good PCT and fertility protocol?
+&gt; 
+&gt;* **Brain damage and cognitive impairment**. I value highly cognitive abilities and hope these 2 cycles had minimal damages done. I didn't touch anything extremely neurotoxic like Tren for example. But weirdly though I still always feel weird since going on cycle. *Brain fog, hazy memory, feeling more stupid, social anxiety, fatigue, etc*. Could I have damaged my brain in just 2 cycles? 
 &gt;
-&gt;Brain damage and cognitive impairment - I value cognitive abilities highly and I hope these 2 short cycles had minimal damages done, since I didn't touch anything that is extremely neurotoxic like Tren for example. Weirdly though, I always felt weird on cycle. Brain fog, hazy memory, feeling more stupid, social anxiety, fatigue etc. (Could be attributed to running a SERM on cycle for gyno prevention and letting E2 get high, but not too sure) Could I have damaged my brain in just 2 cycles? Permanent sides or will everything eventually go back to normal?
+&gt;Permanent side effects … or will things eventually go back to normal?
 &gt;
-&gt; I know I f*cked up so go easy on me. I went against everyone's advice and deeply regret it. So, am I f*cked? What do I do?
+&gt; **I know I f*cked up** so please go easy on me … I went against everyone's advice and deeply regret it. 
 
-##Tracking Neurological Development
-
-*Have a look at this research paper that tracks the adolescent brain through various phases of development.* 
-
-### [Maturation of the Adolescent Brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/) 
-
-&gt;Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
-&gt;  
-&gt;Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. *These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics*. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
-&gt;  
-&gt;In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
+\* End Testimonials *
 
 — *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 
