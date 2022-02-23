@@ -42,7 +42,7 @@ When ordering online, you can usually find a **Standard Male Hormone Panel****.*
 
 This typically includes: 
 
-**Androgens** — You'll need a baseline for your HPTA axis to know if you're already hypogonadal (*low T levels*), as well as if you've recovered fully after your PCT.
+**Androgens** — You'll need a baseline for your HPTA axis to know if you're already hypogonadal (*low T levels*), as well as if you've recovered fully after your PCT.
 
 * **LH**/**FSH**: These gonadotropins stimulate the testes to produce testosterone.
 
@@ -103,6 +103,10 @@ There are several providers in the USA to choose from.
 #### ULTA Labs
 
 * [ULTA Labs](https://www.ultalabtests.com/ultdirect) offers affordable bloodwork nationwide. Secure and confidential lab testing, most results available in 1-2 business days. Licensed Medical Director in every state that reviews each order.
+
+#### Synergistic Labs
+
+* [Synergistic Labs](https://www.synergisticlabs.net) started November 2021 and is growing quickly in the fitness community. They provide fully customizable lab orders through their site. They service every state except NY, NJ, and RI.
 
 #### LabsMD
 

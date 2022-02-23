@@ -22,8 +22,6 @@ Anabolic steroids also have androgenic and virilizing properties, including the 
 
 * [*Methyltrienolone*](https://www.reddit.com/r/steroids/wiki/compounds/methyltrienolone) *aka* ***Mtren***, ***Oral Tren*** — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **12000**:**6000**. One of the strongest AAS in existence—second only to its double methylated cousin, *dimethyltrienolone*. Said to rank equally to trestolone for rapid, overnight changes in aesthetics and appearance. Extreme surge in strength and aggression. Oft-utilized as a pre-workout or for brief cycles of 3-4 weeks. **Warning**: Highly hepatotoxic. Can be used orally or injected. For toxicity reasons, injection route is highly recommended. [*Experience thread*](https://www.reddit.com/r/steroids/comments/9g59y3/compound_experience_saturday_metribolone/)*.*
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;*— Contributed by u/Decatest*
-
 ###Quick List
 The following compounds are used more often.
 

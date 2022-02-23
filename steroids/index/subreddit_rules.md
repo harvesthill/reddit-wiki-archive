@@ -70,7 +70,6 @@ The following rules apply to this community; disregarding them will result in a 
 
 **DO NOT POST NUDES OR PERSONAL INFO.**
 
-
 **OFFERING TO SHARE NUDES OR PERSONAL INFORMATION OF OTHERS IS THE SAME AS SHARING AND WILL RESULT IN A PERMANENT BAN. IN ADDITION, IT WILL BE REPORTED TO REDDIT ADMINS.**
 
 You are free to post your own personal information, however, [you cannot post other people's personal information.](http://www.reddit.com/wiki/faq#wiki_is_posting_personal_information_ok.3F) In addition to a ban from /r/steroids, it will be reported to Reddit admins and may result in a [shadowban.](http://www.urbandictionary.com/define.php?term=shadowban)
@@ -85,43 +84,31 @@ The spirit of the Rule is to promote Goal #5 of the community:
 
 *Keep the environment free from any monetary influences.*  
 
-&gt;**Don't ask WHERE** *to get it.*  
+&gt;**Do not ask WHERE** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
 &gt;  
-&gt;**Don't ask HOW** *to get it.*  
+&gt;**Do not ask HOW** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
 &gt;  
-&gt;**Don't ask for RECOMMENDED labs, brands or suppliers.**  
+&gt;**Do not ask for RECOMMENDED labs, brands or suppliers.**  
 &gt;
-&gt;**Don't discuss BRANDS, COMPANIES, PRODUCTS** *of any sort.*
-&gt;
-&gt; WHETHER LEGAL OR NOT.
+&gt;**Do not promote BRANDS, COMPANIES, PRODUCTS** *of any sort.*
 
-###🚫 **No Source Talk**
+###**No Source Talk**
 
 ***No Source Talk.*** Everything listed below includes (**BUT IS NOT LIMITED TO**): AAS (*gear*), Ancillaries (AI, SERMs, *etc.*), hGH (*those not listed in the Wiki or the rules*), Insulin, DNP, PEDs (*Performance Enhancing Drugs*), Drugs (*prescription or otherwise*), Research Chemicals, Pro-hormones, SARMs, Peptides … or ANY PRODUCT that could be mistaken as legit of any of the previous listed. This includes “steroid alternatives,” “Testosterone Boosters,” or over-the-counter  “PCT” brands.
 
 Chances are … if you are talking about ANY COMPANY, ANY SOURCE, ANY SPECIFIC BRAND, ANY OTHER FORUM. OR SUBREDDIT THAT ALLOWS SOURCE TALK—REGARDLESS OF LEGALITY in your area, this will be considered under NO SOURCE TALK.
 
-###🚫 **No Monetization**
+### **No Monetization**
 
 ***No Monetization***. This part of rule #2 deals with monetary influences such as advertising, sales and marketing, brand discussion, lobbying, *etc*. and is broader than the first part of *No Source Talk* as it includes practically **ANY BRAND OR PRODUCT YOU CAN THINK OF**. This is a forum to discuss AAS/PEDs. This is *not* a review forum to discuss commercial products! **DO NOT DISCUSS COMMERCIAL PRODUCTS OF ANY KIND**. 
 
-**IF IT'S FOR SALE IT'S VERBOTEN**
-
 **There are no warnings and you will be banned**.
 
-This board is altogether source, brand, and product-free to avoid ANY KIND of monetary influence or incentive to manipulate information. If money can be made, competition and bias will soon follow. It doesn't matter if you're selling Tren or grandma's chocolate chip cookies. *Someone else's grandma* is a **real cutthroat** and will **cut you down** to get ahead.
+This board is altogether source, brand, and product-free to avoid ANY KIND of monetary influence or incentive to manipulate information. If money can be made, competition and bias will soon follow. It doesn't matter if you're selling Tren, coaching services, or providing sources for monetary gain. 
 
 ### Why No Sources?
 
-**Reddit's Network Administrators** shut down our sister sub, r/SST (**Steroid Source Talk**), and banned the Moderators for *Enabling Access to Illegal Compounds.*
-
-The pencil-pushing bureaucrats have it out for us, too. They're biased, they're locked and loaded, and they're ready to pull the trigger due to the controversial subject nature and content on our sub. *Most subreddits dealing with controlled substances get shut down rather quickly*, so we're skating on thin ice as it is.
-
-*As the single largest AAS forum in the English-speaking world*, our leadership prominence makes us an even bigger target as we grow larger and more influential. We get attention they'd rather not see—from politicians, from lawmakers, from law enforcement, and from every Karen out in the Wild West—so they'd rather see us *disappeared*.
-
-For that reason, **Rule 2**: ***No Source Talk*** is our ***strictest guideline***—**with no exceptions**. Without it, we'd be quickly shut down by Reddit administration … just like r/SST. We'd like to think that we provide a valuable public service through *education* and *harm reduction*—and we'd like to stick around for a while, so we take the rule quite seriously.
-
-If you're looking for vendor recommendations, practically *every other AAS forum* on the Internet allows source talk, has vendor reviews, commercial sponsors, *etc*. r/steroids is essentially the *only* exception to the rule, because **we don't own Reddit**. We're still just a simple subreddit, so we have to play by *their* rules.
+**Reddit's Network Administrators** have shut down other subreddits for allowing source talk. We have a wealth of information compiled in the sub wiki and would prefer to preserve it for harm reduction purposes. 
 
 ### Reddit Terms of Service
 
@@ -145,7 +132,7 @@ Please read over the following carefully and *message the moderators* if you hav
 * Do **not** link or discuss “*research sites*.”
 * Do **not** link or discuss ANY kind of media personalities (*i.e.* ***YouTube***, *etc*.) who sell, recommend, or promote any products—*legal or not*.
 * Do **not** have a username that is similar to a source, source talk, a product, or indicates that you are a source. Also a reminder to not have a discriminatory, insulting, offensive or disparaging user name that would be forbidden in Rule 4 or under the **Reddit Terms of Service**.
-* 🚫🎣 Do **not** make comments that could be taken as “fishing” for a source. This includes making posts or comments that mention your inability to find or obtain anything that falls under The Preamble above: “I'm having trouble finding \[good/inexpensive/*etc*.\] Primo” or “It's tough to get Tren,” “My source just stopped carrying,” or “It seems impossible to find MENT.”
+* Do **not** make comments that could be taken as “fishing” for a source. This includes making posts or comments that mention your inability to find or obtain anything that falls under The Preamble above: “I'm having trouble finding \[good/inexpensive/*etc*.\] Primo” or “It's tough to get Tren,” “My source just stopped carrying,” 
 * Do **not** HINT or OFFER to source. Even if you just source to locals, *make no mention* of it.
 * Do **not** suggest or refer anyone to ANY doctor or clinic that could potentially help someone obtain a source, even if it's for a legitimate purpose such as TRT.
 * **AGAIN**: Do not \[*publicly or privately*\] ASK or OFFER ***To*** PM, ASK or OFFER ***For*** PM, ***or PM*** **ANYTHING** related to sources or source talk.
@@ -183,13 +170,13 @@ With one or two mouse clicks and/or Google searches, could someone find a source
 
 **A**: ***No***. You still may not discuss the source in any way, shape or form.
 
-**Q: 🚫🎣 I see that we can't make comments “fishing” for sources. What does that mean?**
+**Q:  I see that we can't make comments “fishing” for sources. What does that mean?**
 
-**A**: The expression (“**fishing**”) is mostly used by people trying to “fish *for compliments*.” Think of a hot chick saying “*I'm so ugly*” or “*I'm so fat*” and the responses they get that tell them how hot they are. They went into it with the goal of a *specific response*.
+**A**: The expression (“**fishing**”) is mostly used by people trying to “fish *for compliments*.” 
 
 “Fishing” for sources is doing things like saying you don't know where to find things in a way that makes it sound as though you are **inviting people** to tell you. This is common with people who are familiar enough with the rules to know they can't outright ask for sources, brands, *etc*. so they try to do it in ways that are more vague.
 
-Some examples of fishing include saying things like: *“I don't even know where to start finding real Testosterone”* or “*I'm having trouble finding* *good Primo”* or “*I really wish I could get* *MENT*,” because they hope someone will volunteer the information without having to officially ask the question. We take it seriously when something even *looks like* it could **possibly** be fishing … *even if mildly hinting*.
+Some examples of fishing include saying things like: *“I don't even know where to start finding real Testosterone”* or “*I'm having trouble finding* *good Primo”* or “*I really wish I could get* *Dianabol*,” because they hope someone will volunteer the information without having to officially ask the question. We take it seriously when something even *looks like* it could **possibly** be fishing … *even if mildly hinting*.
 
 **Q:** Will the mods help me find a source?  
 
@@ -273,6 +260,10 @@ Political discussion is not permitted.
 
 Posts and comments that could be construed as highly controversial or provocative are not permitted. First and foremost, the goal of /r/steroids is to provide harm reduction knowledge and guidance without alienating those who need help. As such, we need to maintain a positive, relaxed environment. We're all in the same boat striving for similar goals, try not to rock that boat.
 
+####**No COVID/Vaccine/Mask Discussions**
+
+This falls under the no politics tag unfortunately. There are plenty of places on the internet to discuss this topic, however it seems to veer off topic and get political every time. In an attempt to dispel misinformation on this sub we have decided it is best to leave that topic for more appropriate venues. 
+
 ####**No Red Pill or Similar Doctrine**
 
 Discussion of The Red Pill philosophy is also not welcome on this subreddit. There are plenty of places on the internet for this.  
@@ -281,7 +272,7 @@ To be clear: this is not the subreddit to share your manifesto or espouse your f
 
 ####**No Stirring Shit / Publicizing Bans**
 
-Very simply, do not stir shit. If you have a problem with something, message the mods directly. DO NOT POST IT ON THE FORUM. 
+Very simply, do not stir shit. If you have a problem with something, ***message the mods directly. DO NOT POST IT ON THE FORUM.*** 
 
 This is not a forum for you to where your ban like a badge of honor. If you or someone you know is or was banned, make no mention of it. It serves zero purpose other than "what you/they get banned for", which usually branches conversation that leads to more bans on the original user or the people asking.
 
@@ -331,7 +322,7 @@ This community is for harm reduction and educational purposes only. This is not 
 
 * Any form of laundering
 
-* Traveling with AAS/drugs/etc.
+* Traveling with AAS/prescription drugs/etc.
 
 * How to covertly ship or receive AAS/drugs/etc.
 
@@ -402,7 +393,7 @@ You can use these terms to find historic posts using Google, just like those lin
 
 **Please, use this search before posting a new topic!**
 
-site:www.reddit.com/r/steroids &lt;Search String&gt;
+    site:www.reddit.com/r/steroids &lt;Search String&gt;
 
 Simply replace the &lt;Search String&gt; with a post type or other search criteria and go.
 

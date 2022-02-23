@@ -14,31 +14,31 @@ Participation in this sub and with this habit requires one to execute [critical 
 
 * [**The Community**](/r/steroids/wiki/index/subreddit_rules)
 * [**Overview / Index** (This Page)](/r/steroids/wiki)
-*     [|--- Frequently Asked Questions (FAQ)](/r/steroids/wiki/faq/list)
-*     [|--- Medicinal Uses](/r/steroids/wiki/medicinal/list)
-*     [|--- Testosterone Replacement Therapy (TRT)](/r/steroids/wiki/trt/list)
-*     [|--- AAS And The Law](/r/steroids/wiki/laws)
-*     [|--- Talking Points](/r/steroids/wiki/talkingpoints)
+*     [|--- Frequently Asked Questions (FAQ)](/r/steroids/wiki/faq/list)
+*     [|--- Medicinal Uses](/r/steroids/wiki/medicinal/list)
+*     [|--- Testosterone Replacement Therapy (TRT)](/r/steroids/wiki/trt/list)
+*     [|--- AAS And The Law](/r/steroids/wiki/laws)
+*     [|--- Talking Points](/r/steroids/wiki/talkingpoints)
 * [**Cycle - Things To Know**](/r/steroids/wiki/thecycle/list)
-*     [|--- Your First Cycle](/r/steroids/wiki/your_first_cycle)
-*     [|--- Example Cycles](/r/steroids/wiki/thecycle/examples)
-*     [|--- Safe Injections](/r/steroids/wiki/thecycle/injecting)
-*     [|--- Post Cycle Therapy (PCT)](/r/steroids/wiki/thecycle/pct)
-*     [|--- The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook)
-*     [|--- Cycle Reports](/r/steroids/wiki/reports/list)
-*     [|--- Nutrition](/r/steroids/wiki/nutrition)
-*     [|--- Women](/r/steroids/wiki/women)
+*     [|--- Your First Cycle](/r/steroids/wiki/your_first_cycle)
+*     [|--- Example Cycles](/r/steroids/wiki/thecycle/examples)
+*     [|--- Safe Injections](/r/steroids/wiki/thecycle/injecting)
+*     [|--- Post Cycle Therapy (PCT)](/r/steroids/wiki/thecycle/pct)
+*     [|--- The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook)
+*     [|--- Cycle Reports](/r/steroids/wiki/reports/list)
+*     [|--- Nutrition](/r/steroids/wiki/nutrition)
+*     [|--- Women](/r/steroids/wiki/women)
 * [**Compound Profiles**](/r/steroids/wiki/compounds/list)
-*     [|--- Hepatotoxicity &amp; Liver Protection](/r/steroids/wiki/hepatotoxicity)
-*     [|--- Ancillaries](/r/steroids/wiki/compounds/ancillaries)
-*     [|--- Homebrewing](/r/steroids/wiki/homebrew/list)
-*     [|--- Esters](/r/steroids/wiki/compounds/esters)
-*     [|--- Side Effects &amp; Solutions](/r/steroids/wiki/sides/list)
-*     [|--- Human Growth Hormone (HGH)](/r/steroids/wiki/growth_hormone)
-*     [|--- Peptides](/r/steroids/wiki/compounds/peptides)
-*     [|--- Compound Experience Directory](/r/steroids/wiki/compound_experience_threads)
+*     [|--- Hepatotoxicity &amp; Liver Protection](/r/steroids/wiki/hepatotoxicity)
+*     [|--- Ancillaries](/r/steroids/wiki/compounds/ancillaries)
+*     [|--- Homebrewing](/r/steroids/wiki/homebrew/list)
+*     [|--- Esters](/r/steroids/wiki/compounds/esters)
+*     [|--- Side Effects &amp; Solutions](/r/steroids/wiki/sides/list)
+*     [|--- Human Growth Hormone (HGH)](/r/steroids/wiki/growth_hormone)
+*     [|--- Peptides](/r/steroids/wiki/compounds/peptides)
+*     [|--- Compound Experience Directory](/r/steroids/wiki/compound_experience_threads)
 * [**Blood Work**](/r/steroids/wiki/bloodwork/list)
-*     [|--- Health Markers Defined](/r/steroids/wiki/bloodwork/health_markers)
+*     [|--- Health Markers Defined](/r/steroids/wiki/bloodwork/health_markers)
 
 ## AAS Related Reading
 
@@ -161,7 +161,6 @@ Side effects of glucocorticoids can include fat gain (particularly trunk), muscl
 A synthetic steroid hormone that resembles Testosterone in promoting the growth of muscle. Such hormones are used medicinally to treat some forms of weight loss and by some athletes and others to enhance physical performance. The proper term for these compounds is Anabolic-Androgenic Steroids (AAS).
 
 **Use of anabolic steroids can have side effects including:**
-
 * Acne and cysts
 * Breast growth and shrinking of testicles in men
 * Voice deepening and growth of body hair
@@ -235,15 +234,14 @@ You will eventually reach a genetic potential maximum ([calculate yours here](ht
 
 * [Natural Muscle Building: A Look At Potential, Genetics &amp; Arm Size](http://www.muscleandstrength.com/expert-guides/bodybuilding-genetics)
 
-# 💁🏼‍♀️📰  Why Young Men Should Not Take AAS
+# Why Young Men Should Not Take AAS
 
-[Originally](http://www.reddit.com/r/steroids/comments/1tup8j/why_young_men_shouldnt_take_aas/) by /u/hypnotoadIRL, [updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest.
-
+[Originally](http://www.reddit.com/r/steroids/comments/1tup8j/why_young_men_shouldnt_take_aas/) by /u/hypnotoadIRL
 ## Introduction 
 
 **Not yet. Minimum Age 25**.
 
-🔞 🚫 You aren't *old enough* to be using. 🔞 🚫
+You aren't *old enough* to be using. 
 
 Exogenous androgens act as epigenetic growth signaling termination factors. 
 
@@ -251,7 +249,7 @@ Exogenous androgens act as epigenetic growth signaling termination factors.
 
 Clinical studies showed this leads to ***long-term aggression, anxiety, depression, cognitive deficits and memory problems***—*among others.*
 
-✅ You're smart. Use foresight. Think ahead. 
+You're smart. Use foresight. Think ahead. 
 
 [Wait until the age MRI scans show developmental completion at the age of ***25***.](https://www.reddit.com/r/steroids/wiki/index#wiki_.1F481.1F3FC.200D.2640.FE0F.1F4F0__why_young_men_should_not_take_aas)
 
@@ -277,7 +275,7 @@ Having temporary glycogen-inflated muscles that deflate like balloons as soon as
 
 ### Environmental Toxins
 
-⚠️ One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20-year-old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). Just like AAS, these estrogen-mimetic compounds affect neurological development *from fetal growth onwards*, with effects that are *cumulative* and *compounded* with any concomitant exposure to AAS.
+One of the most devastating modern environmental catastrophes is global pollution from [petrochemical and plastics industries](https://pubmed.ncbi.nlm.nih.gov/?term=Swan+SH&amp;cauthor_id=25697839)—manmade chemicals such as Bisphenol-A that mimic the function of Estrogen. Testosterone levels in the average 20-year-old male have [dropped by 50% in the last 20 years alone](https://www.reddit.com/r/steroids/comments/n04bgv/plastics_have_reduced_testosterone_levels_by_50/). Just like AAS, these estrogen-mimetic compounds affect neurological development *from fetal growth onwards*, with effects that are *cumulative* and *compounded* with any concomitant exposure to AAS.
 
 Aside from detrimental neurophysiological effects, infertility, hair loss, breast enlargement, loss of motivation and libido, and muscle wasting—the risks of exposure to exogenous estrogen-mimetic compounds are shared with many of the same risks that are tied to premature AAS usage—for obvious reasons: aside from their androgenic effects, the aromatase enzyme metabolizes these compounds to [17β-Estradiol (E2)](https://en.wikipedia.org/wiki/Estradiol).
 
@@ -290,8 +288,6 @@ At your age you're fortunate to be easily able to pack on slabs of lean mass *wi
 ## What's safe?
 
 For hypogonadal patients *under the age of 25* the standard of care medical professionals advise for the treatment of low Testosterone levels is either (**a**) *hCG* or (**b**) *Clomid monotherapy*. Each option has its own unique side effects, relative merits and disadvantages—but either one of these two options are far safer, and nowhere near risking the debilitating negative side effects that can come as a consequence of AAS mismanagement or abuse.
-
-🚫 🔞 🚫 🔞 🚫 🔞 
 
 ## What are the different risks?
 
@@ -327,7 +323,7 @@ There's a serious potential for long-term side effects. People oft-say “I've s
 
 It's well known that hormones play a role in the development of cognitive brain function. **Your neuroendocrine system is still developing until the age of 25**. 
 
-⚠️ Adding external hormones when your brain is still developing can stunt normal development and maturation. All these effects are more serious in still-growing and developing brain:
+ Adding external hormones when your brain is still developing can stunt normal development and maturation. All these effects are more serious in still-growing and developing brain:
 
 * *Many steroids are neurotoxic*.
 
@@ -391,13 +387,13 @@ It's not pretty. Don't think it can't happen to you.
 
 *Here's a few firsthand accounts from other young guys who started young, screwed up big time, and now regret it*.
 
-### **🔞 Testimonial 1**
+### **Testimonial 1**
 
 &gt; u/ghettotuesday: *I started young*. I did SARMs at eighteen, and ended up doing steroids at nineteen. My hormone production is **fucked** now. I’m 100% sure that I altered my brain development in a **very negative way**. **If you hop on early you will regret it**. You can get pretty fucking strong naturally. You can spend the next few years doing just that. When you're finished developing, you’ll have every year **after 25** to blast and cruise and get juicy as fuck.
 &gt;
 &gt; It’s absolutely astounding to me when I see people defending cycling at 18 and literally abusing their body. One of my biggest life regrets is doing a cycle at 19 before I was ready. Definitely fucked some brain development. Definitely made shitty life choices due to increased impulsivity that I wasn’t developed enough to reign in. Garbage
 
-### **🔞 Testimonial 2**
+### **Testimonial 2**
 
 &gt;*I wish I'd listened* to everyone all over the internet that shouts that **No matter what, DON'T use steroids if you're young**. I did my first cycle at age seventeen. I'd been training for 4.5 years by this point, and while it wasn't obvious to me back then how horrendous it got to be at the time, I became even moodier, angrier and more stubborn, and I couldn't even see it. All the growing health issues are the biggest kicker.  
 &gt;  
@@ -409,9 +405,8 @@ It's not pretty. Don't think it can't happen to you.
 &gt;  
 &gt;Ironically, I'm about to hop back on again now... but this is because of my totally trashed hormone levels. I now require lifelong medical intervention to survive. *My T levels are trashed. My thyroid hormones are trashed*. There's no way to know if the reason for my ED, my low levels, my many other problems now is because of the reckless abandonment I treated the issue with way back then. Its already way too late for me but its not too late for you.
 &gt;
-&gt; *Listen to Coach* u/Decatest. Hes good as they come. He'll tell what you're thinking and what you need two - to - three steps down the road without you even knowing it yet. Don't even think about starting. There's so many other options. Take the alternatives follow the advice and wait. 
 
-### **🔞 Testimonial 3**
+### **Testimonial 3**
 
 &gt; Hello guys. So. First off i want to be honest with you and i don' t want any disrespect. I'm 19 years old now and i started using back when i was 17. Im stupid i know and i regret it a lot. I was really into bodybuilding and i competed and had good diet and i was pretty big. but now im really fucked.
 &gt;  
@@ -427,13 +422,13 @@ It's not pretty. Don't think it can't happen to you.
 &gt;  
 &gt; I want to tell you that you don't need muscles to go out with hot girls and you can do it naturally. I've been there and I'm telling you this. Don't start steroids until you know 100% what are you doing with them, the diet and training, if they really fit (or don't) into your long-term future, and wait until your brain and body development is really complete like they suggest.
 
-### **🔞 Testimonial 4**
+### **Testimonial 4**
 
 &gt; I started around nineteen. It fucked up my test for life. Now I’m on TRT at 26 and will be for I guess the rest of my life. Yeah it’s cool being big but I think if I could go back I probably wouldn’t do it at all. It’s just not as important as I thought it was back then.
 &gt;
 &gt; I started at Test E 200/week. I’m not sure there’s a guaranteed path to not fucking up your hormones permanently. I know it’s a lot coming from a stranger, but before I’d start anything I would do a little soul searching for why you want to be big. There are a lot of downsides if you end up having to do TRT forever.
 
-### **🔞 Testimonial 5**
+### **Testimonial 5**
 
 &gt; I was put on oral test by a quack doctor at ***19*** and I was totally in because I wanted the benefits of Test. I got off because he was quack and expensive AF, but did my first cycle of 400mg test at 21.
 &gt;
@@ -449,7 +444,7 @@ It's not pretty. Don't think it can't happen to you.
 &gt;
 &gt; I'm lucky that I have a few friends that I can talk about this stuff with and now that I'm in my 30's hiding it matters less since I own a home. But dancing around hiding things from 21–24 with roommates sucked and probably created tensions the same way hiding an affair might. My guilt or discomfort was channeled into situations and there was no way for anyone else to understand or be prepared because I wasn't sharing the why with them. Just party, work out, look the best you can and have some fun with your friends.
 
-### **🔞 Testimonial 6**
+### **Testimonial 6**
 
 &gt; ***I took gear at 18. How screwed am I? What do I do?***
 &gt;
@@ -510,8 +505,6 @@ It's not pretty. Don't think it can't happen to you.
 &gt; **I know I f*cked up** so please go easy on me … I went against everyone's advice and deeply regret it. 
 
 \* End Testimonials *
-
-— *[updated](https://www.reddit.com/r/steroids/comments/ey6t8r/comment/fgi9fl8) by u/Decatest* —
 
 ## Women &amp; AAS
 
