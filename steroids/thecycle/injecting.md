@@ -157,7 +157,7 @@ In order to back-load, begin by getting out 2 insulin syringes and setting them 
 
 [**Very Helpful Video On Back-Loading**](https://www.youtube.com/watch?v=52kEHcp5PKA)
 
-##Disposal Of Used Needles/Syringes
+##Disposal Of Used Needles/Syringes.
 
 When disposing of used syringes, it is of primary importance that the original protective covering be placed back on the syringe prior to discarding. This will prevent anyone from accidentally coming in contact with the syringe and accidentally piercing their skin. No one wants to be pulling a used needle out of their hand, because the user was negligent in his responsibilities.
 

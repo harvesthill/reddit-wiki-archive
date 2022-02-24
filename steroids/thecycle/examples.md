@@ -1,6 +1,6 @@
 # Example Cycles 
 
-* Use [SteroidCalc](http://steroidcalc.com/) To Plot Out Cycles
+* Use [SteroidPlotter](https://www.steroidplotter.com/) To Plot Out Cycles
 
 ## Beginner Cycles
 
@@ -30,19 +30,6 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 ***Note***: You can extend up to 20 weeks. If you wish to extend it, all your ending weeks will change and the week you start PCT will as well.
 
 ##SUPPLEMENTAL COMPOUNDS 
-
-### Clenbuterol 
-
-####⚠️ WARNING: Toxicity
-
-***Clenbuterol*** *is effective, but* ***Salbutamol*** *is safer:*
-
-* *Mislabeled* or *inaccurately overdosed* UGL liquid Clen is a serious continuing concern.
-* [Clenbuterol toxicity: a NSW Poisons Information Centre experience](https://www.mja.com.au/journal/2014/200/4/clenbuterol-toxicity-nsw-poisons-information-centre-experience) *Cardiotoxicity, cardiac arrest in a 21-year-old man*
-* [Myocardial Injury Induced by the Long Acting β2 Adrenergic Agonist Clenbuterol](http://www.fortunejournals.com/articles/myocardial-injury-induced-by-the-long-acting-beta2-adrenergicnbspagonist-clenbuterol.pdf) *Cardiotoxicity, hospitalization on just 40mcg*
-* [Myotoxic effects of clenbuterol in the rat heart and soleus muscle](https://journals.physiology.org/doi/pdf/10.1152/japplphysiol.00139.2002) *Doses commonly employed induce significant myocyte necrosis in the heart and soleus muscles*
-* [Clenbuterol toxicity in a young male athlete](https://www.researchgate.net/publication/318547306_Clenbuterol_toxicity_in_a_young_male_athlete)  *Acute toxicity, agitation, tachycardia, hemodynamic instability, hypotension, with signs of myocardial damage on ECG* 
-* [Acute clenbuterol overdose resulting in supraventricular tachycardia and atrial fibrillation](https://www.researchgate.net/publication/5776545_Acute_clenbuterol_overdose_resulting_in_supraventricular_tachycardia_and_atrial_fibrillation) *Mislabeled UGL liquid Clen. Tachycardia readings 254bpm*
 
 ## Salbutamol
 

@@ -2,8 +2,8 @@
 
 Here we will keep a directory of the Compound Experience Saturday threads. These threads cover any and all PEDs used to build muscle, strength, fertility / PCT, stimulate (within reason) / thermogenics, or anything that benefits users overall.
 
-Feel free to message /u/GeardedandBearded with any requests you may have. Just please limit your requests to one or two things.  
-We are doing compounds or topics multiple times, but for the time being, please only message /u/GeardedandBearded if you have request for a compound not listed yet.
+Feel free to message /u/iSkeezy with any requests you may have. Just please limit your requests to one or two things.  
+We are doing compounds or topics multiple times, but for the time being, please only message /u/iSkeezy if you have request for a compound not listed yet.
 
 ## Anabolic-Androgenic Steroids (AAS)
 

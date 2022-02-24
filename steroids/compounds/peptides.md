@@ -248,7 +248,7 @@ Based on the current human studies to date, BPC 157 can be safely administered f
 
 **Ok, so you may be now wondering why in the heck your physician, physical therapist, surgeon, gastroenterologist, etc. hasn't told you about this stuff.**
 
-Here's the deal: since BPC 157 is a completely natural gastric juice peptides, it's technically not patentable, period. That means big pharma can't make money off BPC 157, and that means it's not getting marketed to your local doctor or hospital or anywhere else in the health care system. It's also not available as an FDA regulated drug, or even considered to be “sellable” for human use.
+Here's the deal: since BPC 157 is a completely natural gastric juice peptides,  it's technically not patentable, period. That means big pharma can't make money off BPC 157, and that means it's not getting marketed to your local doctor or hospital or anywhere else in the health care system. It's also not available as an FDA regulated drug, or even considered to be “sellable” for human use.
 
 #Studies and Other Links
 * GHRP-2 [GHRP-2 increases GH levels](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/)   

@@ -18,7 +18,7 @@ Anabolic steroids also have androgenic and virilizing properties, including the 
 
 * [*Trenbolone*](/r/steroids/wiki/trenbolone) *aka* ***Tren***, ***Parabolan*** — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **500**/**500**. Recomp, super-effective nutrient partitioning, massive strength gains, dry, grainy look, sides from hell, toxic, tough to out-eat on bulk. [*Experience thread*](https://www.reddit.com/r/steroids/comments/8oboj2/compound_experience_sunday_trenbolone_aka_tren/)*.*
 
-* [*Trestolone*](https://www.reddit.com/r/steroids/comments/fxrzrb/daily_ask_anything_20200409/fmyx6iv) *aka* ***MENT*** *(7α-methyl-19-nortestosterone)* — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **2500**:**650**. Megamass. “Super-test.” Hybrid of Test, Tren and Deca without the negative sides. Massive gains, super anabolic at 10x more myotropic than test. Great energy, well-being and positive feels. Expensive (±6× test). Aromatizes to methyl-estrogen. [*Compound Definition*](https://www.reddit.com/r/steroids/comments/fxrzrb/daily_ask_anything_20200409/fmyx6iv). [*Experience thread*](https://www.reddit.com/r/steroids/comments/86t5st/compound_experience_saturday_trestolone_trest_ment/)*.*
+* [*Trestolone*](https://www.reddit.com/r/steroids/comments/fxrzrb/daily_ask_anything_20200409/fmyx6iv) *aka* ***MENT*** *(7α-methyl-19-nortestosterone)* — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **2500**:**650**. Some refer to this compound as a hybrid of Test, Tren and Deca. Lean gains, super anabolic at 10x more myotropic than test. Aromatizes to methyl-estrogen. Briefly studied as a male contraceptive, however all studies were halted 2013 with unclear reasons as to why. [*Experience thread*](https://www.reddit.com/r/steroids/comments/86t5st/compound_experience_saturday_trestolone_trest_ment/)*.* 
 
 * [*Methyltrienolone*](https://www.reddit.com/r/steroids/wiki/compounds/methyltrienolone) *aka* ***Mtren***, ***Oral Tren*** — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **12000**:**6000**. One of the strongest AAS in existence—second only to its double methylated cousin, *dimethyltrienolone*. Said to rank equally to trestolone for rapid, overnight changes in aesthetics and appearance. Extreme surge in strength and aggression. Oft-utilized as a pre-workout or for brief cycles of 3-4 weeks. **Warning**: Highly hepatotoxic. Can be used orally or injected. For toxicity reasons, injection route is highly recommended. [*Experience thread*](https://www.reddit.com/r/steroids/comments/9g59y3/compound_experience_saturday_metribolone/)*.*
 
@@ -79,7 +79,6 @@ Hydroxytestosterone | 25 | 65 | |
 Laurabolin (Nandrolone Laurate) | 37 | 125 | |   
 Madol (Desoxymethyltestosterone ) | 187 | 1,200 | |   
 Megagrisevit-Mono (Clostebol Acetate) | 25 | 46 | |   
-[MENT (Trestolone/Methylnortestosterone Acetate)](https://www.reddit.com/r/steroids/wiki/trestolone) | 650 | 2,300 | |   
 Mestanolone | 78-254 | 107 | |   
 [Methenolone Enanthate](https://www.reddit.com/r/steroids/wiki/primobolan) | 44-57  | 88  | | Detectable for 5 months   
 Methandienone | 60  | 300  | | Detectable for 5 months   
@@ -107,7 +106,7 @@ Synovex (Testosterone Propionate &amp; Estradiol) | 100 | 100 | |
 Test 400 | 100 | 100 | |
 THG (Tetrahydrogestrinone) | No Data  | No Data  | |   
 [Trenavar (Trenbolone prohormone)](http://www.reddit.com/r/steroids/wiki/compounds/trenavar) | No Data  | No Data  | |
-[Trestolone (MENT/7α-methyl-19-nortestosterone Acetate)](https://www.reddit.com/r/steroids/wiki/trestolone) | 650 | 2,300 | | Under development as male birth control pill  
+[Trestolone (MENT/7α-methyl-19-nortestosterone Acetate)](https://www.reddit.com/r/steroids/wiki/trestolone) | 650 | 2,300 | | 
 
 ##FAQ
 Some answers to common questions.

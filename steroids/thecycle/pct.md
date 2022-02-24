@@ -2,7 +2,7 @@
 
 Post Cycle Therapy or PCT is a period of medication treatment that follows the use of anabolic steroids. Post Cycle Therapy is also one of the most confusing topics for many steroid users; this is largely due to misconceptions. When to start PCT, which meds to use, how long to use them and what you should expect, these are all common questions and ones we’ll address here.
 
-🟢 **RECOMMENDED PCT: 10mg Nolvadex, 6-8 weeks**
+ **RECOMMENDED PCT: 10mg Nolvadex, 6-8 weeks**
 
 ## The Purpose of PCT
 
@@ -130,11 +130,7 @@ Studies have demonstrated that 150mg of Clomid (Clomiphene Citrate) administered
 
 The men taking Nolvadex at 20 mg/day had a significantly increased LH response to GnRH. In contrast, the men taking Clomid had reduced LH output, a decreased sensitivity to GnRH. The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen (Nolva) seems the most probable explanation."^(11) Likewise, Clomid actually has been studied to exhibit Estrogen agonist effects at the pituitary in vitro.^(12) 
 
-⚠️ **CAUTION: CLOMID** 
-
 What all this means is that **Clomid potentially will work in varying degrees as an Estrogen** at the pituitary gland, triggering the negative feedback loop and reducing the output of Testosterone stimulating gonadotropins (LH and FSH). **This is a problem during post cycle therapy**, which is a period in which individuals are trying to recover their HPTA function rather than halt it even further. Ideally, one would want a SERM that exhibits almost 100% Estrogen antagonistic effects on the pituitary gland.
-
-⚠️ **CAUTION: CLOMID** 
 
 In addition to all this, **vision sides are common with Clomid** and could may cause ***irreversible changes***.^(18) Nolvadex may potentially cause some vision sides as well,^(19) but they are known to be *far more prominent in Clomid* than Nolvadex.^(16) More on [Side Effects](https://www.reddit.com/r/steroids/wiki/thecycle/pct#wiki_side_effects) below.
 
@@ -150,7 +146,7 @@ To touch lightly on Torem &amp; Ralox, they have all been compared and studied a
 
 As demonstrated, **Nolvadex came out on top** here in LH, Testosterone &amp; Normal sperm forms. Torem topped Nolva in FSH and Sperm concentration. Both are very suitable PCT options (as already known with Nolva, but this shows Torem as a viable option as well). Ralox was unfavorable and is probably best used just for gynecomastia treatment.
 
-⚠️ **IMPORTANT NOTE:** Be sure to check out [Drug Interactions](https://www.reddit.com/r/steroids/wiki/draft#wiki_drug_interactions), as this contains important information for those using SSRIs and SERMs.
+ **IMPORTANT NOTE:** Be sure to check out [Drug Interactions](https://www.reddit.com/r/steroids/wiki/draft#wiki_drug_interactions), as this contains important information for those using SSRIs and SERMs.
 
 ## Dosing
 
@@ -168,19 +164,17 @@ Recent studies have found that even lower doses than traditionally-prescribed ar
 
 **STUDIES SHOW PEAK EFFICACY AT 5mg PER DAY**
 
-* [A weekly low-dose tamoxifen vs raloxifene vs placebo in premenopausal women with estrogen receptor-positive breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053157)  — This study examined the efficacy of doses at **1mg** and **5mg** per day and found *the two lower doses are just as effective* *as the previous standard of 20mg per day*. “Considering results of our previous studies we are now focusing on Tamoxifen at 5mg per day. A weekly dose of 10mg/week is suggested as an alternative.”   
+* [A weekly low-dose tamoxifen vs raloxifene vs placebo in premenopausal women with estrogen receptor-positive breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053157)  — This study examined the efficacy of doses at **1mg** and **5mg** per day and found *the two lower doses are just as effective* *as the previous standard of 20mg per day*. “Considering results of our previous studies we are now focusing on Tamoxifen at 5mg per day. A weekly dose of 10mg/week is suggested as an alternative.”   
 
-* [Randomized dose trial of Tamoxifen at low doses in hormone replacement therapy](https://www.ncbi.nlm.nih.gov/m/pubmed/17709798/) — This study examined the efficacy of tamoxifen at doses of **1mg**, **5mg** and **10mg** per day. “A dose of *5 mg/day was the most effective* and has been selected for a phase III trial in HRT users.”
+* [Randomized dose trial of Tamoxifen at low doses in hormone replacement therapy](https://www.ncbi.nlm.nih.gov/m/pubmed/17709798/) — This study examined the efficacy of tamoxifen at doses of **1mg**, **5mg** and **10mg** per day. “A dose of *5 mg/day was the most effective* and has been selected for a phase III trial in HRT users.”
 
 * [Randomized trial of low-dose tamoxifen on breast cancer proliferation and estrogen biomarkers](https://www.ncbi.nlm.nih.gov/m/pubmed/12783932/) — “We compared the effects of tamoxifen at **1 mg/day** and **5 mg/day** with those of the standard dose of **20 mg/day**. The effects of lower doses … were comparable to those achieved with the standard dose.” 
 
-⚠️ **PCT dosing with Nolvadex has been updated (2020) as follows**:
+**PCT dosing with Nolvadex has been updated (2020) as follows**:
 
 * **6–8 Weeks** at **5–10 mg ED**. Doses can be taken as low as ***5 mg/day*** if sides are a concern.
 
-### Clomid (*not recommended*) 
-
-⚠️ **CAUTION**: Clomid's potential side effects include **MOOD SWINGS** and **PERMANENT VISION CHANGES**, *e.g.* a purple tint to vision. 
+### Clomid 
 
 According to the study previously mentioned,^(14) and thus recommended by the FDA, Clomid for hypogonadism should be run at 25 mg EOD, 25 mg ED, or 50 mg EOD. Again, *the side effects of Clomid can be quite bothersome and bad*. ***Why risk vision changes or vision loss*** running +50-150 mg ED when you could just do 25mg ED or 50mg EOD and get fantastic results? Dosing of a PCT including Clomid is as follows:
 
@@ -634,7 +628,7 @@ SERMs should be run for a much longer time period, depending on the time of your
 
 * 10 mg Nolvadex (Tamoxifen) everyday **OR** 60 mg Toremifene everyday
 
-**AND**
+  **AND**
 
 * 25 mg Clomid (Clomiphene) everyday
 

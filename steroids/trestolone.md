@@ -46,9 +46,11 @@ Several studies point to MENT's lack of 5α-reductase metabolism and prostate-sa
 
 ###e. Short Half-life 
 
-In a study on MENT's half-life, MENT Acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is **VERY** short, calculated to be only 40 minutes for 500mcg of *unesterified* compound injected IV. A Swedish study^(9) injecting MENT IM found a longer half-life of 224 minutes due to the extended absorption time of IM injection. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. Daily administration should be sufficient with the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values to be injected twice per week and once per week, respectively, are also commercially available. 
+The half-life of *unesterified* compound injected IV is **VERY** short, calculated to be only 40 minutes for 500mcg. A Swedish study^(9) injecting MENT IM found a longer half-life of 224 minutes due to the extended absorption time of IM injection. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. 
 
-###f. Rapid Recovery 
+Daily administration should be sufficient with the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values to be injected twice per week and once per week, respectively, are also commercially available. 
+
+###f. Rapid Recovery of Spermatogenisis 
 
 A comprehensive human study conducted on male subjects compared the effects of MENT to Testosterone, both *solo* and accompanied with the progestin Etonogestrel, on spermatogenesis, sex drive, and safety biomarkers associated with androgen use. This was a robust study, containing 29 subjects tested for 48 weeks.^(8)
 
@@ -58,9 +60,7 @@ Recovery from MENT was *much more rapid* than from Testosterone. The recovery pe
 
 ###g. Birth Control
 
-* MENT is 12× more suppressive than Testosterone and is under development by USG and university research partners as a rapidly-reversible male oral or implant-based contraceptive. 
-
-* Check this excellent Program Overview on MENT from the [Population Council](https://www.popcouncil.org/research/ment-subdermal-implants-for-men).
+* MENT is 12× more suppressive than Testosterone and is was under development as a rapidly-reversible male oral or implant-based contraceptive. All studies were halted in 2013 without a clear cause.
 
 #### Contraceptive Studies 
 
@@ -94,21 +94,25 @@ The results of the following study indicate that MENT alone is sufficient to sup
 
 * [7α-methyl-19-nortestosterone (MENTR): the population council's contribution to research on male contraception and treatment of hypogonadism](https://pubmed.ncbi.nlm.nih.gov/23063338/)
 
+###h. Side Effects.
+
+* Some users may report no noticeable side effects from MENT, however other may experience a cascade of side effects ranging from heart palpitations, anxiety, increased heart rate, increased blood pressure, insomnia, gyno/uncontrollable estrogen issues, etc. It can carry the same long term side effects as any other AAS. It is always recommended to start at a low dose (5mg or less) and titrate up to assess your tolerance.
+
+* **It is worth noting that this product was pulled from human trails in 2013, and the reasoning behind it failing to go forward is still a mystery. It is worth questioning why the plug was pulled.**
+
 ## 2. Administration Guidelines 
 
-Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day, given that MENT is ten times more myotropic than Testosterone. Contraceptive studies found that implants timed to release 400, 800 and 1600 mcg per day were well-tolerated. 400-700mcg on up to 1-2mg were employed by clinical studies as an approximate translation to TRT. Given the complete lack of side effects and the nominal impact on bloodwork, many bodybuilders opt to follow an “enhanced” cruise protocol of MENT at 5-10mg/day. 
+Weekly dosage is low. In clinical studies, the injectable pellets used released between 400-700 micrograms per day as replacement for natural Testosterone production values that fall between 4-7 milligrams per day, given that MENT is ten times more myotropic than Testosterone. Contraceptive studies found that implants timed to release 400, 800 and 1600 mcg per day were well-tolerated. 400-700mcg on up to 1-2mg were employed by clinical studies as an approximate translation to TRT. Given the complete lack of side effects and the nominal impact on bloodwork. 
 
 Trestolone is intended be taken *solo* as a replacement or paired with Testosterone. For weightlifting purposes good results and accelerated progress can be made at doses as little as 5-10mg/day. Commonly-used blast doses range from 10-25mg (70-175/wk), 25-50mg (175-350/wk), on up to 100mg per day (700/wk). The average cycle settles upon 25-35mg/day. Acetate ester blasts are typically 8 weeks in duration, whereas Enanthate and Decanoate are longer at 12-20 weeks. 
 
 There's no need to rush into taking higher doses. Harm reduction would dictate administering the minimum required and titrating dose upwards. Pairing with Test conveys estrogen's protective benefits. In sensitive individuals, side effects such as high blood pressure, gynecomastia, or night sweats may manifest at the higher end of the dosage range, making it imperative to have AI on hand and to titrate up from cruise. 
 
-As MENT is designed as a prostate-safe replacement for Testosterone in TRT, following completion of the blast phase one can simply drop back down to a cruise.
-
 ### a. Example Cycle
 
 MENT has long been run *Solo* **OR** *paired* with TRT doses of Testosterone (typically 80-150mg). The following holds for **Trestolone Acetate**. Enanthate and Decanoate esters take far longer to reach saturation, so weekly changes would be too quick to discern sufficient metrics before moving forward. 
 
-Trestolone is intended as a rapidly-reversible male contraceptive and as a replacement for Testosterone in HRT. Long-term clinical research found no adverse effects or problems in long-term studies of 48 weeks that administered Trestolone solo. Anecdotal reports from some users indicate MENT is better when paired with TRT levels of Testosterone. This is particularly advisable from a medical perspective given the neuroprotective and cardioprotective benefits conveyed by estradiol. 
+Trestolone is intended as a rapidly-reversible male contraceptive and as a replacement for Testosterone in HRT. Anecdotal reports from some users indicate MENT is better when paired with TRT levels of Testosterone. This is particularly advisable from a medical perspective given the neuroprotective and cardioprotective benefits conveyed by estradiol. 
 
 * As a short-ester Acetate, injections should occur every day. MENT doesn't bind to SHBG, so it's fully metabolized in no time flat. 
 
@@ -116,31 +120,25 @@ Trestolone is intended as a rapidly-reversible male contraceptive and as a repla
 
 * Try a week or so going up to 5mg/day. Again pay close attention to any mental or physical changes. How are sleep, mood, appetite affected? Many users experience heretofore unheard-of physique and strength gains, and record-shattering PR (1RM) lifts, even at this low dose regime. 
 
-* If you're interested in taking it higher, work your way to 10mg.  Closely keep track of any changes along the way. Keep in mind clinical studies haven't been conducted above ~2mg per day. 
+* If you're interested in taking it higher, work your way to 10mg.  Closely keep track of any changes along the way. **Keep in mind clinical studies haven't been conducted above ~2mg per day.**
 
-* If well-tolerated, the daily dose is oft-taken to 25mg, splitting into multiple injections to reduce the potential of side effects.
+* If well-tolerated, the daily dose is oft-taken to 25mg.
 
-* Many bodybuilders have taken MENT to 50, 75—even 100mg. *Less conservative* coaches recommend starting MENT at 30mg/day and quickly moving on up to 50mg/day+.
+* *Safety studies haven't yet been conducted anywhere near this high*, so you're in uncharted terrain. This is the principle reason for titrating from ~1mg. Remember clinical studies were 700mcg to 2mg at max.
 
-* *Safety studies haven't yet been conducted anywhere near this high*, so you're in uncharted terrain. This is the principle reason for titrating from ~1mg.
-
-* When the cycle is complete, choose between termination of the cycle or dropping back down to a cruise (400–700 micrograms per day) or “enhanced cruise” (2–5mg). MENT is intended to serve as a prostate-safe, healthy replacement for TRT—so it's not unheard of to blast and cruise with it as oft-practiced with Testosterone.
+* When the cycle is complete, choose between termination of the cycle or dropping back down to a cruise (400–700 micrograms per day). 
 
 Yet again: there's no need to rush into higher doses just because they're the prevailing paradigm. *Harm reduction would dictate administering the minimum required and titrating dose upwards*. In sensitive individuals, side effects such as high blood pressure, gynecomastia, or night sweats may manifest at the higher end of the dosage range, making it imperative to *titrate up* from cruise.
 
-Many users experience massive improvement in physique and *lifetime PRs* on as little as 5 mg per day. Why not keep the doses low, keep your wallet intact, and save the megadoses for later? There's *no need to rush* into anything higher. In taking it slowly the first time, you'll find your sweet spot, save your wallet, and simultaneously *guarantee* the absence of adverse side effects.
-
-**Veteran input** 
+Many users experience massive improvement in physique on as little as 5 mg per day. There's *no need to rush* into anything higher. In taking it slowly the first time, you'll find your sweet spot, save your wallet, and simultaneously help to minimize adverse side effects.
 
 ### c. Estrogen Management
 
 MENT doesn’t directly impact estradiol (E2). As 7α-Methylestradiol (7α-Me-E2), its estrogen is similar to the 17α-Methylestradiol (17α-Me-E2) produced by Dianabol, and it doesn't show on bloodwork. 
 
-When adding MENT to an existing stack, the Equipoise or Primobolan ratio doesn't matter so much as the dose of Testosterone you're taking unless you're going solo. 
-
 If you start MENT and begin to experience sides, take a normal dose of AI and/or simply lower the dose. MENT is metabolized quickly, so more frequent dosing will cut down on spikes.
 
-As some users report trouble managing aromatization with MENT, *have Aromasin, Nolvadex or Raloxifine at the ready*. Fortunately, the majority of users present with no sides. If you follow the Wiki guidelines and titrate up from a cruise, this should never become an issue.
+As some users report trouble managing aromatization with MENT, *have Aromasin, Nolvadex or Raloxifine at the ready*.
 
 ### d. Solo? Or no?
 
@@ -148,9 +146,7 @@ Some prefer to run MENT with Testosterone, some prefer to run it solo. In absenc
 
 In part this depends on how one responds to DHT, or the absence thereof, as replaced by another potent androgen (MENT).
 
-Most have no problems running it solo, but one early adopter experienced a subtle loss of drive and motivation that was corrected by reintroducing Test at TRT levels. Since then, many others have run it solo for months to years at a time without any negative sides or problems. 
-
-Test is cheap, so there's no problem in continuing to run it at TRT levels just to be conservative. Others who aromatize more heavily may prefer to run MENT solo so they aren't doubling up on estrogen management. 
+Some have no problems running it solo, but one early adopter experienced a subtle loss of drive and motivation that was corrected by reintroducing Test at TRT levels. There is no problem in continuing to run it at TRT levels just to be conservative. Others who aromatize more heavily may prefer to run MENT solo so they aren't doubling up on estrogen management. 
 
 ## 5. References
 

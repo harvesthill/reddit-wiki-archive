@@ -17,7 +17,6 @@ Dev Med Child Neurol. 2004 Aug;46(8):569-71.
 http://www.ncbi.nlm.nih.gov/pubmed/15287249
 
 &gt;Children with cerebral palsy (CP) often have poor linear growth during childhood, resulting in a diminished final adult height. Here we report a female with CP and short stature but without growth hormone (GH) deficiency who exhibited increased growth during treatment with GH. We also report two other children with CP who were treated with GH: one female with a history of leukemia, and a male with Klinefelter syndrome. These two children were both found to be GH-deficient by insulin provocative GH testing and responded to treatment with increased growth rate. Growth improved to a greater extent in the two children with apparent GH deficiency. In summary, it is felt that GH therapy might be beneficial for children with CP and warrants further investigation.
-
 **Growth hormone deficiency in two children with cerebral palsy.**
 
 Dev Med Child Neurol. 1995 Nov;37(11):1013-5.
@@ -64,8 +63,6 @@ Procollagen III is a primary indicator used to determine the rate of collagen sy
 * **Stanozolol** [boosts collagen production](https://www.jidonline.org/article/S0022-202X(15)40340-9/full) and mRNA.
 * **Anavar** is prescribed post-surgery and has hundreds of scientific studies demonstrating [increased collagen synthesis](https://www.researchgate.net/publication/285519197_The_Influence_of_the_Anabolic_Agent_Oxandrolone_upon_the_Expression_of_Procollagen_Types_I_and_III_mRNA_in_Human_Fibroblasts_Cultured_on_Collagen_or_Plastic), accelerated [wound healing](https://www.ncbi.nlm.nih.gov/pubmed/10810035) and enhanced recovery.
 * **Estrogen** [plays an integral role](https://www.ncbi.nlm.nih.gov/pubmed/18927264) in keeping tendons and joints strong.
-
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;*— Contributed by u/Decatest*
 
 ##COPD
 
