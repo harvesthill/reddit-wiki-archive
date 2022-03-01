@@ -15,11 +15,23 @@ Individuals will also often use HCG to combat testicular atrophy, a result of th
 
 ##Use/Dosing
 
-It is important to note that hCG should only be run while a user is still on cycle, and not during PCT. This is due to hCG actually being **suppressive** to the HPTA. Obviously this is something to be avoided when attempting to “restart” your natural testosterone production. Ensure that the last shot of hCG is taken within several days of the start time of post-cycle therapy so that it has cleared the system of the user and the compounds being taken for PCT can function as intended.
+###Mixing HCG
+
+Mixing 2ml bac water with 5000iu hCG will provide 250iu for every tenth of a ml/cc. This will provide you 20 250iu hCG doses.  
+
+Generally hCG will come with a vial of lyophilized powder and an ampule of either sodium chloride solution or bacteriostatic water. You want the bacteriostatic water. Bac water is intended for multiple uses and will inhibit bacteria growth. The sodium chloride solution is intended for female fertility use purposes and is to be used in a single injection. If used over multiple injections it may begin to grow bacteria.
+
+When you check your vial of lyophilized hCG it will generally be 5000 IU, although it can come in other amounts.
+
+Using 5000 IU as the most common example; if you take 2mL of Bac Water and inject that slowly into your vial of 5000 IU hCG, you then have 250 IU per tenth of a mL (cc). So every tenth of your 1mL insulin syringe would be 250 IU.
+
+The other form hCG might come in is a liquid form. This is hCG in a solution with a preservative to keep it active. You may add bacteriostatic water to this in order to adjust your dosage if you need.
+
+In either case, hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing it with bac water. hCG should be good for around 60 days when refrigerated. After that time it will lose potency at about ten percent per week as time goes on. Doses in excess of 3000 IU have been prescribed by doctors to help stimulate Testosterone production in patients suffering from hypogonadism. Even at higher doses of tens of thousands of IU per week hCG is entirely harmless. 
 
 High doses of hCG have been shown to cause a large amount of aromatase activity. Since a user would obviously want to keep aromatase to the lowest level possible, small and frequent doses would be most effective while keeping side effects to a minimum. Human chorionic gonadotropin can be injected either using intramuscular or subcutaneous injection methods. There is no evidence showing that either method is more effective or potent than the other. 
 
-Once reconstituted with bacteriostatic water, hCG must be refrigerated. Depending on the type of HCG a user has, it could last from approximately 4–8 weeks. There are numerous effective ways with which a user can administer the compound throughout the cycle. Doses in excess of 3000 IU have been prescribed by doctors to help stimulate Testosterone production in patients suffering from hypogonadism. Even at higher doses of tens of thousands of IU per week hCG is entirely harmless. 
+It is important to note that hCG should only be run while a user is still on cycle, and not during PCT. This is due to hCG actually being **suppressive** to the HPTA. Obviously this is something to be avoided when attempting to “restart” your natural testosterone production. Ensure that the last shot of hCG is taken within several days of the start time of post-cycle therapy so that it has cleared the system of the user and the compounds being taken for PCT can function as intended.
 
 ###250 IU EOD 
 

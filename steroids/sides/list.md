@@ -2,22 +2,22 @@
 
 ###General
 * [Acne](/r/steroids/wiki/sides/acne_vulgaris)
-* Erectile Dysfunction
+* [Erectile Dysfunction](https://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/symptoms-causes/syc-20355776)
 * [Estrogen Imbalance](http://www.reddit.com/r/steroids/wiki/sides/changes_in_estrogen_levels)
-* Gonad Atrophy
+* [Gonad Atrophy](https://www.healthline.com/health/testicular-atrophy)
 * [Gynecomastia](/r/steroids/wiki/sides/gynecomastia)
-* Hair Loss
-* Hematocrit Increase
+* [Hair Loss](https://www.healthline.com/health/hair-loss)
+* [Hematocrit Increase](https://www.medicalnewstoday.com/articles/hematocrit-levels)
 * [Hypothalamic–pituitary–gonadal axis (HPTA) Shutdown](/r/steroids/wiki/sides/hpta-shutdown)
 * [Hypertrophic Cardiomyopathy](/r/steroids/wiki/sides/hypertrophic_cariomyopathy)
-* Hypogonadism
-* Hypothyroidism
+* [Hypogonadism](https://en.wikipedia.org/wiki/Hypogonadism)
+* [Hypothyroidism](https://en.wikipedia.org/wiki/Hypothyroidism)
 * [Increased Hematocrit](/r/steroids/comments/2hq3uw/watch_your_bloods/)
-* Joint Pain
+* [Joint Pain](https://en.wikipedia.org/wiki/Arthralgia)
 * Lactation ([Galactorrhea](http://en.wikipedia.org/wiki/Galactorrhea)) - caused by [Hyperprolactinemia](http://en.wikipedia.org/wiki/Hyperprolactinemia)
-* Liver Stress - caused by Hepatotoxic compounds
+* [Liver Stress](https://en.wikipedia.org/wiki/Hepatitis#Acute) - caused by Hepatotoxic compounds
 * Painful Back / Shin / Calf / etc. Pumps
-* Lipid (HDL / LDL) Increases
+* [Lipid (HDL / LDL) Increases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4527564/)
 * [Spermatogenesis Changes](/r/steroids/wiki/sides/spermatogenesis_changes)
 * "Test Flu" [(See Below)](/r/steroids/wiki/sides/list#wiki_.22test_flu.22)
 
@@ -32,8 +32,6 @@
 ##Acne
 
 ###Without Accutane
-
-*The following was written by /u/JuliuscaesarGG*
 
 Why without Accutane?
 
@@ -238,20 +236,19 @@ When you're wanting to preventatively take action against prolactin, a Dopamine 
 
 **Supplements To Help Control Prolactin:**
 
-
 ***PLEASE READ: [Prolactin-Inhibiting Supplements Wiki Page](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook/prolactin_supplements)***
 
 - [**Vitamin B6 (Pyridoxine Hydrochloride &amp; P-5-P)**](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook/prolactin_supplements#wiki_vitamin_b6_.28pyridoxine_hydrochloride_.26amp.3B_p5p.29) - To lower prolactin levels it's recommend you take 50-200mg of P-5-P a day, in divided doses. If you want to take regular B6, which can sometimes cause [minor side effects](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook/prolactin_supplements#wiki_side_effects_of_b6_.28pyridoxine_hydrochloride.29), take 300-1000 mg per day in divided doses.
 
-**Read the label before you buy B6 (if you choose not to get P-5-P), because the Pyridoxine Hydrochloride type of B6 (in most supplements) has been shown to be a prolactin inhibitor, but Pyridoxal Hydrochloride has been shown to be ineffective at lowering prolactin – make sure you buy the right type!**
+ **Read the label before you buy B6 (if you choose not to get P-5-P), because the Pyridoxine Hydrochloride type of B6 (in most supplements) has been shown to be a prolactin inhibitor, but Pyridoxal Hydrochloride has been shown to be ineffective at lowering prolactin – make sure you buy the right type!**
 
-- **[Vitamin B6 - Examine Page](https://examine.com/supplements/Vitamin%20B6/)**
+ - **[Vitamin B6 - Examine Page](https://examine.com/supplements/Vitamin%20B6/)**
 
 - [**Vitamin E**](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook/prolactin_supplements#wiki_vitamin_e) - When using Vitamin E as a prolactin inhibitor, it's recommended that you take 300-400 IU per day of natural Vitamin E – this can be raised up to dosages such as 1000 IU for greater prolactin control, but be aware of [the possible side effects outline here](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook/prolactin_supplements#wiki_side_effects_of_vitamin_e)
 
-**Natural Vitamin E is labelled D-Alpha Tocopherol whereas synthetic is labeled DL-Alpha Tocopherol – the natural form works best. D-Alpha Tocopherol with mixed natural tocopherols or D-Alpha Tocopherol with mixed natural tocotrienols are the absolute best forms to take.**
+ **Natural Vitamin E is labelled D-Alpha Tocopherol whereas synthetic is labeled DL-Alpha Tocopherol – the natural form works best. D-Alpha Tocopherol with mixed natural tocopherols or D-Alpha Tocopherol with mixed natural tocotrienols are the absolute best forms to take.**
 
-- **[Vitamin E  - Examine Page](https://examine.com/supplements/Vitamin%20E/)**
+ - **[Vitamin E  - Examine Page](https://examine.com/supplements/Vitamin%20E/)**
 
 - [**SAM-e**](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook/prolactin_supplements#wiki_sam-e) - Take 400-1200 mg a day of SAM-e along with Vitamin B6 and Vitamin E. An added bonus is SAM-E's ability to detoxify the liver.
 
@@ -260,7 +257,6 @@ When you're wanting to preventatively take action against prolactin, a Dopamine 
 - **[Other Effective Prolactin-Inhibiting Supplements](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook/prolactin_supplements#wiki_other_effective_prolactin_inhibiting_supplements)**
 
 Remember, only use your Dopamine Agonist if blood work shows elevated levels or if your nipple(s) leak **ON THEIR OWN**. Do **NOT** squeeze your nips and force liquid out, even natural guys can do this, by doing this you will stimulate and cause an increase in prolactin.  
-
 **DO NOT TOUCH YOUR NIPS.**
 
 ###Stopping Lactation
@@ -318,8 +314,7 @@ Really there isn't much you can do besides wait it out, but here is an OTC remed
 
 * **Emergen-C (or just Vitamin C)** - 4000mg split the dose ½ in the AM, ½ in the PM
 
-**AND**
-
+ **AND**
 * **Zinc** - 100mg - split the dose ½ in the AM, ½ in the PM
 
 **Do this for a week and drop the dosages in half until symptoms subside.**  

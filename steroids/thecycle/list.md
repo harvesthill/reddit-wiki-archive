@@ -1,4 +1,5 @@
 #The Cycle  
+
 Typical AAS usage comes in pre-planned lengths of time that a person is taking any compounds.  The idea is to achieve a set of goals and then allow the body to get back to stasis and ensure that there are no medical issues before doing it again.  There is also some controversy about possible decreased effectivity of long term use of AAS use.  Cycles range in lengths from short (8 weeks) to long (20 weeks).
 
 There are several different items that need to be understood to execute a good cycle.
@@ -34,7 +35,7 @@ The following check list has been created to help new users ensure that all base
 
 ##Planning the Cycle
 
-When planning your cycle, you will need to know how much of each substance you will be using for the entire duration of the cycle.  It can greatly help to [plot your blood levels](http://steroidcalc.com/) of the various compounds.
+When planning your cycle, you will need to know how much of each substance you will be using for the entire duration of the cycle.  It can greatly help to [plot your blood levels](https://www.steroidplanner.com/) of the various compounds.
 
 ###Calculating Total Amount Needed
 
@@ -89,19 +90,9 @@ For a Testosterone Ethanate vial at 250 mg / ml and a user wanting 150mg E2D:
 
     150mg / (250 mg / ml) = .6 ml
 
-// ##Finding A Source
+##Finding A Source
 
-// As is posted everywhere, **this forum is not the appropriate place to look for a source**.  We regularly ban people for asking source questions or discussing source information.  There are multiple other ways to find a source.
-
-// * The best sources are usually found through trusted friends and gym members.  They have experience with the gear from the source and first hand knowledge of it.
-
-// * Many forums have advertisements from sources and / or rating systems.  Do a great deal of research before proceeding.  Most forums or websites that have source advertisements or similar are receiving money to run their operations from the sources.
-
-//  * Internet search engines are littered with sources although their legitimacy is unknown.
-
-//  ###Purchasing
-
-//  Most sources will want buyers to use Western Union for purchases.  This is especially true when using a new source.  As you become more familiar with the source, they may allow you to use different payment methods.  Western Union will require identification for any transfer of over $600 or if you have done more than two transfers in a year.  The policies for identification have been getting more strict and are likely to require identification for any transfer or pick up.
+// As is posted everywhere, **this forum is not the appropriate place to look for a source**.  There are multiple other ways to find a source; Reddit is not one of them. Asking will result in a ban from r/steroids.
 
 ##Blast and Cruise
 Some users decide that they do not want to waste time with PCT, and instead want to keep using steroids for a longer period. What they will then do is run a cycle (blast), and then run a TRT dose (cruise). This allows the body to heal from the stress placed under it during the blast, allowing the liver/kidneys to rest and letting their cholesterol normalize. Once they are back within healthy parameters, they may then proceed to do another blast. 
@@ -112,7 +103,4 @@ This allows you to avoid going through PCT, which in and of itself is rather har
 
 [Example Cycles](/r/steroids/wiki/thecycle/examples)  
 [Safe Injection Technique](/r/steroids/wiki/thecycle/injecting)  
-[Post Cycle Therapy (PCT)](/r/steroids/wiki/thecycle/pct)  
-
-Choosing a dose - more is not always better: 
-[Testosterone-induced increase in muscle size in healthy young men is associated with muscle fiber hypertrophy.](http://www.ncbi.nlm.nih.gov/pubmed/12067856)
+[Post Cycle Therapy (PCT)](/r/steroids/wiki/thecycle/pct)

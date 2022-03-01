@@ -1,7 +1,7 @@
 #Frequently Asked Questions (FAQ)
 
 ##Compound Usage
-wha
+
 ###How much weight can someone expect to gain during the first cycle of steroids?
 
 Provided dosing is sufficient, a steroid user can expect to make the most significant progress during their first cycle. Although this will vary from person to person, it is not uncommon for someone to gain 20 pounds of weight or more during a first cycle of AAS use. Some of this may be water retention, although a solid gain of more than 10-15 pounds of muscle mass is possible.
@@ -76,7 +76,21 @@ You can. Should you? Probably not. Oral steroids are still going to suppress you
 
 Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. You may find you don't feel the best or [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone). Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones / Designer Steroids is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and potentially consider doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too.
 
-##Compound Handling 
+##Compound Handling and Mixing
+
+###**How Do I Mix And Run My HCG?**
+
+Mixing 2ml bac water with 5000iu hCG will provide 250iu for every tenth of a ml/cc. This will provide you 20 250iu hCG doses.  
+
+Generally hCG will come with a vial of lyophilized powder and an ampule of either sodium chloride solution or bacteriostatic water. You want the bacteriostatic water. Bac water is intended for multiple uses and will inhibit bacteria growth. The sodium chloride solution is intended for female fertility use purposes and is to be used in a single injection. If used over multiple injections it may begin to grow bacteria.
+
+When you check your vial of lyophilized hCG it will generally be 5000 IU, although it can come in other amounts.
+
+Using 5000 IU as the most common example; if you take 2mL of Bac Water and inject that slowly into your vial of 5000 IU hCG, you then have 250 IU per tenth of a mL (cc). So every tenth of your 1mL insulin syringe would be 250 IU.
+
+The other form hCG might come in is a liquid form. This is hCG in a solution with a preservative to keep it active. You may add bacteriostatic water to this in order to adjust your dosage if you need.
+
+In either case, hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing it with bac water. hCG should be good for around 60 days when refrigerated. After that time it will lose potency at about ten percent per week as time goes on. 
 
 ###My Gear Crashed…How Do I Fix It?
   
@@ -90,7 +104,7 @@ Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids ar
 
 **Answer:** A solution would be to switch over to testosterone Undecanoate. With a half life of 20 days, it makes for an excellent and risk free choice. 
 
-You could also frontload your choice of cypionate/enanthate ester for a shorted trip. Use [Steroid Plotter](https://www.steroidplotter.com/) to plan it out. However, the rapidly dropping levels of this choice make it difficult to manage estrogen properly. 
+You could also frontload your choice of cypionate/enanthate ester for a shorted trip. Use [Steroid Planner](https://www.steroidplanner.com/) to plan it out. However, the rapidly dropping levels of this choice make it difficult to manage estrogen properly. 
 
 ##Cycle Complications
 

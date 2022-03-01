@@ -207,6 +207,22 @@ We will be utilizing a SERM which will stimulate FSH/LH, but most will find reco
 If you choose to include hCG in your PCT protocol, the best possible SERM for the PCT protocol is Nolvadex, as studies have demonstrated that hCG and Nolvadex utilized together have exhibited a remarkable synergistic effect in terms of stimulating endogenous Testosterone production, and that Nolvadex will actually work to block the desensitization effect on the Leydig cells of the testes caused by high doses of hCG .^(10)
 ## Dosing
 
+###Mixing hCG
+
+Mixing 2ml bac water with 5000iu hCG will provide 250iu for every tenth of a ml/cc. This will provide you 20 250iu hCG doses.  
+
+Generally hCG will come with a vial of lyophilized powder and an ampule of either sodium chloride solution or bacteriostatic water. You want the bacteriostatic water. Bac water is intended for multiple uses and will inhibit bacteria growth. The sodium chloride solution is intended for female fertility use purposes and is to be used in a single injection. If used over multiple injections it may begin to grow bacteria.
+
+When you check your vial of lyophilized hCG it will generally be 5000 IU, although it can come in other amounts.
+
+Using 5000 IU as the most common example; if you take 2mL of Bac Water and inject that slowly into your vial of 5000 IU hCG, you then have 250 IU per tenth of a mL (cc). So every tenth of your 1mL insulin syringe would be 250 IU.
+
+The other form hCG might come in is a liquid form. This is hCG in a solution with a preservative to keep it active. You may add bacteriostatic water to this in order to adjust your dosage if you need.
+
+In either case, hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing it with bac water. hCG should be good for around 60 days when refrigerated. After that time it will lose potency at about ten percent per week as time goes on. 
+
+###Running hCG
+
 HCG is ran a couple different ways:
 
 1. **Over The Entire Cycle**
@@ -568,7 +584,7 @@ These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be
 
 The above is a documented and approved PCT plan by former Dr. Scally. This can be found in *Anabolics 10th Edition* by William Llewellyn.
 
-## New PoWeR PCT
+## New Power PCT
 
 *by Michael Scally (former) M.D.*
 
