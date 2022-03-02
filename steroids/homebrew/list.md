@@ -474,13 +474,10 @@ Starting dosage 4mg daily as recommended by u/PM_me_varbies but can be upped to 
 * 44.14mL Mig840
 
 ##Excipients
-
 *****
-
 ###[Carrier Oils](http://www.reddit.com/r/steroids/wiki/homebrew/carrieroils)
 ###[Solvents](http://www.reddit.com/r/steroids/wiki/homebrew/Solvents)
 ###[Antimicrobials/Preservatives](http://www.reddit.com/r/steroids/wiki/homebrew/antimicrobials)
-
 *****
 
 #Triturations and Aliquots

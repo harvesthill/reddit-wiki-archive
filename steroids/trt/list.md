@@ -184,9 +184,11 @@ If you can get injections, do it. Everybody on /r/steroids will recommend the sa
 
 ###HCG/HMG
 
-HCG is injected either intra-muscularly or subcutaneously. It can be used alone or in conjunction with Testosterone. Dosage varies, but can be 250-1000iu injected 2x per week. 
+HCG is injected either intra-muscularly or subcutaneously. It can be used alone or in conjunction with Testosterone. Dosage varies, but it typically comes in a 5000iu vial of lyophilized power which needs to be mixed with *bacteriostatic* water. (NOTE: hCG typically comes with a sodium chloride solution, intended for a single injection; not *bacteriostatic* water) Mixing 2ml *bacteriostatic* water in a 5000iu vial of hCG will provide twenty 250iu doses. Each tenth of a cc/ml will be 250iu.
 
 HMG is very similar to HCG, the key difference being that HCG acts as a synthetic LH (luteinizing hormone). hMG mimics both of the two key hormones produced by the testes to stimulate spermatogenesis: LH and FSH, making it more effective in maintaining fertility. However, hMG is often significantly more expensive than HCG.
+
+*As of March 23, 2021 the FDA has [deemed hCG a biologic product](https://www.fda.gov/drugs/human-drug-compounding/notice-compounders-changes-affect-compounding-march-23-2020) and compounding pharmacies will no longer be allowed to provide this service*
 
 ###Testosterone vs. HCG
 

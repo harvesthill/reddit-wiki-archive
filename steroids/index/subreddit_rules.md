@@ -100,11 +100,9 @@ Chances are … if you are talking about ANY COMPANY, ANY SOURCE, ANY SPECIFIC B
 
 ### **No Monetization**
 
-***No Monetization***. This part of rule #2 deals with monetary influences such as advertising, sales and marketing, brand discussion, lobbying, *etc*. and is broader than the first part of *No Source Talk* as it includes practically **ANY BRAND OR PRODUCT YOU CAN THINK OF**. This is a forum to discuss AAS/PEDs. This is *not* a review forum to discuss commercial products! **DO NOT DISCUSS COMMERCIAL PRODUCTS OF ANY KIND**. 
+***No Monetization***. This part of rule #2 deals with monetary influences such as advertising, sales and marketing, brand discussion, lobbying, promoting coaching services, *etc*. r/steroids, nor its *moderators*, endorse any brands, products, labs, *coaching services*, or any receive any "kick back" from any said service. Others should not be allowed to use this sub for profit either.
 
 **There are no warnings and you will be banned**.
-
-This board is altogether source, brand, and product-free to avoid ANY KIND of monetary influence or incentive to manipulate information. If money can be made, competition and bias will soon follow. It doesn't matter if you're selling Tren, coaching services, or providing sources for monetary gain. 
 
 ### Why No Sources?
 
