@@ -24,8 +24,6 @@ Different esters exist for various compounds.  Different esters give compounds d
 
 &gt; The biological half-life or elimination half-life of a substance is the time it takes for a substance (for example a metabolite, drug, signaling molecule, radioactive nuclide, or other substance) to lose half of its pharmacologic, physiologic, or radiologic activity, as per the MeSH definition.
 
-More information on terminal half-life is available [here](http://www.fvet.uba.ar/equinos/8313/half-life.pdf).
-
 [Reference study.](http://link.springer.com/chapter/10.1007/978-3-642-72185-4_11)
 
 Ester | Half-life | Terminal Half-life  

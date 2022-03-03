@@ -40,21 +40,31 @@ Participation in this sub and with this habit requires one to execute [critical 
 * [**Blood Work**](/r/steroids/wiki/bloodwork/list)
 * [|--- Health Markers Defined](/r/steroids/wiki/bloodwork/health_markers)
 
+##Helpful Links
+
+* [SteroidPlanner](https://www.steroidplanner.com/) - Plot and Graph your cycles
+* [SteroidPlotter](https://steroidplotter.com/) - Another option for graphing cycles
+* [HRT Calculator](http://hrtcalculator.weebly.com) - Peptide and HRT/TRT/Cycle Calculator
+* [Steroid Powder Calculator](http://www.basskilleronline.com/steroid-powder-calculator.html) - Help calculating homebrew recipes
+* [Fitness Calculators](https://www.calculator.net/fitness-and-health-calculator.html) - Basic fitness calculators (BMI, Calorie, etc.)
+* [TDEE Caldulator](https://www.calculator.net/tdee-calculator.html) - Basic TDEE calculator
+* [Lift Vault](https://www.liftvault.com) - Free workout programs and spreadsheets
+
 ## AAS Related Reading
 
 The following material is presented on topics related to /r/steroids for educational purposes.
 
-## Books and Publications
+### Books and Publications
 
 1. [ANABOLICS, 10th edition, William Llewellyn](https://drive.google.com/file/d/19h7C0O_pGMXWeC8TCg5Ittg2-I-Hj2th/view?usp=sharing)
 2. [A Compilation of Anabolic and Nutritional Supplements Steroids](http://www.scribd.com/doc/174111625/Cooking-Bodybuilding-a-Compilation-of-Anabolic-and-Nutritional-Supplements-Steroids)
 3. [Underground Steroids Handbook II](http://www.anasci.org/ebooks/USH%20II.pdf), Daniel Duchaine
-4. *The Endocrine Society's Clinical Guide: Testosterone Therapy in Adult Men with Androgen Deficiency Syndrome*. ( [PDF](https://www.endocrine.org/~/media/endosociety/Files/Publications/Clinical%20Practice%20Guidelines/FINAL-Androgens-in-Men-Standalone.pdf), [Scribd](http://www.scribd.com/doc/197094136/FINAL-Androgens-in-Men-Standalone) )
+4. *The Endocrine Society's Clinical Guide: Testosterone Therapy in Adult Men with Androgen Deficiency Syndrome*. ( [Scribd](http://www.scribd.com/doc/197094136/FINAL-Androgens-in-Men-Standalone) )
 5. *Why are Steroids Illegal in the USA?* ([Scribd](http://www.scribd.com/doc/197091803/Steroid-Legality))
-6. *Testosterone: Action, Deficiency, Substitution*, 3rd Edition (pp. 405-444). Cambridge University Press,  New York.Behre H.M., Nieschlag E., (2004).  ([PDF](https://infotomb.com/7ks8y.pdf))
-7.  [More](/r/steroids/wiki/reading)
+6. *Testosterone: Action, Deficiency, Substitution*, 3rd Edition (pp. 405-444). Cambridge University Press,  New York.Behre H.M., Nieschlag E., (2004).  
+7.  [More](/r/steroids/wiki/reading) (Page under revision - links to publications are broken)
 
-## Original Stories
+### Original Stories
 
 1. [A Pin Story](/r/steroids/comments/1jbp8l/long_a_pin_story/)
 2. [The Rage Story](/r/steroids/comments/1n3jsv/long_the_rage_story/)
@@ -65,7 +75,7 @@ The following material is presented on topics related to /r/steroids for educati
 7. [The Pituitary Story](/r/steroids/comments/3ab09l/long_the_pituitary/)
 8. [You Wanna Be A Freak?](https://www.reddit.com/r/steroids/comments/31l2th/contest_prep_tren_anxiety/cq2uu44/)
 
-## Hall of Shame
+### Hall of Shame
 
 1. [First Tren Cycle](https://www.reddit.com/r/steroids/comments/4u7mwg/aftermath_of_16_week_tren_cycle/)
 
@@ -170,7 +180,7 @@ A synthetic steroid hormone that resembles Testosterone in promoting the growth 
 
 See *[Additional Sides](https://www.reddit.com/r/steroids/wiki/sides/list)*
 
-## How Do Anabolic Steroids Work?
+### How Do Anabolic Steroids Work?
 
 There are generally considered to be three mechanisms of action of AAS.
 
@@ -182,7 +192,7 @@ There are generally considered to be three mechanisms of action of AAS.
 
 See *[Pharmacology of AAS](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2439524/).*
 
-## Are AAS Dangerous?
+### Are AAS Dangerous?
 
 The general consensus is that if used properly, in conjunction with blood tests, AAS can be used safely. However, the potential side effects can be extreme if they are used incorrectly. Most commonly, a lipid profile imbalance which favors plaque deposition in the arteries occurs. The strict diet of most bodybuilders means this is minimized by a low fat intake.
 
@@ -190,7 +200,7 @@ Liver problems can occur with the use of 17α-alkylated oral anabolic steroids. 
 
 Gynecomastia can occur as a result of high levels of Testosterone being partially converted to estrogen, the primary metabolite being estradiol (E2). The enzyme responsible for this conversion is called *aromatase*. It can be inhibited by a class of drugs called Aromatase Inhibitors (AI). Another class of drugs called a Selective Estrogen Receptor Modulator (SERM), such as Raloxifine or Nolvadex, can also be used because it blocks estrogen from binding with the estrogen receptor, rather than the binding with the enzyme that metabolizes from Testosterone to Estrogen.
 
-## Are There Any Long-Term Effects?
+### Are There Any Long-Term Effects?
 
 AAS have been used in humans to improve performance since the 1930s. This was a crude extract from male dog urine. Nazi paratroopers were thought to be the first to take Testosterone for performance. In the fifties, drug development company Ciba developed Dianabol—and the race was then on to find the best steroid in terms of anabolic-androgenic dissociation.
 
@@ -202,7 +212,7 @@ The fact is, the most likely problem would be an increase in arterial plaque dep
 
 * *[A cellular memory mechanism aids overload hypertrophy in muscle long after an episodic exposure to anabolic steroids](http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2013.264457/abstract)*
 
-## Should I Begin Taking Anabolic Steroids?
+### Should I Begin Taking Anabolic Steroids?
 
 *The generally accepted criteria for starting AAS is as follows:*
 

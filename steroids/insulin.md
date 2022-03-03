@@ -2,9 +2,7 @@
 
 ##WARNING / DISCLAIMER
 
-Insulin can be very risky if you do not know what you are doing. If you have the mentality that **MORE IS BETTER**, it is recommend **AVOID** even trying insulin. This hormone can be potentially fatal if taken recklessly - you run the risk of permanent brain damage, coma, or even death. 
-
-The risk may not be the worth the reward. /r/steroids should not be your only source for information and is not responsible for your choices, so know all the facts &amp; research thoroughly **BEFORE** trying insulin. 
+Insulin can be very risky if you do not know what you are doing. This hormone can be potentially fatal if taken recklessly - you run the risk of permanent brain damage, coma, or even death. The risk may not be the worth the reward. /r/steroids should not be your only source for information and is not responsible for your choices, so know all the facts &amp; research thoroughly before trying insulin. 
 
 ##Intro
 
@@ -86,7 +84,7 @@ Humalog and NovaLog are the fastest acting insulin, known as rapid-acting insuli
 
 ###HGH
 
-Note that it is **NOT** recommended to run insulin without HGH (and AAS). Due to insulin's nutrient absorption properties it will make you very prone to gaining weight. Tren is also beneficial with insulin for its nutrient partitioning benefits particularly in respect to carbs. 
+Note that it is not recommended to run insulin without HGH (and AAS). Due to insulin's nutrient absorption properties it will make you very prone to gaining weight. Tren is also beneficial with insulin for its nutrient partitioning benefits particularly in respect to carbs. 
 
 A typical insulin cycle would start after running HGH for at least 4 weeks, ideally the longer you can hold off on the insulin after starting HGH the better, you want your IGF-1 levels increased before starting insulin, this can take a few weeks to peak. There is no minimum amount of HGH that must be run, the more the better, but it is typically suggested to start at at least 6iu/day of HGH if the intent is to run it with insulin. 
 

@@ -82,10 +82,6 @@ There are several providers in the USA to choose from.
 
 [Private MD Labs](https://www.privatemdlabs.com/) — A good and trusted lab with many locations.
 
-* [Female Hormone Testing](http://www.privatemdlabs.com/lp/Female_Hormone_Testing.php) is recommended. 
-
-* [Hormone Panel with F&amp;T Testosterone LC/MS-MS](http://www.privatemdlabs.com/lab_tests.php?view=category_result&amp;show=2418&amp;category=14) similar to the Female Hormone Panel but uses LC/MS for testosterone. This will provide an actual value rather than “high” or “greater than 1500.” 
-
 * [Hormone Panel with Estradiol Sensitive and Testosterone LC/MS-MS](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;show=2573&amp;category=14&amp;search=ms#2573) Same as above, but with LC/MS estrogen test. Use this to get an accurate estrogen reading while running Trenbolone. **DO NOT** use this to test whether your tren is counterfeit, as it will not count it in the estrogen test.
 
 * Anything with [Test 070195](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;search=070195) will show the actual value for testosterone, rather than “high” or “greater than 1500.” 
@@ -97,8 +93,6 @@ There are several providers in the USA to choose from.
 * [Lipid Test](http://www.privatemdlabs.com/lp/lipid_panel.php) to check cholesterol levels 
 
 * Anything with [Test 303756](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;search=303756) contains a lipid panel.
-
-* The [Hormone Panel Unisex](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;show=2372&amp;category=14#2372) includes thyroid, lipids, estrogen, free and total Testosterone levels, checked via the sensitive LC/MS-MS methodology.
 
 #### ULTA Labs
 

@@ -1,6 +1,4 @@
-# Example Cycles 
-
-* Use [SteroidPlotter](https://www.steroidplotter.com/) To Plot Out Cycles
+#Example Cycles
 
 ## Beginner Cycles
 
@@ -77,10 +75,8 @@ It is recommended to keep your caloric intake at no less than 80% TDEE.
 
 By now, you have probably put on a fair bit of mass, and want to see how how much you are capable of. This is a solid second cycle, perfect for putting on mass quickly with minimal side effects. **Nandrolone** also provides excellent joint support, allowing you to push your body a bit harder. At this point you have a bit of a feel for how your body responds to testosterone. You can extend the cycle a bit.
 
-**WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. No one should take nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
-
 * **Weeks 1-16:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500 mg/week split *E3.5D*.
-* **Weeks 1-16:** [Trestolone (MENT)](https://www.reddit.com/r/steroids/wiki/trestolone), 5–25 mg/day (Titrate up to tolerance, MENT as atypical 19-nor with safer profile as an alternative to Deca or Tren)
+* **Weeks 1-16:** [NPP (Nandrolone)](https://www.reddit.com/r/steroids/wiki/nandrolone), 50-75 mg/day (350-500mg weekly)
 * **Weeks 16-18:** Nothing (This allows the extraneous testosterone to clear your body).
 * **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
@@ -93,7 +89,6 @@ You can extend for up to 20 weeks. If you wish to extend it, obviously all your 
 
 The following cycle is considered to be a very solid cutting cycle that maintains lean body mass while burning fat.  Keep your caloric intake at no less than 80% TDEE.
 
-* **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. Nobody should be taking nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
 * **Weeks 1-12:** [Trenbolone Acetate](/r/steroids/wiki/trenbolone), 50-100 mg, every day (ED) to your tolerance level
 * **Weeks 1-12:** [Testosterone Propionate](/r/steroids/wiki/testosterone_propionate) (or  [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate)), 50 mg ED
 * **Weeks 1-12:** [Arimidex](/r/steroids/wiki/arimidex), .5mg E3D, watch for E2 crash, adjust accordingly.
@@ -117,8 +112,6 @@ People have regularly ran caloric deficits of 1,500 calories below TDEE without 
 **Trenbolone** has the capability to stop the creation of new fat (*de novo lipogenesis*) from carbohydrates.  **This only happens when blood plasma levels of estrogen are low.**  Regularly dose your AI's to control estrogen.  It will not stop storage of fat from intake in a caloric surplus.  Therefore, above your TDEE, you want to consume extra carbohydrates to avoid fat storage.
 
 When excess carbs are eaten, Trenbolone will push them into the mitochondria of your cells, generating heat and producing sweat.  If your sweating is excessive, you are eating too many carbs.  Adjust your carb intake so as to only have a small amount of Tren sweats.  It is recommend to not eat carbs at night and only light carbs (vegetables) for dinner. The requirement for low estrogen for Tren to do it's magic is why /r/steroids recommends high Tren/low Test cycles for cuts and recomps.
-
-* **WARNING**: **Trenbolone has been shown to be neurotoxic**. Running low test with high tren for cutting may lead to long-term neurophysiological damage. Running tren with **high test** allows **estrogen** to act in a **neuroprotective** capacity: [*17β-trenbolone, an anabolic–androgenic steroid as well as an environmental hormone, contributes to neurodegeneration*](https://www.ncbi.nlm.nih.gov/pubmed/25461682)
 
 ### Gold Standard
 
@@ -176,7 +169,7 @@ For those with minimal AAS experience this cycle will add around 10–15 lbs of 
 * **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg, E3D
 * **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg, E3D
 * **Run Testosterone for 8 weeks after dropping EQ to allow the Uncdeylenate ester to clear**.
-* On-hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **Crashed E2**: test no ester (TNE) or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
+* On-hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **Crashed E2**: test no ester (TNE) or short-ester test, Dianabol, or HCG will all do the trick.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 ### Intermediate EQ Bulk
@@ -186,7 +179,7 @@ Keep an AI on hand but you shouldn't need it.
 * **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
 * **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg every three days (E3D)
 * **Run Testosterone for 8 weeks after dropping EQ to allow the Uncdeylenate ester to clear**.
-* On-hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
+* On-hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 ### Advanced EQ Bulk
@@ -198,9 +191,9 @@ This cycle ups the dose a bit on the test and EQ and adds in some masteron to he
 * **Weeks 1-20:** [Masteron Enanthate](http://www.reddit.com/r/steroids/wiki/masteron), 250 mg every three days (E3D)
 * **Weeks 1-20:** [Deca-Durabolin](http://www.reddit.com/r/steroids/wiki/deca_durabolin), 200 mg (E3D)
 * **Weeks 1-20:** Aromasin, 12.5 mg, E3D — Adjust as needed
-* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
+* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
 * **Run Testosterone for 8 weeks after dropping EQ to allow the Uncdeylenate ester to clear**.
-* **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. Nobody should be taking nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
+
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 ## Cut Cycles
@@ -209,11 +202,11 @@ If you aren't subject to the increase in appetite that sometimes comes along wit
 
 ### Beginner EQ Cut
 
-Surprisingly, the same doseages as the Beginner Bulk, however, adjust your calories to be in a caloric deficit no more than 80% of your TDEE.
+Surprisingly, the same dosages as the Beginner Bulk, however, adjust your calories to be in a caloric deficit no more than 80% of your TDEE.
 
 * **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
 * **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg, E3D
-* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
+* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 * **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
 
@@ -225,8 +218,7 @@ The effect of Tren and EQ on your physique during a cut is nothing short of frea
 * **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg (E3D)
 * **Weeks 4-16:** [Trenbolone Acetate](http://www.reddit.com/r/steroids/wiki/trenbolone), 50-100 mg, every day (ED) to your tolerance level
 * **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
-* **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. Nobody should be taking nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
-* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
+* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
 * On Hand Throughout Cycle: An Dopamine Agonist like [Caber](http://www.reddit.com/r/steroids/wiki/dostinex) or Prami to stop prolactin production and eventual lactation.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
@@ -239,9 +231,8 @@ Ensure that you have run several cycles with these compounds before attempting.
 * **Weeks 4-20:** [Trenbolone Acetate](http://www.reddit.com/r/steroids/wiki/trenbolone), 50-100 mg, ED to your tolerance level
 * **Weeks 1-20:** [Masteron Propionate](http://www.reddit.com/r/steroids/wiki/masteron), 200 mg (E3D)
 * **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
-* **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. Nobody should be taking nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
 * **Weeks 1-20:** Aromasin, 12.5 mg, E3D -- Adjust as needed
-* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, HCG or Trestolone will all do the trick.
+* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
 * On Hand Throughout Cycle: An Dopamine Agonist like [Caber](http://www.reddit.com/r/steroids/wiki/dostinex) or Prami to stop prolactin production.
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
@@ -336,6 +327,8 @@ OK, on to your final week.
 One last thing. Guys ask “Which way is better?” to take your Whey/Dextrose in one shake, or Dextrose first, and whey 15 minutes later”? Bottom line, it’s just preference.
 
 ## Female Cycles
+
+Although we have female members, and members who specialize in anabolics in women; female specific help can be found at r/steroidsxx
 
 * [**See The Women's Wiki Page**](/r/steroids/wiki/women)
 * [*Here Is A Related Thread*](http://www.reddit.com/r/steroids/comments/1yf5jy/crowdsource_female_cycle_examples/)

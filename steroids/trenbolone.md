@@ -40,7 +40,7 @@ Dosages for users are highly dependent on how they react individually to the com
 
 ##Risks/Side Effects
 
-⚠️ Trenbolone is by far the most harsh and harmful anabolic in widespread use and should be kept at a minimum, if at all. The compound is neurotoxic, cardiotoxic, hepatotoxic, nephrotoxic and cytotoxic. In the brain, it [precipitates amyloid plaque formation](https://www.osti.gov/biblio/22439943-trenbolone-anabolicandrogenic-steroid-well-environmental-hormone-contributes-neurodegeneration), which is a precursor to early-onset dementia and Alzheimer's disease. See this [long list of research results](https://www.reddit.com/r/PEDs/comments/kbnuuk/z/gfim7zs) demonstrating damaging effects across the board. In 90% of cases of Trenbolone use, another stack of compounds, such as Trestolone, or Primobolan with Masteron, would have worked just as well. The last few weeks of competition show on-stage show prep are one of the only valid instances for use. 
+ Trenbolone is by far the most harsh and harmful anabolic in widespread use and should be kept at a minimum, if at all. The compound is [neurotoxic](https://pubmed.ncbi.nlm.nih.gov/25461682/), cardiotoxic, hepatotoxic, and nephrotoxic. In the brain, it [precipitates amyloid plaque formation](https://www.osti.gov/biblio/22439943-trenbolone-anabolicandrogenic-steroid-well-environmental-hormone-contributes-neurodegeneration), which is a precursor to early-onset dementia and Alzheimer's disease. See this [thread](https://www.reddit.com/r/steroids/wiki/sides/trenbolone_decreased_respitory_capacity) demonstrating respiratory capacity. 
 
 Trenbolone does not exhibit any estrogenic activity and therefore estrogenic side effects are not a concern with this compound. It is also resistant to the 5 alpha reductase enzyme, but this is of little comfort to a user as trenbolone is already of the most androgenic drugs in common use by steroid users. For this reason androgenic side effects should be expected by most users that undertake a cycle of this drug. Prostate enlargement and oily skin/acne are commonly reported by users. As well anecdotally many users have reported that trenbolone is one of, if not the, harshest compound for losing one's hair. If a user is genetically predisposed to male pattern baldness he may want to avoid trenbolone.
 
@@ -74,7 +74,7 @@ Finally, a magnetic plate pulls all of the compounds that matter out of the solu
 
 [How ECLIA works.](http://www.kumj.com.np/issue/9/91-93.pdf)
 
-If you need to know your *true* estradiol levels while running trenbolone, you should request the [estradiol sensitive](https://www.labcorp.com/wps/portal/!ut/p/c1/04_SB8K8xLLM9MSSzPy8xBz9CP0os_hACzO_QCM_IwMLXyM3AyNjMycDU2dXQwN3M6B8JG55AwMCuv088nNT9QtyI8oBPK_DWA!!/dl2/d1/L0lDU0NTQ1FvS1VRIS9JSFJBQUlnb0FNeUtibTZtL1lCSkp3NDU0a3N1eWx3ISEvN19VRTRTMUk5MzBPR1MyMElTM080TjJONjY4MC92aWV3VGVzdA!!/?testId=408440&amp;criterion=Estradiol%2C+Sensitive) assay.
+If you need to know your *true* estradiol levels while running trenbolone, you should request the estradiol sensitive test from your preferred bloodwork provider..
 
 ##References
 
