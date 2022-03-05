@@ -120,7 +120,7 @@ The conversion of androgens into Estrogen results in excess Estrogen levels, whi
 
 The main importance of aromatase inhibitors is the ability to mitigate the Estrogenic effects of HCG, if HCG is utilized in certain ways that will be expanded on later. It is important to note, however, that the majority of aromatase inhibitors have known drug interactions with Nolvadex that will reduce blood levels of those AIs. Very specific choices should be made in regards as to which AI is used during PCT with what SERM.
 
-## SERMs: Nolvadex, Clomid, Toremifene, &amp; Raloxifene
+## SERMs
 
 The question is often asked among the anabolic steroid using community: Clomid or Nolvadex? Which one for PCT? But there are also relatively newer SERMs as well. Toremifene (Torem) &amp; Raloxifene (Ralox).
 
@@ -147,10 +147,11 @@ To touch lightly on Torem &amp; Ralox, they have all been compared and studied a
 As demonstrated, **Nolvadex came out on top** here in LH, Testosterone &amp; Normal sperm forms. Torem topped Nolva in FSH and Sperm concentration. Both are very suitable PCT options (as already known with Nolva, but this shows Torem as a viable option as well). Ralox was unfavorable and is probably best used just for gynecomastia treatment.
 
  **IMPORTANT NOTE:** Be sure to check out [Drug Interactions](https://www.reddit.com/r/steroids/wiki/draft#wiki_drug_interactions), as this contains important information for those using SSRIs and SERMs.
+ 
 
 ## Dosing
 
-### Nolvadex: Recommended PCT 5–10mg/day
+### Nolvadex:  PCT 5–10mg/day ***(Recommended)***
 
 In all studies involving Nolvadex, for doses used to stimulate endogenous Testosterone production, only 20–40 mg daily of Nolvadex was utilized, and it has in fact been shown that doubling the dose to 40 mg or higher will not produce any significant difference in endogenous Testosterone secretion. 
 
@@ -180,7 +181,15 @@ According to the study previously mentioned,^(14) and thus recommended by the FD
 
 * **6-8 Weeks:** 25mg ED or 50mg EOD
 
-### Torem (*not recommended*)
+#### Enclomiphene Citrate
+
+Clomid consist of two isomers; [zuclomiphene](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiT0IH5y632AhXPGDQIHSZeCnQQFnoECBAQAw&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FZuclomifene&amp;usg=AOvVaw2gTCOJxpyGWSASFQfelLXJ) and [enclomiphene](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwjP1KSQzK32AhWRKn0KHYyQDFoQFnoECEAQAQ&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEnclomifene&amp;usg=AOvVaw27AK4Lbes8Cxa8PriKnQ4q). Enclomiphene is the transisomer in Clomid that is [responsible for recovery from hypogonadism in men.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4155868/), whereas zuclomifene is antigonadotropic due to activation of the estrogen receptor and [reduces testosterone levels in men.](https://www.researchgate.net/publication/23995306_Enclomiphene_an_estrogen_receptor_antagonist_for_the_treatment_of_testosterone_deficiency_in_men), and is thought to cause some of the side effects that have been associated with clomiphene citrate. It was also [shown to have pernicious effects to male reproductive organs](https://pubmed.ncbi.nlm.nih.gov/26220499/) in mice.
+
+* The dosage for enclomiphene is still debatable; [studies](https://www.liebertpub.com/doi/abs/10.1089/jomh.2014.0006?journalCode=jomh) show increased total and free testosterone (without increasing DHT disproportionately) with daily administration from 12.5mg to 25mg. 
+
+* Although rare, Enclomiphene Citrate is becoming more available and would be the prefered choice over Clomid. It should be mentioned that no studies have been conducted (at date of writing) that compare the enclomiphene isomer to other widely available SERMs. 
+
+### Torem 
 
 In the study above comparing Nolva, Torem, &amp; Ralox, 60mg was the dosage used and found to be very sufficient for PCT purposes. 60mg ED is the FDA recommended dosage and they found no benefit upon doubling the dose in women with breast cancer. Again, doubling the dose for the purpose of achieving optimal peak blood plasma levels quicker isn't necessary and just further increases your risk of potential side effects. Dosing of a PCT including Torem is as follows:
 

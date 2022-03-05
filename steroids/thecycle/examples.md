@@ -29,7 +29,7 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 
 ##SUPPLEMENTAL COMPOUNDS 
 
-## Salbutamol
+### Salbutamol
 
 ***Salbutamol*** *tablets are also effective while being far less dangerous than Clen:*
 
@@ -41,11 +41,29 @@ The Basic Cut differs very slightly from [The Basic Bulk](/r/steroids/wiki/your_
 
 &gt;*During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
 
-## Salbutamol Stack
+***Salbutamol Stack***
 
 Even more effective than an ECA stack is **Salbutamol** with caffeine. [This stack](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html) is more effective than ephedrine while  being far safer than clenbuterol.
 
 * **Last 4-6 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
+
+###Clenbuterol (Clen)
+
+[Clenbuterol](/r/steroids/wiki/clenbuterol) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
+
+Clenbuterol has also been called “anti-catabolic” – meaning it does not promote muscle loss as part of the increase in metabolism to reduce bodyfat. 
+
+Some additional considerations when using clenbuterol:  
+
+* Supplement with (3-5g ED) L-Taurine – Clenbuterol tends to inhibit L-Taurine in your system, producing cramps  
+
+* Using Ketotifen with Clenbuterol (2-3mg ED) - Ketotifen is an antihistamine that inhibits down regulation of beta receptors, but you should do more outside research before using.
+
+***Common Clenbuterol Cycles***
+
+* **2 weeks ‘on’ / 2 weeks ‘off’ for 8-12 weeks** – Starting at 20mcg, increasing by 20mcg units as you can handle, until what you can handle or a maximum of 100mcg per day, and then stay at that amount for the duration of the two weeks. Then stop and go off for 2 weeks, substituting your favorite OTC thermo, and then repeating the 2 weeks ‘on’, again starting at 20mcg.
+
+* **Continued ‘on’ for 8-12 weeks, include ketiotifen** – Starting at 20mcg for a week, increase by 20mcg per week until what you can handle or a maximum of 100mcg per day, and then stay at that amount for the duration of the cycle
 
 ### **ECA Stack**
 
