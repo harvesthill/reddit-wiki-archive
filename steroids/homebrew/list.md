@@ -247,7 +247,7 @@ Testosterone Propionate | 0.909 |
 Trenbolone Acetate | 0.848 |
 Trenbolone Enanthate | 0.909 |
 
-**If you have more information to add to this list, please message u/Decatest or u/ssjhayes**
+**If you have more information to add to this list, please message the Moderation team**
 
 ##Recipes
 
@@ -499,4 +499,4 @@ Things you'll need: Milligram scale, small scoop, mortar &amp; pestle, math.
 9. Begin capping process with your newly mixed powder.
 
 ##Liquid Aliquot Method (Oral solution / suspension)
-[Guide from The Pharmaceutics and Compounding Laboratory at UNC](http://pharmlabs.unc.edu/labs/triturations/aliquot.htm)
+* ***Source/reference needed***
