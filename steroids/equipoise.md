@@ -41,8 +41,6 @@ A versatile compound, Boldenone's effective dose depends entirely on  objectives
 
 For ***bulking purposes***, **600–1200**mg/wk. 
 
-Boldenone's unique dosing range is explored in this excerpt from a 2012 *IronMag* [article](http://www.ironmagazine.com/2012/boldenone-realizing-its-full-potential/) by bodybuilder Mike Arnold.  
-
 **DISCLAIMER**: The following excerpts were written from the perspective of an IFBB Pro bodybuilder. Unless you're aiming to compete with [Dallas McCarver](https://amp.reddit.com/r/bodybuilding/comments/7gfmpo/dallas_mccarvers_test_levels_were_550ngml_or/), stick with the previously-defined, more sensible, lower dosage range of 600-1200mg per week. 
 
 &gt; ***Unlike most other steroids***, which usually begin to reach the point of diminishing returns at between 500–1,000 mg per week, EQ tends to reach its optimal dosing range much later on: around two grams per week. 
@@ -110,7 +108,7 @@ The active life of boldenone is 14-16 days; however, it produces detectable meta
 
 6. Shabin N., Malik H., et al. (2015). [*Effect of Nandrolone Decanoate, Boldenone Undecylenate on Renal Status of Rabbits (Oryctolagus cuniculus)*](https://www.researchgate.net/publication/317427148_Effect_of_Nandrolone_Decanoate_Boldenone_Undecylenate_on_Renal_Status_of_Rabbits_Oryctolagus_cuniculus). Global Veterinaria **14** (3): 432-438. ISSN 1992-6197. DOI: 10.5829/idosi.gv.2015.14.03.92201.
 
-7. Kantarci, U. H., Punduk, Z., Senarslan, O., &amp; Dirik, A. (2018). [*Evaluation of anabolic steroid induced renal damage with sonography in bodybuilders*](https://sci-hub.se/10.23736/S0022-4707.17.06763-9)*. The Journal of Sports Medicine and Physical Fitness, 58(11).* doi:10.23736/s0022-4707.17.06763-9 
+7. Kantarci, U. H., Punduk, Z., Senarslan, O., &amp; Dirik, A. (2018). [*Evaluation of anabolic steroid induced renal damage with sonography in bodybuilders*](https://sci-hub.se/10.23736/S0022-4707.17.06763-9)*. The Journal of Sports Medicine and Physical Fitness, 58(11).* doi:10.23736/s0022-4707.17.06763-9 
 
 8. [Equipoise, Estrogen, and AI effects](https://www.reddit.com/r/steroids/comments/f5aw0b/discussion_eq_equipoise_estrogen_and_ai_effects/) (Reddit)
 
