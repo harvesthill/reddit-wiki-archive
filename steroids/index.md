@@ -78,6 +78,7 @@ The following material is presented on topics related to /r/steroids for educati
 ### Hall of Shame
 
 1. [First Tren Cycle](https://www.reddit.com/r/steroids/comments/4u7mwg/aftermath_of_16_week_tren_cycle/)
+2. [Abuse of DNP](https://www.reddit.com/r/steroids/comments/tx295g/psa_dnp_terrifying_experience_with_only_200mgd_no/?ref=share&amp;ref_source=link)
 
 ## AAS Related Acronyms
 
