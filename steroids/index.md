@@ -80,6 +80,7 @@ The following material is presented on topics related to /r/steroids for educati
 1. [First Tren Cycle](https://www.reddit.com/r/steroids/comments/4u7mwg/aftermath_of_16_week_tren_cycle/)
 2. [Abuse of DNP](https://www.reddit.com/r/steroids/comments/tx295g/psa_dnp_terrifying_experience_with_only_200mgd_no/?ref=share&amp;ref_source=link)
 3. [Wasted First Cycle Cutting](https://www.reddit.com/r/steroids/comments/uywmcq/cycle_report_1st_test_cycle_thoughts_opinions/)
+4. [YEARS OF BLAST N CRUISE](https://www.reddit.com/r/steroids/comments/xdakg0/cycle_2_years_of_blast_n_cruise/)
 
 ## AAS Related Acronyms
 
