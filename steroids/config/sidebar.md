@@ -16,9 +16,10 @@ Filters
 
 Search Topics With Google
 ------------------------------------
+
 **In The Search Bar Enter:**
 
-    site:www.reddit.com/r/steroids &lt;Search String&gt;
+site:www.reddit.com/r/steroids &lt;Search String&gt;
 
 ***
 
@@ -112,7 +113,7 @@ Noteworthy Sites
 * [HCG Calculator](http://www.lostjuncture.com/HCG/HCGCalc.html)
 * /r/iron
 * [Labdoor](https://labdoor.com/)
-* [Peptide Calculator](http://peptidecalculator.com/)
+* [Peptide Calculator](https://peptidecalc.com/)
 * [Peptide / TRT / HRT Calculator](http://hrtcalculator.weebly.com/)
 * /r/powerbuilding
 * /r/powerlifting
