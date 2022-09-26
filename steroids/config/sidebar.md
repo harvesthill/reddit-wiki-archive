@@ -103,26 +103,23 @@ Thread / Topic | Frequency
 Noteworthy Sites
 ------------------------------------
 * List Here
-* [Anabolic Reference](http://www.anabolic.org/anabolic-steroids/)
 * /r/advancedfitness
 * /r/anabolic 
 * /r/bodybuilding
-* [Examine](https://examine.com/)
-* [Find Studies at Libgen](http://gen.lib.rus.ec/)
-* [Good RX](http://www.goodrx.com/)
-* [HCG Calculator](http://www.lostjuncture.com/HCG/HCGCalc.html)
 * /r/iron
-* [Labdoor](https://labdoor.com/)
-* [Peptide Calculator](https://peptidecalc.com/)
-* [Peptide / TRT / HRT Calculator](http://hrtcalculator.weebly.com/)
 * /r/powerbuilding
 * /r/powerlifting
 * /r/SkincareAddiction/ 
-* [Steroid Calc](http://steroidcalc.com/)
-* /r/steroidscirclejerk
 * /r/strongman
-* [Supps Simplified](http://suppssimplified.com/)
 * /r/Testosterone/
-* /r/truebodybuilding 
 * /r/weightlifting
 * /r/weightroom
+* [Examine](https://examine.com/)
+* [Good RX](http://www.goodrx.com/)
+* [Labdoor](https://labdoor.com/)
+* [Steroid Calc](http://www.steroidplanner.com/)
+* [Steroid Calc #2](http://www.steroidplotter.com/)
+* [HRT/TRT/Peptide Calculator](http://hrtcalculator.weebly.com/)
+* [Fitness Calculators](https://www.calculator.net/fitness-and-health-calculator.html)
+* [TDEE Calculator](https://www.calculator.net/tdee-calculator.html)
+* [Free Workout Templates](https://liftvault.com/)

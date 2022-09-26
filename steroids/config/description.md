@@ -1,1 +1,1 @@
-Happily discussing all things related to the safe usage of AAS, TRT or hormone replacement with the exception of sourcing information.  Discussing sources will get you banned. Read the rules to learn how to become an approved submitter.
+Harm reduction focused discussions related to sage of AAS, TRT or hormone replacement with the exception of sourcing information.  Discussing sources will get you banned. Read the rules to learn how to become an approved submitter.
