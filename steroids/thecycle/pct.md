@@ -2,8 +2,6 @@
 
 Post Cycle Therapy or PCT is a period of medication treatment that follows the use of anabolic steroids. Post Cycle Therapy is also one of the most confusing topics for many steroid users; this is largely due to misconceptions. When to start PCT, which meds to use, how long to use them and what you should expect, these are all common questions and ones we’ll address here.
 
- **RECOMMENDED PCT: 10mg Nolvadex, 6-8 weeks**
-
 ## The Purpose of PCT
 
 When we supplement with anabolic steroids we suppress our natural testosterone production. Testosterone, the primary male hormone, is essential to our very well being. Most men who supplement with anabolic steroids will always include at least a minimal amount of testosterone in their cycle due to this suppression factor.
@@ -151,7 +149,7 @@ As demonstrated, **Nolvadex came out on top** here in LH, Testosterone &amp; Nor
 
 ## Dosing
 
-### Nolvadex:  PCT 5–10mg/day ***(Recommended)***
+### Nolvadex  
 
 In all studies involving Nolvadex, for doses used to stimulate endogenous Testosterone production, only 20–40 mg daily of Nolvadex was utilized, and it has in fact been shown that doubling the dose to 40 mg or higher will not produce any significant difference in endogenous Testosterone secretion. 
 
@@ -163,17 +161,7 @@ Furthermore, the first week of PCT, there may be lingering suppressive AAS still
 
 Recent studies have found that even lower doses than traditionally-prescribed are equally as effective.
 
-**STUDIES SHOW PEAK EFFICACY AT 5mg PER DAY**
-
-* [A weekly low-dose tamoxifen vs raloxifene vs placebo in premenopausal women with estrogen receptor-positive breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053157)  — This study examined the efficacy of doses at **1mg** and **5mg** per day and found *the two lower doses are just as effective* *as the previous standard of 20mg per day*. “Considering results of our previous studies we are now focusing on Tamoxifen at 5mg per day. A weekly dose of 10mg/week is suggested as an alternative.”   
-
-* [Randomized dose trial of Tamoxifen at low doses in hormone replacement therapy](https://www.ncbi.nlm.nih.gov/m/pubmed/17709798/) — This study examined the efficacy of tamoxifen at doses of **1mg**, **5mg** and **10mg** per day. “A dose of *5 mg/day was the most effective* and has been selected for a phase III trial in HRT users.”
-
-* [Randomized trial of low-dose tamoxifen on breast cancer proliferation and estrogen biomarkers](https://www.ncbi.nlm.nih.gov/m/pubmed/12783932/) — “We compared the effects of tamoxifen at **1 mg/day** and **5 mg/day** with those of the standard dose of **20 mg/day**. The effects of lower doses … were comparable to those achieved with the standard dose.” 
-
-**PCT dosing with Nolvadex has been updated (2020) as follows**:
-
-* **6–8 Weeks** at **5–10 mg ED**. Doses can be taken as low as ***5 mg/day*** if sides are a concern.
+PCT 10-20mg/day ***(Recommended 6-8 weeks)*** Starting at 20mg and reducing to 10mg if sides become too prevalent. 
 
 ### Clomid 
 
@@ -428,7 +416,15 @@ This is the PCT plans you should use if you want PCT to be as **as effective as 
 
 ## Nolvadex
 
-### Option 1
+### Option 1 w/o hCG
+
+* **6-8 Weeks:** Nolvadex 10 mg ED  =  10/10/10/10/10/10 (10/10)
+
+### Option 2 w/o hCG
+
+* **6-8 Weeks:** Nolvadex 10 mg ED  =  20/20/10/10/10/10 (10/10)
+
+### Option 1 w/ hCG
 
 Starting at the beginning of the cycle.
 
@@ -436,7 +432,7 @@ Starting at the beginning of the cycle.
 * Stop hCG Before Starting SERM
 * **6-8 Weeks:** Nolvadex 10 mg ED  =  10/10/10/10/10/10 (10/10)
 
-### Option 2
+### Option 2 w/ hCG
 
 Starting 6 weeks before PCT (SERM).
 
@@ -447,7 +443,11 @@ Starting 6 weeks before PCT (SERM).
 
 ## Clomid
 
-### Option 1
+### Option 1 w/o hCG
+
+* **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
+
+### Option 1 w/ hCG
 
 Starting at the beginning of the cycle.
 
@@ -455,7 +455,7 @@ Starting at the beginning of the cycle.
 * Stop hCG Before Starting SERM
 * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
 
-### Option 2
+### Option 2 w/ hCG
 
 Starting 6 weeks before PCT (SERM).
 
@@ -466,7 +466,11 @@ Starting 6 weeks before PCT (SERM).
 
 ## Torem
 
-### Option 1
+### Option 1 w/o hCG
+
+* **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
+
+### Option 1 w/ hCG
 
 Starting at the beginning of the cycle.
 
@@ -474,7 +478,7 @@ Starting at the beginning of the cycle.
 * Stop HCG Before Starting SERM
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
-### Option 2
+### Option 2 w/hCG
 
 Starting 6 weeks before PCT (SERM).
 
@@ -482,69 +486,6 @@ Starting 6 weeks before PCT (SERM).
 * **Weeks 3-1:** 250-500 IU 3x/week
 * **Week 0:** Stop hCG &amp; Starting SERM
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
-
-## Secondary PCT Options
-
-This is the PCT plans you should use if you were in a position where hCG wasn't an option until something changed and you now have access to it at the VERY end of your cycle.
-
-**Note:** Aromasin is added in to combat the E2 sides from HCG. Previously hCG was utilized on cycle and you'd just adjust AI as necessary. Since you are no longer on cycle, we will use Aromasin. This is a lot of Aromasin, but has clinically be shown to be effective in aiding to stimulate testicular function. You may end up experiencing [low E2 sides.](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing the Optimal/Primary PCT Options](https://www.reddit.com/r/steroids/wiki/draft#wiki_optimal.2Fprimary_pct_options)
-
-## Nolvadex
-
-### Option 1
-
-Taking hCG right before PCT.
-
-* **1-2 Weeks BEFORE PCT:** hCG 1000-1500 IU EOD
-* **1-2 Weeks BEFORE PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
-* Stop HCG Before Starting SERM
-* **6-8 Weeks:** Nolvadex **10 mg** ED = 10/10/10/10/10/10 (10/10)
-
-### Option 2
-
-Taking HCG and SERM together.
-
-* **6-8 Weeks:** Nolvadex **10** **mg** ED =  10/10/10/10/10/10 (10/10)
-* **First 1-2 Weeks Of PCT:** HCG 1000-1500 IU EOD
-* **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
-
-## Clomid
-
-### Option 1
-
-Taking HCG right before PCT.
-
-* **1-2 Weeks BEFORE PCT:** HCG 1000-1500 IU EOD
-* **1-2 Weeks BEFORE PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
-* Stop HCG Before Starting SERM
-* **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
-
-### Option 2
-
-Taking HCG and SERM together.
-
-* **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
-* **First 1-2 Weeks Of PCT:** HCG 1000-1500 IU EOD
-* **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
-
-## Torem
-
-### Option 1
-
-Taking HCG right before PCT.
-
-* **1-2 Weeks BEFORE PCT:** HCG 1000-1500 IU EOD
-* **1-2 Weeks BEFORE PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
-* Stop HCG Before Starting SERM
-* **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
-
-### Option 2
-
-Taking HCG and SERM together.
-
-* **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
-* **First 1-2 Weeks Of PCT:** HCG 1000-1500 IU EOD
-* **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
 ## Minimalist PCT Options
 
@@ -653,7 +594,7 @@ SERMs should be run for a much longer time period, depending on the time of your
 
 * 10 mg Nolvadex (Tamoxifen) everyday **OR** 60 mg Toremifene everyday
 
-  **AND**
+**AND**
 
 * 25 mg Clomid (Clomiphene) everyday
 
