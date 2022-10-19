@@ -4,6 +4,10 @@ Here we will keep a directory of the Compound Experience Saturday threads. These
 
 Compound experience threads are on a weekly rotation .
 
+## NEW: 
+
+See all 300+ Compound Experience Threads here: https://bit.ly/compoundexperiencethreads
+
 ## Anabolic-Androgenic Steroids (AAS)
 
 Compound | 1st Thread | 2nd Thread | 3rd Thread | 4th Thread
