@@ -81,6 +81,7 @@ The following material is presented on topics related to /r/steroids for educati
 2. [Abuse of DNP](https://www.reddit.com/r/steroids/comments/tx295g/psa_dnp_terrifying_experience_with_only_200mgd_no/?ref=share&amp;ref_source=link)
 3. [Wasted First Cycle Cutting](https://www.reddit.com/r/steroids/comments/uywmcq/cycle_report_1st_test_cycle_thoughts_opinions/)
 4. [YEARS OF BLAST N CRUISE](https://www.unddit.com/r/steroids/comments/xdakg0/cycle_2_years_of_blast_n_cruise/)
+5. [Teen tren abuse](https://www.reddit.com/r/steroids/comments/zsr5ah/cycle_18m_300_mgml_tri_tren_blend/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
 
 ## AAS Related Acronyms
 
@@ -174,6 +175,7 @@ Side effects of glucocorticoids can include fat gain (particularly trunk), muscl
 A synthetic steroid hormone that resembles Testosterone in promoting the growth of muscle. Such hormones are used medicinally to treat some forms of weight loss and by some athletes and others to enhance physical performance. The proper term for these compounds is Anabolic-Androgenic Steroids (AAS).
 
 **Use of anabolic steroids can have side effects including:**
+
 * Acne and cysts
 * Breast growth and shrinking of testicles in men
 * Voice deepening and growth of body hair
@@ -255,7 +257,6 @@ MRI scans show that the adolescent brain and neuroendocrine system growth and de
 
 *While still under the age of* 25, the fragile connections that make up your newly-forged neural pathways are far more exposed and vulnerable to the potential for permanent damage than previously set, well-worn and established pathways. 
 
- 
 **What's safe?**
 
 For hypogonadal patients *under the age of 25* the standard of care medical professionals advise for the treatment of low Testosterone levels is either (a) *hCG* or (b) *Clomid monotherapy*. Each option has its own unique side effects, relative merits and disadvantages—but either one of these two options are far safer, and nowhere near risking the debilitating negative side effects that can come as a consequence of AAS mismanagement or abuse.
@@ -305,6 +306,7 @@ Your neuroendocrine system is still developing. Supplementing with hormones whil
 Androgen usage in teens increases the risk of gyno. Gyno has already been known to happen naturally in many teenagers because of fluctuating hormones. When you add more hormones to the mix, you dramatically increase the problems. Remember once you have gyno, it's very hard to get rid of. Unless you take the proper precautions up front, you'll have to resort to surgery and go under the knife.
 
 ***Hair Loss, Acne, Prostate Dysfunction***
+
 
 **Tracking Neurological Development**
 
