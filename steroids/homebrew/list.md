@@ -9,23 +9,13 @@ Steroid homebrew is the process of brewing steroidal compounds on a small scale 
 &gt;I started this as a response to the thread by /u/hypnotoadIRL [+3][2] , so he gets partial credit.
 I am a firm believer that everyone should know how to homebrew, so that they are not beholden to UGLs. Of course, not everyone wants to brew, but if you're here and you're curious, what is outlined below should help you get started. Links were all valid at time of posting. [...] You don't have to be super clever.
 
-*/u/biggerstrongertaller, '[Homebrew on a \(smaller\) budget](http://www.reddit.com/r/BiggerStrongerTaller/comments/2w4l1r/homebrew_on_a_smaller_budget/)', 2014*
-
 ##Essential Reading
 
 [Homebrew w/ Pics](https://www.reddit.com/r/steroids/comments/1j4pu4/homebrew_wpics/) - 26 Jul 2013
 
-[1 Boy, 30 Vials](/r/steroids/comments/29lyt2/1_boy_30_vials_a_homebrewing_story/) 200mg/ml eq, 200mg/ml deca and 250mg/ml test c. - 02 Jul 2014
-
 [Sterilization of Materials.](/r/steroids/comments/2hs996/homebrew_discussion_media_flask_sterilization/) - 29 Sep 2014
 
-[Homebrew On A Budget](/r/BiggerStrongerTaller/comments/2w4l1r/homebrew_on_a_smaller_budget/) has a lot of good information on how to start. - 16 Feb 2015
-
-[Guerrilla Brewing.](/r/BiggerStrongerTaller/comments/2w4n7e/guerrilla_brewing/), in which BST brews in his car. - 16 Feb 2015
-
 [First Homebrew](/r/steroids/comments/2xcnxj/little_homebrew_teaser_first_batch_of_tren_e_and/) - 27 Feb 2015
-
-u/RippedGenesBro's [Homebrew Supplies and Procedure](https://www.reddit.com/r/steroids/comments/7317gm/homebrew_wiki_page_revisions/dnsvsxp/) - 2 October 2017
 
 ##Examples Of Things You Shouldn't Do
 
@@ -131,6 +121,76 @@ In order to homebrew your own steroidal compound, you must have, at minimum, the
 6. If after a sufficient amount of stirring the powder has not dissolved, begin to add heat. If brewing Tren, keep the heat to below 140*F. Others can be heated above that, but you still do not want to cook the oil.
 7. If the powder still does not dissolve after some time, you will need to add more solvents.
 8. If you heated the brew, let it return to room temperature after the powder has completely dissolved to make sure the hormone will not fall out of suspension.
+
+##Procedure
+
+Note: This procedure was designed for the production of 100-200mL of gear in 10mL vials filled to 10.5mL each
+
+**Before You Begin:**
+
+* Plan your recipe so that your final volume is enough to fill all vials, and allow for 10mL of extra oil to overcome waste during the process
+* Put on latex gloves, lab coat, hairnet, and facemask, and wear these at all times, changing gloves whenever necessary
+* Assemble all equipment required for the brew (Note: Allow for more vials, stoppers, and flip tops than needed in order to overcome any unforeseen errors during sterilization or capping)
+* Place stir bar in the 400mL beaker
+* Fill 250mL graduated cylinder with distilled water to your desired final volume
+* Pour contents of graduated cylinder into the empty, dry 400mL beaker with the stir bar in it
+* Mark the location of the bottom of the meniscus on either side of the beaker, labeling clearly
+* Remove stir bar from beaker and pour water out of beaker
+
+**Sterilization:**
+
+* Clean media bottle, beaker, vials, stoppers, flip tops, stir bar, thermometer, and media bottle lid in an Alconox solution, using the brush set
+* Rinse with distilled water
+* Immerse in hydrogen peroxide for 15 minutes
+* Immerse in 70% isopropyl alcohol for 5 minutes
+* Rinse with distilled water 3 times
+* Place glassware and silicone stoppers (everything except media bottle lid, vial flip tops, stir bar, and thermometer) in foil-lined pan with foil covering (keep sides open) in oven at 350° F for 2 hours
+* Leave media bottle lid, vial flip tops, stir bar, and thermometer in alcohol bath until shortly before ready to use, then rinse with distilled water 3 times and dry with Kimwipes
+* Turn off oven and leave glassware in oven until ready to use, pulling out each item one at a time, ensuring that each piece is completely dry and free of film or residue
+
+**Brewing:**
+
+* Set up the hotplate stirrer, positioning the thermometer on the stand near the hotplate stirrer
+* Place stir bar in the 400mL beaker and place the beaker on the hotplate
+* Using a 50mL serological pipette, transfer your desired volume of Benzyl Benzoate to the 400mL beaker (Note: do not blow out the remaining liquid from the pipette once the liquid stops exiting the pipette -- the pipette is designed to expel the correct volume without blowout)
+* Using a 10mL serological pipette, transfer your desired volume of Benzyl Alcohol to the 400mL beaker (Note: Again, do not blow out the remaining liquid)
+* Turn on the stirring function of the hotplate stirrer and set to a medium speed (Note: Do not turn on the heat function yet)
+* Calibrate scale with weight set
+* Place an anti-static weigh boat on the scale and tare the scale
+* Weigh out your raw compound, transferring the powder to the weigh boat with a small spatula until it meets your desired mass requirement (Note: If you did not use all of your raw compound, remember to tightly re-seal the package in which it will be stored)
+* Repeat this process if you are using multiple compounds
+* Slowly and carefully empty the contents of the weigh boat(s) into the solution in the beaker as it stirs, allowing the powder to begin to dissolve (Note: Take your time and attempt to let each portion of powder dissolve before adding more -- if the powder will not dissolve, add small portions of carrier oil to the beaker until the fluid level is close to, but not at, the mark you made on the side of the beaker; if it still won't dissolve, turn on the heat function of the hotplate stirrer and allow the solution to heat to a maximum of 50° C, using the mounted thermometer to monitor the temperature)
+* Once the powder has dissolved in solution and the fluid level is close to the mark you made on the side of the beaker, continue to allow the solution to stir for a minimum of 30 minutes
+* Turn off the stirring function of the hotplate stirrer (Note: If you used heat, turn off the heating function of the hotplate stirrer, as well, and allow the solution to cool to room temperature before continuing)
+* Using a 50mL serological pipette, carefully fill the beaker to your volume mark with carrier oil, until the bottom of the meniscus touches the mark you made (Note: If you used the the thermometer, ensure that it is lifted out of the steroid solution before you perform this step -- also, pipette the first bit of oil so that it drips down the end of the thermometer and into the beaker, thus rinsing off any concentrated steroid solution that might have remained on the thermometer)
+* Turn the stirring function of the hotplate stirrer back on at a medium speed, and allow the solution to stir for an additional 30 minutes, to ensure that the solution is thoroughly mixed
+* Turn off the stirring function of the hotplate stirrer and remove the stir bar from the beaker
+
+**Filtering:**
+
+* Assemble your bottle top filter by screwing the filter top onto the 250mL glass media bottle and connecting the hose from the vacuum pump to the filter
+* Open the lid of the bottle top filter and pour the steroid mixture into the reservoir
+* Pump the vacuum pump to a pressure of 15 PSI
+* Allow the solution to filter until the entire solution is contained within the media bottle
+* Remove the filter top from the glass media bottle and screw the lid onto the mouth of the bottle
+
+**Transferring to Vials &amp; Capping:**
+
+* Attach a new sterile 50mL serological pipette to the pipette controller
+* Open the lid of the media bottle and extract 42mL of the steroid solution from the bottle, then close the lid immediately
+* Expel 10.5mL of the filtered steroid solution from the pipette into a clean, dry, sterile 10mL vial
+* Immediately place a silicone stopper on the vial and press down until it is firmly seated
+* Repeat the process for 3 more vials
+* Repeat the previous 5 steps until you have dispensed all of the steroid solution from the media bottle, and all vials are filled and closed (Note: the last vial may contain a lower amount of the filtered steroid solution, which can be considered "extra")
+* Place a flip top cap on a vial and crimp, making sure the lid is crimped on straight
+* Repeat this process until all vials are crimped and sealed
+* Label the vials
+
+**Clean-Up**
+
+* Dispose of all disposable equipment
+* Use the previously prepared wash solutions to wash the glassware, using the aforementioned method
+* Store items for next time :)
 
 ##Filtering
 
@@ -362,6 +422,22 @@ No heat. Took an hour to dissolve.
 * 20ml BB
 * 67.9ml Mig840
 
+####**Trestolone (MENT)**
+
+**Trestolone Ace - 100mg/ml - 10ml** submitted by u/calfpumps
+
+* 1g Trest Ace powder
+* 0.3ml BA
+* 2ml BB
+* 7ml MCT
+
+**Trest Ace - 100mg/ml - 100ml**
+
+* 10g Trest Ace
+* 2ml BA
+* 20ml BB
+* 77ml MCT
+
 ####**Nandrolone**
 
 **NPP 100mg/ml - 100ml** submitted by u/ssjhayes - no displacement was found, used .900.
@@ -450,6 +526,12 @@ No heat. Took an hour to dissolve.
 
 ####**Injectible Orals**
 
+**L-Carnitine Base 500mg/ml - 100ML**
+
+* 59ml distilled water
+* 50g L-Carnitine **base**
+* 1.5ml BA
+
 **Superdrol**
 
 * 40mg/mL to make 10mL of oil (scale up to whatever you want)
@@ -473,11 +555,21 @@ Starting dosage 4mg daily as recommended by u/PM_me_varbies but can be upped to 
 * 5ml BB
 * 44.14mL Mig840
 
+**Methyl Tren 5mg/ml - 20ml** Submitted by u/priesten
+
+* 100mg methyl tren powder
+* 0.4ml BA
+* 6ml BB
+* 13.52ml GSO
+
 ##Excipients
+
 *****
+
 ###[Carrier Oils](http://www.reddit.com/r/steroids/wiki/homebrew/carrieroils)
 ###[Solvents](http://www.reddit.com/r/steroids/wiki/homebrew/Solvents)
 ###[Antimicrobials/Preservatives](http://www.reddit.com/r/steroids/wiki/homebrew/antimicrobials)
+
 *****
 
 #Triturations and Aliquots
