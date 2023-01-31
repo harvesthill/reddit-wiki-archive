@@ -38,31 +38,39 @@ There are two principal ways to get bloodwork done.
 
 ## What Bloodwork do you need before Your First Cycle?
 
+TLDR; An easy and popular way to get labs done in the U.S. is to order the ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&amp;show=3107&amp;category=14&amp;search=#3107) from privatemdlabs.com. This will provide a comprehensive metabolic panel (CMP), complete blood count (CBC), hormone panel, and lipid panel. As of January 2023, the cost is $118.99. Discount codes are easy to find. Note that the panel costs substantially more from LabCorp, so be sure to choose the Quest option if you have Quest Diagnostics locations near you. Also note that due to state laws, Private MD Labs can not provide lab orders in the states of New York, New Jersey, Rhode Island, or Hawaii.
+
+Continue reading for a more in-depth explanation.
+
 When ordering online, you can usually find a **Standard Male Hormone Panel****.** 
 
 This typically includes: 
 
-**Androgens** — You'll need a baseline for your HPTA axis to know if you're already hypogonadal (*low T levels*), as well as if you've recovered fully after your PCT.
+**Hormones** — You'll need a baseline for your HPTA axis to know if you're already hypogonadal (*low T levels*), as well as if you've recovered fully after your PCT.
 
-* **LH**/**FSH**: These gonadotropins stimulate the testes to produce testosterone.
+* **LH, FSH:** These gonadotropins stimulate the testes to produce testosterone.
 
-* **Testosterone**, **Free** **Testosterone**: Free testosterone should be measured directly, not calculated.
+* **Testosterone:** That's what we're all here for, right?
 
-* **SHBG** (*Sex Hormone Binding Globulin*): binds to Testosterone in the bloodstream
+* **SHBG (Sex Hormone Binding Globulin):** Acts as a carrier protein by binding testosterone and estrogen in the bloodstream
 
-* **Estradiol**: E2 is affected by aromatizing hormones. It's good to know if it's high when going in, and when dialing in AI mid-cycle.
+* **Free Testosterone:** This is the amount of unbound testosterone (not bound to SHBG or albumin) in the bloodstream. This lab is optional, at least for initial lab work. It might be useful for helping to investigate hormone issues that aren't explained by the total testosterone level.
 
-**Basic Health Markers** — These are important to know that you're generally healthy going into the cycle. 
+* **Estradiol:** Estradiol is affected by aromatizing hormones. It's good to know if it's high when going in, and when dialing in AI mid-cycle.
 
-* **CBC** (*Complete blood count*)
+**Health markers** — These are standard panels for organ function, electrolytes, blood glucose, cholesterol, and prostate that give a more comprehensive picture of overall health.
 
-* **Lipids** (**LDL**/**HDL**): AAS aren't good for cholesterol levels. You'll need a baseline to ensure you're healthy going in.
+* **CMP (Comprehensive Metabolic Panel):** These are basic health markers that provide information about kidney function, liver function, electrolytes, and blood glucose.
 
-* **Liver function** (**AST**/**ALT**/**GGT**/**Bilirubin**): These are mainly important if you're planning on orals. You want to be sure your liver is healthy going into the cycle.
+* **CBC (Complete Blood Count):** Provides information about red blood cells such as hemoglobin, hematocrit, and cell size, and information about the various leukocytes (white blood cells).
 
-* **PSA** (*Prostate Specific Antigen*): If this is elevated you could have prostate cancer. If you have prostate cancer and take androgens, it's like throwing gasoline on a fire. Ensure levels are normal prior to starting any AAS.
+* **Lipids (LDL, HDL, trigylcerides):** AAS tend to decrease HDL and increase LDL, which is not good for cardiovascular health. You'll need a baseline to ensure you're healthy going in.
 
-* **Insulin, Glucose**: you'll want to ensure you're not pre-diabetic.
+* **Liver function (AST, ALT, GGT, Bilirubin, Albumin):** These are mainly important if you're planning on orals, or trenbolone, which can be hepatotoxic. You want to be sure your liver is healthy going into the cycle. All of these except sometimes GGT are included in the CMP.
+
+* **PSA (Prostate Specific Antigen):** If this is elevated you could have prostate cancer. If you have prostate cancer and take androgens, it's like throwing gasoline on a fire. Ensure levels are normal prior to starting any AAS.
+
+* **Blood Glucose:** you'll want to ensure you're not pre-diabetic.
 
 Not too complicated, right?
 
@@ -74,23 +82,23 @@ There are many services through out the world that provide individuals the capab
 
 There are several providers in the USA to choose from.
 
-**Note**: Unfortunately, testing is unavailable in *NY*, *NJ*, *MA*, *MD*, and *RI*. If you're a resident of one of these states you'll have to drive Out-of-State to use Private MD Labs, LabsMD, or any other private lab. Instructions Below.
+**Note**: Unfortunately, testing is unavailable in *NY*, *NJ*, *RI* and *HI*. If you're a resident of one of these states you'll have to drive out of state to use Private MD Labs, LabsMD, or any other private lab. Instructions Below.
 
 *MA &amp; MD residents only*: You can use [Health Tests Direct.](https://www.health-tests-direct.com/)
 
 #### Private MD Labs
 
-[Private MD Labs](https://www.privatemdlabs.com/) — A good and trusted lab with many locations.
+[Private MD Labs](https://www.privatemdlabs.com/) — A good and trusted online service that can send lab orders to Quest Diagnostics or LabCorp locations. Note that in most cases, LabCorp tests are significantly more expensive than Quest for the same information. It's generally recommended to use Quest if there are locations near you.
 
-* [Hormone Panel with Estradiol Sensitive and Testosterone LC/MS-MS](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;show=2573&amp;category=14&amp;search=ms#2573) Same as above, but with LC/MS estrogen test. Use this to get an accurate estrogen reading while running Trenbolone. **DO NOT** use this to test whether your tren is counterfeit, as it will not count it in the estrogen test.
+* ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&amp;show=3107&amp;category=14&amp;search=#3107). This will provide a CMP, CBC, hormone panel, and lipid panel. The testosterone results will show levels greater than 1500 ng/dL, and the estradiol test is the ultrasensitive version. **DO NOT** use this to test whether your tren is counterfeit, as it will not count it in the estrogen test.
 
 * Anything with [Test 070195](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;search=070195) will show the actual value for testosterone, rather than “high” or “greater than 1500.” 
 
 * [Thyroid TSH, T4 and T3 Panel](http://www.privatemdlabs.com/lp/Thyroid_TSH_T3_T4.php) optional, check thyroid levels if you suspect anything wrong with them. 
 
-* [Liver Panel](http://www.privatemdlabs.com/lp/liver_panel.php) This test is important if using oral steroids. This is included in the Hormone Panel for Females. You ***do not*** need to order it separately.
+* [Liver Panel](http://www.privatemdlabs.com/lp/liver_panel.php) This test is important if using oral steroids. This is included in the CMP. You do not need to order it separately.
 
-* [Lipid Test](http://www.privatemdlabs.com/lp/lipid_panel.php) to check cholesterol levels 
+* [Lipid Test](http://www.privatemdlabs.com/lp/lipid_panel.php) to check cholesterol levels.
 
 * Anything with [Test 303756](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;search=303756) contains a lipid panel.
 
