@@ -38,7 +38,7 @@ There are two principal ways to get bloodwork done.
 
 ## What Bloodwork do you need before Your First Cycle?
 
-TLDR; An easy and popular way to get labs done in the U.S. is to order the ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&amp;show=3107&amp;category=14&amp;search=#3107) from privatemdlabs.com. This will provide a comprehensive metabolic panel (CMP), complete blood count (CBC), hormone panel, and lipid panel. As of January 2023, the cost is $118.99. Discount codes are easy to find. Note that the panel costs substantially more from LabCorp, so be sure to choose the Quest option if you have Quest Diagnostics locations near you. Also note that due to state laws, Private MD Labs can not provide lab orders in the states of New York, New Jersey, Rhode Island, or Hawaii.
+**TLDR:** An easy and popular way to get labs done in the U.S. is to order the ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&amp;show=3107&amp;category=14&amp;search=#3107) from privatemdlabs.com. This will provide a comprehensive metabolic panel (CMP), complete blood count (CBC), hormone panel, and lipid panel. As of January 2023, the cost is $118.99. Discount codes are easy to find. Note that the panel costs substantially more from LabCorp, so be sure to choose the Quest option if you have Quest Diagnostics locations near you. Also note that due to state laws, Private MD Labs can not provide lab orders in the states of New York, New Jersey, Rhode Island, or Hawaii.
 
 Continue reading for a more in-depth explanation.
 
