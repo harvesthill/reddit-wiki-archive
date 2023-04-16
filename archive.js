@@ -26,8 +26,8 @@ const prettifyMarkdown = require('prettify-markdown');
 
 async function fetchPagesForSubreddit(sub, argv) {
   const baseUrl = `https://api.reddit.com/r/${sub}/wiki`
-  
-  const res = await got(baseUrl + `/pages`).json()
+
+  const res = await fetchFromRedditApi(baseUrl + `/pages`).json()
   
   if (res && res.data && res.data.length > 0) {
     for (let page of res.data) {
@@ -40,8 +40,7 @@ async function fetchPagesForSubreddit(sub, argv) {
 }
 
 async function archivePage(url, pageSlug, sub, argv) {
- const res = await got(url).json()
- 
+ const res = await fetchFromRedditApi(url)
   if(res.data && res.data.content_md !== undefined) {
     const targetFile = `${sub}/${pageSlug}.md`
     ensureParentDirForFilePath(targetFile)
@@ -70,4 +69,12 @@ function ensureParentDirForFilePath(filePath) {
     if (e.code === 'EEXIST') return
     throw e
   }
+}
+
+function fetchFromRedditApi(url) {
+  return got(url, {
+    headers: {
+      'Cookie': 'over18=1; _options={%22pref_gated_sr_optin%22:true}', // https://www.reddit.com/r/redditdev/comments/tjl1c8/bug_gated_subreddits_inaccessible_via_oauth/
+    },
+  }).json()
 }
