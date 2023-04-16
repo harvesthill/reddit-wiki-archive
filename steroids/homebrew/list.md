@@ -23,7 +23,7 @@ I am a firm believer that everyone should know how to homebrew, so that they are
 
 ##Materials
 
-####**Absolute Minumum**
+####**Absolute Minimum**
 
 This is if you plan to make your gear in a pot on the stove like the gym bros on some other forums do. DO NOT ACTUALLY COOK THE OIL. You're on the stove because heat makes it easier for the hormone to suspend.
 

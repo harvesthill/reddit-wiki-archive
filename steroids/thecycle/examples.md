@@ -94,18 +94,20 @@ It is recommended to keep your caloric intake at no less than 80% TDEE.
 By now, you have probably put on a fair bit of mass, and want to see how how much you are capable of. This is a solid second cycle, perfect for putting on mass quickly with minimal side effects. **Nandrolone** also provides excellent joint support, allowing you to push your body a bit harder. At this point you have a bit of a feel for how your body responds to testosterone. You can extend the cycle a bit.
 
 * **Weeks 1-16:** Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500 mg/week split *E3.5D*.
-* **Weeks 1-16:** [NPP (Nandrolone)](https://www.reddit.com/r/steroids/wiki/nandrolone), 50-75 mg/day (350-500mg weekly)
+* **Weeks 1-16:** [NPP (Nandrolone)](https://www.reddit.com//r/steroids/wiki/deca_durabolin), 50-75 mg/day (350-500mg weekly)
 * **Weeks 16-18:** Nothing (This allows the extraneous testosterone to clear your body).
 * **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 You can extend for up to 20 weeks. If you wish to extend it, obviously all your ending weeks will change and the week you start PCT will as well.
 
-## Cut/Recomp Cycles
+## Cutting Cycles
 
 ### Silver Standard
 
 The following cycle is considered to be a very solid cutting cycle that maintains lean body mass while burning fat.  Keep your caloric intake at no less than 80% TDEE.
+
+#### NOTE: Running supraphysiological doses of AAS to support a cut has largely fallen out of favor, and is NOT recommended for anybody other than professional, competing bodybuilders.
 
 * **Weeks 1-12:** [Trenbolone Acetate](/r/steroids/wiki/trenbolone), 50-100 mg, every day (ED) to your tolerance level
 * **Weeks 1-12:** [Testosterone Propionate](/r/steroids/wiki/testosterone_propionate) (or  [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate)), 50 mg ED
@@ -135,7 +137,7 @@ When excess carbs are eaten, Trenbolone will push them into the mitochondria of 
 
 Works best when body fat is below or at 12%.
 
-Add in the following to the Silver Standard Cut / Recomp Cycle:
+Add in the following to the Silver Standard Cutting Cycle:
 
 * **Weeks 1-12:** [Masteron Propionate](http://www.reddit.com/r/steroids/wiki/masteron), same mg as Testosterone Propionate
 

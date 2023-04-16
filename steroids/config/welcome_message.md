@@ -12,6 +12,6 @@ Aside from that we have a daily posted *Ask Anything* thread for AAS related que
 
 The idea is that 90 days after participating in the comments you understand how the community works and are then approved to the sub (automatically) and can make a post, *with the understanding that it must be high quality and if it isn’t your “approved poster” status will be revoked.*
 
-So feel free to participate in the comments until then 😉 
+So feel free to participate in the comments until then 
 
 - r/steroids mod team

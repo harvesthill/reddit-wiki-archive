@@ -335,6 +335,79 @@ The only exceptions to this rule is how to purchase needles/syringes, how to obt
 
 **If you're not sure if something falls under this rule or not, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) for clarification.**
 
+## 7: Do Your Own Research and Don't be an Askhole.
+
+The purpose of /r/steroids is for *harm reduction*, promoting safer use of anabolic steroids, and sharing information to further those goals. In order to successfully execute on those missions, all users need to develop a fundamental understanding of the compounds we're discussing and how to use them. Additionally, to more effectively and efficiently solicit and receive feedback, its critical for an individual user to share the necessary background information on their situation to help other users accurately assess and answer their questions.
+
+### Do Your Own Research
+
+The /r/steroids wiki and subreddit is a treasure trove of information regarding safer use of AAS. 
+
+Before you ask your question, ensure you've reviewed the following *at minimum*: 
+
+* [The Basics](https://www.reddit.com/r/steroids/wiki/thecycle/list)
+* [Your First Cycle](https://www.reddit.com/r/steroids/wiki/your_first_cycle)
+* [The Estrogen Handbook](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook)
+* [Post Cycle Therapy aka PCT](https://www.reddit.com/r/steroids/wiki/thecycle/pct)
+* [The Compound Experience Directory](https://www.reddit.com/r/steroids/wiki/compound_experience_threads)'s threads for the compound you're curious about
+
+Consider also:
+
+* Searching /r/steroids using https://camas.unddit.com/
+   * Input `steroids` under `SUBREDDIT` and your key words under `SEARCH TERM`
+* Googling your question
+    * Also search this subreddit using google by performing the following query: `site:www.reddit.com/r/steroids &lt;Search String&gt;`
+* Scrolling through a couple previous Ask Anything threads
+
+### Don't be an Askhole
+
+We're all busy, and everybody here is volunteering their time to help one another achieve our mutual goals. By providing enough background information and making it very clear what you want to know, you enable more experienced users to quickly understand where you're at, where you've been, and where you're trying to go!
+
+*Please understand that a full picture of your situation is required to help you.*
+
+**Things you should include:**
+
+* Your background stats:
+    * Height
+    * Weight
+    * Age or age range
+    * Gender
+    * Bodyfat percentage
+    * Experience level, consider:
+        * years of concurrent training
+        * bench/squat/dead maxes, PRs, etc
+        * amateur/pro  
+    * Bloodwork, include:
+        * Values
+        * Reference ranges
+        * Units of measure
+* Your goals:
+    * Athletic goals, e.g. are you training for aesthetics on a casual or professional level, strength, a specific sport, etc.
+    * Are you bulking, cutting, maintaining? ([Don't say recomp](https://www.realstorygroup.com/images/up/Going%20Nowhere%20Fast.jpg), [don't say recomp](https://media.istockphoto.com/id/1178700346/vector/businessmen-riding-tandem-bicycle-facing-opposite-directions.jpg?s=170667a&amp;w=0&amp;k=20&amp;c=k6sZxXjQFyLotwUJSosONPRlQVUbKkHE6d3CfhReGJk=), [don't say recomp](https://cdn.road.cc/sites/default/files/styles/main_width/public/images/News/Push%20Me-Pull%20You%20Tandem%20%28Facebook%20video%20still%29.JPG))
+* Your intended compounds to use:
+    * The full list of compounds including esters (enanthate, propionate, undecanoate etc.) as opposed to just "testo" or "nand"
+    * The milligrams or IU you intend to use per day or week, NOT cc's, not mLs
+    * Your experience with these compounds
+
+**You should not:**
+
+* Simply ask:
+&gt;    * thoughts?
+&gt;    * anybody ever used [compound]? 
+&gt;       * (see the [Compound Experience Directory](https://www.reddit.com/r/steroids/wiki/compound_experience_threads))
+&gt;    * Which steroid is best for [xyz]?
+&gt;    * What steroid does [xyz]?
+&gt;    * Which steroid increases [metabolism/fat loss/xyz]?
+
+* Ask what cycle your favorite influencer is on
+* Ask if [xyz influencer/athlete/celebrity] is natty or not
+* Repeatedly ask the same question day after day
+* Continuously ask hypothetical questions without sharing helpful background information as to *why* you're asking these questions
+
+#### In short:
+
+Your question should be **clear**, **concise**, **well-formatted**, and have **all the background information** necessary for an experienced user to read it and quickly help point you in the right direction!
+
 ###Questions and Concerns?
 
 Please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) with any questions, concerns, or clarifications you may have/need.  Topics created with rule or community administration questions will be removed.  

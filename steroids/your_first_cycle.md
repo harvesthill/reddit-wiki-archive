@@ -35,51 +35,45 @@ Prohormones &amp; Designer Steroids are no better (or even worse in some cases) 
 
 It's a question we see almost daily on the forum. The author's cycle isn't living up to their expectations and more often than not, the first thing they'll do is blame the gear for their underwhelming results. But are they doing everything that is required from them to make gains? Are they using the correct metrics to evaluate whether their gear is legit? And have they started the cycle with realistic expectations? In most cases, absolutely not.
 
-I don’t feel anything from it.
+####I don’t feel anything from it.
 
 You won’t necessarily feel different on gear. I don’t, regardless of what compound/dose I’ve used, I always feel the same, laid back and easy-going. When you read about people feeling superhuman when they start injecting a bit of Testosterone, the chances are they’ve suffered from low Test without necessarily realising for their whole lives and are finally experiencing normality, which they think feels fantastic.
 
-But I’m not getting any side effects!
+####But I’m not getting any side effects!
 
 Good. That’s what you want. You don’t have to suffer from side effects for your gear to be legitimate. Consider yourself lucky. Would you prefer to be covered in acne, bloated and balding to help confirm you’re actually injecting hormones? If you’re asking this question in the first place, the chances are you’re new to using PEDs and using moderate doses of 1-2 mild compounds. It’s more common not to suffer sides at all than it is to be riddled with them with this kind of cycle.
 
-I’ve not gained any weight/have gained very little weight!
+####I’ve not gained any weight/have gained very little weight!
 
 What’s your maintenance calorie intake? How did you reach this figure? Please don’t say you used a shitty generic online calculator. How active are you day to day? How many calories do you burn during training? Are you doing cardio? Combine all of this. That’s your maintenance calorie intake. If you want to gain weight, you need to be in a calorie surplus daily. Don’t think you’re a special snowflake who will do an insane recomp at maintenance calories during your first cycle. You’ll spend the whole cycle spinning your wheels and have nothing or very little to show for it at the end.
 
-But I’m eating roughly 2300-3300 calories every day and still not gaining
+####But I’m eating roughly 2300-3300 calories every day and still not gaining
 
 Roughly won’t cut it. It needs to be consistent. If you’re spending half of your days at -500 calories and half at +500 calories, you’re at maintenance over the course of the week and that’s why you’re gaining next to nothing. Your surplus needs to be consistent over the week if you wish to gain consistently.
 
-My bench press hasn’t suddenly shot up by 50KG..
+####My bench press hasn’t suddenly shot up by 50KG..
 
 It won’t. Sure, you’ll gain strength faster than you would naturally. But you’re not going to turn superhuman overnight or even during one full cycle. You need to tailor your routine so it’s focused on progression and work on adding small increments in weight, extra reps or additional time under tension to your lifts each week over the course of the cycle. The small and consistent increments will add up and it’s possible to boost your numbers considerably in 15 weeks, but you’re not going to turn in to Larry Wheels. Look at the volume and frequency of your training and make sure it’s right for you and you’re able to recover in between sessions. Focus on progression. Get rid of all of that junk volume where you’re lifting with little to no intensity and aimlessly trying to pump the muscle thinking it’s going to explode. That kind of training might work for a select few with superb genetics, but you’re better off focusing on the bread and butter and getting stronger over low to moderate volume.
 
-####Is (random UGL that has existed for one week) Pharma legit?
-
- ***REMEMBER THAT THERE WILL BE NO SOURCE DISCUSSIONS ALLOWED ON THIS FORUM***
-
-There’s countless threads on the forum already with reviews. You’ll see certain labs mentioned and praised daily. Outside of putting out a bad batch due to dodgy raws or somebody producing identical replicas, you’re more than likely going to be good to go with those labs. If they’ve put out a shit batch, you’ll have probably heard about it already. If you’re buying from some obscure lab that nobody has ever heard of despite having dozens of well reviewed labs at your disposal, that’s on you.
-
-Should I add X, Y and Z to make up for the fact that this might be bunk?
+####Should I add X, Y and Z to make up for the fact that this might be bunk?
 
 No. You’re brand new to gear. It might not be bunk and could be a training/nutrition issue. Throwing in another compound is going to give you more potential side effects to worry about and require you to add additional ancillaries to counteract them. You’re only just learning how you respond to Test by itself and if you’re ticking all the boxes, you can make great gains on that alone with little to no sides.
 
-I’m using (extremely high)mg of AI and on (relatively low)mg of Test and feel like shit, this Test must be bunk!
+####I’m using (extremely high)mg of AI and on (relatively low)mg of Test and feel like shit, this Test must be bunk!
 
 You’ve been using a high dose of AI from the offset and have crushed your E2. That’s why you feel like shit. Use your AI when it’s required at the lowest dose you can get away with using and ideally, have bloods done to determine when it’s required or you’re going to be blindly throwing super strong medication to fix a problem which may not exist, risk crashing your E2 and ruining your whole cycle.
 
-I don't feel extremely horny 24/7 and don't want to shag every woman in sight, this must be bunk, right?
+####I don't feel extremely horny 24/7 and don't want to shag every woman in sight, this must be bunk, right?
 
 Not necessarily, no. It's all a fine balancing act. Your Test could be sky high but your E2 or a range of other different hormones could be slightly out of whack, creating a ratio that your body doesn't like and having a negative impact on your libido. Over time, you'll learn what levels/ratios work for you and help you feel on point and you'll be able to achieve them through a proper dosing schedule/can use blood work to dial them in. Not only that, but your Test levels aren't the only thing that will impact your sex drive. Are you stressed at work? Hate your job? Anxious? Depressed? Worried about the cost of living increasing? Having trouble sleeping? Think your Mrs is having an affair with your mate? You're hardly going to want to shag every woman within a 2 mile radius while you've got dozens of issues and stress bubbling away under the surface. There's more to a healthy libido than Testosterone levels.
 
-I haven't been able to replicate (fitness influencer)'s physique even though I've used the same cycle as them, my gear must be bunk!
+####I haven't been able to replicate (fitness influencer)'s physique even though I've used the same cycle as them, my gear must be bunk!
 
-There is a million things separating your physique from theirs other than your cycle. Your height, weight, frame, insertions, muscle bellies, muscularity, body fat percentage, body fat distribution, calorie/macro/fluid/mineral intake, training volume/frequency/intensity/style and countless other factors will differ from theirs. And what's to say they are being honest about their cycle and dose to begin with? It's common for somebody in the public eye to downplay their cycle/doses to pay homage to their work rate, genetics and consistency. You are naïve if you think you will mimic somebody's exact physique by simply copying their gear protocol.
+There are a million things separating your physique from theirs other than your cycle. Your height, weight, frame, insertions, muscle bellies, muscularity, body fat percentage, body fat distribution, calorie/macro/fluid/mineral intake, training volume/frequency/intensity/style and countless other factors will differ from theirs. And what's to say they are being honest about their cycle and dose to begin with? It's common for somebody in the public eye to downplay their cycle/doses to pay homage to their work rate, genetics and consistency. You are naïve if you think you will mimic somebody's exact physique by simply copying their gear protocol.
 
 ####I don’t feel anything, I have zero side effects, my training and nutrition is perfect and I’ve still not gained a single pound
 
-Get a blood test from MediChecks while on cycle and post your results. If the gear is bunk or severely under dosed, your blood work will show this quite clearly and then we can all agree that the gear is indeed bunk. I’ve been blasting and cruising for upwards of 8 years and I can’t ever recall using any gear that was blatantly bunk and I’ve used every lab under the sun, so I don’t think it’s as common as the constant bunk gear threads are suggesting. If you’re using a compound which won’t show on a blood panel, send a sample to Janoshik or a similar lab for testing. That will identify the exact contents of your gear and you'll know if it's accurately dosed, under dosed or bunk. Most of the time, it’s a training/diet issue and people are blaming it on the gear before accepting they might not be ticking all the boxes. If in doubt and you’re doing everything right, get a blood test or a lab test and you’ll know for sure.
+Get [bloodwork](https://www.reddit.com/r/steroids/wiki/bloodwork/list) while on cycle and post your results. If the gear is bunk or severely under dosed, your blood work will show this quite clearly and then we can all agree that the gear is indeed bunk. I’ve been blasting and cruising for upwards of 8 years and I can’t ever recall using any gear that was blatantly bunk and I’ve used every lab under the sun, so I don’t think it’s as common as the constant bunk gear threads are suggesting. If you’re using a compound which won’t show on a blood panel, send a sample to Janoshik or a similar lab for testing. That will identify the exact contents of your gear and you'll know if it's accurately dosed, under dosed or bunk. Most of the time, it’s a training/diet issue and people are blaming it on the gear before accepting they might not be ticking all the boxes. If in doubt and you’re doing everything right, get a blood test or a lab test and you’ll know for sure.
 
 Don’t go in to this with your expectations too high. If your diet consists of one solid meal a day and 5 snacks that are fit for a primary school student’s lunchbox, you’re not going to look like Nick Walker any time soon. In fact, you’ll probably never look like him, or even a low level IFBB Pro. Your genetics will dictate 95% of your potential and even if you do EVERYTHING perfectly, you’ll finish your first cycle looking like a slightly thicker, fuller, stronger version of your natural self with slightly rounder delts, more prominent traps and a couple of extra veins running down your upper arm when you’ve got a good pump. Maybe 1 in 50 of you will be a great responder and finish the cycle looking dramatically different, but you’ll never need to ask this question because it’ll be clear your gear is real from the offset.
 
@@ -89,14 +83,12 @@ The Basic Bulk, that is recommend, is a 12–20 week cycle of Testosterone while
 
 Testosterone is a powerful tool, if used correctly and can put on a good **+8-12 lbs of LEAN mass** (excluding water and fat gain) over the course of 16 weeks. Testosterone is a relatively mild compound  that causes little to no issues with side effects. Again, most potential side effects can be avoided entirely if the cycle is followed correctly and the proper precautions are taken.
 
-**Read Other Experiences With Testosterone:**
-
-* [**1st Compound Experience Thread**](https://www.reddit.com/r/steroids/comments/5usm3i/compound_experience_saturday_testosterone_test/)
-* [**2nd Compound Experience Thread**](https://www.reddit.com/r/steroids/comments/8fndzm/compound_experience_saturday_testosterone_test/)
+**[Read Other Experiences With Testosterone](https://www.reddit.com/r/steroids/wiki/compound_experience_threads)**
 
 When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Receptor Modulator) it is advised to buy pharmaceutical grade products whenever possible. Your Testosterone can be pharmaceutical grade or from an underground lab (UGL). Just make sure you do plenty of research of the brand before you spend any money to make sure they have good reviews. 
 
 **NO SOURCE TALK**
+
 
 **REMINDER: NO SOURCE TALK. This forum is not the place for you to do research or request source information.**
 
@@ -113,10 +105,10 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 
 * [Syringes and Needles](https://www.reddit.com/r/steroids/wiki/thecycle/injecting#wiki_pin_suppliers)  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Luer Lock Syringes  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 21g Needles (1" to 1.5") for drawing  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g Needles (1" to 1.5") for injecting Glutes  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g Needles (1") for injecting anywhere else (Not necessary if only injecting Glutes.)  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Alcohol injection swabs  
+&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 21g Needles (0.5" to 1.5") for drawing  
+&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g-31g Needles (1" to 1.5") for injecting Glutes  
+&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g-31g Needles (0.5" to 1") for injecting anywhere else (Not necessary if only injecting Glutes.)  
+&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Alcohol swabs  
 
 ###Optional Items
 

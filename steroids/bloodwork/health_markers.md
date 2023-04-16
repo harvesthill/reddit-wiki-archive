@@ -4,7 +4,7 @@
 
 ###Alanine amino-transferase (ALT)
 
-An enzyme produced primarily in the liver but also in other tissues. ALT is involved in amino acid and protein metabolism. Used as a primary marker of hepatic strain. Also called Serum Glutamic Pyruvic Transaminase (SGPT).
+An enzyme produced primarily in the liver but also in other tissues. ALT is involved in amino acid and protein metabolism. Used as a primary marker of hepatic strain. Also called Serum Glutamic Pyruvic Transaminase (SGPT). [Commonly elevated in athletes, especially those that specialize in resistance training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2291230/). 
 
 ###Albumin 
 
@@ -24,7 +24,7 @@ A constituent of LDL (bad) cholesterol, apoB is responsible for attaching these 
 
 ###Aspartate amino-transferase (AST)
 
-An enzyme produced primarily in the liver but also in muscle tissue. AST is involved in amino acid and protein metabolism. Used as a marker of hepatic strain, although it is considered less specific than ALT testing. Also called Serum Glutamic-Oxalocetic Transaminase (SGOT).
+An enzyme produced primarily in the liver but also in muscle tissue. AST is involved in amino acid and protein metabolism. Used as a marker of hepatic strain, although it is considered less specific than ALT testing. Also called Serum Glutamic-Oxalocetic Transaminase (SGOT). [Commonly elevated in athletes, especially those that specialize in resistance training](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2291230/). 
 
 ###Basophils
 
@@ -104,7 +104,7 @@ A pituitary hormone involved in reproduction. In men, FSH is mainly responsible 
 
 ###Gamma-Glutamyl Transpeptidase (GGT)
 
-A cholestatic enzyme produced in the bile ducts. GGT is involved in glutathione metabolism and the transport of amino acids and peptides. Used as a marker of hepatic strain.
+A cholestatic enzyme produced in the bile ducts. GGT is involved in glutathione metabolism and the transport of amino acids and peptides. Used as a marker of hepatic strain. [An important health marker for measuring actual liver health in strength training athletes and anabolic steroid users in particular](https://pubmed.ncbi.nlm.nih.gov/10336050/).
 
 ###Globulin
 
