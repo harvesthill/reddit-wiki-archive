@@ -168,7 +168,17 @@ There are several providers in the USA to choose from.
 
 ### Ontario
 
+#### GetMaple.ca
+
 If you live in Ontario you can use [GetMaple.ca](http://www.GetMaple.ca) to easily talk to a doctor and get a requisition form for bloodwork. It's $50 to talk to a doctor online. You show your health card, tell them you're on steroids, answer their questions and tell them what you want to have checked. They email you a requisition form in a few minutes that you can take to a life labs or similar.
+
+#### TeleTest.ca
+
+You can also use [TeleTest](https://teletest.ca/)! /u/miketeletest notes:
+
+&gt; TeleTest has a panel specifically for PED users that checks all the relevant hormones and biomarkers, and includes a followup consultation with our physicians to review results. Our service allows patients to order the panel from their phone and arrange lab work that same day usually which could be a better alternative to walk-in clinics or waiting on family doctors. We want to make the process of getting bloodwork easy so people can utilize AAS as safely as possible.
+
+[Link to their male PED user's panel](https://teletest.ca/app/care/mens-health/)
 
 [**Info Taken From This Post**](https://www.reddit.com/r/steroids/comments/6yqkqw/crowdsource_canadian_blood_work/)
 
