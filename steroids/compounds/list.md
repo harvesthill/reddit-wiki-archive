@@ -22,7 +22,7 @@ Anabolic steroids also have androgenic and virilizing properties, including the 
 
 * [*Methyltrienolone*](/steroids/compounds/methyltrienolone.md) *aka* ***Mtren***, ***Oral Tren*** — **19-nortestosterone** (***19***\-***nor***) **derivative**. Rated **12000**:**6000**. One of the strongest AAS in existence—second only to its double methylated cousin, *dimethyltrienolone*. Said to rank equally to trestolone for rapid, overnight changes in aesthetics and appearance. Extreme surge in strength and aggression. Oft-utilized as a pre-workout or for brief cycles of 3-4 weeks. **Warning**: Highly hepatotoxic. Can be used orally or injected. For toxicity reasons, injection route is highly recommended. [*Experience thread*](https://www.reddit.com/r/steroids/comments/9g59y3/compound_experience_saturday_metribolone/)*.*
 
-###Quick List
+### Quick List
 The following compounds are used more often.
 
 	Compound | Androgenic | Anabolic | Melting Point (°C) | Notes   
@@ -50,7 +50,7 @@ Durabolin (Nandrolone Phenylpropionate) | 37 | 125 |92-96 |
 [Trenbolone Acetate/Enanthate &amp; Blends](/steroids/trenbolone.md) | 500 | 500 | 94-97 &amp; 72-78| Detectable for 5 months, Use Montelukast to avoid respiratory weakness. Tren is being considered for addition to androgen replacement therapy due to its ability to increase muscle mass [while maintaining prostate size and HCT.](http://www.ncbi.nlm.nih.gov/pubmed/21266670) 
 [Winstrol (Stanozolol)](/steroids/winstrol.md) | 30 | 320 |228-242 | Detectable for 2 months  
 
-###Extended List
+### Extended List
 The following compounds are more exotic in nature and we do not see them used much.
 
 	Compound | Androgenic | Anabolic | Melting Point (°C) | Notes   
@@ -108,7 +108,7 @@ THG (Tetrahydrogestrinone) | No Data  | No Data  | |
 [Trenavar (Trenbolone prohormone)](http://www.reddit.com/r/steroids/wiki/compounds/trenavar) | No Data  | No Data  | |
 [Trestolone (MENT/7α-methyl-19-nortestosterone Acetate)](/steroids/trestolone.md) | 650 | 2,300 | | 
 
-##FAQ
+## FAQ
 Some answers to common questions.
 
 ### What is the difference between Testosterone Enanthate and Testosterone Cypionate?
@@ -126,6 +126,6 @@ Cypionate is 5 days.
 
 [**Please See Our Esters Wiki Page: Here**](/steroids/compounds/esters.md)
 
-###What are esters?
+### What are esters?
 
 [**Please See Our Esters Wiki Page: Here**](/steroids/compounds/esters.md)

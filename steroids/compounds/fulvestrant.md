@@ -9,7 +9,7 @@ Fulvestrant does not interact with AIs and in fact, the two can work together.^2
 
 Fulvestrant has no effect on LH or FSH and should not be used for Post-Cycle Therapy.^5
 
-##Use/Dosing
+## Use/Dosing
 
 The clinical method of using fulvestrant is to break the therapy into Loading Phase (LP) and Maintenance Phase (MP). During the LP, fulvestrant is administered on days 1, 15, and 29 at 500mg. During the MP, the dose is kept the same but only used once per month.^5
 
@@ -17,10 +17,10 @@ Proposed use for athletes, due to its long half-life and that it may be used wit
 
 Due to it's long half-life, its use among athletes is limited and might only be suitable for use during long stretches of highly aromatizing steroids. e.g. high "blast and cruise" cycles
 
-##Risks/Side Effects
+## Risks/Side Effects
 Fulvestrant has no negative effects on triglycerides or HDL and in fact, it lowers LDL and total cholestrol.^6 Similarly to the AIs and unlike SERMs, fulvestrant leads to bone turnover rates about the same as letrozole, anastrozole, and exemestane.^7,8 High turnover rates are associated with risks for joint and bone disorders and should always be of concern while running AIs and fulvestrant for long periods of time.  Fulvestrant will also cause elevated liver enzymes, and is recommended at lower doses for those with hepatic impairment. Common, notable side effects include nausea, fatigue, hot flashes, headaches, and shortness of breath.^5
 
-##References
+## References
 
 1. Wikipedia contributors. *Fulvestrant.* Wikipedia, The Free Encyclopedia. December 11, 2014, 03:43 UTC. Available at: http://en.wikipedia.org/w/index.php?title=Fulvestrant&amp;oldid=637573674
 2. Mehta RS, Barlow WE, Albain KS, et al. Combination anastrozole and fulvestrant in metastatic breast cancer. *N Engl J Med.* 2012;367(5):435-44.
@@ -31,6 +31,6 @@ Fulvestrant has no negative effects on triglycerides or HDL and in fact, it lowe
 7. Mccloskey EV, Hannon RA, Lakner G, et al. Effects of third generation aromatase inhibitors on bone health and other safety parameters: results of an open, randomised, multi-centre study of letrozole, exemestane and anastrozole in healthy postmenopausal women. *Eur J Cancer.* 2007;43(17):2523-31.
 8. Agrawal A, Hannon RA, Cheung KL, Eastell R, Robertson JF. Bone turnover markers in postmenopausal breast cancer treated with fulvestrant--a pilot study. *Breast.* 2009;18(3):204-7.
 
-##Related Posts
+## Related Posts
 
 Mechanism of action: https://www.youtube.com/watch?v=NVcWdgVBwXY

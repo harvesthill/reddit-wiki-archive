@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:  
 
@@ -23,16 +23,16 @@ Current maxes:
 * Squat: 
 * Deadlift: 
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 
-##Gear
+## Gear
 
-##Diet
+## Diet
 
-##On cycle training  
+## On cycle training  
 
-#Logs
+# Logs
 
 ## Week
 

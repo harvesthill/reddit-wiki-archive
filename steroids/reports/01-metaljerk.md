@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:  5'8
 
@@ -23,8 +23,8 @@ Current maxes:
 * Squat:  530x1 
 * Deadlift: 530x2
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 
 Bench: 315x10 - Done 
 
@@ -32,20 +32,20 @@ Squat: 405x10 - Done
 
 Deadlift: 405x5 - Smashed
 
-##Gear
+## Gear
 500 MG Test / Weeks 1-14
 50 MG Dbol / Day Weeks 1-6
 
-##Diet
+## Diet
 Pretty much whatever I want, lots of chicken and turkey.
 
-##Misc Notes
+## Misc Notes
 
 For reference, I treat the smith machine bar as 15 lbs and the ez curl bar as 15 lbs. 
 
 HS = Hammer Strength
 
-##On cycle training  
+## On cycle training  
 Sunday: Chest / Tris
 Tuesday: Back / Bis
 Thursday: Upper / Shoulders / Arms
@@ -55,7 +55,7 @@ Satuday: Back / Bis
 *After each session I will write how I felt about the workout, thoughts, etc.
 *
 
-#Logs
+# Logs
 
 ## Week 1
 
@@ -652,7 +652,7 @@ Cable Rope Pushdown: 72.5x10, 72.5x10, 72.5x10, 72.5x10
 
 Cable Hammer Curl: 65x10, 65x10, 72.5x10, 80x10
 
-#Week 9#
+# Week 9#
 
 Sunday:
 
@@ -726,7 +726,7 @@ Cable V Bar Pushdown: 75x10, 75x10, 75x10, 75x10, 75x10
 
 Cable One Armed Rope Pushdown: 25x10, 25x10, 30x10, 35x10
 
-#Week 10#
+# Week 10#
 
 Sunday:
 
@@ -818,7 +818,7 @@ BB BtB Wrist Curls: 45x10, 65x10, 85x10, 85x10, 85x10, 65x10
 
 Cable Rope Hammer Curls: 50x10, 60x10, 70x10
 
-#Week 11#
+# Week 11#
 
 Sunday:
 
@@ -904,7 +904,7 @@ Cable Straight Arm Pushdown: 130x10, 160x10, 200x10, 200x10
 
 Cable Straight Bar Curl: 130x10, 160x10, 200x10, 200x10
 
-#Week 12#
+# Week 12#
 
 Sunday:
 
@@ -990,7 +990,7 @@ Cable Straight Bar Curl: 65x10, 72.5x10
 
 Cable Rope Hammer Curl: 65x10, 72.5x10, 72.5x10
 
-#Week 13#
+# Week 13#
 
 BB Bench: 135x12, 225x6, 275x5, 315x3, 350x5(pr), 365x1, 380x1(pr), 405x1(pr)
 
@@ -1082,7 +1082,7 @@ Seated DB Hammer Curl: 40x12, 45x12, 45x12
 
 Cable Rope Hammer Curl: 65x12, 72.5x10, 65x10 dropset to 40x6 dropset to 30x5
 
-#Week 14#
+# Week 14#
 
 Sunday:
 

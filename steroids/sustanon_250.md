@@ -35,13 +35,13 @@ Like most anabolic steroids, testosterone also increases red blood cell producti
 
 Among the other mechanisms that testosterone can help promote anabolism are via the increased production of insulin growth factor 1 it encourages, as well as suppressing the action of catabolic hormones in the body. In terms of performance enhancement, testosterone also offers numerous advantages. Namely it has the ability to increase the number of motor neurons in muscles and thereby improving muscular contraction. Like many other anabolic steroids testosterone also promotes glycogen synthesis (4). This will of course help to improve a user's endurance and strength by providing more fuel for intense workouts thus increasing endurance and strength, as glycogen is stored carbohydrates used as a fuel during exercise.
 
-##Use/Dosing
+## Use/Dosing
 
 As with the other testosterone compounds, the doses of the drug that are taken by users varies to a great degree depending on the experience and goals of the user. Doses as low as 200-250mgs per week have been reported by users who say they have made good gains, with experienced users administering several grams of testosterone per week. The range of use is very wide. This also includes women administering testosterone. It is because of the long active life of some of the esters in Sustanon 250, it is not recommended that women who choose to administer testosterone use it or other long-estered formulas. This is due to the fact that slow acting esters can not be quickly altered if negative side effects become overly burdensome. By having to deal with the slow release of the testosterone and not being able to lower doses or cease administration of the compound immediately, it makes it much more likely that any side effects that are experienced will be more pronounced and/or exaggerated. For this reason, females who use testosterone may want to begin with testosterone propionate or suspension when choosing which ester to use and not Sustanon 250.
 
 In terms of an actual injection schedule, to maintain stable blood levels of the compound individuals should inject at least every other day, with every day injections of course being preferred. This is due to the short acting esters that Sustanon 250 contains. If one chooses to inject less frequently they are likely to experience fluctuating levels and this can lead to harsher side effects in some users. However due to the long acting esters users must wait approximately 21 days after the last injection to have the compound clear their system so that they can begin post-cycle therapy. One may want to begin using a short acting estered testosterone during this time due to the declining testosterone levels. This would surely lead to a smoother transition to coming off of the compound. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Most of the side effects that result from using testosterone in males is related to testosterone's high tendency to convert into estrogen via the aromatase enzyme. These side effects can include water retention and gynecomastia. Users often complain that water retention is much more severe with longer acting esters than with shorter acting esters such as propionate. To combat these side effects users can use aromatase inhibitors and/or selective estrogen receptor modulators. Of course the likelihood of estrogen related side effects increase as the dosages are raised. However these should be controllable if the proper precautions taken.
 
@@ -55,7 +55,7 @@ Women may find that other shorter acting esters are more manageable than longer 
 
 Of course with women using testosterone there is a possiblity that virilizing symptoms could occur. Deepening of the voice, body/facial hair growth, and enlargement of the clitoris are all possible side effects of testosterone use. These are for the most part irreversible^5 . 
 
-##References
+## References
 
 1. *Cantrill JA, Dewis P, Large DM et al. Which testosterone replacement therapy? Clin Endocrinol (oxf) 21 (1984) 97-107*
 2. *Toth M., Zakar, T. Relative binding affinities of testosterone, 19-nortestosterone and their 5-alpha reduced derivatives to the androgen receptor and to other androgen-binding proteins: A suggested role of 5alpha-reductive steroid metabolism in the dissociation of "myotropic" and "androgenic" activities of 19-nortestosterone. J Steroid Biochem 17 (1982) 653-60*

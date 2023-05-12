@@ -1,30 +1,30 @@
 #Insulin
 
-##WARNING / DISCLAIMER
+## WARNING / DISCLAIMER
 
 Insulin can be very risky if you do not know what you are doing. This hormone can be potentially fatal if taken recklessly - you run the risk of permanent brain damage, coma, or even death. The risk may not be the worth the reward. /r/steroids should not be your only source for information and is not responsible for your choices, so know all the facts &amp; research thoroughly before trying insulin. 
 
-##Intro
+## Intro
 
 Insulin (/ˈɪn.sjʊ.lɪn/ from Latin insula, 'island') is a peptide hormone produced by beta cells of the pancreatic islets; it is considered to be the main anabolic hormone of the body. It regulates the metabolism of carbohydrates, fats and protein by promoting the absorption of glucose from the blood into liver, fat and skeletal muscle cells. In these tissues the absorbed glucose is converted into either glycogen via glycogenesis or fats (triglycerides) via lipogenesis, or, in the case of the liver, into both. Glucose production and secretion by the liver is strongly inhibited by high concentrations of insulin in the blood. 
 
 Circulating insulin affects the synthesis of proteins in a wide variety of tissues. It is therefore an anabolic hormone, promoting the conversion of small molecules in the blood into large molecules inside the cells. Low insulin levels in the blood have the opposite effect by promoting widespread catabolism, especially of reserve body fat. The secretion of insulin and glucagon into the blood in response to the blood glucose concentration is the primary mechanism of glucose homeostasis.
 
-##Insulin and Bodybuilding 
+## Insulin and Bodybuilding 
 
 In the last half-decade bodybuilders have been getting much larger much quicker. Certain professionals have added twenty pounds to their contest weight in one season, after having seemingly reached a plateau. The bodybuilding audience loves to hear that this weight gain is due to some secret drug or some newly discovered gene therapy. Elaborate theories are developed to explain these rapid weight gains and the professionals themselves are not helpful; they claim that it's the new X-brand supplement that's doing it and leave it at that.
 
 The truth is that bodybuilders have discovered one of the most [anabolic](https://www.ncbi.nlm.nih.gov/pubmed/21864752) hormones produced by the body, insulin. Additionally, insulin has the benefit of being not only legal and over the counter in most states, but it is very cheap. A bottle costs less than thirty dollars and there is no need to worry about counterfeits. By correctly using insulin, in conjunction with human growth hormone and anabolic steroids, modern professionals have added pounds of mass onto seemingly stagnant physiques.
 
-##The Overview
+## The Overview
 
 Insulin is a peptide hormone, secreted by the pancreatic islets of Langerhans. Insulin promotes glucose utilization, protein synthesis, and regulates the metabolism of sugar. Insulin travels until it reaches receptor sites on cells. At these sites insulin facilitates the transport of glucose and amino acids across the cell membrane to be used inside the cell for energy and protein synthesis. This is insulin's anabolic effect, not only in super-saturating the cells with nutrients, but also helping to volumize the cell.
 
-##Insulin Safety
+## Insulin Safety
 
 There are significant risks that accompany the use of insulin. The greatest risk is an over-dose of insulin, which leads to hypoglycemic shock. This is not an overdose in the typical sense of the word; in this case it means that too much insulin was administered for the amount of glucose in the bloodstream. To this end, it is important to choose the correct type of insulin and to know when it peaks and the effective period of action of the drug in your body. This information is provided later in this chapter.
 
-###Symptoms Of Insulin Shock
+### Symptoms Of Insulin Shock
 
 The symptoms of insulin shock are easy to recognize:
 
@@ -39,7 +39,7 @@ The symptoms of insulin shock are easy to recognize:
 * Irritability &amp; Change In Mood Or Personality
 * Loss Of Consciousness
 
-###Treatment
+### Treatment
 
 Feed the person a source of quickly absorbed sugar. If the person is conscious, table sugar, fruit juice, honey, a non-diet soft drink, or any other available sugar source will do. If the person is unconscious, do not try to force sugar or liquid down his throat. Honey, granulated sugar, or a special capsule (such as D-glucose) containing concentrated sugars, which some diabetics carry, can be carefully placed under the tongue where it is absorbed into the body. However, this may be difficult to do. 
 
@@ -52,7 +52,7 @@ It is extremely important to have someone who you can trust monitor you when you
 During a bulking phase, when calorie intake is deliberately high, insulin shock is not likely to be a problem assuming that post injection nutrition is precise (as outlined later in the chapter). In the even that you begin to feel any of the above symptoms immediately begin to consume the most simple sugars you can find, particularly look for glucose polymers and dextrose. Avoid fructose, as it is ineffective at raising blood sugar levels rapidly.
 In the even that you are using insulin in dieting, do not be afraid to "blow your diet" by eating candy if you feel your blood sugar getting dangerously low. Your diet is not worth your life.
 
-##Types Of Insulin
+## Types Of Insulin
 
 Insulin | Onset | Peak | Duration | Type of Insulin
 -------|-----|----|--------|---
@@ -80,19 +80,19 @@ Humulin "R" and Novolin "R" are known as short-acting insulins. The manufacturer
 
 Humalog and NovaLog are the fastest acting insulin, known as rapid-acting insulins. They have a duration of about 2 hours, peaks in fifteen minutes, and is ideal for bodybuilding purposes, because it is out of the body quickly. The speed at which Humalog works is beneficial, because it allows us more precise control and lets us know exactly when food needs to be consumed.
 
-##General Insulin Cycle Rules
+## General Insulin Cycle Rules
 
-###HGH
+### HGH
 
 Note that it is not recommended to run insulin without HGH (and AAS). Due to insulin's nutrient absorption properties it will make you very prone to gaining weight. Tren is also beneficial with insulin for its nutrient partitioning benefits particularly in respect to carbs. 
 
 A typical insulin cycle would start after running HGH for at least 4 weeks, ideally the longer you can hold off on the insulin after starting HGH the better, you want your IGF-1 levels increased before starting insulin, this can take a few weeks to peak. There is no minimum amount of HGH that must be run, the more the better, but it is typically suggested to start at at least 6iu/day of HGH if the intent is to run it with insulin. 
 
-###IGF-1
+### IGF-1
 
 *To be added.*
 
-###AAS
+### AAS
 
 Since you will be running HGH, your body can also utilize more testosterone than a typical AAS user. The typical suggested dose is 500mg per week, +100mg per IU of HGH. You want to plan out your insulin cycle so that it occurs once your body is saturated at its peak testosterone dosage. 
 
@@ -100,9 +100,9 @@ Since you will be running HGH, your body can also utilize more testosterone than
 
 A PCT of Metformin is recommended to be run after the insulin cycle. This is to bring your body's insulin sensitivity back to baseline. Suggested dosing is to start at 500mg/day taken with a high carb meal and to increase it to 2g-2.5g/day by the start of week 3 for a total of 4 weeks. It is suggested to gradually increase dosage to avoid unpleasant side-effects. 
 
-##Other Ancillaries
+## Other Ancillaries
 
-###Shakes
+### Shakes
 
 A beginner to intermediate insulin cycle would be based on a 'shake' protocol. There are many different recipes but they all include: Protein, Carbs, Essential and/or Branch Chain Amino Acids, &amp; Creatine. Now lets break that down into parts: 
 
@@ -116,13 +116,13 @@ A beginner to intermediate insulin cycle would be based on a 'shake' protocol. T
 
 * **Creatine** - We are using insulin to shuttle nutrients in our cells, creatine pushes more water into our cells, they will have a synergistic effect. 
 
-###Glucose Tablets
+### Glucose Tablets
 
 You should **ALWAYS** have a full tube of these on-hand while you are within the peak and duration of your insulin dose. In the event that your start to experience hypoglycemia symptoms take a few tablets and wait 5 minutes, if you are still experiencing symptoms take a couple more. Each tablet contains 5g of carbs, you should not be dependent on them, they are just a safety net. If you find yourself using them consistently then re-evaluate your cycle dosing and carb intake. I suggest you open the tube before you need it, you don't want to be screwing around trying to open the package when you are experiencing low blood-glucose symptoms. 
 
-##Before You Start Anything!!!
+## Before You Start Anything!!!
 
-###Blood Glucose Readings
+### Blood Glucose Readings
 
 ####**Ranges**  
 
@@ -148,7 +148,7 @@ It would be a good idea to eat like you would on Insulin (including shakes liste
 
 This will help you know whereabouts you want to be when you start Insulin. You should be taking blood glucose readings often aiming for 75-110 mg/dL adjust your insulin and carb intake until you are consistently in that range. 
 
-###Measuring Your Insulin
+### Measuring Your Insulin
 
 You don't want to be that guy who ends up passed out in the squat rack, or the guy that burns down his house because he passed out while cooking food. Know how to measure your insulin. 
 
@@ -160,13 +160,13 @@ Before starting it is important to know what 1 IU of insulin looks like. Typical
 
 * [If you have a 1/2 mL insulin syringe, with 50 ticks on it, each tick is = 1 IU](https://i.imgur.com/p9mjrxp.jpg)
 
-#Insulin Cycle Examples
+# Insulin Cycle Examples
 
 Your first cycle should be heavily monitored. You should be taking blood glucose readings often aiming for 75-110 mg/dL adjust your insulin and carb intake until you are consistently in that range. The insulin cycles discussed here will be based on a shake protocol for simplicity. Never take an additional dose of insulin while your previous dose is still active, this leads to VERY unpredictable blood glucose levels and is very dangerous.
 
-##Pre-workout Insulin Cycle Examples
+## Pre-workout Insulin Cycle Examples
 
-###Beginner's Humulin R / Novolin R Cycle 
+### Beginner's Humulin R / Novolin R Cycle 
 
 The base of this cycle is taking insulin pre-workout, and it is expected that you have a high-carb meal within an hour or two after your workout. The longer duration of "R" allows it to be taken pre-workout and still have it active during your post-workout meal. Just be sure that you do not go to sleep while you are still in the duration of the insulin dose.  
 **Note:** Most users experience two peaks with short-acting ("R" type) insulins. One peak at about 1 hour post injection and another around 2 hours post-injection. 
@@ -233,9 +233,9 @@ You should now stop your insulin cycle and begin the one month optional PCT (out
 
 Your following insulin cycles should be augmented by adding an additional insulin dose with breakfast. Just as with the pre-workout dosing, you should ensure that your meal has enough carbs to adequately cover your insulin dose. Never take an additional dose of insulin while your previous dose is still active, this leads to VERY unpredictable blood glucose levels and is very dangerous.
 
-##Post-workout Insulin Cycle Examples
+## Post-workout Insulin Cycle Examples
 
-###Beginner's Humalog / NovaLog Cycle 
+### Beginner's Humalog / NovaLog Cycle 
 
 This cycle is centered around your post-workout meal. Log type insulins are generally considered the easiest to manage due to the shorter peak and duration, this makes log easier to predict. Log still follows the same IU/Carb needs as "R" types. Note that your sensitivity to log may vary drastically compared to R. If you are trying log do not expect a similar experience to an "R" cycle, treat it as a new insulin cycle and work your way up with dosing. Just be sure that you do not go to sleep while you are still in the duration of the insulin dose.  
 

@@ -9,7 +9,7 @@ Steroid homebrew is the process of brewing steroidal compounds on a small scale 
 &gt;I started this as a response to the thread by /u/hypnotoadIRL [+3][2] , so he gets partial credit.
 I am a firm believer that everyone should know how to homebrew, so that they are not beholden to UGLs. Of course, not everyone wants to brew, but if you're here and you're curious, what is outlined below should help you get started. Links were all valid at time of posting. [...] You don't have to be super clever.
 
-##Essential Reading
+## Essential Reading
 
 [Homebrew w/ Pics](https://www.reddit.com/r/steroids/comments/1j4pu4/homebrew_wpics/) - 26 Jul 2013
 
@@ -17,11 +17,11 @@ I am a firm believer that everyone should know how to homebrew, so that they are
 
 [First Homebrew](/r/steroids/comments/2xcnxj/little_homebrew_teaser_first_batch_of_tren_e_and/) - 27 Feb 2015
 
-##Examples Of Things You Shouldn't Do
+## Examples Of Things You Shouldn't Do
 
 [Filtering with sterile cotton shoved in a syringe](https://www.reddit.com/r/steroids/comments/7gv4ht/daily_ask_anything_20171201/dqlxo99/)
 
-##Materials
+## Materials
 
 ####**Absolute Minimum**
 
@@ -72,7 +72,7 @@ I did not include vials in the materials list because there would be too many "i
 * [Bottle top filters](https://www.medical-and-lab-supplies.com/filtration/disposable-vacuum-filters/bottle-top-filters/500ml-autofil-ss-bottle-top-filter-pes-funnel-only-0-22um.html)
 * [Pressure cooker](https://www.amazon.com/gp/product/B000RNH7PQ/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
 
-##Sterilization Techniques
+## Sterilization Techniques
 
 Sterilization refers to any process that eliminates, removes, kills, or deactivates all forms of life and other biological agents present in a specified region, such as a surface, a volume of fluid, medication or compound.
 
@@ -97,7 +97,7 @@ Using steam is a more effective way of sterilizing your vials as steam transfers
 8. Set a timer for 30 minutes using 400, 45 minutes for 350. I would not recommend over 400. I have had a vial or two break at 400, I can only assume that more will break at higher temps.
 9. During this time, continue the rest of your brewing process.
 
-##The Brew
+## The Brew
 
 **BA** *(Benzyl Alcohol)* - Used as a sterility agent within the brew itself. This prevents bacteria growth once the vial has been punctured or stored for an excessive amount of time.  
 **BB** *(Benzyl Benzoate)* - Used as a solvent, this allows higher concentrations of steroid powder to dissolve into the carrier oil.  
@@ -122,7 +122,7 @@ In order to homebrew your own steroidal compound, you must have, at minimum, the
 7. If the powder still does not dissolve after some time, you will need to add more solvents.
 8. If you heated the brew, let it return to room temperature after the powder has completely dissolved to make sure the hormone will not fall out of suspension.
 
-##Procedure
+## Procedure
 
 Note: This procedure was designed for the production of 100-200mL of gear in 10mL vials filled to 10.5mL each
 
@@ -192,7 +192,7 @@ Note: This procedure was designed for the production of 100-200mL of gear in 10m
 * Use the previously prepared wash solutions to wash the glassware, using the aforementioned method
 * Store items for next time :)
 
-##Filtering
+## Filtering
 
 Filtration is the removal of all microorganisms and particles from liquids without any influence of their ingredients, due to adsorption or decomposition. There are several methods to achieve this, the 2 most popular being Bottle Top Filters and Syringe Filters. Bottle Top Filters are recommended for high quantity brewing (100ml+).
 
@@ -273,7 +273,7 @@ A warning when using a bottle top filter - the plastic media bottle you can purc
 
 [Electric vacuum pump](https://www.amazon.com/Karlsson-Robotics-D2028-Vacuum-Pump/dp/B00DYA21PU/ref=sr_1_2?s=industrial&amp;ie=UTF8&amp;qid=1506687305&amp;sr=1-2&amp;keywords=vacuum+pump+12v). You will need a [12V adapter](https://www.amazon.com/FAVOLCANO-Switching-Power-Supply-Adapter/dp/B00YGCFXDC/ref=sr_1_24?s=electronics&amp;ie=UTF8&amp;qid=1506687463&amp;sr=1-24&amp;keywords=110v+to+12v+dc+power+supply) and to run wires from the adapter to the pump.
 
-##Vials
+## Vials
 
 There is a lot of debate whether one should buy open vials and crimp them yourselves, or if you should buy pre-sterilized vials.
 
@@ -283,7 +283,7 @@ If using the Bottle-Top method, there is a sufficient cost savings in buying ope
 
 Another option for storage is to keep your filtered brew in the media bottle you filtered into, and seal it with a septa cap. Using this method you can draw directly from the media bottle as you would a vial. This eliminates a transfer from the media bottle to another form of storage.
 
-##Compound Displacements
+## Compound Displacements
 
 Compound | 1g Displaces (mL) | Notes
 :--------------|:--------------:|:-------------:
@@ -309,7 +309,7 @@ Trenbolone Enanthate | 0.909 |
 
 **If you have more information to add to this list, please message the Moderation team**
 
-##Recipes
+## Recipes
 
 ####**Testosterone**
 
@@ -562,7 +562,7 @@ Starting dosage 4mg daily as recommended by u/PM_me_varbies but can be upped to 
 * 6ml BB
 * 13.52ml GSO
 
-##Excipients
+## Excipients
 
 *****
 
@@ -572,8 +572,8 @@ Starting dosage 4mg daily as recommended by u/PM_me_varbies but can be upped to 
 
 *****
 
-#Triturations and Aliquots
-##Trituration Method (Capsules)
+# Triturations and Aliquots
+## Trituration Method (Capsules)
 [Guide from The Pharmaceutics and Compounding Laboratory at UNC](http://pharmlabs.unc.edu/labs/triturations/method.htm)
 
 ####**Mixing The Powder**
@@ -590,5 +590,5 @@ Things you'll need: Milligram scale, small scoop, mortar &amp; pestle, math.
 8. Repeat until desired quantity of powder is achieved.
 9. Begin capping process with your newly mixed powder.
 
-##Liquid Aliquot Method (Oral solution / suspension)
+## Liquid Aliquot Method (Oral solution / suspension)
 * ***Source/reference needed***

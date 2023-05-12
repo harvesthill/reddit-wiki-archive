@@ -1,6 +1,6 @@
 #The Community
 
-##Community Goals 
+## Community Goals 
 
 The following goals have been adopted by the community.
 
@@ -18,7 +18,7 @@ The following goals have been adopted by the community.
 
 7. Keep members informed about plans and changes to the community.
 
-##Community Responsibility
+## Community Responsibility
 
 Building a great community takes effort from everyone involved.  The moderation team creates the framework in which the members of the community operate, however, we cannot do everything.  Community members have the following responsibilities.
 
@@ -40,7 +40,7 @@ Building a great community takes effort from everyone involved.  The moderation 
 
 9. Stay safe.
 
-###What Is Low-Quality Content?
+### What Is Low-Quality Content?
 
 [Under Rule 5 you will find that threads created on /r/steroids must not be Low Quality Content.](/steroids/index/subreddit_rules.md#wiki_5._approved_posters_.26amp.3B_high_quality_content_only.)
 
@@ -62,7 +62,7 @@ The following attributes usually describe *low-quality content*.
 
 *The aforementioned likely constitute Low-Quality Content*.
 
-#COMMUNITY RULES
+# COMMUNITY RULES
 
 The following rules apply to this community; disregarding them will result in a ban.  All of the standard [rules of Reddit](http://www.reddit.com/rules) apply here.
 
@@ -206,7 +206,7 @@ If you are private messaged by another user asking for sources or claiming to be
 
 [**PLEASE CLICK HERE TO MESSAGE THE REDDIT ADMINISTRATORS**](http://www.reddit.com/report)
 
-##3. Use Caution / Disclose Guesses / Cite Information
+## 3. Use Caution / Disclose Guesses / Cite Information
 
 This is a semi-anonymous internet community.  People in discussion in this community are not experts, even if they claim to be experts.  Remain skeptical of claims, protect your identity and freedom and have fun.
 
@@ -234,7 +234,7 @@ Always cite info when possible, but if you are claiming something that is not co
 
 ***This community does not provide medical, legal or any other types of advice.  We provide only anecdotal experience-based information.  All medical practices should be in consultation with a licensed physician.***
 
-##4. Keep It Friendly &amp; On-Topic.
+## 4. Keep It Friendly &amp; On-Topic.
 
 This is a mature community with a specific tone and manner that excels compared to most communities. That tone and manner will be maintained. 
 
@@ -278,7 +278,7 @@ This is not a forum for you to where your ban like a badge of honor. If you or s
 
 Comments &amp; Post topics that have a [HARSH] tag on them will be moderated less-strictly. This does not mean that we will allow personal attacks, escalated bickering or non-productive comments / criticism. A Comment or Topic with the [HARSH] tag still requires constructive criticism in a comment in order to be productive.
 
-##5. Approved Posters &amp; High-Quality Content Only. 
+## 5. Approved Posters &amp; High-Quality Content Only. 
 
 After 90 days of participation (comments) in the community, you will automatically be approved to create new topics by /u/steroidsBot. 
 
@@ -302,7 +302,7 @@ If you are ever in doubt if something you want to post is [Low Quality Content](
 
 **A:** Most likely, if the post doesn't fall under [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F), then it is *most likely* 'High Quality Content'. If you are ever in doubt if something you want to post is [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
 
-##6. No Unlawful Discussions.
+## 6. No Unlawful Discussions.
 
 This community is for harm reduction and educational purposes only. This is not the place to figure out how to break the law. This includes, but not limited to: 
 
@@ -408,13 +408,13 @@ We're all busy, and everybody here is volunteering their time to help one anothe
 
 Your question should be **clear**, **concise**, **well-formatted**, and have **all the background information** necessary for an experienced user to read it and quickly help point you in the right direction!
 
-###Questions and Concerns?
+### Questions and Concerns?
 
 Please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) with any questions, concerns, or clarifications you may have/need.  Topics created with rule or community administration questions will be removed.  
 
 If you are unsure if a post may be a rule violation, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) first.
 
-##Community Operation
+## Community Operation
 
 The community has developed several different types of official posts in order to maintain consistent, high quality content.  If you don't like a specific topic, use RES to filter it according to the table below.
 
@@ -450,15 +450,15 @@ Post  | When | Purpose
 [[Off-Topic]](https://www.google.com/#q=site%3Awww.reddit.com%2Fr%2Fsteroids+ Off-Topic) | Daily | For the community to bond and have fun.  All other off-topic posts are subject to be removed.
 [\[Mod\]](https://www.google.com/#q=site%3Awww.reddit.com%2Fr%2Fsteroids+ Mod) | Occasionally | Official communications to the community
 
-####Voting
+#### Voting
 
 In line with goal #4, community members are expected to use their up-vote and down-vote capabilities.  We detest shit-posting; if you don't like a topic, down vote and move leave.  No one cares that you didn't like it, so there is no need to comment on it.  Save us all the time and effort.
 
-####Report button
+#### Report button
 
 When violations of the community rules are noticed, please use the report button.  This helps the moderation team quickly clean things up and severely dis-incentivizes people from attempting to subvert our community rules.
 
-####Search before posting.
+#### Search before posting.
 
 You can use these terms to find historic posts using Google, just like those links do above.
 
@@ -468,31 +468,31 @@ You can use these terms to find historic posts using Google, just like those lin
 
 Simply replace the &lt;Search String&gt; with a post type or other search criteria and go.
 
-##Warning/Banning System
+## Warning/Banning System
 
 As a part of our desire for transparency, below is the general system that is followed by moderators of the sub for our most common rule offenses.  *These are guidelines only.*
 
-####Minor Violation
+#### Minor Violation
 These violations are small things primarily focused around maintaining the community tone.  General asshattery and trolling inclusive.  Again, *these are guidelines only* and moderator discretion will prevail.
 
 * First/Second Violation: Warnings or 3-14 day ban (at moderator discretion).
 * Second/Third Violation: 14-30 or so day ban (at moderator discretion).
 * Third/Fourth Violation: Permanent ban.
 
-####Major Violation
+#### Major Violation
 These violations are considered to be very detrimental to the community.  Any form of monetization of the community, source talk, being overtly confrontational, having a "Reddit reputation" for asshattery or trolling and similar.
 
 * First Violation: 14-30 or so day ban (at moderator discretion).
 * Second Violation: Permanent ban.
 
-####Terminal Violation
+#### Terminal Violation
 These violations are considered to be dangerous / threatening to an individual or community member.  They can include harassment, doxxing, and persistent attempts at monetization of the community.
 
 * First Violation: Permanent ban.  Possible report to Reddit Admins.
 
 Bots who do not ask permission to operate in the sub fall into this category.
 
-###Ban Appeals
+### Ban Appeals
 If you wish to appeal your moderation action, you must [message the moderators](/message/compose?to=%2Fr%2Fsteroids).  How does the appellate process work?
 
 1. Interested moderators will read the appeal from the community member.

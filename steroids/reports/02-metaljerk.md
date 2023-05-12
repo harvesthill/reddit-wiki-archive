@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:  5'8
 
@@ -23,22 +23,22 @@ Current maxes:
 * Squat: 565
 * Deadlift: 525x5
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 Drop to 10% bf while retaining as much strength as possible.
 
-##Gear
+## Gear
 50 mg/ed tren ace weeks 1-2
 
 75 mg/ed tren ace weeks 3-12
 
 30 mg/ed test pro weeks 1-12
 
-##Diet
+## Diet
 
 2800 cals a day. 
 
-##On cycle training  
+## On cycle training  
 
 Sunday: Chest / Tris
 
@@ -50,7 +50,7 @@ Friday: Legs / Abs
 
 Saturday: Back / Bis
 
-#Logs
+# Logs
 
 ## Week 1
 
@@ -248,7 +248,7 @@ Cable W Bar Reverse Curl: 40x12, 50x12, 60x12
 
 Machine Curl: 120x10
 
-##Week 3
+## Week 3
 
 *Notes: Now doing lat pulls with the whole stack. My grip has improved extremely on shrugs. I can only imagine what would happen if I was bulking on tren. Good day.*
 
@@ -432,7 +432,7 @@ Cable Rope Hammer Curl: 72.5x12, 80x12, 80x12
 
 *Notes: Stepped up to 700 mg of tren. I'll see how this feels sides wise, as the only side effect I'm getting is shitty sleep*
 
-##Week 5##
+## Week 5##
 
 Sunday:
 
@@ -528,7 +528,7 @@ DB Hammer Curl: 60x10, 70x10, 60x10
 
 Cable W Bar Reverse Curl: 60x12, 60x10 strip to 40x10, strip to 30x10
 
-##Week 6##
+## Week 6##
 
 Sunday:
 
@@ -616,7 +616,7 @@ Seated DB OH Extension: 110x12, 110x12
 
 *Notes: I have to switch my schedule around a bit due to my summer school schedule, so I knew my pressing power would be down quite a bit since I just pressed two days ago.*
 
-##Week 7##
+## Week 7##
 
 Sunday:
 
@@ -706,7 +706,7 @@ Dips: bwx30, bwx30
 
 *Notes: Benching felt great, weight is about 215.*
 
-##Week 8##
+## Week 8##
 
 Sunday:
 
@@ -792,7 +792,7 @@ Machine Tricep Extension: 160x12, 200x12, 200x12
 
 Cable One Arm Pushdown: 25x12, 30x12, 35x12
 
-##Week 9##
+## Week 9##
 
 Sunday:
 
@@ -882,7 +882,7 @@ Cable One Arm Extension: 20x12, 25x12, 25x12
 
 *Notes: Felt like shit today, just super tired and couldn't get into it. I knew I was going to have a bad workout but I managed a triple of 365 and did 225x20 which was kind of cool. Good new is, is that I'm down to 207 from about 217, T3 is the shit.*
 
-##Week 10##
+## Week 10##
 
 Sunday:
 
@@ -984,7 +984,7 @@ Dips: bwx20, bwx15
 
 *Notes: Workouts on an empty stomach suck.*
 
-##Week 11##
+## Week 11##
 
 Sunday:
 

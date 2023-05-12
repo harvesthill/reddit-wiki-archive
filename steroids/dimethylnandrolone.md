@@ -12,7 +12,7 @@ aka **Dimethandrolone Undecanoate** (DMAU)
 
 **Anabolic/Androgenic Ratio:** No data. Per *Bioorg Med Chem Lett*. 2005 Feb **15**;**15**(4):1213-6] 136 times more myotropic than testosterone.
 
-##Description
+## Description
 
 **Dimethylnandrolone** (DMAU), **Trestolone** (MENT) and 11*β*-**methyl**-19-**nortestosterone** (11*β*-MNT) are all closely-related sister compounds under investigation for potential clinical use as a **male birth control pill** and as a potential replacement for testosterone in androgen replacement therapy. 
 
@@ -36,13 +36,13 @@ No testosterone base was employed in clinical trials. Libido was increased; few 
 
 * DMAU is **136 times more myotropic than testosterone**. Also more anabolic than its closely related cousins, Trestolone (MENT) and 11*β*-methyl-19-nortestosterone (11*β*-MNT). 
 
-##Dosage
+## Dosage
 Clinical testing to date utilized 400 milligrams of DMAU per day via oral administration. 
 
-##Related Posts
+## Related Posts
 * [DMAU post by /u/Decatest](https://www.reddit.com/r/steroids/comments/g2wtkm/compounds_dimethandrolone_undecanoate_dmau_shows/)
 
-##References
+## References
 [DMAU Shows Promise as a Male Birth Control Pill](https://www.labmanager.com/news/dimethandrolone-undecanoate-shows-promise-as-a-male-birth-control-pill-4744)
 
 &gt; At the highest dose of DMAU tested, 400 mg, subjects showed “marked suppression” of levels of LH, FSH and testosterone, hormones required for sperm production. “Despite having low levels of circulating testosterone, very few subjects reported symptoms consistent with testosterone deficiency or excess.”

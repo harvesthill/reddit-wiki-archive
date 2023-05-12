@@ -1,22 +1,22 @@
 #Background info  
 Been training for almost 2 years now but only really realised what the actual fuck I should be doing in the last 8 months or so.
 I was overweight most of my life and got to a heaviest of 103kg (220lb)  in November/December 2010 and that was when I pulled my head out and started to get fit. Now sitting at 80kgs (176lb) and have been cutting for the last 13 weeks. Abs are NEARLY visible, with the albuterol I should be able to get the results I want in 2, maybe 3 cycles at most.
-##Pre-cycle stats  
+## Pre-cycle stats  
 **Age:** 22 
 **Height:**6'1, 185cm   
 **Current weight:**178lb, 81.3kg 
 
 **Lifting experience:** 1.5yr  
 
-#The Cycle:  Albuterol
+# The Cycle:  Albuterol
 
-##Goals: 
+## Goals: 
 drop 2-3% BF, or when abs are completely visible
 
-##Gear: 
+## Gear: 
 Albuterol, taurine, DHP (diphenhydramine/Benadryl) 
 
-##Dosage:
+## Dosage:
 2 week on/off split
 
 4mg ED#2 - 6mg ED#3 - 8mg ED#3 -10mg ED#3 - 12mg ED#3
@@ -25,10 +25,10 @@ Albuterol, taurine, DHP (diphenhydramine/Benadryl)
 
 25mg/50mg diphenhydramine ED for week 3 before bed
 
-##Diet: 
+## Diet: 
 2000 calories, 500-600 calorie defecit - 170-200g Protein, 40-60g Fat, 80-100g Carbs.
 
-##On cycle training: 
+## On cycle training: 
 3 day split. 10-12 rep, medium weight. 10-20 minutes HIIT cardio each night
 
 Monday: Chest/Tri's
@@ -46,9 +46,9 @@ Saturday:Back/Bi's
 Sunday: Shoulders/Legs
   
 
-#Logs  
+# Logs  
 
-##Day 1-2, 4mg
+## Day 1-2, 4mg
 
 **Day 1:**
 2mg @ 9am, 2mg @ 2pm. 3g taurine
@@ -63,7 +63,7 @@ Sides: a little shakier than yesterday (still barely noticeable) but that
 subsided after 2 hours or so. Going for 6mg tomorrow.
 Not hungry at all today, which is weird after feeling like an Ethiopian yesterday...
  
-##Day 3-4-5. 6mg
+## Day 3-4-5. 6mg
 
 **Day 3:**
 2mg @ 6:30am, 2mg @ 10:30am, 2mg, 2:30pm. 3g taurine

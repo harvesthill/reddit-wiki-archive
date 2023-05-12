@@ -18,7 +18,7 @@ The main advantage of testosterone propionate over other testosterone esters is 
 
 Some users believe that testosterone propionate should be reserved for "cutting" cycles and is not appropriate for those cycles in which a user is hoping to build mass. However, this is a misnomer, as the ester of the compound cannot alter its physiological effects. Depending on the diet and training routine of the user, testosterone propionate can be used quite effectively for either mass building or cutting cycles. 
 
-##Use/Dosing
+## Use/Dosing
 
 Levels of the compound will peak after 24-36 hours of administering the drug and begin tapering from there^1,3 . Therefore most individuals will inject testosterone propionate every day or every other day. This dosing schedule allows an individual to maintain a fairly consistent blood level of the compound, with injections every day obviously providing the more stable of the two options. 
 
@@ -28,7 +28,7 @@ Many users will also often "kick start" their cycles that use long acting estere
 
 Individuals may also end their cycles with testosterone propionate and/or other short acting esters so that their start time for their post cycle therapy is much closer to their last injection and blood levels remain more stable until the end of the steroid cycle.
 
-##Side Effects/Risks
+## Side Effects/Risks
 
 Since testosterone propionate is indeed simply another form of injectable testosterone, the side effects associated with it are for the most part those commonly encountered with any type of testoserone compound. For more specific information about these, including those that may effect women, see the testosterone enanthate profile in this forum. In this section the side effects, and the characteristics of them, that are unique to testosterone propionate alone will be dealt with.
 
@@ -38,7 +38,7 @@ Some users also anecdotally report that they are much more likely to experience 
 
 As should be expected with an ester such as propionate, suppression of endogenous testosterone production will occur quite soon after the intial administration of the drug^1,3 . The usual protocal of post-cycle therapy and possibly the use of human chorionic gonadotropin during the cycle should be followed, but no special considerations need to be taken into account because of this. 
 
-##References
+## References
 
 1. *Fujioka M., Shinohara Y., Baba S., et al. Pharmacokinetic properties of testosterone propionate in normal men. J Clin Endocrinol Metab 63 (1986), pp. 1361-4*
 2. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp.160-2*

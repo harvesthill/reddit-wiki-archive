@@ -1,17 +1,17 @@
 #Antimicrobials/Preservatives 
 *****
 
-##Benzyl Alcohol
+## Benzyl Alcohol
 
-###Application
+### Application
 
 Benzyl alcohol is a bacteriostat and is used as an antimicrobial preservative. It is used in foods, and a wide range of pharmaceutical formulations, including oral and parenteral preparations, at concentrations up to 2.0% v/v.
 
-###Description
+### Description
 
 A colourless oily liquid with a faint aromatic odour, and a sharp burning taste.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -46,33 +46,33 @@ Benzyl alcohol is effective against moulds and yeasts; typical minimum inhibitor
 
 Benzyl Alcohol is inactive against spores.
 
-###Stability/Storage
+### Stability/Storage
 
 Benzyl alcohol slowly oxidizes in air to benzaldehyde and benzoic acid. Solutions may be sterilized by filtration or autoclaving.
 Benzyl alcohol may be stored in metal or glass containers, but should not be stored in plastic containers.
 
 Benzyl alcohol should be stored in an airtight glass container, protected from light, in a cool, dry place, not exceeding 40°C.
 
-###Safety
+### Safety
 
 Ingestion or inhalation of benzyl alcohol may cause headache, nausea, vomiting and diarrhea. Overexposure can result in CNS depression and respiratory failure, however, the concentrations of benzyl alcohol when employed as a preservative are generally not associated with adverse effects.
 
-###Handling
+### Handling
 
 Observe normal precautions. Benzyl alcohol is an irritant to the skin, eyes, and mucous membranes. Eye protection, gloves, and protective clothing are recommended. Benzyl alcohol should be handled in a well-ventilated environment. Benzyl alcohol is flammable.
 *****
 
-##Chlorobutanol
+## Chlorobutanol
 
-###Application
+### Application
 
 Chlorobutanol is an antimicrobial preservative. It is especially useful as an antibacterial agent in nonaqueous formulations. Chlorobutanol has also been used as a mild sedative and local analgesic.
 
-###Description
+### Description
 
 Chlorobutanol is a volatile white crystal with an odour resembling camphor.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -94,7 +94,7 @@ Typical minimum inhibitory concentrations are:
 |**Yeasts**|2500|
 |**Fungi**|5000|
 
-###Stability/Storage
+### Stability/Storage
 
 Chlorobutanol is very volatile and readily sublimes. Stability is good at pH 3 but becomes worse as pH increases^[1] . The half-life in solution at pH 7.5, stored at 25°C was determined to be approximately 3 months^[2] . A 0.5% w/v aqueous chlorobutanol solution, at room temperature, is almost saturated and can crystallize out of solution at reduced temperatures.
 
@@ -102,28 +102,28 @@ Losses of chlorobutanol also occur, with significant amounts being lost during a
 
 Bulk material should be stored in airtight containers at  8–15°C.
 
-###Safety
+### Safety
  
 Reported adverse reactions to chlorobutanol include hypersensitivity reactions, although these are regarded as rare^[3] .
 
 The lethal human dose of chlorobutanol is estimated to be 50–500 mg/kg
 
-###Handling
+### Handling
 
 Observe normal precautions. Chlorobutanol is an irritant to the skin, eyes, and mucous membranes. Eye protection and gloves are recommended. There is a slight fire hazard on exposure to heat or flame.
 *****
 
-##Propyl Gallate
+## Propyl Gallate
 
-###Application
+### Application
 
 Propyl gallate is primarily used to prevent the rancidity of oils and fats. It is used in cosmetics, perfumes, foods, and pharmaceuticals and was first described in preventing autoxidation of oils and fats in 1943.  Synergistic effects with other antioxidants such as butylated hydroxyanisole and butylated hydroxytoluene have been reported. Propyl gallate is also said to possess some antimicrobial properties and has also been investigated for its therapeutic properties, although mainly in animal studies.
 
-###Description
+### Description
 
 Propyl gallate is a white, odourless crystalline powder, with a bitter astringent taste that is not noticeable at lower concentrations, as when used as an antioxidant.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -140,22 +140,22 @@ Propyl gallate has been reported to possess some antimicrobial activity against 
 |**Escherichia Coli**|330|
 |**Staphylococcus Aureas**|600|
 
-###Stability/Storage
+### Stability/Storage
 
 Propyl gallate is unstable at high temperatures. The bulk material should be stored in an airtight, non-metallic container, protected from light in a cool, dry place, not exceeding 40°C.
 
-###Safety
+### Safety
 
 There have been few reports of adverse reactions to propyl gallate^[5] , those that have been described include contact dermatitis and allergic contact dermatitis.
 
-###Handling
+### Handling
 
 Observe normal precautions. Eye protection and gloves are recommended. When heated to decomposition, propyl gallate may emit toxic fumes and smoke.
 *****
 
-##Butylated Hydroxytoluene
+## Butylated Hydroxytoluene
 
-###Application
+### Application
 
 Butylated hydroxytoluene is used as an antioxidant in cosmetics, foods, and pharmaceuticals. It is mainly used to delay or prevent the autoxidation of fats and oils and to prevent loss of activity of oil-soluble vitamins. Butylated hydroxytoluene has some antiviral activity and has been used therapeutically to treat herpes simplex labialis.
 
@@ -166,11 +166,11 @@ Butylated hydroxytoluene is used as an antioxidant in cosmetics, foods, and phar
 |**IM Injections**|0.03|
 |**IV Injections**|0.0009-0.002|
 
-###Description
+### Description
 
 Butylated hydroxytoluene is a white or pale yellow crystalline solid or powder with a faint odour.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -179,22 +179,22 @@ Butylated hydroxytoluene is a white or pale yellow crystalline solid or powder w
 |**Flash Point**|127°C|
 |**Solubility**|insoluble in water, glycerine, PEG; freely soluble in acetone, benzene, ethanol, ether fixed and volatile oils|
 
-###Stability/Storage
+### Stability/Storage
 
 Exposure to light, moisture, and heat causes discolouration and a loss of activity. Butylated hydroxytoluene should be stored in an airtight container, protected from light, in a cool, dry place, not exceeding 40°C.
 
-###Safety
+### Safety
 
 Although there have been some reports of adverse skin reactions, butylated hydroxytoluene is generally regarded as non-toxic and a non-irritant at the levels employed as an antioxidant.^[6-7]
 
-###Handling
+### Handling
 
 Observe normal precautions. Butylated hydroxytoluene may be irritant to the eyes and skin. It should be handled in a well-ventilated environment; gloves and eye protection are recommended. Closed containers may explode when exposed to extreme heat.
 *****
 
-##Butylated Hydroxyanisole
+## Butylated Hydroxyanisole
 
-###Application
+### Application
 
 Butylated hydroxyanisole is an antioxidant used in cosmetics, foods, and pharmaceuticals. It is mainly used to delay or prevent the autoxidation of fats and oils and to prevent loss of activity of oil-soluble vitamins. Butylated hydroxyanisole is frequently used in combination with other antioxidants, particularly [butylated hydroxytoluene](http://www.reddit.com/r/steroids/wiki/homebrew/antimicrobials#wiki_butylated_hydroxytoluene) and alkyl gallates.
 
@@ -204,11 +204,11 @@ Butylated hydroxyanisole is an antioxidant used in cosmetics, foods, and pharmac
 |**IM Injections**|0.03|
 |**IV Injections**|0.0002-0.0005|
 
-###Description
+### Description
 
 Butylated hydroxyanisole is a white or almost white crystalline powder or a yellowish-white solid, with a faint odour.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -217,21 +217,21 @@ Butylated hydroxyanisole is a white or almost white crystalline powder or a yell
 |**Flash Point**|130°C|
 |**Solubility**|practically insoluble in water; freely soluble in ethanol, PEG, ether, chloroform, hexane, fixed and volatile oils|
 
-###Stability/Storage
+### Stability/Storage
 
 Exposure to light, moisture, and heat causes discolouration and a loss of activity. Butylated hydroxyanisole should be stored in an airtight container, protected from light, in a cool, dry place, not exceeding 40°C.
 
-###Safety
+### Safety
 
 Although there have been some reports of adverse skin reactions, butylated hydroxyanisole is generally regarded as non-toxic and a non-irritant at the levels employed as an antioxidant.^[6]
 
-###Handling
+### Handling
 
 Observe normal precautions. Butylated hydroxyanisole may be irritant to the eyes and skin. It should be handled in a well-ventilated environment; gloves and eye protection are recommended.
 
 *****
 
-#Sources/References
+# Sources/References
 *****
 
 1. [Patwa NV, Huyck CL. *Stability of chlorobutanol.* J Am Pharm Assoc 1966; NS6: 372–373.](http://www.ncbi.nlm.nih.gov/pubmed/5935745)

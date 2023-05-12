@@ -2,7 +2,7 @@
 
 It is a well-known fact that most oral anabolic steroids, as well as a select few injectable anabolic steroids induce a measure of liver toxicity (properly referred to as hepatotoxicity) in the body. The range of hepatotoxicity that these compounds can cause varies a great deal, ranging from very minor to serious life-threatening damage. The word "liver toxicity" and "hepatotoxicity" is thrown around a lot in bodybuilding circles and throughout the anabolic steroid using community, but how many people actually understand what these terms mean? How many people actually know what specifically it is that is "toxic" about the anabolic steroid in the liver? What is it that actually happens to the liver cells (hepatocytes)? The majority of people who throw around the words "liver toxic" will not be able to answer those questions at all. This is where that should change. After reading through this post, you will understand why certain anabolic steroids cause hepatotoxicity, what hepatotoxicity actually is, and how it affects the body, and most importantly: what you can do about it and what liver protectants to take.
 
-##Drug Metabolism
+## Drug Metabolism
 
 When it comes to drug metabolism, the liver’s primary function is to metabolize the drug into a form that is suitable for elimination by the kidneys. The main goals of this metabolism is to reduce fat solubility, make the drug water soluble, and to decrease its biological activity so that it stops working. This occurs for not only foreign substances (known as xenobiotics, which drugs are considered), but also endogenous chemicals. Drug metabolism in the liver exists in two main phases, phase I and phase II. 
 
@@ -12,19 +12,19 @@ When it comes to drug metabolism, the liver’s primary function is to metaboliz
 
 The efficacy of the enzymes used in drug metabolism are age-dependent. In newborns and the geriatric, the ability to metabolize drugs is greatly decreased. Smoking can increase the efficacy of drug metabolism through the inhalation of polycyclic aromatic hydrocarbons. This is most noticeably manifested in the increased metabolic activity of caffeine.
 
-##Anabolic Androgenic Steroids
+## Anabolic Androgenic Steroids
 
-###C17-Alpha Alkylation &amp; What It Does
+### C17-Alpha Alkylation &amp; What It Does
 
 It's common knowledge that oral steroids are known as being liver toxic, while injectable anabolic steroids are not (at least not to as great of an extent as orals are). There is a reason for this, and that is: C17-alpha alkylation (C17aa). Without the C17aa modification, very little of the anabolic steroid when ingested will survive hepatic metabolism (liver metabolism), and not enough of it will reach the bloodstream to produce any noticeable effects. It was then discovered at one point, that by modifying the chemical structure by adding a methyl group (also known as an alkyl group) to the 17th carbon on the steroid structure (also known as carbon 17-alpha), it would allow the anabolic steroid to become more resistant to the hepatic metabolism that would previously render the majority of the ingested steroid into inactive metabolites. This chemical bonding of a methyl group onto the 17th carbon is what is known as C17-alpha alkylation. It is because of C17-alpha alkylation, that the anabolic steroid becomes orally active and bioavailable – without it, the anabolic steroid would not survive liver metabolism. However, the negative downside in this case is that of increased hepatotoxicity (increased liver toxicity). C17-alpha alkylation allows an anabolic steroid to become more resistant to hepatic breakdown, and any compound that is further resistant to hepatic breakdown will always have greater hepatotoxicity associated with it for various reasons. But how does this happen?
 
 C17aa effectively alters the chemical structure enough to block the enzyme 17beta-hydroxysteroid dehydrogenase (17beta-HSD) from interacting with the hormone in the liver, which would normally metabolize the steroid into an inactive metabolite. However, the liver is now forced to metabolize the anabolic steroid through other means. At this point in time, it is unknown as to how exactly the C17aa modification causes hepatotoxicity, but it is strongly hypothesized that because the liver contains a high concentration of androgen receptors^[1] , the now unaltered and unmetabolized anabolic steroid (which is now instantly highly active) that is making the first pass through the liver will exhibit heavy amounts of androgenic activity in the liver because its metabolism has been blocked. Because it is being ingested orally, and therefore makes the first pass through the liver, the liver then becomes exposed to massive concentrations of these active anabolic steroids immediately, rather than through the injection route of administration where the anabolic steroid does not have to make a first pass through the liver (and therefore the liver is not exposed to massive amounts of active androgens all at once). The fact that studies have demonstrated that the greater the androgenic strength an oral anabolic steroid exhibits, the worse the hepatotoxicity is, lends credence to the theory that androgenic activity is correlated with hepatotoxicity in oral AAS.^[2][3]
 
-###Trenbolone
+### Trenbolone
 
 Trenbolone does not possess C17-alpha alkylation, however, it is known to possess ever so small amounts of hepatotoxicity. This is believed to be because of the nature of Trenbolone’s chemical structure, which causes Trenbolone to exhibit a higher resistance to hepatic metabolism and breakdown even though it is not C17-alpha alkylated. The small amount of hepatotoxicity is not a large cause for concern at all, as Trenbolone’s minute amount of liver toxicity does not even reach the amounts of toxicity exhibited by oral C17-alpha alkylated anabolic steroids. The slight hepatotoxicity can be a concern for individuals with pre-existing liver problems (known or unknown) and this should be kept in mind. Every potential Trenbolone user should always have blood work (see [Liver Function Tests](/steroids/hepatotoxicity.md#wiki_liver_function_tests) below) done in order to monitor liver enzyme readings regardless, and a proven liver support supplement (see [Liver Protection](/steroids/hepatotoxicity.md#wiki_liver_protection) below) can be utilized during a Trenbolone cycle for the extra assurance of proper liver function.
 
-##Drug Induced Hepatotoxicity
+## Drug Induced Hepatotoxicity
 
 Drug induced hepatotoxicity can have many causes. Some medications cause direct damage to hepatocytes while others block certain metabolic processes. As an example, acetaminophen itself is not the source of hepatotoxicity, but rather one of its metabolites. When taken in extreme quantities, this metabolite accumulates because the enzymes required are unable to keep up in phase II metabolism and cell damage occurs. Likewise, mitochondrial damage can increase oxidative stress which can damage hepatocytes. 
 
@@ -42,7 +42,7 @@ These causes are categorized in seven general categories based on the mechanism 
 
 Effects of liver damage include jaundice, ankle edema, gynecomastia, increased bleeding due to decrease in clotting factor synthesis. Most of these effects come from deficiencies in synthesis of their respective plasma proteins. For example, damage to hepatocytes that are responsible for synthesis of SHBG will result in a decrease in SHBG. This will alter the free estrogen/free androgen ratio, potentially inducing gynecomasta. Likewise, a decrease in plasma proteins will change the blood colloid osmotic pressure, causing a change in capillary net filtration pressure leading to edema in the lower extremities. 
 
-###Cholestasis
+### Cholestasis
 
 Cholestasis is the most common form of liver damage that is characteristic of the use/abuse of oral anabolic steroids.^[4] As already stated, it is the condition whereby bile is unable to properly flow throughout the liver and into the duodenum (the first section of the small intestine that connects to the stomach). This can occur as the result of a physical (also known as a mechanical) blockage, such as gallstones or a tumor formation causing blockage. The other form of blockage is in the form of a chemical blockage (also known as metabolic cholestasis), which is cholestasis that is resultant of a disruption of the hepatic cells' ability to properly manufacture and flow bile. C17aa anabolic steroids cause metabolic (chemical) cholestasis. Metabolic cholestasis can also be the result of a hereditary genetic dysfunction, and there are plenty of other substances, drugs, and medications that can cause cholestasis as well. In order to understand cholestasis, it is important to know what bile is and what it does for us.
 
@@ -71,7 +71,7 @@ When the C17aa anabolic steroids inhibit the flow of bile in the liver, bile wil
 
 Although cholestasis can normally be recovered from if C17aa steroids are halted early enough, the body might require months before liver function is properly restored, and this is why it is very important to maintain proper liver function during the use of C17aa compounds with the supplementation of a proper liver support compound. 
 
-##Liver Function Tests
+## Liver Function Tests
 
 Liver Function Tests can be done to assess hepatic function. These are not exactly conclusive and require some sort of follow up to assess the degree of severity. Often this will be some sort of imaging or biopsy. Most of these biomarkers are assessed in a multiplication of the upper limit of normal (ULN), which is the top end of the normal range.
 
@@ -89,9 +89,9 @@ Liver Function Tests can be done to assess hepatic function. These are not exact
 
 **5'-nucleotidase (5'NTD)**: Another biomarker used int he diagnosis of cholestasis. 
 
-#Liver Protection
+# Liver Protection
 
-##TUDCA / UDCA
+## TUDCA / UDCA
 
 **[For Additional Information &amp; Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/tauroursodeoxycholic-acid/)**
 
@@ -113,7 +113,7 @@ Also, according to the FDA as listed in UDCA's medication safety profile (two so
 
 - [Product Information: URSO Forte(R) oral tablets, ursodiol oral tablets. Aptalis Pharma US, Inc. (per FDA), Bridgewater, NJ, 2013.](http://docplayer.net/25126525-Urso-250-ursodiol-tablets-for-oral-use-urso-forte-ursodiol-tablets-for-oral-use-initial-u-s-approval-1997.html)
 
-##NAC (N-acetylcysteine)
+## NAC (N-acetylcysteine)
 
 **[For Additional Information &amp; Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/n-acetylcysteine/)**
 
@@ -125,11 +125,11 @@ The problem, however, with NAC is that it has demonstrated very poor oral bioava
 
 **IMPORTANT:** Studies have demonstrated that high doses of NAC can cause lung and heart damage in mice^[16] due to the fact that NAC is metabolized in the body to S-nitroso-N-acetylcysteine (SNOAC). In large enough amounts, SNOAC leads to significantly increased blood pressure in the lungs and the right ventricle of the heart. This is why it is advised to not exceed the standard dose of 1,000mg - 2,000mg per day while on C17aa oral anabolic steroids. Other than this warning, it should be mentioned that the implications of long-term NAC use (at any dose range) are currently unknown and have not been investigated. **This is not to say that long term use is a bad thing,** but that we simply do not know if the outcome is indeed good or bad.
 
-##What About Other Liver Protectants?
+## What About Other Liver Protectants?
 
 TUDCA and UDCA should be considered first above all else when using hepatotoxic anabolic steroids, as they treat the mechanisms specific to cholestasis. NAC is very beneficial as well. The other options, are just secondary aids as they are not nearly as beneficial for C17aa.
 
-###Choline &amp; Inositol 
+### Choline &amp; Inositol 
 
 **[For Additional Information &amp; Studies On Choline, Be Sure To Visit The Examine Page](https://examine.com/supplements/choline/)**
 
@@ -151,17 +151,17 @@ Inositol shows promising effects in restoring insulin sensitivity and decreasing
 
 For general liver health and oral steroid protection, inositol doses will typically be in the 2g-4g range, and it is advised to take these doses in two split even doses per day, roughly 12 hours apart. 
 
-###Milk Thistle
+### Milk Thistle
 
 **[For Additional Information &amp; Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/milk-thistle/)**
 
 Milk thistle, which contains silymarin and silybin are known as being powerful antioxidants in the liver in particular. Many studies have been conducted on the efficiency and have demonstrated them to exhibit a plethora of beneficial properties in liver tissue. However, milk thistle is not very effective for treating cholestasis in particular. As a general liver health support, it is not too bad. However, almost all of the studies performed on milk thistle’s effectiveness had administered the test subjects the compound via injection, which would provide near 100% bioavailability. Milk thistle consumed orally is a different story. Milk thistle can serve as a beneficial addition to TUDCA and UDCA, but should not be substituted as a first-line treatment for cholestasis. TUDCA should be reserved for the first-line treatment of cholestasis and should be the primary liver protectant while on a cycle of C17-alpha alkylated oral anabolic steroids.
 
-###Liv.52 (LiverCare)
+### Liv.52 (LiverCare)
 
 Liv.52 is an herbal medicine used widely in Europe and Asia to support metabolic and liver health. While in some countries this product is regarded as a drug, it contains all natural ingredients including capparis spinosa, terminalia arjuna, cichorium intybus, achillea millefolium, solanum nigrum, tamarix gallica, and cassia occidentalis. There have been medical studies have been conducted on Liv.52 in recent years, many of which involve its ability to protect the liver from damage by alcohol or other toxins. Note that while these studies lend support for the use of a natural remedy like Liv.52 during hepatotoxic steroid administration, they do not provide complete assurance that this remedy can prevent liver damage. Also some of the studies may have some bias, so be sure to use caution when reviewing them.
 
-##A Final Word 
+## A Final Word 
 
 * **TUDCA or UDCA should be every anabolic steroid user's first choice for on-cycle liver protection during the use of oral C17-alpha alkylated anabolic steroids.** 
 
@@ -171,7 +171,7 @@ Liv.52 is an herbal medicine used widely in Europe and Asia to support metabolic
 
 * Milk Thistle &amp; Liv.52 (LiverCare) can provide some benefits, but they in **NO WAY** should be your only liver protection during use of oral C17-alpha alkylated anabolic steroids.
 
-#References
+# References
 
 *The majority of this wiki page was taken and expanded from [this thread](https://www.reddit.com/r/steroids/comments/52658y/the_science_of_hepatotoxicity/) by /u/canal_of_schlemm, as well as a thread by DanC*
 

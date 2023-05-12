@@ -32,7 +32,7 @@ Methyldrostanolone, also known as methasteron, is a potent oral anabolic steroid
 
 Both methyldrostanolone and drostanolone are non-aromatizable, so there is no difference in the estrogenicity of these two steroids , and both steroids retain favorable anabolic to androgenic ratios. Lab assays do put Superdrol ahead here, however, showing it to possess 4 times the anabolic potency of oral methyltestosterone while displaying only 20% of the androgenicity (a 20:1 ratio, compared to 3:1). The exact real-world relevance of these figures remains to be seen, however. Methyldrostanolone is favored by athletes for its moderate anabolic properties, which are usually accompanied by fat loss and minimal androgenic side effects.
 
-##History
+## History
 
 Methyldrostanolone was first described in 1959. This steroid was developed by the international pharmaceuticals giant Syntex, alongside such other well known anabolic agents as drostanolone propionate and Oxymetholone. Unlike drostanolone and oxymetholone, however, this steroid (at least in its basic form) was never released as a medicinal product. It was only sold for a brief period of time as a modified hormone called dimethazine. Dimethazine is made from two molecules of Methyldrostanolone that are bonded together, which are later metabolically separated to yield free Methyldrostanolone.
 So while technically Methyldrostanolone itself was never sold as a prescription agent, we can say that the drug was one utilized medicinally.
@@ -40,7 +40,7 @@ So while technically Methyldrostanolone itself was never sold as a prescription 
 Otherwise, the methyldrostanolone molecule Methyldrostanolone remained an obscure research steroid only, and was never itself approved for use in humans. Methyldrostanolone was released in early 2005 as an over the counter "grey market" anabolic steroid in the United States.
 The drug was being sold without restrictions as a nutritional supplement product, barring some minimum age disclaimers by the manufacturer. No State or Federal laws identify this drug as an anabolic steroid, which remove the legalities associated with being a Class III controlled substance like other steroids. This is simply due to the fact that methyldrostanolone was not in commerce at the time such laws were written, and was unknown to lawmakers. It was never legal to sell as a dietary supplement, however, and in late 2005 the FDA angrily acknowledged methyldrostanolone was being sold on the sports supplement market. In early 2006, the FDA sent letters to the manufacturer and a distributor demanding it be pulled from commerce. Superdrol has since been discontinued.
 
-##Characteristics
+## Characteristics
 
 Methyldrostanolone is a C-17 alpha alkylated steroid, originally developed by the American pharmaceutical company Syntex. This steroid is already active and does not require conversion. Methyldrostanolone is the 17aa version of the injectable steroid drostanolone (Masteron). This extra methylation makes this steroid about 3-4x more anabolic than Masteron, and slightly more anabolic than oxandrolone (Anavar ). Due to the dimethylation, the toxicity of methyldrostanolone is greater than most other oral steroids . 
 
@@ -56,7 +56,7 @@ Results-wise, users should expect extreme strength increases and weight gain in 
 
 The most obvious physical effects will be improved vascularity, aggressive muscular pumps, and oily skin. While methyldrostanolone can stack well with most other steroids, it should never be stacked with another methylated (17aa) steroid.
 
-##Side Effects
+## Side Effects
 
 Methyldrostanolone is not aromatized by the body, and is not measurably estrogenic. An anti-estrogen is not necessary when using this steroid, as gynecomastia should not be a concern even among sensitive individuals. Since estrogen is the usual culprit with water retention, methyldrostanolone instead produces a lean, quality look to the physique with no fear of excess subcutaneous fluid retention. This makes it a favorable steroid to use during bulking or cutting cycles, when water and fat retention are major concerns. 
 
@@ -70,7 +70,7 @@ Negative effects on the liver generally manifest as a condition known as reversi
 
 Other reversible side effects from methyldrostanolone may include increased blood pressure, reduced HDL cholesterol and lower back pumps.
 
-##Administration
+## Administration
 
 Methydrostanolone was never approved for use in humans. Prescribing guidelines are unavailable. An effective dosage of methyldrostanolone for physique or performance-enhancing purposes seems to begin in the range of 10-20 mg per day, taken for no longer than 6 weeks. 
 
@@ -170,7 +170,7 @@ Recovery time on Superdrol was improved, slightly but noticeably - not on a par,
 
 Across the board, testers were astounded by the virtual absence of unwelcome side-effects from Superdrol use. One tester, already balding, mentioned an occasional itchy scalp. The only exception to the clean bill given to Superdrol was noted earlier, lower back pain at excessive doses. This lack of side effects can be attributed to Superdrol’s very low androgenic capacity and its anti-estrogenic effects.
 
-##References
+## References
 
 Cholestatic Jaundice and IgA Nephropathy Induced by OTC Muscle Building Agent Superdrol. Beata Jasiurkowski MD, et al. The American Journal of Gastroenterology (2006) 101, 2659-2662.
 

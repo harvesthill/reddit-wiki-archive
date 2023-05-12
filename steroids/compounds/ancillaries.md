@@ -60,9 +60,9 @@ SARMs are intended to have the same kind of effects as androgenic drugs like ana
 
 ***Sympathomimetic Amine*** -- Sympathomimetic drugs mimic the effects of transmitter substances of the sympathetic nervous system.  Amines are organic compounds and functional groups that contain a basic nitrogen atom with a lone pair. Amines are derivatives of ammonia, wherein one or more hydrogen atoms have been replaced by a substituent such as an alkyl or aryl group.
 
-##FAQ
+## FAQ
 
-###Q: Can Nolvadex (Tamoxifene) and Arimidex (Anastrozole) be used together?
+### Q: Can Nolvadex (Tamoxifene) and Arimidex (Anastrozole) be used together?
 
 There is a lot of confusing information on wether or not these two compounds can be ran together.  Looking at drug interaction charts, Medscape [has the following](http://i.imgur.com/uvgf79L.png): 
 
@@ -87,7 +87,7 @@ http://www.nature.com/bjc/journal/v85/n3/pdf/6691925a.pdf
 
 **A:**  Taking arimidex with tamoxifen decreases the serum concentration of anastrozole by 27%, **but has no effect on the pharmacodynamics of either**
 
-###Q: Does Aromasin need to be taken with fat?
+### Q: Does Aromasin need to be taken with fat?
 
 **A:** It works better when taken with a high fatty meal, yes.
 

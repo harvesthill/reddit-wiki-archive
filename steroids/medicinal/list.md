@@ -2,11 +2,11 @@
 
 Due to the culturally engrained stereotype of AAS use, medicinal use of AAS has just recently began to be investigated.  This page seeks to document areas where AAS may be beneficial to patients with disease.
 
-##Anxiety
+## Anxiety
 
 There is a large amount of [anecdotal evidence](http://www.reddit.com/r/steroids/comments/20456n/the_wonder_drug/) that increased Testosterone levels can assist with anxiety relief.
 
-##Cerebral Palsy
+## Cerebral Palsy
 
 Consensus seems to be forming that hGH is beneficial for use for Cerebal Palsy patients.
 
@@ -64,30 +64,30 @@ Procollagen III is a primary indicator used to determine the rate of collagen sy
 * **Anavar** is prescribed post-surgery and has hundreds of scientific studies demonstrating [increased collagen synthesis](https://www.researchgate.net/publication/285519197_The_Influence_of_the_Anabolic_Agent_Oxandrolone_upon_the_Expression_of_Procollagen_Types_I_and_III_mRNA_in_Human_Fibroblasts_Cultured_on_Collagen_or_Plastic), accelerated [wound healing](https://www.ncbi.nlm.nih.gov/pubmed/10810035) and enhanced recovery.
 * **Estrogen** [plays an integral role](https://www.ncbi.nlm.nih.gov/pubmed/18927264) in keeping tendons and joints strong.
 
-##COPD
+## COPD
 
 It doesn't appear that AAS are effective for COPD.
 
 http://www.ncbi.nlm.nih.gov/pubmed/18684793
 &gt;Patients with severe chronic obstructive pulmonary disease (COPD) commonly develop weight loss, muscle wasting, and consequently poor survival. Nutritional supplementation and anabolic steroids increase lean body mass, improve muscle strength, and survival in patients enrolled in comprehensive rehabilitation programs. Whether anabolic steroids are effective outside an intensive rehabilitation program is not known. We conducted a prospective, double-blind, placebo-controlled, 16-week trial to study the benefits of anabolic steroids in patients with severe COPD who did not participate in a structured rehabilitation program. Biweekly intramuscular injections of either the drug (nandrolone decanoate) or placebo were administered. Sixteen patients with severe COPD were randomized to either placebo or nandrolone decanoate. The placebo group weighed 55.32 +/- 11.33 kg at baseline and 54.15 +/- 10.80 kg at 16 weeks; the treatment group weighed 68.80 +/- 6.58 at baseline and 67.92 +/- 6.73 at 16 weeks. Lean body mass remained unchanged, 71 +/- 6 vs. 71 +/- 7 kg in placebo group and 67 +/- 7 vs. 67 +/- 7 in treatment group, at baseline and 16 weeks respectively. The distance walked on 6 min was unchanged at baseline, 8 weeks, and 16 weeks in placebo (291.17 +/- 134.83, 282.42 +/- 115.39, 286.00 +/- 82.63 m) and treatment groups (336.13 +/- 127.59, 364.83 +/- 146.99, 327.00 +/- 173.73 m). No improvement occurred in forced expiratory volume in one second, forced vital capacity, maximal inspiratory pressure, maximal expiratory pressure, VO(2) max or 6-min walk distance or health related quality of life. Administration of anabolic steroids (nandrolone decanoate) outside a dedicated rehabilitation program did not lead to either weight gain, improvement in physiological function, or better quality of life in patients with severe COPD.
 
-##Cystic Fibrosis
+## Cystic Fibrosis
 
 [This thread has some information](/r/bodybuilding/comments/29db20/jamie_boudreau_bodybuilder_with_terminal_cystic/)
 
-##Hepatitis C
+## Hepatitis C
 
 [Sexual dysfunction in males with chronic hepatitis C and antiviral therapy: interferon-induced functional androgen deficiency or depression? ](http://www.natap.org/2005/HCV/062005_02.htm)
 
-##Hypogonadism
+## Hypogonadism
 
 [See Testosterone Replacement Therapy (TRT)](/steroids/trt/list.md)
 
-##Immune therapy
+## Immune therapy
 
 http://www.medibolics.com/litref2.htm
 
-##Multiple Sclerosis
+## Multiple Sclerosis
 Not to be confused with glucocorticoid use to treat inflammation produced by MS, anabolic steroids also can play a role.
 
 [Users Letter](http://www.medibolics.com/letter2.htm)
@@ -101,6 +101,6 @@ Need access to these:
 [Results of combined administration of anabolis steroids in patients with multiple sclerosis](
 http://www.ncbi.nlm.nih.gov/pubmed/4343838)
 
-##Post Traumatic Stress Disorder (PTSD)
+## Post Traumatic Stress Disorder (PTSD)
 
 [Joe Rogan Experience #574 - Dr. Mark Gordon, Matthew Gosney &amp; Jason Hall \(TL;DW - Doctor is treating PTSD patients with hormone therapy\) - \[139:56\]](https://www.youtube.com/watch?v=tbxPxFiOIKc)

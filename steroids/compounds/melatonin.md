@@ -9,7 +9,7 @@ Formula: C13H16N2O2
 
 Half-Life: 20-50 minutes
 
-###Background Information
+### Background Information
 *****
 Melatonin is a neurohormone secreted by the pineal gland in the brain and it is well known for causing and regulating sleep. Light suppresses melatonin synthesis. The primary use of melatonin as a supplement is to normalize abnormal sleep patterns.
 
@@ -17,7 +17,7 @@ It was dubbed 'melatonin' in 1958 by Aaron B. Lerner after he isolated hormone f
 
 Melatonin was first discovered to be an antioxidant in 1993, and was patented as a low dose sleep aid in 1995. 
 
-###Effects
+### Effects
 *****
 Melatonin is used to help reset/establish day-night patterns (circadian rhythm). It was also discovered to be a powerful antioxidant. Melatonin has been proven to be twice as active as vitamin E, believed to be the most effective lipophilic antioxidant. Finally, studies show that melatonin has a positive effects on growth hormone production!
 
@@ -38,7 +38,7 @@ To help with sleep, take roughly 30 minutes before going to bed.
 
 Growth hormone appears to spike slightly better at 5mg than 500mcg, although both doses are fairly effective.
 
-###Sources/Fun reading Material
+### Sources/Fun reading Material
 
 [General Information/Studies on Melatonin](http://examine.com/supplements/Melatonin/)
 

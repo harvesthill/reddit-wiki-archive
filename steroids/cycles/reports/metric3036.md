@@ -22,7 +22,7 @@ So here I am, and I have /R/Steroids to thank for a very large part of my educat
 
 This log is a way of giving back some of this info and having an outlet among like minded people.
 
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Age**: 40 years.
 
@@ -53,12 +53,12 @@ Current maxes:
 * Deadlift: 180.0 kg ~ 405.0 lb- haven't deadlifted since the arm injuries.
  
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 
 To put on a serious amount of raw size and give my banged up joints and tendons some help to heal and strengthen.
 
-##Gear
+## Gear
 
 500 mg of Test Enanthate 250mg/ml per week for 16 weeks, 250 mg E3D.
 
@@ -68,7 +68,7 @@ Will cruise for however long it takes to get clean blood work back on 175 mg - 2
 
 I have Nolva, Caber and Anastrozole on hand.
 
-##Diet
+## Diet
 
 Target is 4000 calories a day.
 
@@ -89,7 +89,7 @@ I don't drink very often, or very much. Again, I drank a lot over the years, it 
 
 I have no partner at the moment, as she didn't like my move away from fat drunken average guy and into focused healthy swole guy.
 
-##On cycle training  
+## On cycle training  
 
 All body part's receive the '5 x Exercises x 4 working sets' treatment. I do a warm up nice and light and high rep, and pyramid up to a weight I can handle for 8 reps. 
 
@@ -123,11 +123,11 @@ Saturday: Rest
 
 Sunday: Rest
 
-#Logs
+# Logs
 
 ## Week 1
 
-#30-01-14:
+# 30-01-14:
 
 Pinned my first dose last night. Was nervous as hell, my heart was banging so hard in my chest I kept fumbling the vials and the blister packs.
 
@@ -161,7 +161,7 @@ Anyway, I'll note down something each day for this log, how I feel, weight fluct
 
 I have taken pictures, but haven't decided if I'll publish them yet. I do have them though.
 
-#01-02-14:
+# 01-02-14:
 
 As you would expect there hasn't been much to note in the last 2 days other than two things.
 
@@ -179,7 +179,7 @@ I have almost a gram of anabolic steroids in my system, in one form or another, 
 
 ## Week 2
 
-#10-02-14:
+# 10-02-14:
 
 Several interesting things have occurred over the past week and a half, enough for me to make a note of it.
 
@@ -202,7 +202,7 @@ I absolutely murdered my workout today, with PB's on every single set of every s
 
 ## Week 4
 
-#21-02-14:
+# 21-02-14:
 
 I'm 9 pins in and my test levels seem to have become stabilised and I'm feeling the full effect of being on. The only change I'm considering with pin frequency is moving to EOD as I can feel the hormone levels drop in my body by day 3, every single time. Its a strange feeling, kinda creepy.
 
@@ -300,7 +300,7 @@ Now I'm only 5'7", 40 years old and I'm bald and although I've never had too man
 
 ## Week 11
 
-#15-04-14:
+# 15-04-14:
 
 I have very sore delts.
 

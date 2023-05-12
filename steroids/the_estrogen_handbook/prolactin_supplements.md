@@ -15,7 +15,7 @@
 5. Zinc
 6. Ginkgo Biloba
 
-##Vitamin B6 (Pyridoxine Hydrochloride &amp; P5P)
+## Vitamin B6 (Pyridoxine Hydrochloride &amp; P5P)
 
 Vitamin B6 is a surprisingly effective prolactin inhibitor that is extremely cheap and safe:
 
@@ -39,25 +39,25 @@ Pyrolurics, according to Dr. Carl Pfeiffer and Dr. Abram Hoffer, have an increas
 
 The standard treatment for pyroluria is high dose zinc and B6 supplementation, typically 50-150 mg and 250-1500 mg respectively (way above the RDA for both).
 
-###Side Effects Of B6 (Pyridoxine Hydrochloride)
+### Side Effects Of B6 (Pyridoxine Hydrochloride)
 
 High doses of B6, especially when taken for many months, can cause nerve problems such as tingling in the fingers and numbness in the toes (peripheral neuropathy); B6 can also worsen sleep quality in some people and cause vivid dreams.
 
 Fortunately, these problems completely resolve once B6 supplementation is stopped and, since it is water soluble, this won’t take too long.
 
-###Ways Around The Side Effects
+### Ways Around The Side Effects
 
 One way to avoid the ‘finger tingling’ that high dose B6 can cause is to take the activated form of B6 called Pyridoxal-5-Phosphate (P5P) – the activated form of B6 does not cause these nerve issues.
 
 In fact, the reason that high dose B6 causes nerve problems is that the body can’t always process very high B6 doses properly and this creates a deficiency of the active form of B6, P5P.
 
-###Recommended Dosage
+### Recommended Dosage
 
 To lower prolactin levels it's recommend you take 50-200 mg of P-5-P a day, in divided doses. If you want to take regular B6, which as mentioned above can sometimes cause minor side effects, take 300-1000 mg per day in divided doses.
 
 **Read the label before you buy B6 (if you choose not to get P-5-P). because the Pyridoxine Hydrochloride type of B6 (in most supplements) has been shown to be a prolactin inhibitor, but Pyridoxal Hydrochloride has been shown to be ineffective at lowering prolactin^[6] – make sure you buy the right type!**
 
-##Vitamin E
+## Vitamin E
 
 Like B6, Vitamin E is a powerful natural prolactin inhibitor that is dirt cheap and rarely causes side effects.
 
@@ -81,7 +81,7 @@ Vitamin E has long been known as one of the most important vitamins for male fer
 
 It is also suggested by researchers that Vitamin E protects against free-radical damage to the unsaturated fatty acids in the sperm membrane, improving sperm motility and fertility.
 
-###Side Effects of Vitamin E
+### Side Effects of Vitamin E
 
 Most people benefit greatly from taking 100-400 mg of supplemental Vitamin E per day. Vitamin E has a good safety profile and has been given in dosages as high as 3200 IU without causing problems.
 
@@ -91,13 +91,13 @@ Vitamin E dosed at between 600mg–1000mg can deplete iron stores in people susc
 
 300mg of Vitamin E as part of a diet that supplies sufficient amounts of iron along with supplements that improve iron absorption such as Lactoferrin, Lysine and Vitamin C will keep iron levels healthy in most people.
 
-###Recommended Dosage
+### Recommended Dosage
 
 When using Vitamin E as a prolactin inhibitor, it's recommended that you take 300-400 IU per day of natural Vitamin E – this can be raised up to dosages such as 1000 IU for greater prolactin control, but be aware of the possible side effects outline above.
 
 **Natural Vitamin E is labelled D-Alpha Tocopherol whereas synthetic is labeled DL-Alpha Tocopherol – the natural form works best. D-Alpha Tocopherol with mixed natural tocopherols or D-Alpha Tocopherol with mixed natural tocotrienols are the absolute best forms to take.**
  
-##SAM-e 
+## SAM-e 
 
 The mood and brain function boosting, liver detoxifying and joint strengthening supplement SAM-e also has the ability to raise testosterone and lower prolactin levels in men.
 
@@ -113,21 +113,21 @@ On the other hand, in the group of depressed women, the post-treatment prolactin
 
 Our results, at least in depressed men, seem to support the hypothesis of a stimulating effect of SAM-e on the dopaminergic system." ^[12]
 
-###Side Effects of SAM-e:
+### Side Effects of SAM-e:
 
 Gastrointestinal upset and nausea are occasionally reported by users of SAM-e. Others find it gives them too much energy (i.e. is too stimulating). SAM-e is extremely well tolerated by most users, however.
 
-###Recommended Dosage
+### Recommended Dosage
 
 Take 400-1200 mg a day of SAM-e along with Vitamin B6 and vitamin E. An added bonus is SAM-E's ability to detoxify the liver.
 
-##Other Effective Prolactin-Inhibiting Supplements
+## Other Effective Prolactin-Inhibiting Supplements
 
 It is suggested you start by using the above three supplements to lower prolactin and see how your symptoms and/or test results improve.
 
 If things are not progressing as quickly as you had hoped they would, consider adding in the supplements below which are dopamine agonists (increase dopamine):
 
-###Ginseng Extract
+### Ginseng Extract
 
 A number of studies on rats have found Ginseng Extract to be a potent prolactin inhibitor^[12][13] – in fact, ‘Rats treated with American ginseng exhibit an approximate 50% reduction in serum prolactin’!
 
@@ -137,7 +137,7 @@ Start by taking 1000 mg of American ginseng extract per day – work up to 3000 
 
 Herbs such as ginseng tend to work most effectively when cycled; this approach also minimizes any possible side effects. Try 3 weeks on 2 weeks off, or 5 days on 2 days off – experiment to find out what works best for you.
 
-###Maca Powder
+### Maca Powder
 
 Maca, like Ginseng, raises NO and dopamine levels which is why it can help with prolactin problems and increases erection frequency in men.
 
@@ -145,7 +145,7 @@ I’ve not seen any studies specifically investigating Maca’s effects as a pro
 
 Try half to one teaspoon of Maca powder a day. Work up to 3 teaspoons per day if you feel you need it.
 
-###Ashwagandha (Indian Ginseng)
+### Ashwagandha (Indian Ginseng)
 
 Most herbs that help to lower prolactin have a stimulating effect; Ashwaganda, however, is a GABA agonist that helps many people to relax.
 
@@ -155,7 +155,7 @@ It may be Ashwaganda’s stress reducing effects that explain how it improves ho
 
 If you want to try Ashwaganda take 450 mg one to three times per day. Similar cycling guidelines to Ginseng apply.
 
-###Mucuna Pruriens
+### Mucuna Pruriens
 
 Macuna Pruriens is well documented as being a prolactin inhibitor that has been studied alongside Bromocriptine and L-Dopa.^[16][17] Mucana Pruriens prolactin lowering effects are well known amongst bodybuilders.
 
@@ -165,7 +165,7 @@ One study on 75 infertile men and 75 fertile men found that "treatment with M. P
 
 If you buy the herb in concentrated supplement form follow the directions on the packaging – 600 mg is an commonly used dose. Many find that taking a dose of Mucana Pruriens about an hour before they go to bed improves sleep quality.
 
-###Zinc
+### Zinc
 
 Zinc tends to work alongside vitamin B6 in the body. For example, B6 is used to treat carpal tunnel syndrome and when Zinc is added the effectiveness of B6 is increased. Similarly, in pyroluria, B6 and Zinc become depleted and both need to be supplemented for the disease to improve.
 
@@ -175,17 +175,17 @@ Marginal Zinc deficiency is extremely common amongst men, particularly bodybuild
 
 Take 50-100 mg of Zinc Monomethionine, Zinc Gluconate or Zinc Citrate to increase the effectiveness of B6 and to correct a marginal Zinc deficiency that is keeping testosterone levels low and prolactin high.
 
-###Ginkgo Biloba
+### Ginkgo Biloba
 
 Gingko Bilbao is another herb to try if you’re suffering from prolactin problems. Gingko has been shown to significantly improve dopamine levels whilst acting as a prolactin inhibitor in a well designed study on rats.^[23]
 
 Try 60-360 mg per day of Ginkgo and adjust dosage depending on results.
 
-###Finally…
+### Finally…
 
 One of the cheapest ways to lower prolactin is to spend at least an hour each day in natural sunlight.
 
-#References
+# References
 
 *1. http://www.ncbi.nlm.nih.gov/pubmed/1254699*  
 *2. http://www.ncbi.nlm.nih.gov/pubmed/6324828*  

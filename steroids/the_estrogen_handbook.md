@@ -1,10 +1,10 @@
 #The Estrogen Handbook
 
-##Gyno Mechanics
+## Gyno Mechanics
 
 First of all there are three different types of Gynecomastia (Gyno): Estrogen induced, Progesterone induced and Prolactin induced. Of course, you can avoid all three types of Gyno by keeping Estrogen (E2) within the normal range (unless using a 19-nor). The precursor to any type of Gyno is almost always Estrogen! Once you let Estrogen build up you signal to your brain that you have conceived, it doesn’t matter if you are a man or woman, your body at this point will have to go through certain processes to prepare you for lactation. Firstly your body will rush to use that Estrogen and build up breast tissue (which will form a lump) which is mandatory for the lactation process. Once this stage has been completed and you have let Estrogen still high your Progesterone will increase (Estrogen can still remain high) which is an attempt from your body to make the tissue larger and also make your aerolas bigger (puffy and enlarged nipples) again to get them ready for lactation. Last stage of Gyno is Prolactin lactation, all previous stages were preparing the body for this moment at this point your Progesterone and Estrogen will drop and your Prolactin will spike, this is when someone starts lactating.
 
-##Estrogen (E2)
+## Estrogen (E2)
 
 Estrogen is commonly referred to as “E2”. Estrogens are made up of Estrone (E1), Estradiol (E2), and Estriol (E3) (though the one we’re concerned with is E2 specifically). It is fine to simply refer to these as Estrogen, but it’s more important that you know how to control your own and have a basic understanding of the topic.
 
@@ -16,7 +16,7 @@ When you hit your sweet spot you will know, you can’t miss it. You will feel h
 
 Here is an indicators of low/high Estrogen levels:
 
-###Low Estrogen Sides
+### Low Estrogen Sides
 
 * Dry skin/lips
 * Feeling of dehydration
@@ -42,7 +42,7 @@ Here is an indicators of low/high Estrogen levels:
 
 Low and high Estrogen sides are very alike, the more experienced you get the easier it is to differentiate between them, but it will always be tricky. The best way to tell is always to get your Estradiol (E2) checked though blood work.
 
-###High Estrogen Sides
+### High Estrogen Sides
 
 * Acne
 * Loss of libido
@@ -66,7 +66,7 @@ Low and high Estrogen sides are very alike, the more experienced you get the eas
 
 When you get one side effect, it is just an indication use this list to potentially make a full picture. Never go by one side only, being bloated only means nothing, having dry skin only means nothing again. Again, the best way to tell is always to get your Estradiol (E2) checked though blood work.
 
-##Aromatase
+## Aromatase
 
 Aromatase is an enzyme that converts testosterone to estradiol and androstenedione to estrone. Similarly, 17-ketosteroid reductase is an enzyme that is capable of converting androstenedione to testosterone and estrone to estradiol. Aromatase is named based upon the fact that it removes a methyl group on the 19th carbon and rearranges ring A into an aromatic ring, hence it aromatizes the testosterone molecule.
 
@@ -76,23 +76,23 @@ Aromatase is found in many different cells in the body, however it is primarily 
 
 Aromatase is decreased endogenously by prolactin and anti-Mullerian hormone, although AMH is irrelevant and concentrations are almost non-existent in adult males. It is also decreased exogenously by aromatase inhibitors, nicotine, zinc, vitamin E, and resveratrol. The enzyme is increased endogenously by gonadotropins, insulin, testosterone, and androstenedione. Increased adipose tissue increases quantity of aromatase in body.
 
-##Aromatase Inhibitors (AIs)
+## Aromatase Inhibitors (AIs)
 
 Keep in mind Estrogen is good for you in many ways (libido, mood, skin quality, hair, nails etc). But, most importantly, Estrogen is good for your lipids. I am sure you have heard how Arimidex and Letrozole are bad for your lipid values while Aromasin is ‘better’, in reality all AI’s are as bad as each other for your liver values. The more you lower Estrogen, the worse your liver values will get – it doesn’t matter which AI you use, all that matters is how much you are lowering your Estrogen. If you lower your Estrogen by 10 pg/mL you won’t notice much difference. If you crash your Estrogen down to single digits I guarantee you that your HDL/LDL will be completely out of whack no matter which AI you used.
 
-###Suicidal AI vs. Non-Suicidal/Binding AI
+### Suicidal AI vs. Non-Suicidal/Binding AI
 
 Arimidex and Letrozole are non-suicidal AI’s, all they do is bind any Estrogen you convert directly on your aromatase enzyme. Each AI binds a different percentage of Estrogen, Letrozole binds more than Arimidex of course. The problem with binding AI’s is that once you cease use, all of the Estrogen that had accumulated when you were using that AI suddenly gets released – this process is called "Estrogen rebound" and I am sure you know it can be far worse than Estrogen while on a cycle since normally when you drop your AI you either cruise with a low dose of Test or PCT. In both cases you have far less Test in you and once all that Estrogen is released you got a much higher chance of getting Gyno and of course you are going to be bloated and feel soft for weeks till your Estrogen comes down to normal levels.
 
 Aromasin is the new generation of AI and it is suicidal, the difference between Aromasin and the other AI’s is Aromasin will actually destroy/kill a certain percentage of your aromatase enzyme so by doing so it also 'kills' any estrogen that was attached to that enzyme. This means when you stop using Aromasin you won’t rebound at all like you would with the binding AI’s. If anything, you will have to wait for a while for your body to start producing more aromatase (very bad if you crashed your Estrogen comparing to using the other AI’s). Each person is different in the rate they create new aromatase; it can take one to three weeks.
 
-###Arimidex (Anastrozole)
+### Arimidex (Anastrozole)
 
 [Arimidex (Adex)](/steroids/arimidex.md) will lower your Estrogen by about 50-60%. Of course, if you keep taking it that percentage accumulates so you lower 50% by another 50% and so on, you can easily end up with your Estradiol in the singles if you take it for long enough at a high enough dose and you aren’t converting much Estrogen from aromatizing gear (using low dose of Test and high dose AI). Arimidex is a good for new steroid users as if they overestimate their dosing for AI and get symptoms of low E2, they will bounce back back up fairly quickly and adjust as needed.
 
 **Dosage on cycle:** dosing is user dependent and you should get [blood work](/steroids/bloodwork/list.md) to dial in your dose, but **MOST** users will find .5 mg of Arimidex E3D or E3.5D to be a good starting dose for 500-600 mg Testosterone (just for a reference). Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much and without blood work there is no way to know for sure what dosage you need.
 
-###Aromasin (Exemestane)
+### Aromasin (Exemestane)
 
 [Aromasin (Asin)](/steroids/aromasin.md) is an orally available suicidal aromatase inhibitor. Because Aromasin is steroidal this gives it a favorable Estrogen suppression profile and confers a few really awesome benefits over other anti-estrogens both on paper and in real experience. Steroidal anti-estrogens have the benefit of being lipid-friendly and they all lower SHBG which increases the ratio of free to bound Testosterone, which as many experienced bodybuilders know can have a relatively profound, positive impact on gains.
 
@@ -126,19 +126,19 @@ This means that you can find the timing and dosage that works for you; this flex
 
 **Dosage on cycle:** dosing is user dependent and you should get [blood work](/steroids/bloodwork/list.md) to dial in your dose, but **MOST** users will find 12.5 mg of Aromasin E3D or E3.5D to be a good starting dose for 500-600 mg Testosterone (just for a reference). Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much.
 
-###Letrozole
+### Letrozole
 
 Letrozole is by far the harshest of all AI’s, not necessarily because your Estrogen will be too low but because Letrozole as a compound/active ingredient is really harsh. The main applications for Letrozole is for Contest Prep or apart of Gyno Reversal (along with a SERM) as this is the nuclear option. Whenever used, always be sure to taper off to avoid rebound.
 
 **On cycle dosage:** This AI is very easy to crash your estrogen with. It is not typically recommended as your main AI
 
-##Selective Estrogen Receptor Modulators (SERMs)
+## Selective Estrogen Receptor Modulators (SERMs)
 
 After your cycle is complete and the steroid esters start to clear the system, a post cycle therapy (PCT) is done to help get the pituitary glands running again. SERM's work by blocking estrogen going into the pituitary glands, which cause a rise in LH/FSH and testosterone levels, temporarily. This helps give a boost after cycle, and it helps maintain gains.
 
 Keep in mind all 3 SERMs will work in favor of your liver (Agonists) since they are mild Estrogens, like stated earlier Estrogen is good for your liver so adding a SERM will always improve your HDL/LDL. All SERMs don’t lower Estrogen, in fact they will increase your total Estrogen. They also block your Estrogen in the nipple area.
 
-###Nolvadex (Tamoxifen)
+### Nolvadex (Tamoxifen)
 
 **Agonist:** Liver, Uterus (female)  
 **Antagonist:** Breast/Nipple
@@ -148,7 +148,7 @@ Keep in mind all 3 SERMs will work in favor of your liver (Agonists) since they 
 **Dosage on cycle:** 20-40mg ED  
 **Dosage for PCT:** [See PCT](/steroids/thecycle/pct.md)
 
-###Raloxifene (Evista)
+### Raloxifene (Evista)
 
 **Agonist:** Liver, bone (increases bone density and is a recognized treatment for osteoporosis)  
 **Antagonist:** Breast/nipple
@@ -157,13 +157,13 @@ Raloxifene doesn’t affect IGF-1 levels whatsoever, also it increases bone dens
 
 **Dosage on cycle:** 60mg-120mg ED  
 
-###Nolvadex vs. Raloxifene for HGH/IGF-1
+### Nolvadex vs. Raloxifene for HGH/IGF-1
 
 [*Taken from this study*](https://academic.oup.com/jcem/article-lookup/doi/10.1210/jc.2010-1477)
 
 **Conclusions:** Tamoxifen, but not Raloxifene, reduces IGF-I levels. Both SERMs stimulate the gonadal axis, with tamoxifen imparting a greater effect. We conclude that in therapeutic doses, Raloxifene perturbs the GH and gonadal axes to a lesser degree than Tamoxifen.
 
-###Nolvadex vs. Raloxifene for Gyno
+### Nolvadex vs. Raloxifene for Gyno
 
 [*Taken from this study*](https://www.ncbi.nlm.nih.gov/pubmed/15238910)
 
@@ -183,11 +183,11 @@ If your Gyno is pubertal, as seen above, this potentially could help, but most l
 
 **Dosing:** Pharmaceutical Raloxifene 120mg ED - split the dose ½ in the AM, ½ in the PM for a month, then 60mg ED - split the dose ½ in the AM, ½ in the PM until you've seen sufficient reduction in size.
 
-###Toremifene (Fareston)
+### Toremifene (Fareston)
 
 [*Under Construction*]
 
-###Clomid
+### Clomid
 
 **Agonist:** Liver  
 **Antagonist:** Breast/nipple
@@ -210,13 +210,13 @@ Tamoxifen is also made of slightly more isomers, the cis isomer of tamoxifen (in
 
 **Dosage for PCT:** [See PCT](/steroids/thecycle/pct.md)
 
-##Prolactin Support
+## Prolactin Support
 
 Of all the potential side effects connected to AAS use, decreased libido and sexual dysfunction are regarded as two of the most undesirable and for good reason. Not only do they interfere with one of man’s most prized activities. Although excess estrogen and testosterone deficiency are often responsible for these side effects, elevated prolactin, which has begun to afflict steroid users with increasing frequency, also deserves its share of the blame. When it comes to the latter, we can fairly point the finger at 19-Nors like Trenbolone and Nandrolone - two mainstays in the world of AAS.
 
 Although steroids are the primary culprit when it comes to prolactin-induced side effects, certain Growth Hormone (GH) peptides also have the potential to increase prolactin levels, although to a much smaller extent than the aforementioned AAS. Generally speaking, the increase in prolactin witnessed with this class of supplementation is inconsequential, as levels do not rise high enough to cause problems. In fact, this effect is so mild that levels usually remain within a normal physiological range. However, when combined with other prolactin elevating drugs, they may add further fuel to the fire, giving cause for consideration. Lest anyone decide to shy away from GH peptides for this reason, when used alone - and often even when used with other prolactin elevating drugs - the benefits far outweigh the risks. It is only when one’s prolactin levels are already high that they increase the potential for side effects. Of the different GH peptides on the market today, only GHRP-6, GHRP-2, and Hexarelin are capable of increasing prolactin levels.
 
-###What Is Prolactin?
+### What Is Prolactin?
 
 Most commonly referred to as the lactation hormone, prolactin is responsible for the production of breast milk in nursing mothers and also plays a critical role in the growth &amp; development of the mammary glands. Despite its connotation with pregnancy, it is a diverse hormone, having influence over a large number of functions and being implicated in over 300 separate actions. When it comes to steroid users, most are interested in circumventing just two of these—the development of glandular tissue in the breast (gyno) and lactation.
 
@@ -224,7 +224,7 @@ However, prolactin also encourages bodyfat storage by directly increasing the pr
 
 When reviewing the effects of elevated prolactin on the male body, it becomes readily apparent that it is in one’s best interest to keep this hormone under control. While some of the side effects associated with increased prolactin are readily recognizable, others, such as increased bodyfat and estrogen receptor proliferation, are frequently attributed to other causes or not recognized at all. Regardless of one’s awareness, excess prolactin will wreak hormonal havoc on the body, directly working against our bodybuilding goals while simultaneously initiating the development of female secondary sex characteristics. All bad—all preventable.
 
-###Choosing Your Medicine
+### Choosing Your Medicine
 
 Until recently, alleviating hyperprolactinemia (excess prolactin) involved the routine administration of one of various side effect-laden pharmaceutical preparations. In many cases, the accompanying side effects were worse than the primary condition one was trying to treat, negating the drug’s beneficial effects and leaving the you between a rock and a hard place. For years Bromocriptine was the go-to of defense when it came to lowering prolactin for dopamine agonists. It was effective, readily available, and reasonably priced, but many found the resultant side effects just too much to handle. But today, most will either use Cabergoline (Dostinex) or Pramipexole (Mirapex)
 
@@ -257,7 +257,7 @@ When you're wanting to preventatively take action against prolactin, a Dopamine 
 Remember, only use your Dopamine Agonist if blood work shows elevated levels or if your nipple(s) leak **ON THEIR OWN**. Do **NOT** squeeze your nips and force liquid out, even natural guys can do this, by doing this you will stimulate and cause an increase in prolactin.  
 **DO NOT TOUCH YOUR NIPS.**
 
-###The Dopamine Connection
+### The Dopamine Connection
 
 Anti-prolactin drugs work by mimicking the activity of a substance in the brain called dopamine, thereby classifying them as dopamine agonists. Dopamine itself is a neurotransmitter; a chemical messenger between nerve cells in the brain. When levels of this neurotransmitter are normal the body functions properly, but if levels become imbalanced serious problems can develop, such as Parkinson’s or Restless Leg Syndrome.
 
@@ -266,7 +266,7 @@ However, in order for dopamine to have an effect it must first attach to dopamin
 As one of the predominant regulators of prolactin, dopamine has a direct impact on its production. More specifically, dopamine works to reduce prolactin levels by attaching to D3 receptors, which inhibit the production of prolactin by lactotrophs (lactotrophs are prolactin producing cells located in the pituitary). Acting as a dopamine substitute, dopamine agonists works through the same mechanism, fooling the body into thinking that dopamine levels are high. This shuts down, or reduces the production prolactin, depending on the dosage administered.  
 Exactly how the steroids trenbolone and nandrolone increase prolactin levels, we can’t be sure, but one thing we do know is that many who use these drugs have experienced dramatic elevations of this hormone—sometimes far above normal levels. This can and often does lead to one or more of the aforementioned side effects. Dopamine agonists works to address the issue directly, shutting down prolactin production at its root.
 
-###Cabergoline (Dostinex)
+### Cabergoline (Dostinex)
 
 [Cabergoline (Caber)](/steroids/dostinex.md) will lower both progesterone and will inhibit prolactin/lactation. It’s a dopamine agonist means it wont allow your body to lactate since it will occupy your dopamine receptors which are responsible for lactation. Caber is the best prolactin support when running any 19-Nor since the side effects are minimal – no drowsiness, doesn’t affect sleeping patterns, and in general as far as dosing goes is far more flexible than Pramipexole or Bromo. Also there is no withdrawal when ceasing use of Caber like with Prami.
 
@@ -277,7 +277,7 @@ Also its known for its potential multiple orgasm effect - when you ejaculate you
 **Common Dose On Cycle:** 0.25-.5mg E3D or E3.5D  
 **Common Does To Stop Lactation:** 1-1.5mg E3-5D
 
-###Pramipexole (Mirapex)
+### Pramipexole (Mirapex)
 
 Pramipexole (Prami), like Caber, will decrease progesterone and will inhibit prolactin/lactation. It’s a dopamine agonist, like Caber, so it will occupy dopamine receptors which are responsible for lactation.
 

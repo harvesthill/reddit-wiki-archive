@@ -4,7 +4,7 @@ Typical AAS usage comes in pre-planned lengths of time that a person is taking a
 
 There are several different items that need to be understood to execute a good cycle.
 
-##Pre-cycle Check list
+## Pre-cycle Check list
 The following check list has been created to help new users ensure that all bases are covered.
 
 1. **Cycle goals**:  What are your goals for the cycle?  The goals of the cycle are imperative to planning a complete cycle with compounds, length and recovery.  
@@ -33,11 +33,11 @@ The following check list has been created to help new users ensure that all base
 
 10. **Clothes**: Yes, you'll probably need some new ones while on cycle.
 
-##Planning the Cycle
+## Planning the Cycle
 
 When planning your cycle, you will need to know how much of each substance you will be using for the entire duration of the cycle.  It can greatly help to [plot your blood levels](https://www.steroidplanner.com/) of the various compounds.
 
-###Calculating Total Amount Needed
+### Calculating Total Amount Needed
 
 1. To calculate the total amount needed to be purchased:
 
@@ -55,7 +55,7 @@ When planning your cycle, you will need to know how much of each substance you w
 
     total vials, rounded up +1 = total purchase amount
 
-####Example
+#### Example
 
 **1-12 Test Prop 150mg EOD  
 Source provides 10 ml vials of 100mg / ml Test Prop.**
@@ -76,7 +76,7 @@ Source provides 10 ml vials of 100mg / ml Test Prop.**
 
    (6.3 round up =) 7 + 1 = 8 total vials needed
 
-###Calculating Dosage
+### Calculating Dosage
 
 Most vials come in 10ml vials.  The label will typically tell you the number of milligrams per milliliter (mg / ml).  For example, a vial of Testosterone Propionate can come in a 10ml vial with 100mg / ml.  That means that the entire vial contains 1000mg of the substance.  If you want to inject 150mg of the substance EOD, you will inject 1.5ml.
 
@@ -90,16 +90,16 @@ For a Testosterone Ethanate vial at 250 mg / ml and a user wanting 150mg E2D:
 
     150mg / (250 mg / ml) = .6 ml
 
-##Finding A Source
+## Finding A Source
 
 // As is posted everywhere, **this forum is not the appropriate place to look for a source**.  There are multiple other ways to find a source; Reddit is not one of them. Asking will result in a ban from r/steroids.
 
-##Blast and Cruise
+## Blast and Cruise
 Some users decide that they do not want to waste time with PCT, and instead want to keep using steroids for a longer period. What they will then do is run a cycle (blast), and then run a TRT dose (cruise). This allows the body to heal from the stress placed under it during the blast, allowing the liver/kidneys to rest and letting their cholesterol normalize. Once they are back within healthy parameters, they may then proceed to do another blast. 
 
 This allows you to avoid going through PCT, which in and of itself is rather harsh on the body. This also prevents the muscle loss often seen in PCT. There are downsides, of course. You will likely be either infertile or have a very low sperm count during this period, and the longer you stay on the higher the chances are of you staying that way should you PCT. These cases are rare, but it has happened. 
 
-#Additional Topics
+# Additional Topics
 
 [Example Cycles](/steroids/thecycle/examples.md)  
 [Safe Injection Technique](/steroids/thecycle/injecting.md)  

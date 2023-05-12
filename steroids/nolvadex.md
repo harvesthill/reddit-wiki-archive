@@ -9,7 +9,7 @@ In terms of its use in steroid users, tamoxifen citrate can help in two ways. Fi
 
 The second, and possibly more beneficial, aspect of tamoxifen citrate for steroid users is its ability to increase the production of luteinizing hormone and follicle stimulating hormone, and therefore increasing testosterone^4 . This ability is why it is often used by steroid users during their post-cycle therapy. There are numerous studies that indicate that tamoxifen citrate can increase the levels of these hormones quite dramatically. Tamoxifen citrate does this by blocking the negative feedback inhibition caused by estrogen at the hypothalamus and pituitary, and this in turn will help to increase the production of these hormones. Unlike clomiphine citrate, tamoxifen citrate has also been shown to increase luteinizing hormone responsiveness to gonadotropin releasing hormone. Clomiphine citrate can lower this responsiveness over time. 
 
-##Use/Dosing
+## Use/Dosing
 
 In terms of dosing for combating gynocomastia that has begun to form, there is very little research. The limited research that does exist does point to the fact that doses of 20-40mgs per day are effective in treating the existing condition^3 . However, anecdotally users have reported sometimes using doses of 60-80mgs per day. These doses may have more to do with users’ impatience rather than the need for higher doses, as no research indicates that such doses are needed. It should be noted as well however that tamoxifen citrate may have no effect on existing gynocomastia in some individuals. Many users have indicated that the compound will only help alleviate symptoms if the gynocomstia has not been apparent for a long period of time. Of course, this is all subjective and the effectiveness of the drug can only be determined on a trial and error basis. 
 
@@ -17,7 +17,7 @@ For use during post-cycle therapy users have anecdotally indicated that doses ra
 
 Some users have used tamoxifen citrate for the purpose of helping raise their HDL (good) cholesterol values. In theory it is thought that since the compound is an estrogen agonist in the liver and therefore is capable of activating the estrogen receptor and mimicking the actions of the hormone in the organ that it may help improve cholesterol levels as estrogen does. However this effect is rather slight and won’t significantly improve a user’s HDL levels very noticeably at all. This is especially true when one factors in the dramatic effect that most anabolic steroids have on these levels. For this reason, tamoxifen citrate should not be relied upon for this purpose. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 One of the possible side effects associated with use of tamoxifen citrate is the possible reduction of insulin-like growth factor levels. If these levels are reduced this could suppress the gains an individual can make slightly. However this reduction, if it actually exists, would not be overly significant with gains in muscle mass only being marginally reduced for the most part. 
 
@@ -25,7 +25,7 @@ Another effect of use of tamoxifen citrate may be vision problems. Recently, the
 
 Other than these concerns, there is little in the way that long-term use of tamoxifen citrate could cause damage to in the human body. It is seemingly safe in terms of possible effects to the body’s hormonal production, other than the one relating to insulin-like growth factor, and endocrine system^4 . For the vast majority of users the compound is relatively side effect free and well tolerated. 
 
-##References
+## References
 
 1. *Bruning PF, Bonfrer JM, Hart AA, de Jong-Bakker M, Linders D, van Loon J, Nooyen WJ. Tamoxifen, serum lipoproteins and cardiovascular risk. Br J Cancer. 1988 Oct;58(4):497-9*
 2. *Konig R, Schonberger W, Neumann P, Benes P, Grimm W. [Treatment of marked gynecomastia in puberty with tamoxifen] Klin Padiatr. 1987 Nov-Dec;199(6):389-91*

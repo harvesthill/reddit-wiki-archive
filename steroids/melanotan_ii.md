@@ -13,7 +13,7 @@ Along with the benefits of providing a tan without the need for extensive exposu
 
 The duration of the tanning effect of the drug once a user ceases administering it will once again depend on several factors. The majority of users however will notice that the tan achieved with the drug will fade and become unnoticeable within four to eight weeks after ceasing the administration of the drug. The libido enhancement and sexual performance benefits will fade much quicker along with the appetite suppressing effect. 
 
-##Use/Dosing
+## Use/Dosing
 
 The Melanotan II compound comes in powder form and must be mixed with a liquid so that the solution can be injected. The most commonly used liquid is bacteriostatic water. Once the powder is reconstituted it should be refrigerated. Prior to reconstitution the powder should be placed in a freezer for the best possible preservation. Injections are most commonly administered sub-cutaneously by can be administered intramuscularly as well.
 
@@ -23,7 +23,7 @@ The amounts of the hormone used, the duration of the loading and maintenance pha
 
 For most individuals, during the loading phase with the hormone, a range of between 0.015 to 0.02 milligrams per kilogram of body weight per injection should be sufficient. These injections would take place anywhere from twice daily to as infrequently as once every other day or longer. For the maintenance phase many individuals will find that a dose of approximately 0.01 milligrams per kilogram of body weight administered once every few days should be sufficient to maintain the effects of the hormone. As stated however, the reactions to Melanotan II are highly individualized so experimentation when first using this hormone will be necessitated. As always, lower doses should be utilized to begin with and increased as needed and as one is able to gage their tolerance for the drug.
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Toxicity is not an issue with Melanotan II as far as the available research indicates; seemingly no organs in the body are adversely affected by the use of the hormone. This of course bodes well for extended use of the drug. Injection site irritation is not widely reported and the compound is seemingly well tolerated both during the actual injection as well as post-injection at the site. 
 
@@ -31,7 +31,7 @@ The most commonly reported negative side effect of the hormone is nausea directl
 
 The other frequently commented upon side effect of Melanotan II is the spontaneous erections that occur post-injection. Of course this can be a beneficial aspect of the drug with some users even administering it to achieve this specific effect. For others however this may be more of an inconvenience if one has to function outside of one’s home in public. The easiest way to avoid problems for those users wanting to minimize this effect is to time their doses so that these erections do not negatively affect them. Many users will inject the hormone late at night to do just this. For most these erections will last somewhere between ninety to two hundred minutes and will appear within ten to fifteen minutes post-injection. For most the libido enhancement will occur throughout the day with peaks post-injection as well. 
 
-##References
+## References
 
 1. *Dorr RT, Ertl G, Levine N, Brooks C, Bangert JL, Powell MB, Humphrey S, Alberts DS. Effects of a superpotent melanotropic peptide in combination with solar UV radiation on tanning of the skin in human volunteers. Arch Dermatol. 2004 Jul;140(7):827-35.*
 2. *Padma-Nathan H, Christ G, Adaikan G, Becher E, Brock G, Carrier S, Carson C, Corbin J, Francis S, DeBusk R, Eardley I, Hedlund H, Hutter A, Jackson G, Kloner R, Lin CS, McVary K, McCullough A, Nehra A, Porst H, Schulman C, Seftel A, Sharlip I, Stief C, Teloken C. Pharmacotherapy for erectile dysfunction. J Sex Med. 2004 Sep;1(2):128-40.*

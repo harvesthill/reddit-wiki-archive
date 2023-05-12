@@ -204,7 +204,7 @@ We will be utilizing a SERM which will stimulate FSH/LH, but most will find reco
 If you choose to include hCG in your PCT protocol, the best possible SERM for the PCT protocol is Nolvadex, as studies have demonstrated that hCG and Nolvadex utilized together have exhibited a remarkable synergistic effect in terms of stimulating endogenous Testosterone production, and that Nolvadex will actually work to block the desensitization effect on the Leydig cells of the testes caused by high doses of hCG .^(10)
 ## Dosing
 
-###Mixing hCG
+### Mixing hCG
 
 Mixing 2ml bac water with 5000iu hCG will provide 250iu for every tenth of a ml/cc. This will provide you 20 250iu hCG doses.  
 
@@ -218,7 +218,7 @@ The other form hCG might come in is a liquid form. This is hCG in a solution wit
 
 In either case, hCG should be kept in the refrigerator after reconstitution to preserve its shelf life. It should be refrigerated within 72 hours of mixing it with bac water. hCG should be good for around 60 days when refrigerated. After that time it will lose potency at about ten percent per week as time goes on. 
 
-###Running hCG
+### Running hCG
 
 HCG is ran a couple different ways:
 

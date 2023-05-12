@@ -15,11 +15,11 @@ Many users also have an interest in using human growth hormone for the ability o
 
 It has also been demonstrated that human growth hormone has positive effects on erythropoeisis, i.e. the manufacture of red blood cells^4 . This effect should help to improve the endurance of an athlete and may also help to promote anabolism. To the degree with which this effect will occur in users varies quite widely, but all users should show some improvement. 
 
-##Use/Dosing
+## Use/Dosing
 
 Human growth hormone is primarily secreted in rhythmic pulses during sleep. This occurs by the mechanism of Growth Hormone Releasing Hormone and Somatostatin being released in an alternating fashion. For the most part users will want to mimic the natural release of growth hormone, while also not disrupting the body's natural production of the hormone. This is often a delicate balance. 
 
-###Dosing Schedule
+### Dosing Schedule
 
 In terms of a dosing schedule for the compound, there is some controversy as to the best method for fat loss/anabolism. It is thought by many that daily dosing is of primary importance when using human growth hormone due to the extremely short active life of the drug. Blood concentrations of the hormone reach their peak within two to six hours of the injection, with the half life being only twenty to thirty minutes^3 . This of course makes it impossible to maintain stable blood levels of the compound. 
 
@@ -31,11 +31,11 @@ Another common practice among users is to run growth hormone for five days and t
 
 As for the time of day a user should inject human growth hormone, it would be least disruptive to the natural release of the hormone to administer it sometime early in the day. If a user were to inject it close to when they were going to sleep, this would surely negate any natural release of growth hormone, something that a user would obviously want to avoid. There is no standard to which most adhere to when deciding how close to going to sleep that they will administer growth hormone, however mid-afternoon should be early enough that it does not interfere with the natural release of the hormone during sleep. 
 
-###Dosages
+### Dosages
 
 In terms of dosages needed to see specific results, there is primarily only anecdotal evidence to be relied upon when it comes to fat loss and an anabolic response. The relevant research does not discuss these effects in any great scope. However, most users have indicated that doses of approximately two to four international units (2-4 iu) per day in men will usually produce a noticeable loss of body fat in most users. In terms of getting an anabolic response, the experience of users vary considerably. For the most part it can be concluded that most users will need to administer larger doses than needed to experience fat loss if they wish to see a noticeable anabolic response from human growth hormone. How much more varies from individual to individual. There are some users who have indicated that using extremely large doses of the hormone has resulted in dramatic gains in muscle mass, but often these doses are cost prohibitive for most. Individuals will likely have to experiment themselves to find a level that they are comfortable with, as well as what they can afford. 
 
-###Ramping
+### Ramping
 
 As a general rule the best way to start an HGH program is to start with a low dose and ease the administration into the higher doses. This will avoid, or at least minimize, many of the common side effects of HGH such as bloating, joint pain and swelling. Most people can tolerate approximately 2 i.u.'s with few side effects, so that would be the recommended starting dose. A scheduled program would look like this:
 
@@ -51,21 +51,21 @@ As a general rule the best way to start an HGH program is to start with a low do
 
 If at any point in this progression unbearable bloating or joint pain becomes an issue, the dose must be reduced by 25% and held at a lower dosage for a couple of weeks. If the side effects subside, progression may resume back up towards desired level. If the side effects remain, the dose must be reduced again and held at a lower level for two weeks before beginning upward progression. This method will keep the HGH experience a good one with minimal side effects.
 
-###Duration
+### Duration
 
 As for the duration of a cycle of growth hormone, it is believed by many that the compound must be administered for a minimum of 20 to 30 weeks to see results. The action of the compound is slow acting and therefore lengthy cycles are needed. However due to its relative safety it can be run for several months, and even years, with little to no negative results. Of course this is dependent on the user and his or her individual reaction to the compound, along with the doses that they are using. 
 
-###Administration
+### Administration
 
 Human growth hormone can be administered using either intra-muscular or subcutaneous injections. There is no difference in the absorption of the compound. 
 
-###Post Cycle Therapy
+### Post Cycle Therapy
 
 No type of post-cycle therapy is necessary when discontinuing growth hormone as it should continue to be produced naturally by the body of the user. The negative feedback loop that indicates to the body that there is enough of the hormone circulating is related to insulin-like growth factor. Specifically, when insulin-like growth factor is secreted by the liver a signal is sent to the pituitary gland and hypothalamus to cease the production of growth hormone^6 . 
 
 Although not necessary, some opt to use growth hormone peptides to help promote their release of natural growth hormone.
 
-##Side Effects and Risks 
+## Side Effects and Risks 
 
 For the most part, human growth hormone is a relatively mild compound with little in the way of side effects when compared to anabolic steroids. 
 
@@ -79,7 +79,7 @@ Some users may also experience some other conditions related to use of growth ho
 
 Human growth hormone has also been shown to cause gynocomastia in some users. The exact mechanism that this occurs is not know, however it is believed to be related to either the a rise in prolactin levels or else the growth hormone causes breast tissue growth when coupled with a high level of estrogen in the body. To combat this, the usual protocol can be used, i.e. use of aromatase inhibitors, selective estrogen receptor modulator and/or compounds that help to reduce prolactin levels.
 
-##Does using HGH shut down natural HGH production?
+## Does using HGH shut down natural HGH production?
 
 **Answer:** 
 
@@ -109,7 +109,7 @@ Tev-Tropin | 191 | medium | 2001 | Teva Pharmaceuticals (USA)
 Zomacton | 191  | medium | 2002 | Ferring Pharmaceuticals (Australia)
 Zorbtive | 191 | high | 2003 | EMD Serono (USA)
 
-##References
+## References
 
 1. *Viganò et al. Effects of Recombinant Growth Hormone on Visceral Fat Accumulation: Pilot Study in HIV-Infected Adolescents.J Clin Endocrinol Metab. 2005 Apr 19; [Epub ahead of print]*
 2. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp. 236-8*

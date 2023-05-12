@@ -76,7 +76,7 @@ Advanced DNP users can safely cycle on up to 800mg/day. Generally, cycles range 
 
 ***
 
-##Side effects (Mild)
+## Side effects (Mild)
 
 - Intense feelings of heat [Dose dependent]
 
@@ -96,7 +96,7 @@ Advanced DNP users can safely cycle on up to 800mg/day. Generally, cycles range 
 
 - Yellowing of semen/urine/sweat [Dose dependent, often cured by increase in water intake] 
 
-##Side effects (Uncommon)
+## Side effects (Uncommon)
 
 These side effects are INCREDIBLY RARE - and are ALL a result of OVERDOSE, EXTREMELY LONG CYCLES, gender and age specific. 
 
@@ -162,7 +162,7 @@ Mitochondrial uncoupling *evolved as a protective mechanism* against the excessi
 
 * [The mitochondrial uncoupler 2,4‐dinitrophenol attenuates tissue damage and improves mitochondrial homeostasis following transient focal cerebral ischemia](https://onlinelibrary.wiley.com/doi/10.1111/j.1471-4159.2005.03328.x)
 
-###DNP as Powerful Antioxidant 
+### DNP as Powerful Antioxidant 
 
 DNP **decreases** oxidative stress, as demonstrated in the following study.
 
@@ -170,14 +170,14 @@ DNP **decreases** oxidative stress, as demonstrated in the following study.
 
 &gt;	Treatment of mice with low doses of the protonophore 2,4‐dinitrophenol promotes enhanced tissue respiratory rates, improved serological glucose, triglyceride and insulin levels, *decrease of reactive oxygen species levels and tissue DNA and protein oxidation* as well as reduced body weight.
 
-###Uncoupling protects against ROS 
+### Uncoupling protects against ROS 
 
 [Mitochondrial uncoupling as a regulator of life-history trajectories in birds: an experimental study in the zebra finch](https://jeb.biologists.org/content/217/19/3579)
 
 &gt;	Mitochondria have a fundamental role in the transduction of energy from food into ATP. The coupling between food oxidation and ATP production is never perfect, but may nevertheless be of evolutionary significance. The ‘uncoupling to survive’ hypothesis suggests that ‘mild’ 
 *mitochondrial uncoupling evolved as a protective mechanism against the excessive production of damaging reactive oxygen species* (ROS).
 
-###DNP as Medicine 
+### DNP as Medicine 
 
 Low-dose DNP garners additional medicinal benefits beyond enhanced longevity and disease treatment, and a reduced risk profile. DNP also demonstrates *nootropic* properties. The compound shows utility in *improving cognition, slowing aging and attenuating neurodegeneration*. 
 
@@ -189,11 +189,11 @@ Low-dose DNP garners additional medicinal benefits beyond enhanced longevity and
 
 &gt;It is known that mitochondrial uncouplers specifically target the entire organelle’s physiology *non-genomically*. Unexpected drug findings will be discussed, such as DNP’s induction of *neurotrophic growth factors* involved in neuronal health, learning and cognition.
 
-###Neuroprotection
+### Neuroprotection
 
 [Neuroprotective actions of 2,4-dinitrophenol](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5619426/)
 
-###Cancer Treatment
+### Cancer Treatment
 
 2,4-Dinitrophenol raises body temperature by forcing the cells of the human body to create ATP less efficiently from glucose. Cancer cells have almost 200× output of ATP and work overtime in doing so. When stimulated by the DNP their mitochondria will act like a little furnace creating the demise of the cancer cell well before the healthy cells die from the DNP.
 
@@ -205,9 +205,9 @@ Low-dose DNP garners additional medicinal benefits beyond enhanced longevity and
 
 * [The Metabolism of Neoplastic Tissues: The Effect of 2:4-Dinitrophenol on the Respiration of Ascites Tumour Cells](https://www.nature.com/articles/bjc195958)
 
-###Analogue Uncouplers
+### Analogue Uncouplers
 
-####BAM15 
+#### BAM15 
 
 Another example of *powerful antioxidant effects*, sister compound BAM15 is also a mitochondrial uncoupler.
 
@@ -217,13 +217,13 @@ Another example of *powerful antioxidant effects*, sister compound BAM15 is also
 
 [BAM15, the ‘light’ version of DNP](https://www.ergo-log.com/bam15.html)
 
-####Aspirin
+#### Aspirin
 
 None other than *over-the-counter Aspirin* also happens to be a mitochondrial uncoupler. 
 
 * [Salicylic Acid Is an Uncoupler and Inhibitor of Mitochondrial Electron Transport](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC316328/)
 
-###Diabetes &amp; Obesity 
+### Diabetes &amp; Obesity 
 
 [BAM15 Mediated Mitochondrial Uncoupling Protects Against Obesity and Improves Glycemic Control](https://www.embopress.org/doi/full/10.15252/emmm.202012088), *EMBO Molecular Medicine* (June 2020)
 
@@ -239,7 +239,7 @@ Other benefits include:
 
 * **Reducing fat accumulation** by restricting fat from building up in the liver, kidney, and blood. Accumulating too much fat in one’s liver, kidneys, or blood can damage the organs and lead to heart disease.
 
-###Future Applications
+### Future Applications
 
 &gt;	It is possible to wake up redundant cellular compensatory mechanisms by modulating the mitochondria’s entire physiology towards pro-survival of the cell, with a brain penetrant, *simple oral dosing of DNP to attenuate disease progression* for a broad number of indications, *slow aging*, and the potential in the future to *prophylactically treat patients* to entirely *prevent the myriad of age-related illnesses*.^1
 
@@ -316,7 +316,7 @@ Low-dose DNP shows promise as treatment or preventative pro-health and pro-longe
 
 &gt;“With advances in research, 2,4-DNP as a pharmaceutical drug in the future for treating **neurodegenerative diseases** and potentially for **weight loss** is not inconceivable.”
 
-##Additional Links
+## Additional Links
 
 * [DNP Explained](http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CDAQFjAA&amp;url=http%3A%2F%2Fforum.bodybuilding.com%2Fattachment.php%3Fattachmentid%3D198602%26d%3D1114719063&amp;ei=A5lIU93OL8mx0QX4poDYBQ&amp;usg=AFQjCNHGv-P24DU2CdpUmuT32VScQbi5-w&amp;sig2=QKXZ1prmCWquiE4ijzB6hA&amp;bvm=bv.64542518,d.d2k) - Courtesy of /u/HyperactiveGray
 

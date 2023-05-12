@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:  
 5'9
@@ -20,11 +20,11 @@ Current maxes:
 * Squat: 220kgs/485lbs
 * Deadlift: 200kgs/240lbs
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 To drop as much bodyfat as possible without much weight loss
 
-##Gear
+## Gear
 **Weeks 1 - 16**
 
 Test Prop: 300mg/week
@@ -67,10 +67,10 @@ Test E 125/Week**
 
 **To prep me for cruise
 
-##Diet
+## Diet
 500 calories bellow maintenance, recalculating TDEE every week. Fats = 10%, protein = 40, carbs = 50%.
 
-##On cycle training  
+## On cycle training  
 **Sunday = Chest day**
 
 * 4x10-12 Flat Bench
@@ -131,7 +131,7 @@ Test E 125/Week**
 * Smith Machine Calf Raises 3 x 30
 * Single-leg Calf Raises 4 x 20
 
-#Logs
+# Logs
 
 ## Week 1
 

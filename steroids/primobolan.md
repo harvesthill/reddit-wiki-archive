@@ -24,13 +24,13 @@ Promonolan does not convert to estrogen and therefore estrogenic side effects sh
 
 In terms of therapeutic/medical use of methenolone, it has been argued by some researchers that it has shown some ability to promote immune system function in AIDS patients. This is different than the anti-muscle wasting properties that some anabolic steroids are used for. In several studies it's been demonstrated that methenolone does not exhibit this capability. However in terms of enhancing immune function this could be attributed to the increased nitrogen retention that methenolone promotes^4 . While this effect alone won't prevent muscle wasting in those suffering from AIDS, it can help to maintain muscle mass in less severe circumstances, such as calorie restricted diets. But despite these advantages methenolone is not approved for any type of medical use in North America.
 
-##Is Primobolan a Weak Steroid?
+## Is Primobolan a Weak Steroid?
 
 [This chart](https://imgur.com/f4paBmR) demonstrates it to yield comparable gains to both Testosterone *and* Nandrolone.
 
 **Source**: [Comparative androgenic, myotrophic and antigonadotrophic properties of some anabolic steroids](https://www.sciencedirect.com/science/article/abs/pii/S0039128X70800046) by Alfred Boris, Richard H. Stevenson, and Thelma Trmal, in *Steroids*, Vol. **15**, Issue 1 (*pp.* 61-71). **ISSN 0039-128X**. [Full paper download](https://ur.booksc.eu/book/20356389/0768cc/).
 
-##Use/Dosing
+## Use/Dosing
 
 The difference in the dosing that is required for the oral and injectable versions of methenolone, as described earlier, is due to the action of the liver and the fact that the majority of the oral compound will not make it to circulation in the body. Also, due to the differing esters/structures of the compounds the frequency with which a user must administer them is also different. The oral form of methenolone should be administered at least once per day to maintain consistent blood levels of the drug, while the active life of the injectable version of the drug is such that administering it once per week is possible because of the enanthate ester, although splitting the doses to twice per week would provide much more consistent blood levels of the drug. 
 
@@ -42,7 +42,7 @@ As for the length of time that methenolone can be run, due to the lack of toxici
 
 Female users have reported that methenolone is quite effective if run alone, however some will stack it with other compounds for an extra anabolic effect. Male users will rarely run methenolone by itself, instead choosing to add it with any number of other potential compounds. This is primarily due to the mild nature of the drug. Used in conjunction with other drugs it can offer several benefits, but alone it will likely leave the user unsatisfied. However anecdotally users report that if used in combination with other compounds it can be effective in "cutting" or "bulking" phases. This is despite the fact that methenolone itself will not result in major gains in muscle mass. It does however help and is quite effective at preserving muscle mass while dieting as well as enhancing the appearance of a user's muscles. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 For the most part, side effects are almost non-existent with methenolone. However due to it being a DHT derived steroid prostate problems and the exacerbation hair loss if a user is prone to male pattern baldness can occur for users of the compound. Many will use ketoconazole and/or finasteride to help with these effects.
 
@@ -52,7 +52,7 @@ In terms of organ toxicity, methenolone shows no signs that it is capable of cau
 
 The same can be said for virilizing effects in women. While such things are deepening of the voice, menstrual irregularity, and body/facial hair growth, among others, are definitely possible, they should be minimized if female users do not use the drug to excess. These effects are of course permanent if they do manifest themselves.
 
-##References
+## References
 
 1. *Fritzsche D, Krakor R, Asmussen G, Widera R, Caffier P, Berkei J, Cesla M.Anabolic steroids (metenolone) improve muscle performance and hemodynamic characteristics in cardiomyoplasty. Ann Thorac Surg. 1995 pr;59(4):961-9*
 2. *Fritzsche D, Krakor R, Asmussen G, Lange S, Kaufmann A, Zapf P, Mehlhorn G, Berkei J, Widera R. Effect of an anabolic steroid (Metenolon) on contractile performance of the chronically stimulated latissimus dorsi in sheep. Eur J Cardiothorac Surg. 1994;8(4):214-9*

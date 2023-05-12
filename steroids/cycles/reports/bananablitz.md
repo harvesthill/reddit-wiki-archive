@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:  6' 1"
 
@@ -32,8 +32,8 @@ Record Maxes:
 * Deadlift: (n/a)
 * Clean and Press: 185
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 -220 lbs at ~10-12% BMI 
 
 -200 lb clean and press
@@ -48,13 +48,13 @@ Record Maxes:
 
 -+100 lb pullups
 
-##Gear
+## Gear
 -None, I'm the baseline stats.
 
-##Diet
+## Diet
 ~500 Calories over maintenance, 180 g protein supplementary a day spaced out in 20 g doses. Vitamins and minerals. 
 
-##On cycle training  
+## On cycle training  
 -12 weeks bulking / 8 weeks cutting repeated until 220 lbs
 
 -Non-linear periodization training with several base exercises to monitor progress. 
@@ -69,13 +69,13 @@ Record Maxes:
 
        *[(6-12 / 5-10 / 4-8)(Break)(12-6 / 10-5 / 8-4)]*
 
-#Logs
+# Logs
 
-##Size Chart
+## Size Chart
 (Link to google doc) (Read-only)
 
-##Weight Chart
+## Weight Chart
 [Read-Only](https://docs.google.com/file/d/0B26CGyYPebY-bUxVNGlSUlJNRlU/edit?usp=sharing)
 
-##Lifting Chart
+## Lifting Chart
 (Link to google doc) (Read-only)

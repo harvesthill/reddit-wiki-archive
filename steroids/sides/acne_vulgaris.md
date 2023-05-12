@@ -32,10 +32,10 @@ The following advice will ensure that no contribution is being made to the forma
 
 * **Avoid Comedogenic Ingredients**. These are known to be pore clogging.  Do not apply any product with [comedogenic ingredients](http://i.imgur.com/bjq8Zfb.png) to your skin in acne prone areas.
 
-###Treatment
+### Treatment
 There are many ways to treat acne that have been tried and proven to have some benefit.  These treatments generally break down into two categories.
 
-####Commercial Remedies
+#### Commercial Remedies
 The following treatments are commercial in nature wether sold over the counter or requiring a prescription.
 
 benzoyl peroxide
@@ -54,7 +54,7 @@ AcnEase?
 
 Laser Hair Removal?
 
-####Home Remedies
+#### Home Remedies
 The following treatments are ones that have been discovered
 
 Dawn Dish Soap
@@ -71,7 +71,7 @@ Zinc Gluconate
 
 ghrp2 + mod grf ?
 
-##Related Links
+## Related Links
 
 [Bodybuildnig, Steroids, Acne](http://www.ergo-log.com/bodybuilding-steroids-acne-bacteria.html)
 [Glytone Benzoyl Peroxide](/r/steroids/comments/2a8xlv/acne_solution_for_some/)  

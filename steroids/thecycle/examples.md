@@ -27,7 +27,7 @@ The Basic Cut differs very slightly from [The Basic Bulk](/steroids/your_first_c
 
 ***Note***: You can extend up to 20 weeks. If you wish to extend it, all your ending weeks will change and the week you start PCT will as well.
 
-##SUPPLEMENTAL COMPOUNDS 
+## SUPPLEMENTAL COMPOUNDS 
 
 ### Salbutamol
 
@@ -47,7 +47,7 @@ Even more effective than an ECA stack is **Salbutamol** with caffeine. [This sta
 
 * **Last 4-6 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
 
-###Clenbuterol (Clen)
+### Clenbuterol (Clen)
 
 [Clenbuterol](/steroids/clenbuterol.md) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
 

@@ -1,9 +1,9 @@
 #Estrogen
-##Introduction
+## Introduction
 
 Estrogen management is very important while using steroids, as estrogen that is too high or too low can cause a variety of nasty effects. 
 
-###High Estrogen Side Effects
+### High Estrogen Side Effects
 
 High estrogen can cause some very nasty problems:
 
@@ -16,7 +16,7 @@ High estrogen can cause some very nasty problems:
 * Loss of libido
 * Increased risk of heart attack and stroke
 
-###Low estrogen Side Effects
+### Low estrogen Side Effects
 
 Estrogen that is too low will also cause problems. 
 
@@ -27,15 +27,15 @@ Estrogen that is too low will also cause problems.
 
 Normally, these aren't an issue, as the body is rather good at maintaining homeostasis in it's hormonal systems. However, when we introduce exogenous steroids, an enzyme called aromatase goes into overtime, and proceeds to convert a good chunk of the testosterone we injected into estrogen. 
 
-#Methods of Estrogen Control 
+# Methods of Estrogen Control 
 
 There are several methods of estrogen control, some will be discussed below:
 
-##AIs 
+## AIs 
 
 AIs come in two kinds: reversible (non-suicidal) and non-reversible (suicidal). A non-suicidal inhibitor, after it binds to the enzyme, will eventually break free and allow the enzyme to resume aromatizing whatever androgens are around. This can produce "estrogen rebound" when the formerly trapped aromatase enzymes, together with new aromatase enzymes produced in the meantime, lead to a massive amount of aromatization all at once. Suicidal inhibitors, by contrast, bind to the enzyme permanently. The enzyme is permanently disabled, there is no possibility for estrogen rebound, and estrogen production will be lowered until the body produces new enzymes to replace the old ones. In most cases a suicidal AI is to be preferred. Although several AIs have been invented, generally only three are in current use: Aromasin (Exemestane), Arimidex (Anastrozole), and Letrozole (Femara). The first is suicidal, the last two are non-suicidal.
 
-###Examples of AIs
+### Examples of AIs
 
 Aromasin (Exemistane)
 
@@ -53,13 +53,13 @@ With aromasin if you miss a dose, it's not that big of a deal because aromasin k
 
 0.25-0.5mg EOD to start. 
 
-##SERMs
+## SERMs
 
 Selective estrogen receptor modulators are a very simple way of controlling estrogen: they simply block the estrogen receptor. However, these drugs are selective, so they tend to prevent the obvious side effects of high estrogen like gyno, while leaving others wide open. They also do not lower the amount of estrogen in your body.  SERMs are mainly used for PCT and gyno reduction. **SERMS are not suitable for estrogen control!**
 
 Some steroids, such as anadrol, can cause gyno without increasing estrogen via aromatization. In this case, it is suitable to use SERMs to control/prevent gyno in combination with an AI. 
 
-###Examples of SERMs
+### Examples of SERMs
 
 **Nolvadex** (Tamoxifen)
 

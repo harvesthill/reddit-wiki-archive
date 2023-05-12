@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:  5,9
 
@@ -23,18 +23,18 @@ Current maxes:
 * Squat: N/A
 * Deadlift: N/A
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 205 @ 7% BF
 
-##Gear
+## Gear
 FDA Approved Somatropin .4 Mg Daily.
 
-##Diet
+## Diet
 
-##On cycle training  
+## On cycle training  
 
-#Logs
+# Logs
 
 ## Week
 

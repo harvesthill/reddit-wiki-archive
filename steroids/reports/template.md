@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:  
 
@@ -9,10 +9,10 @@
 
 **Lifting experience**: 
 
-#The Cycle
-##Goals
+# The Cycle
+## Goals
 
-##Gear
+## Gear
 
 Weeks / Days | Compound | Amount | Frequency
 :--------------|--------------|--------------|--------------      
@@ -34,6 +34,6 @@ Weeks 00-00 | Nolvadex | 40mg | ED
     Weeks 00-00 | Aromasin | 25mg | EOD
     Weeks 00-00 | Nolvadex | 40mg | ED
 
-##Diet
+## Diet
 
-##On cycle training
+## On cycle training

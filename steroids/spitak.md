@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 **Height**:5'11  
 **Age**: 25
@@ -44,20 +44,20 @@ http://i.imgur.com/XbLKsq0.png
 * Weight: 194#
 * Time on juice: 28 wks: http://i.imgur.com/3GHto7b.jpg
 
-##The Cycle
+## The Cycle
 
 **CRUISE**
 **Weeks 13-????:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md), 37.5mg, EOD cause FUCKIT
 
 My source sent me a shitload of extra Test, so I have it on hand in case I am tempted to slightly extend my cycle.
 
-##Routine
+## Routine
 
 Lift 6 days a week, about 2 hrs since lazy.  I have been doing push/pull/legs/push/pull/legs, so I'll continue that for the time being so I can more reliably compare.
 
 NOW I AM DO SMOLOV AND CURLS
 
-##Goals
+## Goals
 
 * OHP: 205#
 * Bench: 315#
@@ -65,7 +65,7 @@ NOW I AM DO SMOLOV AND CURLS
 * Deadlift: 545#
 * Weight: 200#
 
-#Logs
+# Logs
 
 Began everything on 2/8, as my gear arrived a few days earlier than expected.
 ## Week 1
@@ -161,5 +161,5 @@ Began everything on 2/8, as my gear arrived a few days earlier than expected.
 http://i.imgur.com/gLYgGoF.jpg
 http://i.imgur.com/zgya1JB.jpg
 
-##wat
+## wat
 **8/25** - 194.0# http://i.imgur.com/3GHto7b.jpg i m sry 4 not update. I've moved over to thesquatrack for my workout logs. Probably not going to put steroids information on there. I'm basically off the juice now, but I'm still bacne. gross

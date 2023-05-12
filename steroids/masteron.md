@@ -16,7 +16,7 @@ Masteron, being 5-alpha reduced, cannot form estrogen upon interaction with the 
 
 Masteron can increase muscle hardness and density, giving an individual a more complete appearance when competing on stage. This is an effect that a lot of pure androgens will exhibit. But with all of them you need an already rather low body-fat level for it to take full effect. If this is done, drostanolone can promote increased strength while keeping body fat the same or even lowering it, something can help to prevent muscle loss while dieting. This can also allow strength athletes or those athletes in sports which have weight classes to increase performance without the risk of being raised into a higher weight class or add mass that may hinder performance. 
 
-##Use/Dosing
+## Use/Dosing
 
 Masteron is primarily considered a pre-contest drug for bodybuilders. For it's effects to be fully realized a user must be at a very low body fat percentage. If a user is not, the muscle "hardening" effect that many look for when using the compound will not be realized. This, along with the fact that mass gains are unlikely to be had from the drostanolone, should be a caution to individuals that they may be disappointed with their results unless they are well conditioned.
 
@@ -24,7 +24,7 @@ As noted previously, it has been suggested that strength athletes or competitive
 
 Since the propionate ester is nearly always used with Masteron it is necessary for users to administer the compound everyday or at least every other day to maintain a fairly stable blood level of the drug. The majority of users will do well on the compound using doses ranging from 50-100 mg every day or every other day, totaling 300-500 milligrams per week. More experienced users of the drug may run higher doses, but since the compound should be stacked with others to maximize effectiveness, large doses are for the most part not required. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Aromatization is not an issue with Masteron, as discussed previously. Therefore, water retention and gynecomastia are not a concern with this compound. Contrary to popular opinion *masteron does not appear to have binding affinity for estrogen and should not be used for AI like effects.* As well, it shows very little in the way of being hepatoxic and can be run for lengthy cycles without liver damage likely to occur. 
 
@@ -32,7 +32,7 @@ In terms of negative side effects, the only real concern would be from the andro
 
 There are anecdotal reports that some women have experimented with the compound. However, due to the virilizing effects that will undoubtedly occur with a compound such as Masteron it is not recommended that this be attempted. The usual irreversible side effects such as body hair growth, deepening of the voice and other such symptoms are likely to appear rather rapidly if use of the drug continued on even a short basis by females.
 
-##References
+## References
 
 1. *Hillier SG, van den Boogaard AM, Reichert LE Jr, van Hall EV.,Alterations in granulosa cell aromatase activity accompanying preovulatory follicular development in the rat ovary with evidence that 5alpha-reduced C19 steroids inhibit the aromatase reaction in vitro. J Endocrinol 1980 Mar;84(3):409-19*
 2. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp. 116-7*

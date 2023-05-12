@@ -4,9 +4,9 @@ Please [read the procedure](http://www.reddit.com/r/steroids/comments/28vfth/mod
 
 Please use this [template](/steroids/reports/template.md) to start your report.
 
-#Current
+# Current
 
-##BeyondDedication seriously bulks.
+## BeyondDedication seriously bulks.
 
 Weeks / Days | Compound | Amount | Frequency
 :--------------|--------------|--------------|-------------- 
@@ -19,7 +19,7 @@ Weeks 01-16 | Adex | .5mg | EOD
 
 [Cycle Report](/r/steroids/comments/2cpfph/cycle_report_test_deca_anavar_anadrol/)
 
-##n3rdwitht00ls Basic Bulk+ + VAr
+## n3rdwitht00ls Basic Bulk+ + VAr
 
 **Weeks 1-20:** Testosterone Enanthate 250mg/E3.5D  
 **Weeks 1.5-6.5:** Dianabol 25mg/ED  
@@ -28,7 +28,7 @@ Weeks 01-16 | Adex | .5mg | EOD
 
 [Cycle Report](/r/steroids/comments/28whrg/cycle_report_a_n3rd_with_t00ls/)
 
-##Goldeny's Basic Bulk with Taper
+## Goldeny's Basic Bulk with Taper
 
 Weeks / Days | Compound | Amount | Frequency
 :--------------|--------------|--------------|--------------      
@@ -40,7 +40,7 @@ Weeks 14-18 | nolvadex | 40 40 20 20 | ED
 
 [Cycle Report](/r/steroids/comments/2i2s7y/cycle_report_goldeny_basic_bulk_with_front_loading/)
 
-##hoponthe 20 week blast with methylstenbolone and dymethazine
+## hoponthe 20 week blast with methylstenbolone and dymethazine
 
 Weeks / Days | Compound | Amount | Frequency
 :--------------|--------------|--------------|--------------      
@@ -61,7 +61,7 @@ weeks 017-20 | TUDCA| 500-1000mg | ED
 
 [Cycle Report](/r/steroids/comments/2cr1jy/cycle_report_blasting_away_at_the_speed_of_light/)
 
-##larrylovescheerios Anavar bulk (female).
+## larrylovescheerios Anavar bulk (female).
 
 | Weeks   | Compound    | Amount     | Frequency     |
 |:-----------|------------:|:------------:|:-----------:|
@@ -73,7 +73,7 @@ weeks 017-20 | TUDCA| 500-1000mg | ED
 
 [Cycle Report](/r/steroids/comments/2gkdu3/cycle_report_larrylovescheerios_first_cycle_and/)
 
-##MetalJerk Bulks with Deca and Dbol
+## MetalJerk Bulks with Deca and Dbol
 
 Weeks | Compound | Amount | Frequency
 :--------------|--------------|--------------|--------------      
@@ -89,7 +89,7 @@ Weeks 04-22 | Caber | 1.25mg | E3D
 
 [Cycle Report](/r/steroids/comments/29eyi1/cycle_report_metaljerk_cruises_into_the_sunset/)
 
-##Monst3r_Linden's first Basic Bulk+
+## Monst3r_Linden's first Basic Bulk+
 
 Weeks / Days | Compound | Amount | Frequency
 :------------|----------|--------|--------------     
@@ -100,12 +100,12 @@ Weeks 17-18 | Nolvadex | 20mg | ED
 
 [Cycle Report](/r/steroids/comments/2b1ea5/cycle_report_monst3r_lindens_first_cycle/)
 
-##spitak's Bulking Cycle  (very active)
+## spitak's Bulking Cycle  (very active)
 
 **Weeks 1-12:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md), 300mg, E3D   
 **Weeks 1-4:** [Dbol](/steroids/dianabol.md), 50mg, ED
 
-##MyronMGaines first cycle + EQ
+## MyronMGaines first cycle + EQ
 
 Weeks / Days | Compound | Amount | Frequency
 :--------------|--------------|--------------|--------------      
@@ -117,7 +117,7 @@ Weeks 23-24 | Nolva | 20mg | ED
 
 [Cycle Report](/r/steroids/comments/2b5rnx/cycle_report_as_big_as_i_wanna_be_myrongaines/)
 
-##the_british_guy 's DNP cut.
+## the_british_guy 's DNP cut.
 
 | Weeks   | Compound    | Amount     | Frequency     |
 |:-----------|------------:|:------------:|:-----------:|
@@ -128,7 +128,7 @@ Weeks 23-24 | Nolva | 20mg | ED
 
 [Cycle Report](/r/steroids/comments/291l4z/cycle_report_3_week_dnp_cycle/)
 
-##redwingpanda's HRT Transformation
+## redwingpanda's HRT Transformation
 Weeks / Days | Compound | Amount | Frequency
 :--------------|--------------|--------------|--------------      
 Weeks 00-12 | DEPO-PROVERA | ? | monthly
@@ -141,7 +141,7 @@ Weeks 94- | Test C  | 50mg | E5D**
 
 [Cycle Report](/r/steroids/comments/2lrplg/cycle_report_redwingpanda_ftm_hrt/)
 
-##Usaisnumber1's Basic Bulk +
+## Usaisnumber1's Basic Bulk +
 
 **Weeks 1-5:** DBol 50mg ED (25 mg A.M., 25 mg P.M.)  
 **Weeks 1-16:** Test E 250mg E3D  
@@ -149,16 +149,16 @@ Weeks 94- | Test C  | 50mg | E5D**
 
 [Cycle Report](/r/steroids/comments/28xesz/cycle_report_usas_first_cycle/)
 
-##whitenyummy's Test + Winny Blast and Cruise (active)
+## whitenyummy's Test + Winny Blast and Cruise (active)
 
 **Weeks 1-10:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md), 300mg, E3D   
 **Weeks 6-10:** [Dbol](/steroids/winstrol.md), 50mg, ED
 
 [Cycle Report](/steroids/whitenyummy.md)
 
-#Completed -- Many updates
+# Completed -- Many updates
 
-##AlmightyThumbs Big Bulk  
+## AlmightyThumbs Big Bulk  
 
 Cycle will be 15 weeks long and will consist of:  
 **Weeks 1- 04**  (or until I run out) I'll be running 25mg dbol in the AM, and another 25mg preworkout, with liver support    
@@ -173,13 +173,13 @@ I'll be pinning every 4 days, but I'm splitting it up in to EoD injections, Exam
 
 [Cycle Report](/steroids/cycles/reports/almightythumbs.md)
 
-##BDB406's DNP Cut  
+## BDB406's DNP Cut  
 
 200 - 400mg daily Ramped DNP cycle
 
 [Cycle Report](/steroids/cycles/reports/bdb406.md)
 
-##captain_fluff_17psi Cuts With DNP
+## captain_fluff_17psi Cuts With DNP
 
 | Weeks   | Compound    | Amount     | Frequency     
 |:-----------|------------:|:------------:|:-----------:
@@ -188,20 +188,20 @@ I'll be pinning every 4 days, but I'm splitting it up in to EoD injections, Exam
 
 [Cycle Report](/r/steroids/comments/291yj0/cycle_report_updated_captain_fluffs_dnp_long_and/)
 
-##dgb09x's DNP Cut 
+## dgb09x's DNP Cut 
 
 Starting with 200mg / day.
 
 [Cycle Report](/r/steroids/comments/24z4jf/my_personal_dnp_log/)
 
-##MetalJerk's Basic Bulk+  
+## MetalJerk's Basic Bulk+  
 
 **Weeks 1-14:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md), 250mg, E3D   
 **Weeks 1-6:** [Dbol](/steroids/dianabol.md), 50mg, ED
 
 [Cycle Report](/steroids/reports/01-metaljerk.md)
 
-##MetalJerk Fucks with Tren   
+## MetalJerk Fucks with Tren   
 
 **Weeks 01-12:** [Test Propinate](/steroids/testosterone_propionate.md) 30mg, ED   
 **Weeks 01- 02:** [Trenbolene](/steroids/trenbolone.md) 50mg, ED  
@@ -209,7 +209,7 @@ Starting with 200mg / day.
 
 [Cycle Report](/steroids/reports/02-metaljerk.md)
 
-##Metric3036 Blast and Cruise  
+## Metric3036 Blast and Cruise  
 
 **Weeks 01-16:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 250mg, 2x / week, 
 **Weeks 01-16:** [Deca Durabolin](/steroids/deca_durabolin.md) 200mg 2x                       
@@ -217,7 +217,7 @@ Starting with 200mg / day.
 
 [Cycle Report](/steroids/cycles/reports/Metric3036.md)
 
-##OneTimeThingOnly's - Basic Bulk  
+## OneTimeThingOnly's - Basic Bulk  
 
 **Weeks 1-20** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 500mg, 250mg Mon &amp; Thurs  
 **Weeks 14-20** [Oral Anadrol](/steroids/anadrol.md) 100mg ED  
@@ -225,7 +225,7 @@ Starting with 200mg / day.
 
 [Cycle Report](/steroids/reports/onetimethingonly.md)  
 
-##TestTrening's - Basic Bulk+  
+## TestTrening's - Basic Bulk+  
 
 Very detailed with great background information.
 
@@ -234,7 +234,7 @@ Very detailed with great background information.
 
 [Cycle Report](/steroids/testtrening.md)  
 
-##ThemsFightinWords' Hits Tren for 20 weeks.
+## ThemsFightinWords' Hits Tren for 20 weeks.
 
 **Weeks 01-20:** 700mg Tren A /w
 **Weeks 01-20:** 125mg Test E /w
@@ -242,7 +242,7 @@ Very detailed with great background information.
 
 [Cycle Report](/r/steroids/comments/28yc8m/cycle_report_20_weeks_of_tren/)
 
-##Totallyforwork's Bulk  
+## Totallyforwork's Bulk  
 
 **Day 1-7:** [Testosterone Cypionate](/steroids/testosterone_cypionate.md) 200mg, E5D  
 **Day 1-7:** [Anavar](/steroids/anavar.md) 40mg, ED  
@@ -258,22 +258,22 @@ Very detailed with great background information.
 
 [Cycle Report](/steroids/totallyforwork.md)
 
-##Karlmalonestelone's First Cycle - Basic Bulk+   
+## Karlmalonestelone's First Cycle - Basic Bulk+   
 
 **Weeks 1-12:** [Testosterone Cypionate](/steroids/testosterone_cypionate.md) 250mg, Mon / Fri  
 **Weeks 1-5:** [Dbol](/steroids/dianabol.md) Ramp started, 60mg, ED  
 
 [Cycle Report](/r/steroids/comments/1dg30y/my_first_time_using_aas_a_steroid_cycle_log_dbol/)
 
-##Sambianchetto's Albuterol Cut  
+## Sambianchetto's Albuterol Cut  
 
 14 day albuterol cycle.
 
 [Cycle Report](/steroids/reports/sambianchetto.md)
 
-#Complete -- Sparse Updates
+# Complete -- Sparse Updates
 
-##Armando909396's Blast, Cruise and Blast (6 updates)
+## Armando909396's Blast, Cruise and Blast (6 updates)
 
 **Week 01 - 04** – [Test Enanthate](/steroids/testosterone_enthanate.md) 250mg 2x 300mg Test Prop 3x  
 **Week 05 - 12** - [Test Enanthate](/steroids/testosterone_enthanate.md) 250mg 2x  
@@ -282,7 +282,7 @@ Very detailed with great background information.
 
 [Cycle Report](/steroids/reports/armando909396.md) 
 
-##hypnotoadIRL's Mini-bulk to Contest Prep Cut (3 updates)
+## hypnotoadIRL's Mini-bulk to Contest Prep Cut (3 updates)
 
 **Weeks 1-8** [Equipoise](/steroids/equipoise.md) 300mg E3D  
 **Weeks 1-8** NPP 600mg   
@@ -293,13 +293,13 @@ Very detailed with great background information.
 
 [Cycle Report](/steroids/cycles/reports/hypnotoadIRL.md)
 
-##Johanna0318's 30 day DNP Cut (13 updates)
+## Johanna0318's 30 day DNP Cut (13 updates)
 
 **Weeks 1-7:** DNP, ramping from 250mg / day   
 
 [Cycle Report](/steroids/cycles/reports/johanna0318-01.md)
 
-##iiTzGambit Advanced cut with Albuterol and T3 (4 updates)
+## iiTzGambit Advanced cut with Albuterol and T3 (4 updates)
 
 An advanced cycle showing albuterol and T3 cycling.
 
@@ -320,7 +320,7 @@ An advanced cycle showing albuterol and T3 cycling.
 
 [Cycle Report](/steroids/cycles/reports/iiTzGambit-01.md)
 
-##SwoleScientist's Cyp and EQ Bulk (5 updates)
+## SwoleScientist's Cyp and EQ Bulk (5 updates)
 
 **Weeks 1-16:** - [Testosterone Cypionate](/steroids/testosterone_cypionate.md), 300mg, E3D   
 **Weeks 1-15:** - [Equipoise](/steroids/equipoise.md), 250mg, E3D   
@@ -331,7 +331,7 @@ Aromasin on hand
 
 [Cycle Report](/steroids/swolescientist.md)
 
-##Testbebest's Basic Bulk (9 updates)
+## Testbebest's Basic Bulk (9 updates)
 
 **Weeks 1-13** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 250, 250mg E3D   
 **Weeks 14-15:** Nothing  
@@ -340,7 +340,7 @@ Arimidex on hand for signs/symptoms of gyno
 
 [Cycle Report](http://www.reddit.com/r/steroids/wiki/testbebest)
 
-#Gynecomastia 
+# Gynecomastia 
 
 ## Gynoralox treats Gyno with Raloxifene (many updates)
 

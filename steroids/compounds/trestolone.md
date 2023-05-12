@@ -10,27 +10,27 @@
 
 **Molecular Weight:**  288.431 g/mol g·mol(sup)^-1
 
-##1. Description
+## 1. Description
 
 **Trestolone** (**MENT**) is an experimental androgen/anabolic steroid (AAS) and SARM medication under development by the US Government, The Population Council, and university partners for potential use as a form of hormonal birth control for men and for androgen replacement therapy to treat hypogonadism, but has never been marketed for medical use. 
 
 Trestolone is an extremely potent 19-nor derivative oft-described as a cross between Trenbolone and Nandrolone, as “Test on steroids” or “supercharged Test”—yielding all of the most powerful and impressive traits of Deca, Test, and Tren combined, yet without the harsh sides or setbacks. Perhaps more so than any other compound, MENT is highly capable of eliciting serious gains in mass and strength over a relatively short period of time.
 
-###a. Anabolic Rating 
+### a. Anabolic Rating 
 
 Trestolone delivers 10× more myotropic effect than testosterone. The *myotropic effect* is the effect of building muscle, making Trestolone more effective than any other commercial steroid in existence. Whereas Testosterone's Anabolic to Androgenic ratio is 100:100, and Trenbolone's comes in at 500:500, MENT comes in at 2300:650. 
 
 Trestolone's rating of 2300:650 is higher than nearly any other available compound aside from designer steroid Methyltrienolone, *aka* Mtren, or Metribolone—rated at 12000+:6000+ and also dosed in the microgram range. Metribolone so strong that it's used as the absolute reference standard for laboratory tests to measure androgen receptor (AR) binding—but its acute liver toxicity precludes widespread use. 
 
-###b. A True Testosterone Replacement?
+### b. A True Testosterone Replacement?
 
 Trestolone is the *only steroid in production today* that is capable of sustaining normal male physiology in the complete absence of testosterone, including sexual functioning. In many users, the compound conveys positive psychological effects including a sense of confidence, euthymia and well-being—effects to some degree shared by DHT-related compounds Testosterone, Dianabol, Proviron and Masteron. However, MENT is not subject to metabolism by the 5α-reductase enzyme, so the compound's psychological benefits are unrelated to the those conveyed by DHT. Unlike sister compound **Dimethandrolone** (**DMAU**), MENT undergoes aromatization, so all the benefits of estrogen will still be conveyed on cycle: extra strength, better glycogen use, androgen receptor upregulation, increased GH output, and boosted IGF-1. 
 
-###c. TRT Dosage
+### c. TRT Dosage
 
 In a 1992 study in rats investigating the pharmacology of MENT, researchers found the anabolic potency of MENT to be 10× greater than Testosterone, while also being 12× more suppressive to the HTPA. The average male produces 4-7mg of testosterone daily to keep muscle mass and sexual function, so 400-700mcg of MENT daily (10× less) is sufficient to produce the same results. A clinical contraceptive study employed doses of one, two and four patches that released 400mcg per day each, for an effective daily dose of 400mcg, 800mcg, and 1600mcg (1.6mg). Clinical studies ranging from 400-700mcg on up to 1-2mg found a close approximation to TRT dose. Given the lack of side effects or negative impact on bloodwork, many bodybuilders have opted to follow an “enhanced” cruise protocol of 5-10mg/day—technically a blast and not a true cruise at all, yet yielding enhanced strength and recovery with minimal impact on measurable markers.
 
-###d. Neuroprotective?
+### d. Neuroprotective?
 
 At least one Multiple Sclerosis (MS) study shows MENT to be **neuroprotective** and to *actively repair neurological damage* to the myelin sheath. 
 
@@ -44,7 +44,7 @@ Another study that discusses the neuroprotective effects of the SARM RAD140 tang
 
 * [Selective Androgen Receptor Modulator RAD140 Is Neuroprotective in Cultured Neurons and Rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959610/)
 
-###e. Prostate-safe 
+### e. Prostate-safe 
 
 Several studies point to MENT's lack of 5α-reductase metabolism and prostate-safe effects. *Prostate cancer is the second leading cancer among aging men in terms of both prevalence and cause of death*, is androgen-dependent, and is typically treated by androgen deprivation therapy. MENT holds potential as safer replacement to Testosterone in these cases.
 
@@ -58,11 +58,11 @@ Several studies point to MENT's lack of 5α-reductase metabolism and prostate-sa
 &gt;
 &gt; Conclusions: (***1***) *MENT is the first androgen that has a health benefit compared to testosterone*; (***2***) MENT will be promoted as one component of a two-implant system for male contraception, the other component being an implant that will release an LHRH analogue; (***3***) MENT has potential uses in patients with a variety of disorders, including hypogonadism, prostatic hyperplasia and muscle wasting.
 
-###f. Short Half-life 
+### f. Short Half-life 
 
 In a study on MENT's half-life, MENT Acetate was used to determine the rate of hydrolysis of the acetate ester and how quickly elevated MENT plasma levels were reached. The half-life is **VERY** short, calculated to be only 40 minutes for 500mcg of *unesterified* compound injected IV. A Swedish study^(9) injecting MENT IM found a longer half-life of 224 minutes due to the extended absorption time of IM injection. Peak MENT concentrations were dose-dependent and were reached about 1–2 hours after the injections. Daily administration should be sufficient with the Acetate ester. Enanthate and Decanoate formulations with significantly longer half-life values to be injected twice per week and once per week, respectively, are also commercially available. 
 
-###g. Rapid Recovery 
+### g. Rapid Recovery 
 
 A comprehensive human study conducted on male subjects compared the effects of MENT to Testosterone, both *solo* and accompanied with the progestin Etonogestrel, on spermatogenesis, sex drive, and safety biomarkers associated with androgen use. This was a robust study, containing 29 subjects tested for 48 weeks.^(8)
 
@@ -70,7 +70,7 @@ Participants either received two implant pellets each containing 135mg of MENT a
 
 Recovery from MENT was *much more rapid* than from Testosterone. The recovery period was 16 weeks for the MENT group, in which *semen concentration increased* to over 20×10^6 mL—whereas the Testosterone group *still had azoospermia* until after 28 weeks.^(8)
 
-###h. Birth Control
+### h. Birth Control
 
 * MENT is 12× more suppressive than Testosterone and is under development by USG and university research partners as a rapidly-reversible male oral or implant-based contraceptive. 
 

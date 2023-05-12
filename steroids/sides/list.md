@@ -1,6 +1,6 @@
 #Side Effects
 
-###General
+### General
 * [Acne](/steroids/sides/acne_vulgaris.md)
 * [Erectile Dysfunction](https://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/symptoms-causes/syc-20355776)
 * [Estrogen Imbalance](http://www.reddit.com/r/steroids/wiki/sides/changes_in_estrogen_levels)
@@ -21,17 +21,17 @@
 * [Spermatogenesis Changes](/steroids/sides/spermatogenesis_changes.md)
 * "Test Flu" [(See Below)](/steroids/sides/list.md#wiki_.22test_flu.22)
 
-###Trenbolone
+### Trenbolone
 
 * [Decreased Respiratory Capacity and Treatment](/steroids/sides/trenbolone_decreased_respitory_capacity.md)
 * Insomnia
 * [Gynecomastia](/steroids/sides/gynecomastia.md) (caused by [Hyperprolactinemia](http://en.wikipedia.org/wiki/Hyperprolactinemia))
 
-#Solutions
+# Solutions
 
-##Acne
+## Acne
 
-###Without Accutane
+### Without Accutane
 
 Why without Accutane?
 
@@ -119,7 +119,7 @@ Generally diet cannot cure acne on its own, but if it helps, it's worth it. If s
 
 In summary, if you get anything out of it: **GET ADAPALENE (DIFFERIN)!** it's the most effective treatment for preventing further acne (and reducing current). It's basically topical accutane. 
 
-###With Accutane
+### With Accutane
 
 ####**Introduction**
 
@@ -159,7 +159,7 @@ Permanent and temporary side effects such as :
 
 Among bodybuilders, the dosage should be conservative. Once a day dose of 10-20mg for 6-8 weeks (some need more, some need less), depending on severity, should work fine, but you can extend it necessary. Some users suggest using Accutane 10-20mg 2-3 times per week when coming off cycle or dropping to a cruise dose of Test; to prevent acne sides if you're susceptible to it. Among the general public fighting acne, a dosage of 50-150mg per day may be prescribed by their physician. It is a good idea to take the drug with a large meal.
 
-##Blood Pressure
+## Blood Pressure
 
 [**Jcaesar369's Original Blood Pressure Medication Post: Here**](https://www.reddit.com/r/steroids/comments/45biv3/blood_pressure_medication_outline/)
 
@@ -205,7 +205,7 @@ This taper guideline is a **GENERAL EXAMPLE** and can be customized to fit your 
 
 - Hypertension (HTN or high blood pressure) is known as the silent killer, because you may never know you have it but it is very bad for your heart and body and organs. There is a way to possibly be able to tell your BP is high without taking it: when you lay down at night and everything is dark and calm and you are rested, and you can feel your veins pulsing and beating in your head or ears when you're on the pillow, this is a plausible indicative sign your BP is too high, and you should start using a real machine to monitor it.
 
-###Cialis For Blood Pressure
+### Cialis For Blood Pressure
 
 Cialis (Tadalafil) **DOES NOT** lower BP. **AT ALL, EVER**. Anyone who tells you otherwise is lying, right to your face, or otherwise ill informed. Read my submitted post above for a full explanation on this. 
 
@@ -220,17 +220,17 @@ systolic and diastolic blood pressure"
 
 Until someone shows you scientific data done on many people showing proof that Cialis lowers blood pressure, don't believe it. **Do not attempt to use Cialis to control BP.**
 
-##Gynecomastia
+## Gynecomastia
 
 [See The Estrogen Handbook](/steroids/the_estrogen_handbook.md#wiki_gyno_reversal_protocol)
 
-##Hair Loss
+## Hair Loss
 
 [*Under Construction*]
 
-##Lactation (Galactorrhea)
+## Lactation (Galactorrhea)
 
-###Preventing
+### Preventing
 
 When you're wanting to preventatively take action against prolactin, a Dopamine Agonist may not be the best choice to start with as they come with many unwanted sides and can be harsh drugs. You should always have a Dopamine Agonist on hand if you wish to take a 19-Nor, but if you wish to run something preventatively, you should start with some supplements. 
 
@@ -259,11 +259,11 @@ When you're wanting to preventatively take action against prolactin, a Dopamine 
 Remember, only use your Dopamine Agonist if blood work shows elevated levels or if your nipple(s) leak **ON THEIR OWN**. Do **NOT** squeeze your nips and force liquid out, even natural guys can do this, by doing this you will stimulate and cause an increase in prolactin.  
 **DO NOT TOUCH YOUR NIPS.**
 
-###Stopping Lactation
+### Stopping Lactation
 
 [See Estrogen Handbook](/steroids/the_estrogen_handbook.md#wiki_prolactin_support)
 
-##Liver Stress
+## Liver Stress
 
 Here are some of the most common signs indicating you may have a serious liver issue. Warning signs usually appear in the following order, with the later signs being the most serious:
 
@@ -276,11 +276,11 @@ Here are some of the most common signs indicating you may have a serious liver i
 
 Waiting for all these signs to appear means you have waited too long. You want to take action **BEFORE** these signs appear.
 
-###Preventing
+### Preventing
 
 [See Liver Protection](/steroids/hepatotoxicity.md#wiki_liver_protection)
 
-##Painful Pumps
+## Painful Pumps
 
 Sometimes when you use AAS (especially some orals) you can get painful back / shin / calf / etc. pumps.
 

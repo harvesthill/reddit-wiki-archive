@@ -1,6 +1,6 @@
 #Safe Injections
 
-##Injection Methods
+## Injection Methods
 
 * **Intramuscular injection**: *An injection into muscle tissue.*
 * **Subcutaneous injection**: *An injection into the region between the skin and the muscle, also known as a “**SubQ**” injection*. 
@@ -8,17 +8,17 @@
 AS far as performance enhancement is concerned, there are two primary injection methods. These are the **intramuscular** injection method and the **subcutaneous** injection method. An intramuscular injection is exactly as it sounds; it is an injection given directly into a muscle. A subcutaneous injection is an injection which is placed between the skin and the muscle. Which method is utilized will depend on the drug being administered and the goals &amp; preferences of the user. 
 The overwhelming majority of individuals choose to administer their AAS by way of IM (intramuscular) injection, although they can be injected subcutaneously, if desired, although it is not recommended to inject over ½ cc/mL of AAS. [HGH](/steroids/growth_hormone.md), Insulin, HCG, and [Peptides](/steroids/compounds/peptides.md)) are typically administered subcutaneously.
 
-##The Injection
+## The Injection
 
 The injection process itself is relatively straightforward. Perhaps nothing causes more anxiety for AAS users than their first injection. This fear is far more psychological than physical, as the act of performing an injection, especially when utilizing proper technique and the correct pin size, can be relatively painless. Some muscle groups are more prone to causing discomfort than others and the possibility of hitting a nerve, scar tissue, or a sore spot is a reality, but in general, an injection should not be considered a “painful” experience. With the information presented in this document, you have been presented with everything you need to know in order to properly perform an injection. For an abbreviated step-by-step walk through, see [Safe Injection Technique](/steroids/thecycle/injecting.md#wiki_safe_injecting_technique).
 
-##Types Of Syringes
+## Types Of Syringes
 
 For a beginner, the many different types of syringes and their associated terminology can be confusing. Let us look at these differences which define the various types of syringes. Generally, syringes are defined by the following 3 things: Gauge size, how many cc’s a syringe can hold, and needle length. By learning what these things mean, you will have no problem selecting the appropriate syringe for your needs.
 
 You may have heard of a syringe type known as an “insulin syringe” or *"slin pin."* Regardless of whether a syringe is classified as an insulin syringe or not, **ALL** syringes, including insulin syringes, are categorized by the 3 variables listed above. Insulin syringes are named as such due to the original purpose for which they were produced, which was to administer insulin to diabetics. Because diabetics will often need to perform multiple daily injections into the SubQ region, a smaller &amp; shorter needed was needed in order to increase patient compliance through more tolerable, and relatively painless, injections.
 
-###The 3 Variables
+### The 3 Variables
 
 * **Gauge**: The gauge of the syringe refers only to the thickness of the needle itself. The lower the gauge number, the thicker the needle. The higher the gauge number, the thinner the needle. 
 * **CC**: A cc refers only to how much volume a syringe can hold. The average syringe will hold anywhere between 1-3 cc’s. The more cc’s a syringe holds, the larger the barrel will be. 
@@ -26,9 +26,9 @@ You may have heard of a syringe type known as an “insulin syringe” or *"slin
 
 Typically, the syringes normally used for injecting AAS (non-insulin syringes) come individually wrapped and can be purchased as little as one at a time. Insulin syringes come in individually wrapped or a plastic bag, but regardless they come in packs.
 
-##Selecting The Syringe Needed
+## Selecting The Syringe Needed
 
-###Standard Syringe Specifications
+### Standard Syringe Specifications
 
 **Most common syringe specs for steroid injections:**  
 
@@ -44,7 +44,7 @@ Typically, the syringes normally used for injecting AAS (non-insulin syringes) c
 * 5/16th" to ½ inch needle length
 * ½-1 cc syringe
 
-###Gauge Numbers
+### Gauge Numbers
 
 Most of the steroid products on the market are oil-based. As an “oil-based” steroid, the steroid molecule has been suspended in oil, with the oil being used as a carrier. Since AAS are measured in mg amounts and are a solid in their natural form, they require a carrier if they are to be effectively delivered into the body by injection. Since oil is significantly more resistant to bacterial proliferation than water, and is also inexpensive, it is a logical choice. However, oil also has a higher viscosity than water, which means it will resist flow under applied force to a greater degree than water. The higher the viscosity of an injectable product, the thicker the needle will need to be in order to be able push the fluid through the needle.
 
@@ -52,7 +52,7 @@ When talking about needle “thickness,” which one of the three previously men
 
 Today, almost all steroids will fit through a 25 gauge syringe, so this gauge size should be your automatic go-to choice when the viscosity of a steroid is unknown. This gauge is relatively thin in comparison to the syringes used back in the day. Not too long ago the viscosity of many oil-based steroids was much higher than it is today, requiring the use of 21-22 g. needle for basically every injection—and in some cases, such as when injecting crude forms of Testosterone suspension or injectable Winstrol, an 18 g. syringe would be required just to be able to fit the steroid crystals through the needle without clogging it. For those of you who are trying to mentally picture an 18 g. needle without a reference point, it is more like a small nail than a needle. Today, things are much easier.
 
-###Needle Lengths For Injection Sites
+### Needle Lengths For Injection Sites
 
 The recommendations below are the “average” needle lengths used for each body part listed. 
 
@@ -67,17 +67,17 @@ The recommendations below are the “average” needle lengths used for each bod
 * **Traps:** ½-1 inch
 * **Lats:** 1 inch
 
-###CC &amp; mL
+### CC &amp; mL
 
 The term “cc” stands for cubic centimeters and is a unit of measurement for determining injection volume. It is important to note that the term “cc” and “mL” (milliliter) are identical and interchangeable with each other. 1 cc = 1 mL.
 
 While syringes will indicate measurement in cc’s, steroid products (vials/bottles/ampules) will almost always use ml’s as their unit of measurement. So, if your steroid product says it contains 10 ml per bottle at 250 mg/mL, you know it also contains 10 cc’s per bottle at 250 mg/cc. Therefore, if you wanted to inject 500 mg of that steroid, you would need to inject 2cc’s (2 mL’s) of that product.
 
-###Syringe Size
+### Syringe Size
 
 Most 23-27 g syringes hold 3 cc’s, although some will occasionally hold less, so you when ordering you should always specify exactly what you want to purchase. Since 3 cc syringes are no more costly than their smaller counterparts and being that many steroid users will often inject more than 1 cc at a time, it makes sense to strictly purchase 3 cc syringes for steroid injections (with the exception for the rare occasion you need larger). 
 
-##Syringe, Needles, etc. Suppliers
+## Syringe, Needles, etc. Suppliers
 
 * [Apollo Lab Supply](www.apollolabsupply.com)
 * [GPZ Med Lab](https://www.gpzmedlab.com/)
@@ -85,13 +85,13 @@ Most 23-27 g syringes hold 3 cc’s, although some will occasionally hold less, 
 * [Medical Laboratory Supply](http://www.medical-and-lab-supplies.com/)
 * [Androusa](http://androusa.com)
 
-##Rotating Injection Sites
+## Rotating Injection Sites
 
 One issue which may eventually arise if the individual continues injecting AAS long enough is the issue of scar tissue build-up. Scar tissue is a dense, fibrous, connective tissue which forms over a wound or cut, either external or internal. In the case of injection, the scar tissue formed is internal. Scar tissue can impede contraction (make the muscle weaker), impair local muscle growth, decrease flexibility, and increase the possibility of re-injury.
 
 Some scar tissue formation is unavoidable, as every time an injection is administered, scar tissue is formed. The bottom line is that excess &amp; problematic scar tissue is not something you want to have to deal with at any point. Fortunately, we can take steps to minimize the appearance of scar tissue through rotating injection sites. Scar tissue is much more likely to form to a greater degree if you repeatedly and frequently use the same injection site. For this reason, it is a good idea to start a “rotation”, in which injections sites are routinely transferred from one site to the next in a systematic fashion. Typically, the individual will select at least 3 body parts to include in this rotation, while also altering the sites within each bodypart, in order to decrease the number of times the same area is injected into per rotation.
 
-##Injection Frequency
+## Injection Frequency
 
 How often a particular steroid should be administered will depend on a few factors, with injection frequency being governed primarily by the half-life of each steroid. Obviously, longer-acting AAS will require a less frequent injection schedule, while the opposite holds true for shorter acting versions. With injectable steroids, the length of time it will stay active in the body depends on the type of ester which has been attached to the steroid. Esters are molecular modifications to a steroid hormone, which have been added solely to extend the life of the drug within the body. 
 
@@ -114,7 +114,7 @@ Below is a list of some common esters used, along with the most commonly recomme
 
 Some injectable AAS have no ester, such as the various suspensions &amp; bases, such as Injectable Anadrol, Injectable Winstrol, Trenbolone No Ester (TrNE) or Testosterone No Ester (TNE). These compounds are typically injected 30 to 90 minutes preworkout.
 
-##Sterilization
+## Sterilization
 
 Sterilization is a critically important part of the injection process, as unsanitary injection practices pose the greatest risk in terms of acquiring serious infections &amp; abscesses. As described above, these are health problems you want to avoid at all costs and investing a little extra time and consideration into this aspect of your program can go a long way towards ensuring you remain problem free.
 
@@ -139,7 +139,7 @@ Multiple trials were conducted and there was **no difference** in the infection 
 
 * [Effectiveness of Alcohol Swabs for Preventing Infections](https://clinicaltrials.gov/ct2/show/NCT03131843)
 
-##Using A Draw Needle
+## Using A Draw Needle
 
 In order to properly load your syringe correctly, it will require 2 different syringes or more specifically, two different needles. One needle will be required for drawing the steroid into the barrel, while the other needle head will be used to inject the steroid.
 
@@ -147,7 +147,7 @@ The primary reason for using two different needles is due to the delicacy of nee
 
 A secondary reason for using one needle to draw with and another to inject is that it can take a long time to draw a few cc’s of oil through a 25g. syringe or smaller. By using a lower gauge number to draw with (usually 18-22g.), it cuts down on the amount of time required to draw the oil into the barrel. It's recommended using no smaller than a 21-22g pin to draw with is because bigger pins can damage the rubber stopper after repeated uses, potentially allowing little pieces of rubber to break away from the rubber stopper and fall into the vial. A 21-22g pin is sufficient for quick drawing and will more thoroughly maintain the integrity of the rubber stopper.
 
-###Insulin Needles &amp; BackLoading
+### Insulin Needles &amp; BackLoading
 
 While performing a sub-q inject with a dull 39-30 g. insulin syringe is not going to be as unpleasant as performing an I.M. injection with a dull 23 g. syringe, the user can still take steps to ensure that ever injection is performed with a fresh, sharp needle. Due to insulin syringes being so much smaller and more fragile than their 23-25 g. counterparts, they dull much more quickly. The act of pushing an insulin syringe through a rubber stopper even one time will significantly dull the needle head. 
 
@@ -157,13 +157,13 @@ In order to back-load, begin by getting out 2 insulin syringes and setting them 
 
 [**Very Helpful Video On Back-Loading**](https://www.youtube.com/watch?v=52kEHcp5PKA)
 
-##Disposal Of Used Needles/Syringes.
+## Disposal Of Used Needles/Syringes.
 
 When disposing of used syringes, it is of primary importance that the original protective covering be placed back on the syringe prior to discarding. This will prevent anyone from accidentally coming in contact with the syringe and accidentally piercing their skin. No one wants to be pulling a used needle out of their hand, because the user was negligent in his responsibilities.
 
 In addition, most individuals will place their used syringes in a medical sharps storage container designated only for syringes, in order to minimize the occurrence of someone coming into contact with a stray needle. But there are people who are negligent and use empty protein containers, plastic milk containers, juice containers, etc., for disposal of their used syringes. Regardless of which method you employ, [**find out how to legally dispose of your pins.**](http://www.epa.gov/osw/nonhaz/industrial/medical/programs.htm)
 
-##Aspiration
+## Aspiration
 
 &gt; **Note**: The **World Health Organization** (**WHO**) states in their latest advice that aspirating is unnecessary, and frequently causes more harm than good.
 
@@ -173,7 +173,7 @@ Seeing traces or specks of blood is not indicative that you have entered a blood
 
 &gt; ***Aspiration is no longer recommended by any of the major health organizations***.
 
-###Is Aspirating Required?
+### Is Aspirating Required?
 
 **Answer:** Many AAS users do not aspirate when injecting. It is considered a bit of an outdated methodology. 
 
@@ -202,9 +202,9 @@ The act of aspirating also involves significant movement which causes further tr
 
 **References located at the bottom of the page.**
 
-##Safe Injecting Technique 
+## Safe Injecting Technique 
 
-###Single Vial
+### Single Vial
 
 1. **Use A Draw Needle**: Without one, you will dull your pin needle to the point that it'll be very painful and potentially give a pip.  
 *Note:* If your syringes come with the needles already attached, order the drawing needle to come on them. Otherwise, you'll have to switch needles, more than necessary. [Close up view of a needle after penetrations.](http://i.imgur.com/SqCZe.png)
@@ -235,7 +235,7 @@ The act of aspirating also involves significant movement which causes further tr
 13. **Legally Dispose**: Dispose of your medical sharps (needles) properly.  
 *Note:* [**Find out how to legally dispose of your pins.**](http://www.epa.gov/osw/nonhaz/industrial/medical/programs.htm)
 
-###Multiple Vials
+### Multiple Vials
 
 1. **Use A Draw Needle**: Without one, you will dull your pin needle to the point that it'll be very painful and potentially give a pip.  
 *Note:* If your syringes come with the needles already attached, order the drawing needle to come on them. Otherwise, you'll have to switch needles, more than necessary. [Close up view of a needle after penetrations.](http://i.imgur.com/SqCZe.png)
@@ -303,7 +303,7 @@ The act of aspirating also involves significant movement which causes further tr
 17. **Legally Dispose**: Dispose of your medical sharps (needles) properly.  
 *Note:* [**Find out how to legally dispose of your pins.**](http://www.epa.gov/osw/nonhaz/industrial/medical/programs.htm)
 
-###Ampules To Sterile Vial
+### Ampules To Sterile Vial
 
 1. **Grasp The Ampule**: Grasp the ampule between thumb and forefinger of one hand.
 
@@ -348,7 +348,7 @@ The act of aspirating also involves significant movement which causes further tr
 8. **Legally Dispose**: Dispose of your medical sharps (needles) properly.  
 *Note:* [**Find out how to legally dispose of your pins.**](http://www.epa.gov/osw/nonhaz/industrial/medical/programs.htm)
 
-###Ampules To Preloaded Insulin Syringes
+### Ampules To Preloaded Insulin Syringes
 
 [**Here's Is An Alternate Way Of Preloading Insulin Syringes vs. Using A Sterile Vial. Taken From This Thread**](http://www.reddit.com/r/steroids/comments/29ao4d/reconstituting_hcg_from_ampule_and_getting_it/)
 
@@ -392,26 +392,26 @@ ampule by tapping (thumping) the ampule sharply.
 6. **Legally Dispose**: Dispose of your medical sharps (needles) properly.  
 *Note:* [**Find out how to legally dispose of your pins.**](http://www.epa.gov/osw/nonhaz/industrial/medical/programs.htm)
 
-##Special Injection Techniques
+## Special Injection Techniques
 
 The purpose of the below injection techniques is to seal the injected compound deep within the muscle, by allowing no exit path back into the subcutaneous area and skin. While using these techniques is not essential to performing a proper injection, they will allow the user to minimize oil loss due to seepage. 
 
 * **Z-track Technique:** A technique utilized to prevent leakage of the injected substance post-injection.
 * **Air Bubble Technique:** A technique utilized to prevent leakage of the injected substance post-injection.
 
-###Z-track Technique
+### Z-track Technique
 
 The Z-track method requires temporarily displacing the skin &amp; subcutaneous tissue prior to injection and immediately releasing the tissue post-injection. In order to perform the Z-track method, prepare your syringe and be ready to inject. Once the syringe is in hand, use your free hand to pull the skin at the injection site ½-1 inch away from its original location. While continuing to hold the skin in this stretched position, administer the injection into the original location. Immediately after removing the syringe from the injection site, release the skin which was being held in place. The Z-track method works best at locations where there is a greater amount of lose skin. Utilizing locations with taut skin will be more difficult.
 
 [**Very Helpful Video To See Technique**](https://www.youtube.com/watch?v=mNhyufrdeE8)
 
-###Air Bubble Technique
+### Air Bubble Technique
 
 The air bubble technique involves injecting a small amount of air at the end of an injection. In order to perform this technique prepare your syringe and be ready to inject. When the syringe is in hand, pull ½ cc/mL of air into the syringe. Just prior to and throughout the injection, make sure the needle is pointing down, so that the air floats to the top of the barrel (near the plunger) and is the last thing to be injected into the muscle, as it is this small air bubble which will help to seal off the opening and prevent leakage. This is also used by some to make sure all of the liquid they are injecting is out of the needle.
 
-##PIP (Post Injection Pain)
+## PIP (Post Injection Pain)
 
-###What Causes (Non-Infectious) Injection Pain?
+### What Causes (Non-Infectious) Injection Pain?
 
 * The Shorter The Ester, The Higher The Melting Point
 * The Concentration Of The Gear
@@ -441,7 +441,7 @@ If you inject too quickly, it can potentially tear tissue.
 
 If your muscle is new to the hormone, it will absorb the hormone slowly, but absorb the oil/solvent quicker. This will cause more crystallization and pain. As your muscles recognize the hormones, they will be absorbed more quickly, thus less pain. The deeper you inject into the center of a muscle group, the better.
 
-###How do I prevent pain before I inject?
+### How do I prevent pain before I inject?
 
 * Cutting The Oil With Sterile Oil
 * Warming Up The Oil
@@ -461,24 +461,24 @@ Inject slowly; take 30 seconds per mL. Use a 25g pin to inject so it forces you 
 
 If none of these work, you could have dirty gear. It’s possible there could be particles (although bacteriostatic) in the gear that made it through the filter and is causing infection, although mild. Alternatively, if using higher concentration gear, your gear is just too high concentration to be tolerable for you.
 
-###How do I deal with pain once I have it?
+### How do I deal with pain once I have it?
 
 The worst thing you can do is ice it. Cold will help the crystals fall out of solution/suspension. It’s okay to take some ibuprofen to decrease the swelling and help with pain. Also being in a hot tub, jacuzzi, or warm bubble bath will help melt the crystals down. Using a heating pad can help as well. 
 
-##Where Do I Inject?
+## Where Do I Inject?
 
 Inevitably, one of the first questions many individuals will ask themselves shortly before their 1st injection is “where do I inject?” While there is no right or wrong answer, the most commonly injected muscle among first time users are the Glutes. It is a muscle group that's relatively painless (potentially), does not have any major veins/arteries near the surface, and contains a lower density of nerves. The twisting and turning can be a problem for some, in which case injecting Ventro Glutes is another option. If that is too hard to find for you, try Quads, but there is a slightly larger margin for error in regard to hitting nerve clusters and puncturing large veins. But you should aim to have as many injection sites as possible to avoid building scar tissue.
 
 Basically, any muscle can be injected into, although larger, thicker muscles are typically superior to small, shallow muscle groups. An example of a body part which falls into the latter category would be the forearms. This body part is rarely ever injected into and is a poor choice all the way around, so avoid them. Never inject into the hands, feet, or neck 
 
-##Locations To Inject
+## Locations To Inject
 
 **Noteworthy Sites For Injection Descriptions:**
 
 * [Spot Injections](http://www.spotinjections.com/index3.htm)
 * [IPED Info](http://www.ipedinfo.co.uk/administration.html) 
 
-###Glutes (Dorsogluteal)
+### Glutes (Dorsogluteal)
 
 When people talk about injecting Glutes, they are referring to injecting into the Gluteus Maximus / Gluteus Medius via dorsogluteal.
 
@@ -488,7 +488,7 @@ When people talk about injecting Glutes, they are referring to injecting into th
 [**Helpful Dorsogluteal Injection Video**](https://www.youtube.com/watch?v=BlWcyoU5Rk8)  
 [**Another Helpful Glutes Video**](https://www.youtube.com/watch?v=MwNP_DsAf6k)
 
-###Ventro Glutes 
+### Ventro Glutes 
 
 Ventro Glutes is the common term, but in actuality we are injecting into the Gluteus Medius via ventrogluteal.
 
@@ -510,7 +510,7 @@ When you're confident you've found the correct spot begin your injection routine
 
 [**Excellent Video On The Process Of Finding Vento Glutes**](https://www.youtube.com/watch?v=Fqps25XBj3I&amp;feature=youtu.be) 
 
-###Quads (Vastus Lateralis)
+### Quads (Vastus Lateralis)
 
 When injecting into the Quads it can be a bit trickier. Never inject into the inner-thighs…only inject into the actual quadriceps muscles themselves, particularly the Vastus Lateralis. The Rectus Femoris can also be injected, but most users will find it more painful and increases the  risk of hitting a nerve (causing the muscle to "twitch"). Lastly, the Vastus Medialis (teardrop) can be injected into as well, although it is not a preferred area, especially for a beginner.
 
@@ -518,7 +518,7 @@ When injecting into the Quads it can be a bit trickier. Never inject into the in
 
 [**Very Helpful Video Of Locating The Vastus Lateralis**](https://vimeo.com/73767307)
 
-###Delts (Deltoid)
+### Delts (Deltoid)
 
 When injecting into the delts, all 3 heads are suitable, although the side &amp; rear heads are a bit more comfortable, on average. 
 
@@ -527,7 +527,7 @@ When injecting into the delts, all 3 heads are suitable, although the side &amp;
 
 [**Helpful Delt Injection Video**](https://www.youtube.com/watch?v=Dzdf2YfOuQw)  
 
-###Chest (Pecs)
+### Chest (Pecs)
 
 The diagram below shows the places on your Chest (Pec) where you can inject. In the Photos they just use the upper options. In the video below he uses the lowest option. It is just a preference thing; try them all and see what you like best.
 
@@ -536,19 +536,19 @@ The diagram below shows the places on your Chest (Pec) where you can inject. In 
 
 [**Helpful Chest Injection Video (He Does The Lowest Option)**](http://tinypic.com/player.php?v=307nrzr%3E&amp;s=8#.WJfLGrYrKgR)
 
-###Lats (Latissimus)
+### Lats (Latissimus)
 
 [Diagram For Injection Area](https://imgur.com/a/Q0lFy)  
 [Lats Injection Photos](https://imgur.com/a/OZFRx) (*Thanks to [Spot Injections](http://www.spotinjections.com/index3.htm)*)
 
 [**Very Helpful Lats Injection Video**](https://vimeo.com/102946428)
 
-###Traps (Trapezius)
+### Traps (Trapezius)
 
 [Diagram For Injection Area](https://imgur.com/a/CIAXt)  
 [Traps Injection Photos](https://imgur.com/a/8UyP0) (*Thanks to [Spot Injections](http://www.spotinjections.com/index3.htm)*)
 
-###Triceps
+### Triceps
 
 For Triceps, there are three heads you may inject in: The outer (horseshoe) tricep head, the lower rear tricep head, and middle rear tricep head.
 
@@ -559,7 +559,7 @@ For Triceps, there are three heads you may inject in: The outer (horseshoe) tric
 
 [**Helpful Triceps Injection Video**](https://www.youtube.com/watch?v=NdeCXmchMbw)
 
-###Biceps
+### Biceps
 
 For Biceps, there are two heads you may inject in: The outer bicep head, and outer bicep head.
 
@@ -567,16 +567,16 @@ For Biceps, there are two heads you may inject in: The outer bicep head, and out
 [Diagram For Injection Area (Outer)](https://imgur.com/a/xafY9)  
 [Biceps Injection Photos](https://imgur.com/a/FueP3) (*Thanks to [Spot Injections](http://www.spotinjections.com/index3.htm)*)
 
-###Calves
+### Calves
 
 [Diagram For Injection Area](https://imgur.com/a/poz7w)  
 [Calves Injection Photos](https://imgur.com/a/3BLZF) (*Thanks to [Spot Injections](http://www.spotinjections.com/index3.htm)*)
 
-###Subcutaneous (SubQ)
+### Subcutaneous (SubQ)
 
 SubQ is excellent for TRT or cruising purposes. See [Injection Tips](/steroids/trt/list.md#wiki_injection_tips) in the TRT page.
 
-##Volume Each Site Can Hold
+## Volume Each Site Can Hold
 
 Site | Volume |
 |---|---|
@@ -592,19 +592,19 @@ Site | Volume |
 |Calves | 1.5 mL/cc
 |Subcutaneous (SubQ) | &lt; .5 mL/cc
 
-##Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 Below are common questions and answers regarding injecting.
 
-###My Injection Spot Is Red, Itchy, Or Sore?
+### My Injection Spot Is Red, Itchy, Or Sore?
 
 **Answer:** Get to a doctor for some antibiotics if it is red, itchy, or hot. If it is simply sore and/or swollen it is probably going to be okay see: [Post Injection Pain (PIP)](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29). If in doubt, get some antibiotics; a common thing to tell your doctor is that you injected B12.
 
-###Is It Normal To Bleed After An Injection?”
+### Is It Normal To Bleed After An Injection?”
 
 **Answer:** Yes, it is common to occasionally nick a vein close to the surface of the injection site, which will cause blood to leak from the surface. The amount of blood which can seep from an injection site can be anywhere from a drop or two, to a very light stream which slowly flows down that body part. Even in the event a larger vein is hit when doing an injection, this type of bleeding is relatively easy to stop and will not pose any harm to the individual.
 
-###Is Aspirating Required?
+### Is Aspirating Required?
 
 **Answer:** Many AAS users do not aspirate when injecting. It is considered a bit of an out-dated methodology, but it never hurts to do it. 
 
@@ -629,11 +629,11 @@ Below are common questions and answers regarding injecting.
 
 **References located at the bottom of the page.**
 
-###Does Injecting Build Up Scar Tissue? 
+### Does Injecting Build Up Scar Tissue? 
  
 **Answer:** Yes, repeated Intramuscular injections can cause the muscle to build up scar tissue. Generally there is no inflammation or inclusion in the tissue. In an effort to minimize scar tissue build up, users will rotate through many injection sites. [If you're interested, here is a case study of a woman in an extreme case, it includes stained muscle biopsies](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2673142/)
 
-###How Do I Open Ampules?
+### How Do I Open Ampules?
 
 **Answer:** Ampules can be aided in opening by scoring (some ampules come pre-scored). Scoring is a process in which in a fine line is ground away around the neck of the ampule. Scoring makes it much easier to snap the top of the ampule off without breaking the vial and spilling the oil. Normally, a scoring tool is used for this process, although sometimes knives or other objects can be used.
 
@@ -643,32 +643,32 @@ If you don't have an ampule opener. Grasp the ampule between thumb and forefinge
 
 Lastly, the tape-method can be employed, as well. The tape method involves taping the entire vial all the way up to the neck line. Several layers of tape should surround the vial, so that it is properly secured. The point of taping the vial is two-fold. One purpose is to prevent the contents of the ampule from spilling, should the ampule break somewhere other than the neckline. The other purpose is to reinforce the ampule, so that it is more likely to break at the neckline. One can combine both the tape method and the scoring, which is the best way to ensure that the oil contained in the ampule will not be spilled.
 
-###Can I Re-Use Syringes?
+### Can I Re-Use Syringes?
 
 **Answer:** Absolutely not. You should never take a needle which has entered the body and re-insert it back into a steroid product, as this can result in bacteria build-up and cause potential future infections.
 
-###How Fast Should I Inject?
+### How Fast Should I Inject?
 
 **Answer:** As a general rule, 30 seconds per mL/cc.
 
-###Is It Dangerous To Inject Small Air Bubbles?”
+### Is It Dangerous To Inject Small Air Bubbles?”
 
 **Answer:** No, a small amount of air will do no harm. Air bubbles injected into muscle tissue is of no concern. Even if the individual were to thread a vein and inject the entire contents of the syringe into the vein, the small air bubbles contained within it would be the least of that person’s worries. In reality, several cc’s of air would have to be injected directly into a vein all at once, in order to cause cardiac arrest. Even injecting 2-3 cc’s of air directly into a muscle would be largely inconsequential. Of course, such an action is not recommended, but you get the point.
 
-###My Gear Crashed…How Do I Fix It?
+### My Gear Crashed…How Do I Fix It?
   
 **Answer:** Gear can crash due to storing the product in colder than recommended temperatures (or in shipment)…or because the ratio of AAS to oil is out of balance (this can be either a manufacturer error or a personal error if home brewing). This does not damage the steroid. In order to correct the problem, simply run the vial under warm water until the products reverts back to its normal state. Clean with alcohol swab after drying off.
 
-###My Gear Has Particles Floating In It?
+### My Gear Has Particles Floating In It?
 
 **Answer:** You can choose to either dispose of the product or you can re-filter it by using a Whatman filter. While opinions will differ on this subject, the opinion of re-filtering is still available and a suitable solution in many cases, assuming the product is not badly polluted. In cases where it is apparent that the product is very poor quality and contains a large amount of foreign material, it would be wise to dispose of the product. This should not occur with reputable UGL’s and will never occur with Pharm-grade versions, although an occasional speck may occur with UGL products here and there and is usually not a big deal.
 
-##Related Posts
+## Related Posts
 
 * [How To Inject For Noobs.](/r/steroids/comments/2ca7s8/how_to_inject_for_a_nooby/)
 * [Aftermath Of An Abscess](/r/steroids/comments/2teuwu/aftermath_of_an_abscess_nsfw_pics_inside/)
 
-##References
+## References
 
   *Atkinson, W. L., Pickering, L. K., Schwartz, B., Weniger, B. G., Iskander, J. K., &amp; Watson, J. C. (2002). General Recommendations on Immunization: Recommendations of the Advisory Committee on Immunization Practices (ACIP) and the American Academy of Family Physicians (AAFP). Morbidity and Mortality Weekly Report, 51, RR2. 1-33.*
 

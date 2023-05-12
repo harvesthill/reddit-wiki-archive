@@ -2,17 +2,17 @@
 
 *****
 
-##Cottonseed oil
+## Cottonseed oil
 
-###Application
+### Application
 
 Cottonseed oil is used as a solvent in formulations of sustained-release intramuscular or subcutaneous injections of steroids or other oil-soluble drug substances. The typical disappearance of these types of oils from the injection site, following subcutaneous or intramuscular administration, has been reported to have a half-life of approximately 20-23 days^[1]. 
 
-###Description
+### Description
 
 A pale yellow or bright golden yellow-coloured, clear liquid. It is nearly odourless with a nutty taste. At temperatures below 10°C particles of solid fat may separate from the oil, and between –5 to 0°C, the oil becomes solid.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -23,33 +23,33 @@ A pale yellow or bright golden yellow-coloured, clear liquid. It is nearly odour
 |**Solubility**|slightly soluble in ethanol; miscible with carbon disulphide, chloroform, ether, hexane, petroleum ether|
 |**Viscosity**|70.4 mPa s at 20°C|
 
-###Stability/Storage
+### Stability/Storage
 
 Cottonseed oil may be sterilized by filtration or dry heat. It has been demonstrated that dry heat sterilization of cottonseed oil at 150°C for 1 hour is sufficient^[2].
 
 Cottonseed oil is stable if stored in an airtight, light-resistant glass container in a cool, dry place, not exceeding 40°C.
 
-###Safety
+### Safety
 
 Observe normal precautions. This oil should not be administered intravenously.
 
-###Handling
+### Handling
 
 Observe normal precautions. Spillages of this material are slippery and should be covered with an inert absorbent material.
 Oil is a combustible liquid when exposed to heat or flame. If it is allowed to impregnate rags or oily waste, there is a risk of ignition from heat or flame. Dry chemicals extinguishers (e.g. carbon dioxide) should be used to fight any fires.
 
 *****
-##Sesame oil
+## Sesame oil
 
-###Application
+### Application
 
 Sesame oil is used as a solvent in formulations of sustained-release intramuscular or subcutaneous injections of steroids or other oil-soluble drug substances. The typical disappearance of these types of oils from the injection site, following subcutaneous or intramuscular administration, has been reported to have a half-life of approximately 20-23 days^[1]. 
 
-###Description
+### Description
 
 A clear, pale to dark-yellow coloured liquid with a slight odour and a bland taste. It solidifies to a soft mass at -4°C.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -59,33 +59,33 @@ A clear, pale to dark-yellow coloured liquid with a slight odour and a bland tas
 |**Solubility**|practically insoluble in ethanol; miscible with carbon disulphide, chloroform, ether, hexane, petroleum ether|
 |**Viscosity**|43 mPa s at 20°C|
 
-###Stability/Storage
+### Stability/Storage
 
 Sesame oil is more stable than most oils and is not readily subject to rancidification, possibly due to the antioxidant effect of some of its constituents. Sesame oil may be sterilized by filtration or dry heat, it has been demonstrated that dry heat sterilization of sesame oil at 150°C for 1 hour is sufficient^[2].
 
 Sesame oil is stable if stored in an airtight, light-resistant glass container in a cool, dry place, not exceeding 40ºC.
 
-###Safety
+### Safety
 
 This oil may cause reactions such as allergic rashes and anaphylactic shock. This oil should not be administered intravenously.
 
-###Handling
+### Handling
 
 Observe normal precautions. Spillages of this material are slippery and should be covered with an inert absorbent material.
 Oil is a combustible liquid when exposed to heat or flame. If it is allowed to impregnate rags or oily waste, there is a risk of ignition from heat or flame. Dry chemicals extinguishers (e.g.. carbon dioxide) should be used to fight any fires.
 
 *****
-##Peanut oil
+## Peanut oil
 
-###Application
+### Application
 
 Peanut oil is used as a solvent in formulations of sustained-release intramuscular or subcutaneous injections of steroids or other oil-soluble drug substances. The typical disappearance of these types of oils from the injection site, following subcutaneous or intramuscular administration, has been reported to have a half-life of approximately 20-23 days^[1]. 
 
-###Description
+### Description
 
 Peanut oil is colourless to pale yellow-coloured and has a faint nutty odour and a bland taste. At approximately -3°C it becomes cloudy and solidifies at lower temperatures.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -96,35 +96,35 @@ Peanut oil is colourless to pale yellow-coloured and has a faint nutty odour and
 |**Solubility**|very slightly soluble in ethanol; miscible with carbon disulphide, chloroform, ether, hexane|
 |**Viscosity**|35.2 mPa s at 37°C|
 
-###Stability/Storage
+### Stability/Storage
 
 Peanut oil is subject to rancidification and thickening upon exposure to air. Peanut oil may be sterilized by filtration or dry heat, it has been demonstrated that dry heat sterilization of peanut oil at 150°C for 1 hour is sufficient^[3]. 
 
 Peanut oil is stable if stored in an airtight, light-resistant glass container in a cool, dry place, not exceeding 40ºC.
 
-###Safety
+### Safety
 
 This oil may cause reactions such as allergic rashes and anaphylactic shock. This oil should not be administered intravenously.
 
-###Handling
+### Handling
 
 Observe normal precautions. Spillages of this material are slippery and should be covered with an inert absorbent material.
 Oil is a combustible liquid when exposed to heat or flame. If it is allowed to impregnate rags or oily waste, there is a risk of ignition from heat or flame. Dry chemicals extinguishers (e.g.. carbon dioxide) should be used to fight any fires.
 *****
 
-##Grapeseed oil
+## Grapeseed oil
 
-###Application
+### Application
 
 Grapeseed oil is used as a solvent in formulations of sustained-release intramuscular or subcutaneous injections of steroids. The typical disappearance of these types of oils from the injection site, following subcutaneous or intramuscular administration, has been reported to have a half-life of approximately 20-23 days^[1]. 
 
 To our knowledge, grapeseed oil is not used in any pharmaceutical preparations but is used extensively by the underground community.
 
-###Description
+### Description
 
 Grapeseed oil is pale to deep green/yellow-coloured oily liquid that has a faint odour and a bland taste. 
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -135,31 +135,31 @@ Grapeseed oil is pale to deep green/yellow-coloured oily liquid that has a faint
 |**Solubility**|No Data|
 |**Viscosity**|No Data|
 
-###Stability/Storage
+### Stability/Storage
 
 Grapeseed oil may be sterilized by filtration or dry heat at 150°C for 1 hour. Grapeseed oil is stable if stored in an airtight, light-resistant glass container in a cool, dry place, not exceeding 40ºC.
 
-###Safety
+### Safety
 
 This oil should not be administered intravenously.
 
-###Handling
+### Handling
 
 Observe normal precautions. Spillages of this material are slippery and should be covered with an inert absorbent material.
 Oil is a combustible liquid when exposed to heat or flame. If it is allowed to impregnate rags or oily waste, there is a risk of ignition from heat or flame. Dry chemicals extinguishers (e.g. carbon dioxide) should be used to fight any fires.
 *****
 
-##Ethyl Oleate
+## Ethyl Oleate
 
-###Application
+### Application
 
 Ethyl oleate is used as a vehicle in preparations intended for intramuscular injection. Ethyl oleate is a suitable solvent for steroids and other lipophilic drugs. Its properties are similar to those of other oils, however, it has the advantage that it is less viscous than fixed oils and is more rapidly absorbed by body tissues^[4] . Ethyl oleate has also been evaluated in subcutaneous injections^[5] .
 
-###Description
+### Description
 
 Ethyl oleate is a pale yellow to almost colourless oily liquid with a slight odour and a taste resembling olive oil
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -170,7 +170,7 @@ Ethyl oleate is a pale yellow to almost colourless oily liquid with a slight odo
 |**Solubility**|miscible with chloroform, ethanol, ether, fixed oils and most other organic solvents|
 |**Viscosity**|3.9 mPa s at 25°C|
 
-###Stability/Storage 
+### Stability/Storage 
 
 Ethyl oleate should be stored in a cool, dry place protected from light, air should be replaced by an inert gas as ethyl oleate oxidizes on exposure to air, resulting in an increase in the peroxide value. 
 
@@ -188,18 +188,18 @@ At a concentration of 0.03% w/v, the following mixture has been found to be the 
 
 Ethyl oleate may be sterilized by filtration or dry heat at 150°C for 1 hour.
 
-###Safety
+### Safety
 
 Ethyl oleate is considered to be of low toxicity, however, ingestion should be avoided. Ethyl oleate has been found to cause minimal tissue irritation^[7] and no reports of intramuscular irritation during use have been recorded. Ethyl oleate dissolves certain types of rubber/plastics and may cause others to swell.
 
 It should be noted that some individuals may have an allergic reaction to ethyl oleate, and so appropriate cautions should be observed before administration. This oil should not be administered intravenously.
 
-###Handling
+### Handling
 
 Observe normal precautions. Spillages of this material are slippery and should be covered with an inert absorbent material.
 Oil is a combustible liquid when exposed to heat or flame. If it is allowed to impregnate rags or oily waste, there is a risk of ignition from heat or flame. Dry chemicals extinguishers (e.g. carbon dioxide) should be used to fight any fires.
 
-#Sources/References
+# Sources/References
 *****
 
 1. [Larsen SW et al. *Determination of the disappearance rate of iodine-125 labelled oils from the injection site after intramuscular and subcutaneous administration to pigs.* Int J Pharm 2001; **230**(1–2): 67–75.](http://www.sciencedirect.com/science/article/pii/S0378517301008602)

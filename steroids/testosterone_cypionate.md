@@ -26,7 +26,7 @@ Testosterone Cypionate also has the ability to promote fat loss through an enhan
 
 Testosterone Cypionate will also play a crucial role revolving around creatine. Creatine is essential to adenosine triphosphate (ATP), the source of energy for our muscles and when the muscles are stimulated ATP is broken down into adenosine diphosphate (ADP) and this is what releases energy. Unfortunately, the process is often too slow during strenuous activity but through the use of Testosterone Cypionate, this demand is met as ATP is replenished at a much faster rate.
 
-##Effects of Testosterone Cypionate
+## Effects of Testosterone Cypionate
 
 With a well-planned Testosterone Cypionate cycle, nearly every anabolic steroid benefit can be obtained. For the off-season athlete, more lean muscle mass can be built with less body fat gain. In-order to grow, you must consume enough calories and fat gain will occur, but Testosterone Cypionate will ensure the brunt of your weight gain is the weight you want.
 
@@ -34,7 +34,7 @@ While off-season bulking use is the most common, the effects of Testosterone Cyp
 
 Regardless of the purpose of use, Testosterone Cypionate defines performance enhancement by its ability to promote recovery and endurance. With a performance level dose of Testosterone Cypionate your body can recover faster and you wont tire out as quickly.  This will allow you to workout longer and harder, and more progress can be made. This is performance enhancement at its best!
 
-##Testosterone Cypionate Administration
+## Testosterone Cypionate Administration
 
 Testosterone Cypionate is only available in an injectable form and is regularly used to treat conditions such as low testosterone. More than twenty million men in the U.S. alone suffer from some form of low testosterone, and such a condition can severely diminish ones quality of life. Symptoms such as loss of muscle mass and strength, a decrease in libido and sexual performance, an increase in body fat, and low energy levels are all common characteristics of low testosterone. Further, when ignored low testosterone can be a gateway to Alzheimers, diabetes, osteoporosis and many other serious conditions. Most men will find one injection every seven to ten days at 100mg to 200mg per injection to completely eradicate such a problem.
 
@@ -48,7 +48,7 @@ Regardless of the total dosing or the cycles length, you will need to design a p
 
 It should be noted; when it comes to performance enhancement, Testosterone Cypionate for women is not recommended. This is a steroid that carries far too much androgenic activity; after all, it is the primary male androgen. Women can suffer from low testosterone and there can be therapeutic benefits from the use of Testosterone Cypionate; however such treatment plans will be tremendously low dosed and should be watched closely for virilization symptoms.
 
-##The Side Effects of Testosterone Cypionate
+## The Side Effects of Testosterone Cypionate
 
 As an extremely well-tolerated hormone for most men, the side effects of Testosterone Cypionate are in many ways easy to control. When it comes to such adverse reactions, keep in mind they largely fall into the realm of possible and are by no means guaranteed. Even so, total dosing, genetic predispositions and your overall state of health will play a role.
 

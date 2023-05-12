@@ -40,7 +40,7 @@ Participation in this sub and with this habit requires one to execute [critical 
 * [**Blood Work**](/steroids/bloodwork/list.md)
 * [|--- Health Markers Defined](/steroids/bloodwork/health_markers.md)
 
-##Helpful Links
+## Helpful Links
 
 * [SteroidPlanner](https://www.steroidplanner.com/) - Plot and Graph your cycles
 * [SteroidPlotter](https://steroidplotter.com/) - Another option for graphing cycles
@@ -334,7 +334,7 @@ Another factor of course is how relevant the research is. Was it in mice? Was it
 
 One interesting area is the reference section. Here you can find yourself valuable information on studies that might be more relevant to what you want. Throughout the text assertions are made that are backed up by prior research. This is then referred to the reference section.  PubMed is wonderful at this as there are related citations to the right side. 
 
-##References
+## References
 
 * [Testosterone dose-response relationships in healthy young men](http://ajpendo.physiology.org/content/281/6/E1172.long)
 

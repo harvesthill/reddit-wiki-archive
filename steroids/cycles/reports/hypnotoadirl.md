@@ -1,5 +1,5 @@
 #Background info
-##Pre-cycle stats
+## Pre-cycle stats
 
 I am 22 years old (male). Starting in July I did 15 weeks 750 test e/WK with dbol. Cruised on 250 a week and that brings us here!
 
@@ -11,12 +11,12 @@ I am 22 years old (male). Starting in July I did 15 weeks 750 test e/WK with dbo
 
 **Lifting experience**: three years lifting, second year of shows.
 
-#The Cycle
+# The Cycle
 
-##Goals
+## Goals
 Competing at the Iowa Hawkeye Classic in April at Middle weight (below 176) so this is a part 1 of 2 kind of with my cut starting in 8 weeks. In this lean bulk I want to get to about 200 pounds while dropping bf to 12%. This is my first show prep not being natural so you will see my goals may change depending on how my body reacts. 
 
-##Gear
+## Gear
 Sun, Thurs: 250mg test e and 300mg eq
 
 Mon, Tues, Wed, Fri, Sat: 50mg test p and 120mg npp
@@ -25,7 +25,7 @@ Mon, Tues, Wed, Fri, Sat: 50mg test p and 120mg npp
 
 totaling 500 test e, 250 test p, 600 eq, 600 npp
 
-##Diet
+## Diet
 
 **morning** (15unit slin R) 2 cup egg whites, 1 can albacore tuna, 1/2 cup oatmeal, 1 cup cereal. (p-84,c-84,f-4.5, cal-730)
 
@@ -37,7 +37,7 @@ totaling 500 test e, 250 test p, 600 eq, 600 npp
 
 **Total** 245g Protein (38.7%), 343g Carbs (54.1%), 46g Fat (7.2%), 2795 Calories
 
-##On cycle training  
+## On cycle training  
 
 Monday: Chest/Shoulders
 
@@ -55,7 +55,7 @@ Sunday: Rest
 
 I will be doing cardio for 20-30min every other day. I usually do incline walk during that time. Used it on my last cut and it worked really well. 
 
-#Logs
+# Logs
 
 ## Week 1
 

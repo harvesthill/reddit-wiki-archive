@@ -11,7 +11,7 @@ Pre-cycle stats:
 
 **Lifting experience**: 1-2 years. 
 
-#The Cycle: 250mg of DNP to start. On day 5 ramp up to 375mg ride it out for 30 days. Take 2-3 weeks off and start over. (My formatting sucks and I don't know how to make it better)
+# The Cycle: 250mg of DNP to start. On day 5 ramp up to 375mg ride it out for 30 days. Take 2-3 weeks off and start over. (My formatting sucks and I don't know how to make it better)
 
 Goals: My long term goal is to lose 100lbs ideally. Short term, I'd like to be 50lbs lighter by May 1st.
 

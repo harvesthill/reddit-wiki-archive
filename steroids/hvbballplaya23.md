@@ -6,10 +6,10 @@
 
 ##[Blood Work](http://imgur.com/a/TPYS1)
 
-##Background Info
+## Background Info
 So the reason I am doing this cycle is to..... GET HUGE DUH!!! But I will be competing in a Men's Physique contest on March 29th and I want to get as big as I can before I have to start cutting pre-contest. I am planning to start either September 25th or Septemeber 29th. I will keep you guys updated. I am also doing this log to keep track of myself as I feel it will be easier if I have some incentive to track progress. 
 
-###Pre-Cycle Stats
+### Pre-Cycle Stats
 
 **Age:** 20
 
@@ -31,8 +31,8 @@ So the reason I am doing this cycle is to..... GET HUGE DUH!!! But I will be com
 
 **HR:**
 
-##Cycle Info
-###Gear
+## Cycle Info
+### Gear
 I will be running test propionate for 8 weeks and dbol for 4-6 weeks. Also with the first 6 weeks I will be running liver support with the dbol.
 Throughout the cycle and pct I will be taking fish oil, multivitamin.
 
@@ -51,7 +51,7 @@ Week | Test Prop | Dbol | Nolvadex
 11 | | | 20mg
 12 | | | 20mg
 
-###Training
+### Training
 Training will be based off of this. It is a modified PHAT format. However, exercises will change based on lagging parts or parts I feel are not getting hit well.
 
 Monday: Upper Body Power Day
@@ -250,12 +250,12 @@ Dumbbell Shrugs
 
     3 sets of 10-12 reps
 
-###Diet
+### Diet
 Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 grams carbohydrates, 250 grams of protein and 100 grams fat. This will adjust as weight increases, but to start it will be like this. I will try to log my diet the best I can and keep that as up to date as possible.
 
 ##**Logs**
 
-###Week 1
+### Week 1
 
 **Weight:**
 
@@ -273,7 +273,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 2
+### Week 2
 
 **Weight:**
 
@@ -291,7 +291,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 3
+### Week 3
 
 **Weight:**
 
@@ -309,7 +309,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 4
+### Week 4
 
 **Weight:**
 
@@ -327,7 +327,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 5
+### Week 5
 
 **Weight:**
 
@@ -345,7 +345,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 6
+### Week 6
 
 **Weight:**
 
@@ -363,7 +363,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 7
+### Week 7
 
 **Weight:**
 
@@ -381,7 +381,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 8
+### Week 8
 
 **Weight:**
 
@@ -399,7 +399,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 9
+### Week 9
 
 **Weight:**
 
@@ -417,7 +417,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR**
 
-###Week 10
+### Week 10
 
 **Weight:**
 
@@ -435,7 +435,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 11
+### Week 11
 
 **Weight:**
 
@@ -453,7 +453,7 @@ Diet will fluctuate between 3200 and 3500 calories per day. Approximately 320 gr
 
 **HR:**
 
-###Week 12
+### Week 12
 
 **Weight:**
 

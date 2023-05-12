@@ -2,7 +2,7 @@
 
 With the introduction of exogenous testosterone and other AAS, estrogen levels become elevated. Occasionally, with the use of AI, estrogen levels can crash as well. Here are the sides effects that result from both high and low levels of estrogen.
 
-##High estrogen sides
+## High estrogen sides
 * Acne
 * Loss of libido
 * Water retention (Bloat)
@@ -25,7 +25,7 @@ With the introduction of exogenous testosterone and other AAS, estrogen levels b
 * Itchy nipples
 * [Gynecomastia](/steroids/sides/gynecomastia.md)
 
-##Low estrogen sides
+## Low estrogen sides
 * Dry skin/lips
 * Feeling of dehydration
 * Loss of libido

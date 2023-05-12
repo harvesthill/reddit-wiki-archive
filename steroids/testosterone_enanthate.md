@@ -30,7 +30,7 @@ Some users believe that testosterone enanthate should be reserved for "bulking" 
 
 However, a minority of users also report that they hold less water while using testosterone enanthate than testosterone propionate. This again demonstrates that individuals react quite differently to various compounds. Experimentation with the various compounds is the only sure way to see how you react.
 
-##Use/Dosing
+## Use/Dosing
 
 The ester enanthate is seven carbons in length. Due to this length the majority of the compound is stored in the adipose tissue when injected intramuscularly. In doing so it is steadily released over a period of time. A peak in the blood level of the compound is reached after 24-48 hours after the injection followed by a slow decline. This requires that a user wait about fourteen days after the last injection to begin their post-cycle therapy to ensure that the compound has completely cleared the system of the user.
 
@@ -38,7 +38,7 @@ In terms of an actual injection schedule most users will inject testosterone ena
 
 As with the other testosterone esters, the doses of the drug that are taken by users varies to a great degree depending on the experience and goals of the user. Doses as low as 200-250mgs per week have been reported by users who say they have made good gains, with experienced users administering several grams of testosterone per week. The range of use is very wide. This also includes women administering testosterone. It is because of the long active life of the enanthate ester, it is not recommended that women who choose to administer testosterone use it or other long-estered formulas. This is due to the fact that slow acting esters can not be quickly altered if negative side effects become overly burdensome. By having to deal with the slow release of the testosterone and not being able to lower doses or cease administration of the compound immediately, it makes it much more likely that any side effects that are experienced will be more pronounced and/or exaggerated. For this reason, females who use testosterone may want to begin with testosterone propionate or suspension when choosing which ester to use and not enanthate.
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Most of the side effects that result from using testosterone in males is related to testosterone's high tendency to convert into estrogen via the aromatase enzyme. These side effects can include water retention and gynecomastia. Users often complain that water retention is much more severe with longer acting esters than with shorter acting esters such as propionate. To combat these side effects users can use aromatase inhibitors and/or selective estrogen receptor modulators. Of course the likelihood of estrogen related side effects increase as the dosages are raised. However these should be controllable if the proper precautions taken. 
 
@@ -50,7 +50,7 @@ Women may find that other shorter acting esters are more manageable than longer 
 
 Of course with women using testosterone there is a possiblity that virilizing symptoms could occur. Deepening of the voice, body/facial hair growth, and enlargement of the clitoris are all possible side effects of testosterone use. These are for the most part irreversible^4 . 
 
-##References
+## References
 
 1. *Schulte-Beerbuhl M, Nieschlag E. Comparison of testosterone, dihydrotestosterone, luteinizing hormone, and follicle-stimulating hormone in serum after injection of testosterone enanthate or testosterone cypionate. Fertility and Sterility 33 (1980) 201-3.*
 2. *Corcoran C, Grinspoon S. The use of testosterone in the AIDS wasting syndrome. AIDS Clin Care. 1999 Apr;11(4):25-6, 33-4*

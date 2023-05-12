@@ -18,7 +18,7 @@ Anecdotally some users have indicated that post-injection pain with dihydrobolde
 
 Indeed dihydroboldenone is available in numerous different esters. Cypionate, Ethyl Carbonate, Propyl Carbonate, and Propionate, among others, are all available for use with the drug. As always each does not offer any real advantages over one another other then the obvious differing active lives that each presents and the amount of time that it takes for the body to completely eliminate the drug from it (4). For the most part users will want to have their choice dictated by the injection frequency with which they want to deal with when using the compound, but of course they will also likely be limited by those that are made available to them.
 
-##Use/Dosing
+## Use/Dosing
 
 As for the duration with which dihydroboldenone can be run, due to the mild nature of the drug extended use of the compound can be completed with little in the way of serious complications arising. There are no major issues with hepatoxicity or severe kidney stress and the effect it has on other vital health markers such as blood pressure is slight in the majority of users.
 
@@ -28,7 +28,7 @@ For females the usual rules apply with dihydroboldenone as they do with other dr
 
 As stated earlier, for the frequency of dosing with dihydroboldenone it of course depends on the ester used with the compound. Seemingly the most popular current ester to produce the drug with is cypionate. No matter what ester utilized however the same rules would apply as with any other drug in terms of the frequency of administration needed to maintain relatively stable blood levels of the compound.
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 As previously indicated dihydroboldenone does not aromatize and therefore estrogenic side effects such as gynecomastia and water retention are not a concern for users. This is partly due to the drug being incapable of 5alpha reduction. Also, androgenic side effects would also be extremely infrequent for most users as there is little in the way, in terms of attributes of the drug, to produce these. These include such things as acne and hair loss, although it appears to have the potential to cause prostate enlargement. This potential for prostate growth is actually similar in frequency and severity as with that of testosterone propionate (2).
 

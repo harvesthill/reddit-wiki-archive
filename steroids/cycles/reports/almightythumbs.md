@@ -2,19 +2,19 @@
 
 This will be cycle (or blast, as I should say) number 5 for me. It is my first time using long ester tren and also my first time using mast in any form. Diet and training is on point. I am more concerned with growth in my upper body, specifically my chest, lats, and biceps, as I plan to compete in physique next year. I'm tired of buying new jeans, so competing in BB is probably out, unless I change my mind at some point and decide to go for huge.
 
-##Progress Pics Album
+## Progress Pics Album
 
 I might put something up at the end, but I'm not too sure about that.
 
-##Pre-cycle stats 
+## Pre-cycle stats 
 
 6'4", 220lbs, ~11%
 
-##Pre-cycle exercise routine
+## Pre-cycle exercise routine
 
 Modified PHAT, dropped the volume drastically for a few weeks while cruising to give my body some recovery from the 19 days straight of 2-3 hour long training sessions leading up to the end of my last blast.
 
-#The Cycle
+# The Cycle
 
 *Cycle will be 15 weeks long and will consist of:*
 
@@ -36,21 +36,21 @@ Modified PHAT, dropped the volume drastically for a few weeks while cruising to 
 
 I'll be pinning every 4 days, but I'm splitting it up in to EoD injections, Example: Day 1 is tren and test, day 3 is mast and EQ.
 
-##Goals
+## Goals
 
 My goal is to gain a bare minimum of 15 lbs of lean mass, with a target of 20. If I can shed a couple BF percentage points as well, great. I'm contemplating picking up some more tren and mast and tacking on a month long cut with some T3 before going back to cruising. If I decide to do that, I'll log that shift here so you can guys can see how that works out.
 
-##Diet
+## Diet
 
 High carb, low fat. I'm aiming for about 1.5 g of protein per lb of bodyweight (though I sometimes hit more than that), no more than 40-50 grams of fat, and filling the rest with carbs for a grand total of around 4700 kcals per day. That's about 1000 kcals over my TDEE. This served me very well when I ran tren ace at 700mg/week. Stacking the dbol in there adds another variable, so I'm gonna play with it as the weeks progress to hit my sweet spot.
 
 I'll probably only REALLY cheat once a week, but other than that, I eat relatively clean, with a touch IIFYM in there because hitting 4800 calories on clean food is a fucking nightmare.
 
-##On cycle training
+## On cycle training
 
 Once the tren kicks in, I expect I'll have that drive to be in the gym 7 days a week again. That, combined with the GH peptides, will make my recovery times next to nothing. I'll stick with my modified PHAT routine, but I'm probably going to skip the legs hypertrophy (since I am looking at competing in Physique in the spring) and only do the power days to keep my lifts up. 3 chest days, 3 arm days, and one leg day per week. I just did 4 days of alternating chest/arms and back/shoulders, and I seem to be recovering OK using only the gh peptides and the test prop, and a dash of EQ (which hasnt even had enough time to really do anything).
 
-#Logs
+# Logs
 
 *8/27/2013 - D-Day:* 
 

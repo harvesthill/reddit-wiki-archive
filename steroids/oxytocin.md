@@ -4,13 +4,13 @@
 
 – *Trust hormone oxytocin helps old muscle work like new* ^[1](https://www.sciencedaily.com/releases/2014/06/140610112751.htm)
 
-##Summary
+## Summary
 
 **Oxytocin** (**Oxt**) is a peptide hormone and neuropeptide normally produced in the hypothalamus and released by the posterior pituitary. It plays a role in social bonding, sexual reproduction, childbirth, and the period after childbirth. Oxytocin is released into the bloodstream as a hormone in response to stretching of the cervix and uterus during labor and with stimulation of the nipples from breastfeeding. This helps with birth, bonding with the baby, and milk production.
 
 Oxytocin plays a number of biological functions influencing aging, social bonding, fear and anxiety, learning and memory, mood and depression, milk ejection, uterine contraction, erections and sexual response. 
 
-##Antiaging Qualities
+## Antiaging Qualities
 
 [Is Oxytocin “Nature’s Medicine”?](https://pharmrev.aspetjournals.org/content/72/4/829)
 
@@ -24,11 +24,11 @@ Oxytocin plays a number of biological functions influencing aging, social bondin
 
 [Bonding hormone oxytocin has antiaging qualities](https://www.nydailynews.com/life-style/health/oxytocin-anti-aging-qualities-study-article-1.1826276) 
 
-##Dosage Guidelines 
+## Dosage Guidelines 
 
 40-60 IU
 
-##References
+## References
 
 **1**. [Wikipedia: Oxytocin](https://en.wikipedia.org/wiki/Oxytocin)
 

@@ -9,7 +9,7 @@ Fluoxymesterone is a very potent oral steroid that exhibits extremely strong and
 
 For bodybuilders and strength athletes fluoxymesterone offers several distinct advantages over other drugs. However, these come with some serious potential side effects. It is because fluoxymesterone is such a strong androgen that it is such a sought after compound by some individuals, but also so poorly tolerated by others.
 
-##Use/Dosing
+## Use/Dosing
 
 In terms of use in bodybuilding, the primary application of fluoxymesterone is for cutting cycles. Users often note improved muscle density and hardness when using the drug in the final weeks prior to competition. Since the compound does not aromatize there should be no concerns regarding water retention or bloat. 
 
@@ -19,7 +19,7 @@ The main reason most strength athletes and bodybuilders use fluoxymesterone is t
 
 Non-experienced users of fluoxymesterone anecdotally report taking doses between 20mg to 50mg per day. Cycles of the compound usually will be run for a maximum of six weeks, with four weeks being the norm due to the risk of liver damage. Due to the active life of the drug, two to three doses of the compound are required throughout the day to maintain stable blood levels of the compound.
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Fluoxymesterone is composed of a 17-a methyl group, a 9-a fluorine, and a 11-OH group to help it from being broken down by the liver, therefore rendering the substance ineffective. It is due to this alteration that prolonged use of fluoxymesterone can lead to serious liver damage and why it is considered by steroid users to be one of if not the most hepatoxic anabolic steroids available. However, this is based largely on anecdotal evidence. 
 
@@ -31,7 +31,7 @@ Strong androgenic side effects are to be expected and are for the most part unav
 
 It is because fluoxymesterone is such a strong androgen that it is advisable that female athletes do not attempt to use this compound. Virilizing side effects can be very pronounced with this drug, coming on very quickly. Even those females that experiment with stronger compounds such as testosterone and methandrostenolone will stay away from fluoxymesterone.
 
-##References
+## References
 
 1. *Pfizer Pharmecutical Group Web Site, Pfizer.com*
 2. *British Columbia Cancer Agency Web Site, Drug Profiles, hhttp://www.bccancer.bc.ca/HPI/DrugDatabase/DrugIndexPt/Fluoxymesterone.htm*

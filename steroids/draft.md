@@ -2,7 +2,7 @@
 
 Post Cycle Therapy or PCT is a period of medication treatment that follows the use of anabolic steroids. Post Cycle Therapy is also one of the most confusing topics for many steroid users; this is largely due to misconceptions. When to start PCT, which meds to use, how long to use them and what you should expect, these are all common questions and ones we’ll address here.
 
-##The Purpose of PCT
+## The Purpose of PCT
 
 When we supplement with anabolic steroids we suppress our natural testosterone production. Testosterone, the primary male hormone, is essential to our very well being. Most men who supplement with anabolic steroids will always include at least a minimal amount of testosterone in their cycle due to this suppression factor.
 
@@ -10,7 +10,7 @@ Following the use of exogenous anabolic steroids, the majority of users will exp
 
 The human body will normally restore this imbalance of hormones and recover its endogenous Testosterone levels on its own over time with no assistance, but studies have demonstrated that without the intervention of Testosterone stimulating agents, this will occur over the course of up to 4 months or so. This is quite evidently enough time for the hormonal imbalance to wreak havoc on the body and result in any individual losing most or all of the newly gained muscle during this time. Therefore, all anabolic steroid users should be concerned with the fastest possible hormonal recovery, assisted and boosted with the use of Testosterone stimulating compounds in the proper manner. Furthermore, the attempt to allow the body to recover on its own will present a very high probability of long-term endocrine damage to the HPTA over time whereby the individual will develop anabolic steroid induced hypogonadism (the inability to manufacture proper levels of Testosterone for the rest of their life). It is therefore paramount that a proper post cycle therapy that includes multiple recovery compounds be utilized so as to not only restore the HPTA function to normal levels as quickly as possible, but to avoid any possible permanent damage, which takes priority over the concern of maintaining the recently gained muscle mass.
 
-##The HPTA: How It Works
+## The HPTA: How It Works
 
 The HPTA is the Hypothalamic Pituitary Testicular Axis, which is an axis of interconnected endocrine glands in the body that deal with and control Testosterone production.
 
@@ -38,7 +38,7 @@ Although there exist other hormones that serve to inhibit and suppress HPTA func
 
 This very basic understanding of the mechanisms of the HPTA and negative feedback loop described above is essential to understanding how and why a proper PCT program must be developed and utilized following an anabolic steroid cycle.
 
-##Determining Factors In Difficulty Recovering the HPTA
+## Determining Factors In Difficulty Recovering the HPTA
 
 With anabolic steroid use, there are several different major determining factors in how much difficulty an individual will experience in recovery of their HPTA and endogenous Testosterone function during PCT. They are the following factors, in no particular order of importance:
 
@@ -60,7 +60,7 @@ All anabolic steroids exhibit suppression or shutdown of the HPTA through the me
 
 This is perhaps the most important and most influential factor. As the length of anabolic steroid use continues, the majority of the Leydig cells of the testes remain dormant and inactive, and the longer these interstitial cells remain dormant and inactive, the greater the difficulty in essentially getting these cells to respond to the stimulus of LH and FSH once again. It has been discovered in studies that the issue of recovery of the Leydig cells following anabolic steroid use is not due to a lack of LH, but due instead to the desensitization of the Leydig cells to LH.^[1] In one study in which exogenous Testosterone was administered to male test subjects for 21 weeks, LH levels were suppressed shortly after beginning administration. However, at the end of the 21 week period, LH levels were observed to rise within 3 weeks once the exogenous Testosterone administration stopped, but Testosterone levels did not rise until many weeks later in most of the test subjects.
 
-##PCT Medications
+## PCT Medications
 
 The main testosterone stimulating agents for HPTA recovery during PCT are:
 
@@ -79,7 +79,7 @@ The main testosterone stimulating agents for HPTA recovery during PCT are:
 
 **Aromatase inhibitors:** These are compounds such as Aromasin (Exemestane), Arimidex (Anastrozole), and Letrozole (Femara). Rather than block the activity of Estrogen at the cellular level in different tissues, aromatase inhibitors (AIs) serve to lower total circulating Estrogen levels in the body by way of inhibiting the aromatase enzyme, which is the enzyme responsible for the conversion of androgens into Estrogen. The conversion of androgens into Estrogen results in excess Estrogen levels, which, as explained earlier in this article, will trigger the negative feedback loop leading to suppression of Testosterone production. By way of lowering total circulating blood plasma Estrogen levels, AIs will engage the negative feedback loop in a positive manner and result in the release of LH and FSH for the manufacture and secretion of more Testosterone. This is essentially due to the hypothalamus realizing that circulating Estrogen levels are too low, and will attempt to increase circulating levels of Testosterone in order for a portion of the Testosterone secreted to be able to become aromatized into Estrogen in order to restore the hormonal balance. The main importance of aromatase inhibitors is the ability to mitigate the Estrogenic effects of HCG, if HCG is utilized in certain ways that will be expanded on later. It is important to note, however, that the majority of aromatase inhibitors do not comply very well with SERMs such as Nolvadex, and that very specific choices should be made in regards as to which AI is used during PCT.
 
-###SERMs: Nolvadex, Clomid, Toremifene, &amp; Raloxifene
+### SERMs: Nolvadex, Clomid, Toremifene, &amp; Raloxifene
 
 The question is often asked among the anabolic steroid using community: Clomid or Nolvadex? Which one for PCT? But there are also relatively newer SERMs as well. Toremifene (Torem) &amp; Rolaxifene (Rolax).
 
@@ -135,7 +135,7 @@ In the study above comparing Nolva, Torem, &amp; Ralox, 60mg was the dosage used
 
 &amp;nbsp;
 
-###HCG
+### HCG
 
 The majority of anabolic steroid users from the 1960s – mid 1980s did not even utilize any compounds for the purpose of hormonal recovery, and the term PCT did not even exist at that time. When the use of HCG became increasingly popular (circa 1980), it was the only compound utilized. Since then, the medical and scientific understanding of such things has increased exponentially and there should be no reason for any informed and properly educated individual to utilize HCG on its own for PCT. When utilized in conjunction with one of the other two categories of compounds (an AI and a SERM), the dynamics change considerably.
 
@@ -214,7 +214,7 @@ This is where the AI is to be utilized as a supportive compound for HCG use in t
 
 &amp;nbsp;
 
-###Aromatase Inhibitors: Aromasin (Exemestane) Above All Else
+### Aromatase Inhibitors: Aromasin (Exemestane) Above All Else
 
 ***Ignore this section, UNLESS utilizing [HCG dosing 3 or 4.](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)***
 
@@ -238,15 +238,15 @@ Following these details, Aromasin would be the best possible aromatase inhibitor
 
 &amp;nbsp;
 
-###Side Effects
+### Side Effects
 
 As stated earlier, vision sides are common for both Clomid &amp; Nolva, more so with Clomid. Hot Flashes, Nausea are two common side effects of Clomid, Nolva, &amp; Torem. Depression is known to affect many in PCT and is an actual listed side effect of Nolva. **Please make sure you are aware of this and in a good place mentally before ever starting a cycle as you will be faced with the potential of depression in PCT.**
 
-###Drug Interactions
+### Drug Interactions
 
 As with all drugs you use, you should always [check for Drug Interactions.](https://www.drugs.com/drug_interactions.php) One known issue during PCT is with people taking SSRIs. Nolvadex and Toremifene have both been shown to have major interactions with one another. Particularly, SSRIs have been shown to reduce effectiveness of Nolvadex and SSRIs when taken with Toremifene have been shown to cause irregular heart rhythm that may be serious and potentially life-threatening, although it is a relatively rare side effect. In any case, if you're on a SSRI, it is best to use Clomid.
 
-##What to Expect from PCT
+## What to Expect from PCT
 
 The biggest problem with most PCT plans is the individual having unrealistic explanations. Most PCT plans will last 4-8 weeks and many men expect everything to be back to normal once this 4-8 week period is complete. PCT does not work this way. Many men also expect for all their gains be they weight or strength gains to be maintained post-PCT if the PCT plan was proper and appropriate. Again, PCT does not work this way.
 
@@ -254,37 +254,37 @@ A good PCT plan will help you protect and maintain some of the progress you made
 
 As stated, the primary purpose of PCT is to stimulate natural testosterone production. Some gains may be lost during this period, but it’s not the end of the world. For the steroid user he will be on cycle again one day. For the present period he should focus on his hormone recovery, continue to train and eat properly protecting the gains he can without putting on excess body fat.
 
-##When NOT to Run PCT
+## When NOT to Run PCT
 
 If you’re a hardcore steroid user, meaning you’re on cycle more than you’re off, running a PCT can be counter productive. For example, a man completes a cycle, implements PCT and then jumps back on cycle right after or soon after PCT. This is a very harsh practice and terrible for your body. You are shutting down your natural testosterone production, stimulating it through PCT and then shutting it right back down. You’ve put yourself on a never ending rollercoaster with your hormone levels that’s going to wreak havoc on your body. For such an individual he would be better off running a low dose of testosterone, therapeutic levels, during his time between cycles. This is not an approach most men should take. Most men who use steroids need to come off and stay off after PCT is complete for a time if long-term health is important to them.
 
 Another time not to run PCT is if you are a low testosterone patient. A low testosterone patient has no natural ability to produce enough testosterone on his own, which is why he needs testosterone supplementation. If he happens to implement a cycle at some point during his treatment, once the cycle is over he should simply continue on with his previous Testosterone Replacement Therapy (TRT). If you implement a PCT plan you’re only attempting to stimulate what is naturally a low level, and it will serve no purpose.
 
-##When to Start PCT
+## When to Start PCT
 
 Timing is a very important factor when it comes to PCT. If all short ester base steroids are used, such as Testosterone Propionate, Trenbolone Acetate, etc. PCT should begin 3-4 days after your last injection. However, if any long or large ester base steroids are used, such as Testosterone Cypionate, Tren Enanthate, etc. you’ll want to wait at least 14 days before beginning PCT. If Nandrolone Decanoate is used it may not be a bad idea to wait a full 21 days before beginning PCT -- Usually one would drop it a week before stopping Testosterone Enanthate or Cypionate.
 
-##When to Start Your Next Cycle
+## When to Start Your Next Cycle
 
 For optimal health the general rule to follow is time on + PCT, equals time off. If your cycle last 12 weeks, you wait 3 weeks to start PCT, and your PCT plan lasts 4 weeks, then you will wait 19 weeks before starting a new cycle. A mistake many men make is saying testosterone levels have recovered shortly after PCT and it is now okay to start a new cycle. If you do this you have not allowed your body time to normalize. True recovery means your levels can hold without any type of supplementation, if not then full recovery has not been reached.
 
-##Blood Work
+## Blood Work
 
 It’s always a good idea to get blood work done after PCT to see where your body is at; however, this won’t be the full story. When we run a PCT we are artificially stimulating natural testosterone production – the stimulation would not exist without the implementation of SERMs. The true tale of the tape is where your numbers are after a good bit of time has passed; say several months. The earlist time to check blood work would be a minimum of one month after cessation of SERM's. You will be looking for LH/FSH returning to fairly normal, as well as total and free testosterone levels. How do you know what normal is? What your levels were when you got your pre-cycle natural blood work.
 
-##The Danger
+## The Danger
 
 If you’re going to supplement with anabolic steroids there is one single truth you need to understand, risks exists. One of these risks is permanently lowering your natural testosterone production and forever being in need of TRT. Even with the best PCT plan in the world this risk exists. The point of PCT is to help and minimize this risk; it does not completely remove it. If this is something you cannot accept then anabolic steroid use is not for you.
 
-##PCT for Women
+## PCT for Women
 
-###Michael Scally (former) M.D.'s Thoughts:
+### Michael Scally (former) M.D.'s Thoughts:
 
 &gt;In the case of pre-menopausal females, tapering the anabolic-androgenic steroids (AAS) would be the best treatment. Anabolic steroid administration, like males, causes the HPGA to shutdown. However, stopping the AAS will produce menopausal like symptoms, therefore tapering until menses returns is best. The labs follicle stimulating hormone (FSH), luteneizing hormone (LH), progesterone (P) and estradiol (E2) will be the best indicator. They will show if the HPGA is affected adversely. In marked contrast to a man, the period typically returns within 1-2 months and will occur while tapering.
 
 &gt;I would NOT suggest “selective estrogen receptor modulators” (SERMs) or aromatase inhibitors (AIs) for a woman! NEVER! It is the equivalency of forcing them into menopausal symptoms. The HPGA/HPTA are very different. In fact, SERM/AI (such as Nolvadex and Arimidex) are used in Breast Cancer, which includes a significant number of adverse effects. Decreasing E2 in a man is far different from doing the same in a female. E2 and P are the main female hormones. Just imagine how a man feels that receives Androgen Deprivation Therapy (ADT) for Prostate Cancer.
 
-##Refrences
+## Refrences
 
 [1] Effect of long-term testosterone enanthate administration on male reproductive function: Clinical evaluation, serum FSH, LH, Testosterone and seminal fluid analysis in normal men. J. Mauss, G. Borsch et al. Acta Endocrinol 78 (1975) 373-84.
 
@@ -326,21 +326,21 @@ If you’re going to supplement with anabolic steroids there is one single truth
 
 [20] Alfred R. Ashford MD  Irina Donev MD  Ram P. Tiwari MD  T. J. Garrett MD, FRCP(C), FACP. Reversible ocular toxicity related to tamoxifen therapy. 1988. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/1097-0142%2819880101%2961%3A1%3C33%3A%3AAID-CNCR2820610107%3E3.0.CO%3B2-I)
 
-#PCT Protocols
+# PCT Protocols
 
 These are the official /r/steroids PCT Protocols. In general, the longer that you have been on cycle and not producing your own natural Test, the greater precaution you should take in your PCT.
 
 When something is written as "X/X/Y/Y", think of it as Week 1 daily dose/Week 2 daily dose/Week 3 daily dose/Week 4 daily dose/etc., etc..
 
-###SERM Dosing Note
+### SERM Dosing Note
 
 **Note:** As you've noticed in our [SERMs Dosing section](/steroids/draft.md#wiki_dosing), as well as below, /r/steroids recommends 6-8 weeks of SERMs. It is common for a lot of PCT options to only be 4 weeks. These protocols usually used double the dose for the first week or two. The only reason why many elect to utilize doubling the dose for the first 1-2 weeks of a PCT program is for the purpose of achieving optimal peak blood plasma levels quicker so as to ensure HPTA recovery quicker. This isn't necessary and just further increases your risk of potential sides. It has been studied that the longer you are on SERMs, the better your results of stimulating Testosterone.^[16] So to prevent unwanted sides as well as potentially achieve better results, we choose to suggest lower dosing over a longer period than 4 weeks.
 
-##Optimal/Primary PCT Options
+## Optimal/Primary PCT Options
 
 This is the PCT plans you should use if you want PCT to be as **as effective as possible.** This is highly recommended to those that have been on cycle a long time or that are coming off a Blast &amp; Cruise.
 
-###Nolvadex
+### Nolvadex
 
 ####**Option 1**
 
@@ -359,7 +359,7 @@ Starting 6 weeks before PCT (SERM).
 * **Week 0:** Stop HCG &amp; Starting SERM
  * **6-8 Weeks:** Nolvadex 20mg ED = 20/20/20/20/20/20 (/20/20)
 
-###Clomid
+### Clomid
 
 ####**Option 1**
 
@@ -378,7 +378,7 @@ Starting 6 weeks before PCT (SERM).
 * **Week 0:** Stop HCG &amp; Starting SERM
  * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
 
-###Torem
+### Torem
 
 ####**Option 1**
 
@@ -397,13 +397,13 @@ Starting 6 weeks before PCT (SERM).
 * **Week 0:** Stop HCG &amp; Starting SERM
  * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
-##Secondary PCT Options
+## Secondary PCT Options
 
 This is the PCT plans you should use if you were in a position where HCG wasn't an option until something changed and you now have access to it at the VERY end of your cycle.
 
 **Note:** Aromasin is added in to combat the E2 sides from HCG. Previously HCG was utilized on cycle and you'd just adjust AI as necessary. Since you are no longer on cycle, we will use Aromasin. This is a lot of Aromasin, but has clinically be shown to be effective in aiding to stimulate testicular function. You may end up experiencing [low E2 sides.](/steroids/the_estrogen_handbook.md#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing the Optimal/Primary PCT Options](/steroids/draft.md#wiki_optimal.2Fprimary_pct_options)
 
-###Nolvadex
+### Nolvadex
 
 ####**Option 1**
 
@@ -422,7 +422,7 @@ Taking HCG and SERM together.
 * **First 1-2 Weeks Of PCT:** HCG 1000-1500 iu EOD
 * **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](/steroids/draft.md#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)  
 
-###Clomid
+### Clomid
 
 ####**Option 1**
 
@@ -441,7 +441,7 @@ Taking HCG and SERM together.
 * **First 1-2 Weeks Of PCT:** HCG 1000-1500 iu EOD
 * **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](/steroids/draft.md#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
-###Torem
+### Torem
 
 ####**Option 1**
 
@@ -460,23 +460,23 @@ Taking HCG and SERM together.
 * **First 1-2 Weeks Of PCT:** HCG 1000-1500 iu EOD
 * **First 1-2 Weeks Of PCT:** Aromasin *up to* 25mg ED [(See Section)](/steroids/draft.md#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
-##Minimalist PCT Options
+## Minimalist PCT Options
 
 This is the PCT plans you should use if you were in a position where HCG isn't an option. It *may* not be *as* effective as the other plans, but it is sufficient and will aid tremendously.
 
-###Nolvadex
+### Nolvadex
 
 * **6-8 Weeks:** Nolvadex 20mg ED = 20/20/20/20/20/20 (/20/20)
 
-###Clomid
+### Clomid
 
 * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
 
-###Torem
+### Torem
 
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
-##Post Blast &amp; Cruise Recovery Not Endorsed By /r/steroids
+## Post Blast &amp; Cruise Recovery Not Endorsed By /r/steroids
 
 These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be used for information purposes only. They have proven effective for some, but optimally you will use [a PCT protocol listed above](/steroids/draft.md#wiki_pct_protocols)
 
@@ -491,7 +491,7 @@ These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be
 
 The above is a documented and approved PCT plan by former Dr. Scally. This can be found in Anabolics 10th Edition by William Llewellyn.
 
-###New PoWeR PCT
+### New PoWeR PCT
 *by Michael Scally (former) M.D.*
 
 * HCG - 2000 iu EOD – (first 20 days)
@@ -528,7 +528,7 @@ In other words, estrogen levels during brain development are responsible for the
 
 Finally, there's [this research](https://www.ncbi.nlm.nih.gov/pubmed/640052) (that was [referenced above](/steroids/draft.md#wiki_serms.3A_nolvadex.2C_clomid.2C_toremifene.2C_.26amp.3B_raloxifene)), which couldn't have been any more relevant. It directly examined the effects of nolva and clomid on the pituitary of human males. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking nolvadex at 20mg/day had a significantly increased LH response to GnRH. In contrast, **the men taking clomid had reduced LH output, a decreased sensitivity to GnRH.** The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen seems the most probable explanation."
 
-###Triptorelin PCT
+### Triptorelin PCT
 
 * Triptorelin 50-100mcg injected intra-muscularly **ONCE**
 
@@ -539,7 +539,7 @@ Pick one:
 
 The reason for the nolvadex or Toremifine is to prevent the estrogen rebound that is common with Triptorelin, one may also use an AI such as Armidex or Aromasin.
 
-###A Doctor's Recommended PCT (TRT Clinic)
+### A Doctor's Recommended PCT (TRT Clinic)
 
 /u/DeludedOldMan's TRT doctor recommend this plan when coming off a 9-month cruise:
 
@@ -564,11 +564,11 @@ The reason for the nolvadex or Toremifine is to prevent the estrogen rebound tha
 
 **NOTE**: Switching to a short ester test base such as propionate would be better than using enanthate or cypionate in the first two weeks of the above plan. Also, HCG is not needed for four weeks straight, instead should be run for one week, either week 2 or 3 at 200IU/E3D.
 
-###Jcaesar369 Recommended PCT Protocol
+### Jcaesar369 Recommended PCT Protocol
 
 **[Please Read The Original Post: Here](https://www.reddit.com/r/steroids/comments/4gmqs0/pct_meds_hcg_vs_hmg_and_fertility_outline/)**
 
-###TL;DR:
+### TL;DR:
 
 **Last 6 Weeks of Your Cycle / Blast &amp; Cruise:**  
 *(including the time needed to allow all compounds to clear)*
@@ -609,9 +609,9 @@ It should be noted that there is some controversy on whether [using two SERMs at
 
 **Disclaimer:** All of these RECOMMENDATIONS (not mandatory) are to be used as advice. All of Jcaesar369 suggestions are based off of large clinical FDA trials and studies, found in the original post for reference. 
 
-#Miscellaneous Findings
+# Miscellaneous Findings
 
-###Triptorelin/GnRH
+### Triptorelin/GnRH
 
 A newer approach receiving recent attention is Triptorelin, the GnRH agonist.  This is used in a continuous manner to chemically castrate a man, but in a one off dose, has been reported to kick start the PTA in a hypogonadic BB. Triptorelin is a synthetic analogue of GnRH. It causes constant stimulation of the pituitary gland and by acting as such, it stimulates the pituitary gland to pump out LH and FSH. The dose needed to cause chemical castration is much greater than the dose one would use to restart HPTA. The way Triptorelin hinders gonadotropin release is similar to how HCG will hinder test production in the testes. A small amount of HCG will stimulate the Leydig cells to produce testosterone, but too much will desensitize the Leydig cells. This is what GnRH does, but with the pituitary gland. Triptorelin has been studied to restore full HPTA function in a steroid user who cycled for 13 years. Due to it's nature it is advised that Triptorelin only be used if coming off long-term blasting and cruising or if one plans to cease AAS forever.
 
@@ -622,7 +622,7 @@ Anecdotal evidence claims that Triptorelin is capable of restoring HPTA function
 * http://www.ncbi.nlm.nih.gov/pubmed/1691703
 * http://www.ncbi.nlm.nih.gov/pubmed/20416868
 
-###Misc.
+### Misc.
 
 **Mechanism by which Nolvadex works:**
 

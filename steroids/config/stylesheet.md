@@ -18,7 +18,7 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, 
     margin: 0;
     padding: 0;
 }
-#header {
+# header {
     background-color: #fff;
     height: 120px;
     margin-bottom: 20px;
@@ -67,7 +67,7 @@ textarea {
 /* header list styling
 ======================================*/
 
-#sr-header-area {
+# sr-header-area {
     background-color: #000000 !important;
     border-bottom: 1px solid #333;
     color: #FFFFFF !important;
@@ -78,13 +78,13 @@ textarea {
 
 ul.sr-bar li a, .separator,
 a.subbarlink, a.undefined,
-#srDropdown #srDropdownContainer a {
+# srDropdown #srDropdownContainer a {
     color: #FFFFFF !important;
 }
 
 ul.sr-bar li a:hover, 
 a.subbarlink:hover, a.undefined:hover,
-#srDropdown #srDropdownContainer a:hover {
+# srDropdown #srDropdownContainer a:hover {
     color: #000 !important;
     text-decoration: none;
 }
@@ -96,19 +96,19 @@ div.sr-bar .RESShortcutsCurrentSub {
 
 /* main header */
 
-#header-bottom-left {
+# header-bottom-left {
     background: #000 url(%%participate-educate-grow%%) no-repeat 0% 100%;
     height: 120px;
     width: 100%;
 }
 
-#header-bottom-left .redditname {
+# header-bottom-left .redditname {
     position: absolute;
     top: 105px;
     left: 320px;
 }
 
-#header-bottom-left .redditname a {
+# header-bottom-left .redditname a {
     /*background: url(%%snoo-years2%%);*/
     width: 75px;
     height: 20px;
@@ -119,7 +119,7 @@ text-indent: -9999px;
 /* tab menu to choose how topics are displayed
 ======================================*/
 
-#header-bottom-left &gt; ul.tabmenu {
+# header-bottom-left &gt; ul.tabmenu {
     position: absolute;
     bottom: -53px !important;
     left: 0px !important;
@@ -129,16 +129,16 @@ text-indent: -9999px;
     padding-left: 15px;
 }
 
-#header-bottom-left &gt; ul.tabmenu li {
+# header-bottom-left &gt; ul.tabmenu li {
     margin-right: 5px;
     padding-top: 10px;
 }
 
-#header-bottom-left &gt; ul.tabmenu li:last-of-type {
+# header-bottom-left &gt; ul.tabmenu li:last-of-type {
     margin-right: 0;
 }
 
-#header-bottom-left &gt; ul.tabmenu a {
+# header-bottom-left &gt; ul.tabmenu a {
     background: none;
     font-size: 16px;
     position: relative;
@@ -149,32 +149,32 @@ text-indent: -9999px;
 
 .choice { text-transform: capitalize!important; }
 
-#header-bottom-left &gt; ul.tabmenu li a {
+# header-bottom-left &gt; ul.tabmenu li a {
     color: #fff;
 }
 
-#header-bottom-left &gt; ul.tabmenu li a:hover {
+# header-bottom-left &gt; ul.tabmenu li a:hover {
     text-decoration: underline;
 }
 
-#header-bottom-left &gt; ul.tabmenu li.selected {
+# header-bottom-left &gt; ul.tabmenu li.selected {
     border: none!important;
 }
 
 .tabmenu li.selected a { border: none; }
 
-#header-bottom-left &gt; ul.tabmenu li.selected a {
+# header-bottom-left &gt; ul.tabmenu li.selected a {
     border: none!important;    
 }
 
 /* wiki draw-to image 
 ======================================*/
 
-#header-bottom-left &gt; ul.tabmenu li a[href*="/wiki/"] {
+# header-bottom-left &gt; ul.tabmenu li a[href*="/wiki/"] {
     position: relative;
 }
 
-#header-bottom-left &gt; ul.tabmenu li a[href*="/wiki/"]:before {
+# header-bottom-left &gt; ul.tabmenu li a[href*="/wiki/"]:before {
     
     height: 74px !important;
     position: absolute;
@@ -185,8 +185,8 @@ text-indent: -9999px;
    
 }
 
-#header-img.default-header,
-#header-bottom-left a[id*="img"] {
+# header-img.default-header,
+# header-bottom-left a[id*="img"] {
     visibility: hidden;
 }
 
@@ -246,7 +246,7 @@ div#header-bottom-right a.login-required, div#remember-me a {
 /* mail icon styling
 ======================================*/
 
-#mail {
+# mail {
     position: relative;
     display: inline-block;
     text-indent: -9999px;
@@ -256,11 +256,11 @@ div#header-bottom-right a.login-required, div#remember-me a {
     padding: 0;
 }
 
-#mail.havemail {
+# mail.havemail {
     background: url(%%mail%%);
 }
 
-#mail.nohavemail {
+# mail.nohavemail {
     background: url(%%nomail%%);
 }
 
@@ -291,7 +291,7 @@ div#header-bottom-right a.login-required, div#remember-me a {
 /* content area where topics are shown 
  * ======================================*/
 
-#siteTable .thing {
+# siteTable .thing {
     background-color: #fff !important;
     border: 1px solid #cdcdcd !important;
     padding: 10px 10px 10px 0 !important;
@@ -302,7 +302,7 @@ div#header-bottom-right a.login-required, div#remember-me a {
 
 .res-nightmode #siteTable .thing { background: #111!important; border: 1px solid #000 !important; }
 
-#siteTable .thing:last-of-type {
+# siteTable .thing:last-of-type {
     margin: 0 !important;
 }
 
@@ -393,13 +393,13 @@ div.commentarea .author.submitter {
     vertical-align: bottom;
 }
 
-#text-desc, #link-desc {
+# text-desc, #link-desc {
     background-color: #ce0101 !important;
     border: 1px solid #cdcdcd !important;
     color: #fff !important;
 }
 
-#text-desc::after{
+# text-desc::after{
     display: block;
     margin-top: 1em;
     content: " ANY source discussion will result in a ban. Message the mods if in doubt. If your post can be answered easily by the wiki it will be removed.";
@@ -408,7 +408,7 @@ div.commentarea .author.submitter {
     text-align: center;
 }
 
-#link-desc::after {
+# link-desc::after {
     display: block;
     margin-top: 1em;
     content: " ANY linking to sources will result in a ban. Message the mods if in doubt. If your post can be answered easily by the wiki it will be removed.";
@@ -443,7 +443,7 @@ div.roundfield.info-notice {
     width: 300px;
 }
 
-#search {
+# search {
     width: 300px;
 }
 
@@ -779,7 +779,7 @@ div.collapsed &gt; a.expand:first-child + em + time + a.expand, div.collapsed &g
     display: none
     }
 
-#siteTable {
+# siteTable {
     margin-top: 35px;
     }
 
@@ -1153,7 +1153,7 @@ a[href*="#topicdiscussion"]:hover::before{
 
 .link .rank { margin-top: 19px; }
 
-#siteTable .thing.stickied { border: 3px solid #0e76a5!important; box-shadow: 0 0px 5px rgba( 0, 0, 0, .7) inset; }
+# siteTable .thing.stickied { border: 3px solid #0e76a5!important; box-shadow: 0 0px 5px rgba( 0, 0, 0, .7) inset; }
 
 /* flair
 ======================================*/
@@ -1463,7 +1463,7 @@ a.author.friend {
   }
 }
 
-#siteTable .thing.linkflair-forum { border: 3px solid #a187be!important; box-shadow: 0 0px 5px rgba( 0, 0, 0, .7) inset; }
+# siteTable .thing.linkflair-forum { border: 3px solid #a187be!important; box-shadow: 0 0px 5px rgba( 0, 0, 0, .7) inset; }
 
 a:hover.helplink::before {
 	content: "!!! DO NOT ASK US WHY YOU CANNOT MAKE A POST !!!";

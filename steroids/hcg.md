@@ -13,9 +13,9 @@ Individuals will also often use HCG to combat testicular atrophy, a result of th
 
 \* hCG offers female athletes no performance-enhancing qualities, and is useless for this purpose. 
 
-##Use/Dosing
+## Use/Dosing
 
-###Mixing HCG
+### Mixing HCG
 
 Mixing 2ml bac water with 5000iu hCG will provide 250iu for every tenth of a ml/cc. This will provide you 20 250iu hCG doses.  
 
@@ -33,7 +33,7 @@ High doses of hCG have been shown to cause a large amount of aromatase activity.
 
 It is important to note that hCG should only be run while a user is still on cycle, and not during PCT. This is due to hCG actually being **suppressive** to the HPTA. Obviously this is something to be avoided when attempting to “restart” your natural testosterone production. Ensure that the last shot of hCG is taken within several days of the start time of post-cycle therapy so that it has cleared the system of the user and the compounds being taken for PCT can function as intended.
 
-###250 IU EOD 
+### 250 IU EOD 
 
 The recommended dose found most effective in studies while being cost effective is **250 IU Every Other Day**.
 
@@ -45,7 +45,7 @@ Rather than run hCG all cycle as recommended as the first option, some individua
 
 The most recommended and oft-used method is to run hCG throughout the cycle. The theory behind this method is that it is much easier to attempt to *maintain* testicular function throughout a cycle, rather than to try and “restart” proper functioning. The recommended dose and frequency for this purpose is 250 IU Every Other Day. 
 
-##Side Effects/Risks
+## Side Effects/Risks
 
 Gynecomastia — In a *very small number* of users, hCG can stimulate the formation of gynecomastia. Due to the fact luteinizing hormone (LH) and human chorionic gonadotropin (hCG) receptors are found in various tissues all over the body other than just the gonads, hCG can have an effect on these tissues, resulting in possible negative side effects when administered. 
 
@@ -53,11 +53,11 @@ This is unrelated to estrogen levels or increased levels of prolactin, the most 
 
 There is no known method to combat this side effect in men who experience it, leaving the only option to treat this effect the cessation of hCG altogether. Fortunately, it appears that when stopped, the gynecomastia that has developed begins to dissipate rapidly and becomes unnoticeable within a matter of days to weeks in the majority of cases.
 
-##Related Studies
+## Related Studies
 
 1. [Low-Dose Human Chorionic Gonadotropin Maintains Intratesticular Testosterone in Normal Men with Testosterone-Induced Gonadotropin Suppression](http://press.endocrine.org/doi/abs/10.1210/jc.2004-0802)
 
-##References
+## References
 
 1. *Acute stimulation of aromatization in Leydig cells by human chorionic gonadotropin in vitro. Proc Natl Acad Sci USA 76:4460-3, 1979*
 2. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp. 272-3*

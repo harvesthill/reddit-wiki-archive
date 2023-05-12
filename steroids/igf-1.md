@@ -21,7 +21,7 @@ In some animal studies there have been significant findings that support the ide
 
 As stated, the IGF1 produced by the human body is seventy amino acids in length. However a different IGF1 composition is available. Called Long R3 Insulin-Like Growth Factor-1 (LR3 IGF1), it has the original seventy amino acids of regular IGF1 with a substitution of Arginine in place of Glutamic Acid at position three in the sequence. Additionally thirteen more amino acids have been added to the sequence. This extension peptide is located at the N-terminus in the sequence. These alterations were made so that the hormone would be more likely to remain active and potent when it encounters Insulin-Like Growth Factor-1 binding proteins in the body^6 . All of this adds up to LR3 IGF1 being potentially three times as potent as the regular version of IGF1, or human IGF1 (huIGF1). Obviously this makes LR3 IGF1 more attractive for strength athletes and bodybuilders. For this reason it is now the most widely available version for purchase due to the compound having all of the benefits of regular IGF1, and being potentially three times as potent, while having no additional risks or side effects to that of regular IGF1. 
 
-##Use/Dosing
+## Use/Dosing
 
 Depending upon which form of IGF1 which a person is administering, the dosing will differ slightly. For huIGF1 dosing users will want to inject the drug post-workout, most likely in the muscle(s) that was worked out to help produce any potential local site growth if any is indeed possible. Due to the extremely short active life of the drug users will likely want to inject the drug several times to help and prolong the effects of the drug. Splitting the dose into two to four injections should be sufficient. When administering the compound on days where the user does not work out a similar dosing protocol could be used in any of the muscles that the user desires. 
 
@@ -33,7 +33,7 @@ The duration that a user will want to run IGF1 for is determined by the fact tha
 
 In terms of dosing for huIGF1, users have reported seen good results when administering dosing ranging from 100 to 160 mcg per day. This total dose would be split into several injections, most of which would likely be administered post-workout. For LR3 IGF1, the generally excepted or reported range for dosing is seemingly between 40 to 120 mcg per day. Again however due to the lack of research concerning IGF1 and its use in athletes these dosages are composed of through the collection of anecdotal evidence from users and not scientific research. 
 
-##Risks/Side Effects
+## Risks/Side Effects
 
 Beyond the natural downgrading of the IGF1 receptors when using exogenous IGF1, there are appears to be little in the way of significant risks to the health of the user associated with its use. Caution has to be used when saying this however again due to the lack of empirical research conducted using this drug on human subjects. 
 
@@ -48,7 +48,7 @@ A trait that again is shared with human growth hormone is the fact that use of I
 
 In addition, while it is possible that IGF1 could cause abnormal organ growth and/or acromegaly it would simply take overly large doses used for long durations of time for this to occur in users. With normal use of the drug these side effects should not be a concern for the vast majority of users however. 
 
-##References
+## References
 
 1. *Smith GD, Gunnell D, Holly J. Cancer and insulin-like growth factor-I. A potential mechanism linking the environment with cancer risk. BMJ. 2000 Oct 7;321(7265):847-8.*
 2. *Sienkiewicz P, Palka M, Palka J. Oxidative stress induces IGF-I receptor signaling disturbances in cultured human dermal fibroblasts. A possible mechanism for collagen biosynthesis inhibition. Cell Mol Biol Lett. 2004;9(4A):643-50.*

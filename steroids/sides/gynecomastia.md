@@ -14,7 +14,7 @@ Gyno that is induced during the normal processes of being born, growing up and g
 
 * **Chronic Conditions.**  It is fairly rare to have chronic condition induced gynecomastia.  There are, however, many conditions from which it may result.
 
-###Non-physiologic.
+### Non-physiologic.
 
 Gynecomastia that is induced from the use of medications (including AAS).  Approximately 10-25% of all gynecomastia falls into this category.  Approximately 1/3rd of all steroid users are, or will be, affected.  The likelihood of having to deal with the prevention or elimination of gynecomastia for AAS users is very high.
 
@@ -22,7 +22,7 @@ Approximately 4% of Testosterone is converted to [dihydrotestosterone](http://en
 
 [Aromatase](http://en.wikipedia.org/wiki/Aromatase) catalyzes the three successive [hydroxylations](http://en.wikipedia.org/wiki/Hydroxylation) of the 19-methyl group of androgens, followed by simultaneous elimination of the methyl group as formate and aromatization of the A-ring.  This chemical process is called "aromatization" and the step by step chemical process is [depicted here](http://i.imgur.com/0SvUyzQ.png).  Inhibiting aromatase from taking part in this process is very effective in controlling estrogen production.
 
-###Pseudogynecomastia
+### Pseudogynecomastia
 
 In the case of [pseudogynecomastia](http://www.gynecoma.com/pseudogynecomastia-symptoms-diagnosis-treatment/), the reason for breast enlargement is actually fat rather than breast tissue which in turn, leads to the chubbiness or feminization of the breast. 
 
@@ -36,15 +36,15 @@ With experience, AAS users can often learn to judge their current estrogen level
 
 The treatments vary depending on how long the gyno has existed.  The key to all of the treatments is to eliminate estrogen interaction in the breast cells promoting growth.
 
-###Over Two Years
+### Over Two Years
 
 There have been some reports of some of the same standard medicinal treatments working in these cases.  Typically, however, surgical removal is the only thing that will remove gyno this old.  
 
-###Under Two Years
+### Under Two Years
 
 There are many reports of being able to eliminate gyno that is of this age through extended periods of near complete estrogen suppression or SERM use.
 
-###Acute
+### Acute
 
 If caught quickly, acute gyno can be eliminated without much effort or worry.  There is not much time to waste, therefore getting treatment immediately is paramount.  Treatment of acute gynecomastia typically focuses on immediate suppression of Estrogen as a primary course of action.  This, combined with a SERM proves very effective to eliminate acute gyno presentation.
 
@@ -56,7 +56,7 @@ There are two categories of drugs that are administered to help in clearing up g
 
 **1.**&amp;nbsp;&amp;nbsp;[Aromatase Inhibitors](http://en.wikipedia.org/wiki/Aromatase_inhibitor) (AIs).  These block enzymatic action of aromatase and therefore down regulate the conversion of testosterone to estrogen.  
 
-###Non-steroidal Inhibitors.  
+### Non-steroidal Inhibitors.  
 These drugs inhibit aromatization by reversible competition for the aromatase enzyme.  By using up the aromatase molecules in the system, it is unavailable to participate in aromatization which greatly slows down the process.
 
 * [Testolactone](http://en.wikipedia.org/wiki/Testolactone) is an older, weaker, and relatively expensive first series AI.  At a dose of 250mg, it will block approximately 25% of aromatization.
@@ -65,7 +65,7 @@ These drugs inhibit aromatization by reversible competition for the aromatase en
 
 * [Letrozole](http://en.wikipedia.org/wiki/Letrozole) is a very strong AI that, at a dose of 2.5mg, it will block 99% of aromatization.
 
-###Irreversable Steroidal Inhibitors.
+### Irreversable Steroidal Inhibitors.
 These drugs form a permanent and deactivating bond with the aromatase enzyme.  This prohibits the aromatase molecule from participating in the aromatization of testosterone.
 
 * [Aminoglutethimide](http://www.reddit.com/r/steroids/wiki/cytadren)  (Cytadren).  This also has the affect of being able to lower circulating levels of cortisol at higher doses.  Cortisol is catabolic to protein in muscle and effective blockade of P450scc by aminogluthethimide at high doses prevents muscle loss.
@@ -82,7 +82,7 @@ These drugs form a permanent and deactivating bond with the aromatase enzyme.  T
 
 * [Toremifene](http://en.wikipedia.org/wiki/Toremifene) has anecdotal information that it will reduce gyno.  More information needed.
 
-##Protocols discussed in AAS users communities
+## Protocols discussed in AAS users communities
 
 ***This is not medical advice.  All treatments for gynecomastia should be in full consultation with a licensed physician.  Everything expressed here are simply ideas to discuss with a physician.*** 
 
@@ -92,7 +92,7 @@ These drugs form a permanent and deactivating bond with the aromatase enzyme.  T
 
 * A combination of 40mg / day of Tamoxifen with .5mg / day of Arimidex has been suggested as a way to halt acute gyno.
 
-##Related Posts
+## Related Posts
 
 [Gynecomastia – evaluation and current treatment options](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3071351/)
 
@@ -108,7 +108,7 @@ These drugs form a permanent and deactivating bond with the aromatase enzyme.  T
 
 [Foo-Dog's Gyno Series-Part 2](http://www.reddit.com/r/steroids/comments/2ulr4d/my_personal_experience_with_gyno_surgery_part_2/)
 
-##References
+## References
 
 https://www.gynecomastia.org/  
 http://www.ncbi.nlm.nih.gov/pubmed/920892  

@@ -1,17 +1,17 @@
 #Solvents 
 *****
 
-##Benzyl Benzoate
+## Benzyl Benzoate
 
-###Application
+### Application
 
 Benzyl benzoate is used as a solvent in intramuscular injections at concentrations of 0.01–46.0% v/v^[1] .
 
-###Description
+### Description
 
 A colourless oily liquid with a faint aromatic odour, and a sharp burning taste. At temperatures below 17°C it exists as colourless crystals.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -21,31 +21,31 @@ A colourless oily liquid with a faint aromatic odour, and a sharp burning taste.
 |**Freezing Point**|17°C|
 |**Solubility**|soluble in acetone; miscible in chloroform, ethanol, ether and fatty acids and oils|
 
-###Stability/Storage
+### Stability/Storage
 
 Benzyl alcohol is stable when stored properly. It should be stored in an airtight glass container, protected from light, in a cool, dry place, not exceeding 40°C.
 
-###Safety
+### Safety
 
 Benzyl benzoate is metabolized by rapid hydrolysis to benzoic acid and benzyl alcohol. Adverse reactions to benzyl benzoate include skin irritation and hypersensitivity reactions. Oral ingestion can cause harmful stimulation of the CNS and convulsions. Benzyl benzoate should be avoided by people with perfume allergies.
 
-###Handling
+### Handling
 
 Observe normal precautions. Benzyl benzoate is an irritant to the skin, eyes, and mucous membranes. Eye protection, gloves, and protective clothing are recommended. Benzyl benzoate should be handled in a well-ventilated environment. Benzyl benzoate is flammable.
 *****
-##Dimethyl Sulfoxide
+## Dimethyl Sulfoxide
 
-###Application
+### Application
 
 Dimethyl sulfoxide is a polar substance that is aprotic, lacking both acidic and basic properties. It has exceptional solvent properties for both organic and inorganic compounds. Dimethyl sulfoxide enhances the topical penetration of drugs, however, much of the enhancement capacity is lost if the solvent is diluted. Increases in drug penetration have been observed with dimethyl sulfoxide concentrations as low as 15%, however, significant increases require concentrations higher than 60–80%. 
 
 Dimethyl sulfoxide is now incorporated into a number of regulated products for drug delivery applications, including stabilizing formulations, and formulations for sustained-release applications. Dimethyl sulfoxide has also been used in the formulation of an injection containing allopurinol^[2] .
 
-###Description
+### Description
 
 Dimethyl sulfoxide is a colourless liquid, or frozen crystal that is miscible with water, alcohol, and ether. It has a bitter taste with a sweet aftertaste and has a slight garlic infused solvent-like odour. Dimethyl sulfoxide is extremely hygroscopic, absorbing up to 70% of its own weight in water with the application of heat.
 
-###Properties
+### Properties
 
 |Property|Data|
 |:-----------|:------------|
@@ -56,27 +56,27 @@ Dimethyl sulfoxide is a colourless liquid, or frozen crystal that is miscible wi
 |**Freezing Point**|19°C|
 |**Viscosity**|2.47 mPa s at 20°C|
 
-###Stability/Storage
+### Stability/Storage
 
 Dimethyl sulfoxide is reasonably stable to heat however, when heated to decomposition the fumes are toxic. At temperatures between 40 and 60°C, it has been suggested that dimethyl sulfoxide may partially decompose, indicated by changes in density, and viscosity^[4] 
 
 Dimethyl sulfoxide should be stored in an airtight glass container, protected from light, in a cool, dry place, not exceeding 40°C. Storage in plastics should be avoided.
 
-###Safety
+### Safety
 
 Dimethyl sulfoxide has relatively low toxicity but can cause local toxic effects^[5] . It is readily absorbed after injection or after oral or topical administration. Dimethyl sulfoxide acts as an irritant on skin, causing redness, burning, itching, and scaling. Systemic symptoms may include nausea, vomiting, chills, cramps, and lethargy. Administration of dimethyl sulfoxide is generally followed by a garlic-like odour on the breath^[6] . One report describes a massive intracranial hemorrhage associated with dimethyl sulfoxide ingestion^[8] , and a hypersensitivity reaction attributed to dimethyl sulfoxide has also been reported^[9]
 
 In 1965 the FDA banned investigation, in humans, of dimethyl sulfoxide; however in 1966, the FDA allowed the study of dimethyl sulfoxide in serious conditions and by 1968 permitted studies using short-term topical application of the solvent. By 1980, the FDA no longer strictly regulated investigations of dimethyl sulfoxide.
 
-###Handling
+### Handling
 
 Observe normal precautions. Dimethyl sulfoxide may cause irritation to the skin. Gloves and eye protection are recommended.
 
 *****
 
-##Polyethylene Glycol (PEG)
+## Polyethylene Glycol (PEG)
 
-###Application
+### Application
 
 Polyethylene glycols (PEGs) are widely used in a variety of formulations, including parenteral, topical, and oral preparations.
 
@@ -88,13 +88,13 @@ In concentrations up to approximately 30% v/v, PEG 300/PEG 400 have been used as
 
 Polyethylene glycols can also be used to enhance the aqueous solubility or dissolution characteristics of poorly soluble compounds by making solid dispersions with an appropriate polyethylene glycol^[9]
 
-###Description
+### Description
 
 Polyethylene glycol grades 200–600 are liquids; grades 1000 and above are solids at standard ambient temperatures.
 
 Liquid grades (PEG 200–600) present as a clear, colourless or slightly yellow coloured liquid. They have a slightly sweet odour and a slight bitter and/or burning taste. Solid grades are white or off-white in colour, and range in consistency. 
 
-###Properties
+### Properties
 
 |Type of PEG|Density (g/cm^3 )|Freezing Point|Viscosity (mPa s)|
 |:-----------|:------------|:------------|:------------|
@@ -107,13 +107,13 @@ Liquid grades (PEG 200–600) present as a clear, colourless or slightly yellow 
 
 All grades of polyethylene glycol are soluble in water and are miscible in all proportions with other liquid polyethylene glycols. Liquid polyethylene glycols are soluble in acetone, alcohols, benzene, glycerin, and glycols. 
 
-###Stability/Storage
+### Stability/Storage
 
 Liquid polyethylene glycols are chemically stable in air and in solution, and are hygroscopic. Polyethylene glycols do not support microbial growth, and they do not become rancid. Polyethylene glycols and aqueous polyethylene glycol solutions can be sterilized by autoclaving, filtration, or gamma irradiation^[10]
 
 Polyethylene glycols should be stored in an airtight glass container, protected from light, in a cool, dry place, not exceeding 40°C. 
 
-###Safety
+### Safety
 
 Polyethylene glycols are generally regarded as non-toxic and non-irritants although hypersensitivity reactions to polyethylene glycols applied topically have also been reported, including urticaria and delayed allergic reactions^[11]
 
@@ -123,11 +123,11 @@ Liquid polyethylene glycols may be absorbed when taken orally, but higher-molecu
 
 In parenteral products, the maximum recommended concentration of PEG 300 is approximately 30% as hemolytic effects have been observed at concentrations greater than approximately 40% v/v.
 
-###Handling
+### Handling
 
 Observe normal precautions.
 
-#Sources/References
+# Sources/References
 *****
 
 1. [Spiegel AJ, Noseworthy MM. *Use of nonaqueous solvents in parenteral products.* J Pharm Sci 1963; 52: 917–927.](http://onlinelibrary.wiley.com/doi/10.1002/jps.2600521003/abstract)

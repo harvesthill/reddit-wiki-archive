@@ -1,6 +1,6 @@
 #Esters
 
-##A Primer On Esters And How They Work
+## A Primer On Esters And How They Work
 
 One of the most misunderstood subjects in the world of steroids is the ester--the mechanism by which injectable esterified steroids like testosterone cypionate, testosterone enanthate, and Sustanon work. If you take a quick look around the Internet you will probably find countless articles that consider one form of a steroid far more effective than another. Arguments over the superiority of cypionate to enanthate, or Sustanon to all other testosterones are of course very common. Such arguments are in all practicality, baseless. In this report we'll take an authoritative look at the ester and what specifically it does to a steroid.
 
@@ -12,7 +12,7 @@ Slowing the release of the parent steroid is a great benefit in steroid medicine
 
 Esterification temporarily deactivates the steroid molecule. With a chain blocking the 17th beta position, binding to the androgen receptor is not possible (it can exert no activity in the body). In order for the compound to become active the ester must therefore first be removed. This automatically occurs once the compound has filtered into blood circulation, where esterase enzymes quickly cleave off (hydrolyze) the ester chain. This will restore the necessary hydroxyl (OH) group at the 17th beta position, enabling the drug to attach to the appropriate receptor. Now and only now will the steroid be able to have an effect on skeletal muscle tissue. You can start to see why considering testosterone cypionate much more potent than enanthate makes little sense, as your muscles are seeing only free testosterone no matter what ester was used to deploy it.
 
-##Actions Of Different Esters
+## Actions Of Different Esters
 
 There are many different esters that are used with anabolic/androgenic steroids, but again, they all do basically the same thing. Esters vary only in their ability to reduce a steroid's water solubility. An ester like propionate for example will slow the release of a steroid for a few days, while the duration will be weeks with a decanoate ester. Esters have no effect on the tendency for the parent steroid to convert to estrogen or DHT (dihydrotestosterone: a more potent metabolite) nor will it effect the overall muscle-building potency of the compound. Any differences in results and side effects that may be noted by bodybuilders who have used various esterified versions of the same base steroid are just issues of timing. Testosterone enanthate causes estrogen related problems more readily than Sustanon, simply because with enanthate testosterone levels will peak and trough much sooner (1-2 week release duration as opposed to 3 or 4). Likewise testosterone suspension is the worst in regards to gyno and water bloat because blood hormone levels peak so quickly with this drug. Instead of waiting weeks for testosterone levels to rise to their highest point, here we are at most looking at a couple of days. Given an equal blood level of testosterone, there would be no difference in the rate of aromatization or DHT conversion between different esters. There is simply no mechanism for this to be possible.
 
@@ -48,7 +48,7 @@ Undecanoate | 16.5 days | 20.9 days
 
 **IMPORTANT NOTE:** These half-lives are approximations, and may vary slightly depending on injection site, carrier oil, and other factors. There isn't any pharmacokinetics studies done on the majority of AAS. [Most of the above is the theoretical half-lives when we are not presented with real data.](https://imgur.com/a/4nKhwXD)
 
-##Esters And The Active Dose
+## Esters And The Active Dose
 
 It is important for every person to understand that the ester which is attached to any injectable anabolic steroid possesses a certain percentage amount of the total molecular weight of the molecule. Therefore, for example, 100mg of Testosterone Enanthate is not 100mg of pure Testosterone. The reality is that you are receiving less Testosterone than most of you think, and once the ester has been removed through the esterase enzyme, the amount of pure un-esterified Testosterone left over is very different depending on the ester in question that was previously attached to the hormone.
 
@@ -109,56 +109,56 @@ Long chain esters, such as Cypionate, Decanoate, Enanthate, etc. possess a much 
 |Trenbolone Hexahydrobenzyl Carbonate|65 mg|
 |Trenbolone Cyclohexylmethylcarbonate|65 mg|
 
-##Sustanon: The "King" Of Testosterone Blends
+## Sustanon: The "King" Of Testosterone Blends
 
 The four different testosterone esters in this product certainly look appealing to the consumer, there is no denying that. But for the athlete I think it is all just a matter of marketing (Hell, why buy one ester when you can get four?). In clinical situations I can see some strong uses for it. If you were undergoing testosterone replacement therapy for example, you would probably find Sustanon a much more comfortable option than testosterone enanthate. You would need to visit the doctor less frequently for an injection, and blood levels should be more steadily maintained between treatments. But for the bodybuilder who is injecting 4 ampules of Sustanon per week, there is no advantage over other testosterone products. In fact, the high price tag for Sustanon usually makes it a very poor buy in the face of cheaper testosterone enanthate/cypionate. Bodybuilders should probably stop looking at the four ester issue, and stick with totals (Sustanon is just a 250mg testosterone ampule). Were enanthate to be available for say $10 per amp of 250mg, and Sustanon priced nearly double that, buying the Sustanon would be like throwing money away. If you could get nearly double the milligram amount for the same price with enanthate, this is the better product to go with hands down. Leave the high priced stuff for the guys who don't know any better.
 
-##Ester Profiles
+## Ester Profiles
 
-###Acetate ( C^2 H^4 O^2 )
+### Acetate ( C^2 H^4 O^2 )
 
 Also referred to as Acetic Acid; Ethylic acid; Vinegar acid; vinegar; Methanecarboxylic acid. Acetate esters delay the release of a steroid for only a couple of days. Contrary to what you may have read, acetate esters do not increase the tendency for fat removal. Again, there is no known mechanism for it to do so. This ester is used on oral primobolan tablets (metenolone acetate), Finaplix (trenbolone acetate) implant pellets, and occasionally testosterone.
 
-###Propionate ( C^3 H^6 O^2 )
+### Propionate ( C^3 H^6 O^2 )
 
 Also referred to as Carboxyethane; hydroacrylic acid; Methylacetic acid; Ethylformic acid; Ethanecarboxylic acid; metacetonic acid; pseudoacetic acid; Propionic Acid. Propionate esters will slow the release of a steroid for several days. To keep blood levels from fluctuating greatly, propionate compounds are usually injected two to three times weekly. Testosterone propionate and methandriol dipropionate (two separate propionate esters attached to the parent steroid methandriol) are popular items.
 
-###Phenylpropionate ( C^9 H^10 O^2 )
+### Phenylpropionate ( C^9 H^10 O^2 )
 
 Also referred to as Propionic Acid Phenyl Ester. Phenylpropionate will extend the release of active steroid a few days longer than propionate. To keep blood levels even, injections are given at least twice weekly. Durabolin is the drug most commonly seen with a phenylpropionate ester (nandrolone phenylpropionate), although it is also used with testosterone in Sustanon and Omnadren.
 
-###Isocarpoate ( C^6 H^12 O^2 )
+### Isocarpoate ( C^6 H^12 O^2 )
 
 Also referred to as Isocaproic Acid; isohexanoate; 4-methylvaleric acid. Isocaproate begins to near enanthate in terms of release. The duration is still shorter, with a notable hormone level being sustained for approximately one week. This ester is used with testosterone in the blended products Sustanon and Omnadren.
 
-###Caproate ( C^6 H^12 O^2 )
+### Caproate ( C^6 H^12 O^2 )
 
 Also referred to as Hexanoic acid; hexanoate; n-Caproic Acid; n-Hexoic acid; butylacetic acid; pentiformic acid; pentylformic acid; n-hexylic acid; 1-pentanecarboxylic acid; hexoic acid; 1-hexanoic acid; Hexylic acid; Caproic acid. This ester is identical to isocarpoate in terms of atom count and weight, but is laid out slightly different (Isocaproate has a split configuration, difficult to explain here but easy to see on paper). Release duration would be very similar to isocaproate (levels sustained for approximately one weak), perhaps coming slightly closer to enanthate due to its straight chain. Caproate is the slowest releasing ester used in Omnadren, which is why most athletes notice more water retention with this compound.
 
-###Enanthate ( C^7 H^14 O^2 )
+### Enanthate ( C^7 H^14 O^2 )
 
 Also referred to as heptanoic acid; enanthic acid; enanthylic acid; heptylic acid; heptoic acid; Oenanthylic acid; Oenanthic acid. Enanthate is one of the most prominent esters used in steroid manufacture (most commonly seen with testosterone but is also used in other compounds like Primobolan Depot). Enanthate will release a steady (yet fluctuating as all esters are) level of hormone due to the length of the ester. Although in medicine enanthate compounds are often injected on a bi-weekly or monthly basis, athletes will inject at least weekly to help maintain a uniform blood level.
 
-###Cypionate ( C^8 H^14 O^2 )
+### Cypionate ( C^8 H^14 O^2 )
 
 Also referred to as Cyclopentylpropionic acid, cyclopentylpropionate. Cypionate is a very popular ester here in the U.S., although it is scarcely found outside this region. Its release duration is almost identical to enanthate, and the two are likewise thought to be interchangeable in U.S. medicine. Althletes commonly hold the belief than cypionate is more powerful than enanthate, although realistically there is little difference between the two. The enanthate ester is in fact slightly smaller than cypionate, and it therefore releases a small (perhaps a few milligrams) amount of steroid more in comparison.
 
-###Decanoate ( C^10 H^20 O^2 )
+### Decanoate ( C^10 H^20 O^2 )
 
 Also referred to as decanoic acid; capric acid; caprinic acid; decylic acid, Nonanecarboxylic acid. The Decanoate ester is most commonly used with the hormone nandrolone (as in Deca-Durabolin) and is found in virtually all corners of the world. Testosterone decanoate is also the longest acting constituent in Sustanon, greatly extending its release duration. The release time with Decanoate compounds is listed to be as long as one month, although most recently we are finding that levels seem to drop significantly after two weeks. To keep blood levels more uniform, athletes (as they have always known to do) will follow a weekly injection schedule.
 
-###Undecylenate ( C^11 H^20 O^2 )
+### Undecylenate ( C^11 H^20 O^2 )
 
 Also referred to as Undecylenic acid; Hendecenoic acid; Undecenoic acid. This ester is very similar to decanoate, containing only one carbon atom more. Its release duration is likewise very similar (approximately 2-3 weeks), perhaps extending a day or so past that seen with decanoate. Undecylenate seems to be exclusive to the veterinary preparation Equipoise (boldenone undecylenate), although there is no reason it would not work well in human-use preparations (Equipoise certainly works fine for athletes). Again, weekly injections are most common.
 
-###Undecanoate ( C^11 H^22 O^2 )
+### Undecanoate ( C^11 H^22 O^2 )
 
 Also referred to as Undecanoic Acid; 1-Decanecarboxylic acid; Hendecanoic acid; Undecylic acid. Undecanoate is not a commonly found ester, and only appears to be used in the nandrolone preparation Dynabolan, and oral testosterone undecanoate (Andriol). Since this ester is chemically very similar to undecylenate (it is only 2 hydrogen atoms larger), it has a similar release duration (approximately 2-3 weeks). Although this ester is used in the oral preparation Andriol, there is no reason to believe it carries any properties unique of other esters. Andriol in fact works very poorly at delivering testosterone, bolstering the idea that oral administration is not the idea use of esterified androgens.
 
-###Laurate ( C^12 H^24 O^2 )
+### Laurate ( C^12 H^24 O^2 )
 
 Also referred to as Dodecanoic acid, laurostearic acid, duodecyclic acid, 1-undecanecarboxylic acid, and dodecoic acid. Laurate is the longest releasing ester used in commercial steroid production, although longer acting esters do exist. Its release duration would be closer to one month than the other esters listed above, although realistically we are probably to expect a notable drop in hormone level after the third week. Laurate is exclusively found in the veterinary nandrolone preparation Laurabolin, perhaps seen as slightly advantageous over a decanoate ester due to a less frequent injection schedule. Again athletes will most commonly inject this drug weekly, no doubt in part due to its low strength (25mg/ml or 50mg/ml).
 
-##Conclusion
+## Conclusion
 
 While the advent of esters certainly constitutes an invaluable advance in the field of anabolic steroid medicine, clearly you can see that there is no magic involved here. Esters work in a well-understood and predictable manner, and do not alter the activity of the parent steroid in any way other than to delay its release. Although the lure surrounding various steroid products like testosterone cypionate, Sustanon, Omnadren etc. certainly makes for interesting conversation, realistically it just amounts to misinformation that the athlete would be better off ignoring. Testosterone is testosterone and anyone who is going to tell you one ester form of this (or any) hormone is much better than another one should do a little more research, and a lot less talking.

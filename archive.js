@@ -20,7 +20,7 @@ async function main () {
   console.log(JSON.stringify(argv, null, 2))
   prepareSubredditFolder(argv.subreddit)
   await fetchPagesForSubreddit(argv.subreddit, argv)
-  await runPostprocessTransformations(argv.subreddit, argv['rewrite-path-relative-wiki-links'], argv['rewrite-web-wiki-links'])
+  await runPostprocessTransformations(argv.subreddit, argv['rewrite-path-relative-wiki-links'], argv['rewrite-web-wiki-links'], argv.tidy)
 }
 
 if (require.main === module) main()
@@ -90,8 +90,8 @@ function prepareSubredditFolder(subredditName) {
   }
 }
 
-async function runPostprocessTransformations(subredditName, shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks) {
-  const transformers = getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks);
+async function runPostprocessTransformations(subredditName, shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders) {
+  const transformers = getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders);
 
   await readdirRecursive(subredditName, async function(file, filePath) {
     return new Promise((resolve, reject) => {
@@ -115,7 +115,7 @@ async function runPostprocessTransformations(subredditName, shouldRewritePathRel
   })
 }
 
-function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks) {
+function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders) {
   const transformers = [];
 
   if (shouldRewritePathRelativeWikiLinks) {
@@ -134,6 +134,16 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
 
       return chunkString.replace(searchPattern, function replacer(match, cg1, cg2) {
         return `](/${subredditName}/${cg1}.md${cg2 || ''})`
+      });
+    })
+  }
+
+  if (shouldCleanUpMarkdownHeaders) {
+    transformers.push(function(subredditName, file, filePath, chunkString) {
+      const searchPattern = new RegExp(`\\n(#{1,6})([A-Za-z0-9])`, 'g');
+
+      return chunkString.replace(searchPattern, function replacer(match, cg1, cg2) {
+        return `\n${cg1} ${cg2}`
       });
     })
   }

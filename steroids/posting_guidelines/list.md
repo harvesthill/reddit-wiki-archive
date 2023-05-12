@@ -28,7 +28,7 @@ Yes. In the thread title please use the tag [Cycle Review] followed by a short d
 
 **OPTIONAL:** Plot your cycle on [SteroidCalc](http://steroidcalc.com/) and take a screenshot for the rest to see.
 
-###Example:
+### Example:
 
 *Title:*  
 [Cycle Review] My 24 Week Cycle

@@ -4,7 +4,7 @@
 :--------------|:--------------:|:-------------:|:-------------:|:-------------
 Compound name | 100 | 200 | |
 
-#Empirical Name / the stub for each compound.
+# Empirical Name / the stub for each compound.
 
 **Chemical structure:** e.g.(17 beta-hydroxy-2-hydroxymethylene-17alpha-methyl-5 alpha-androstan-3-one 0
 
@@ -14,10 +14,10 @@ Compound name | 100 | 200 | |
 
 **Anabolic/Androgenic Ratio:** 320:45
 
-##Use/Dosing
+## Use/Dosing
 
-##Side Effects/Risks
+## Side Effects/Risks
 
-##Related Posts
+## Related Posts
 
-##References
+## References
