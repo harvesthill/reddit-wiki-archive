@@ -18,8 +18,8 @@ module.exports = cli
 async function main () {
   const argv = await cli.parseAndExit()
   console.log(JSON.stringify(argv, null, 2))
-  // prepareSubredditFolder(argv.subreddit)
-  // fetchPagesForSubreddit(argv.subreddit, argv)
+  prepareSubredditFolder(argv.subreddit)
+  await fetchPagesForSubreddit(argv.subreddit, argv)
   await runPostprocessTransformations(argv.subreddit, argv['rewrite-path-relative-wiki-links'], argv['rewrite-web-wiki-links'])
 }
 
