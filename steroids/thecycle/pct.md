@@ -82,7 +82,7 @@ Various anabolic steroids are known as being mildly suppressive (something like 
 
 Even if suppression may not reach 100%, **it will still be enough in every case for there to be a need for testosterone supplementation during use due to putting your testosterone into a low level state.**
 
-* **Important Note:** the need for testosterone supplementation during anabolic steroid use **DOES NOT APPLY TO WOMEN** nor does the need for PCT. [See the PCT For Women Section below.](https://www.reddit.com/r/steroids/wiki/draft#wiki_pct_for_women)
+* **Important Note:** the need for testosterone supplementation during anabolic steroid use **DOES NOT APPLY TO WOMEN** nor does the need for PCT. [See the PCT For Women Section below.](/steroids/draft.md#wiki_pct_for_women)
 
 ## Length of Cycle
 
@@ -130,7 +130,7 @@ The men taking Nolvadex at 20 mg/day had a significantly increased LH response t
 
 What all this means is that **Clomid potentially will work in varying degrees as an Estrogen** at the pituitary gland, triggering the negative feedback loop and reducing the output of Testosterone stimulating gonadotropins (LH and FSH). **This is a problem during post cycle therapy**, which is a period in which individuals are trying to recover their HPTA function rather than halt it even further. Ideally, one would want a SERM that exhibits almost 100% Estrogen antagonistic effects on the pituitary gland.
 
-In addition to all this, **vision sides are common with Clomid** and could may cause ***irreversible changes***.^(18) Nolvadex may potentially cause some vision sides as well,^(19) but they are known to be *far more prominent in Clomid* than Nolvadex.^(16) More on [Side Effects](https://www.reddit.com/r/steroids/wiki/thecycle/pct#wiki_side_effects) below.
+In addition to all this, **vision sides are common with Clomid** and could may cause ***irreversible changes***.^(18) Nolvadex may potentially cause some vision sides as well,^(19) but they are known to be *far more prominent in Clomid* than Nolvadex.^(16) More on [Side Effects](/steroids/thecycle/pct.md#wiki_side_effects) below.
 
 Despite all of this, it should still be noted that the **FDA recommends Clomid for treatment of male hypogonadism** and that high doses are unnecessary to bring hypogonadal men into range.^(14, 17)
 
@@ -144,7 +144,7 @@ To touch lightly on Torem &amp; Ralox, they have all been compared and studied a
 
 As demonstrated, **Nolvadex came out on top** here in LH, Testosterone &amp; Normal sperm forms. Torem topped Nolva in FSH and Sperm concentration. Both are very suitable PCT options (as already known with Nolva, but this shows Torem as a viable option as well). Ralox was unfavorable and is probably best used just for gynecomastia treatment.
 
- **IMPORTANT NOTE:** Be sure to check out [Drug Interactions](https://www.reddit.com/r/steroids/wiki/draft#wiki_drug_interactions), as this contains important information for those using SSRIs and SERMs.
+ **IMPORTANT NOTE:** Be sure to check out [Drug Interactions](/steroids/draft.md#wiki_drug_interactions), as this contains important information for those using SSRIs and SERMs.
  
 
 ## Dosing
@@ -262,7 +262,7 @@ Typically this will be run in the \~2 weeks leading up to PCT after your last in
 
 If you chose to utilize hCG in this fashion (unless using short esters (Prop and/or Ace), there is one remaining issues to be addressed:
 
-* The fact that hCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
+* The fact that hCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](/steroids/draft.md#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
 This is where the AI is to be utilized as a supportive compound for hCG use in this 1–2 week period, and after hCG is discontinued early on in PCT, only the SERM to be used in order to carry along the hormonal recovery process. hCG utilized in this fashion will be ran:
 
@@ -276,7 +276,7 @@ Some will say hCG shouldn't be ran into PCT as it's suppressive, but as noted ab
 
 If you chose to utilize hCG in this fashion, there is one remaining issue to be addressed:
 
-* The fact that hCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](https://www.reddit.com/r/steroids/wiki/draft#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
+* The fact that hCG causes increased production of aromatase, leading to increased Estrogen levels. [See Below](/steroids/draft.md#wiki_aromatase_inhibitors.3A_aromasin_.28exemestane.29_above_all_else)
 
 This is where the AI is to be utilized as a supportive compound for hCG use in this 1–2 week period, and after hCG is discontinued early on in PCT, only the SERM to be used in order to carry along the hormonal recovery process. hCG utilized in this fashion will be run as follows:
 
@@ -286,15 +286,15 @@ This is where the AI is to be utilized as a supportive compound for hCG use in t
 
 ## Aromatase Inhibitors: Aromasin (Exemestane) Above All Else
 
-***This Section Is Optional, UNLESS Utilizing*** [***hCG dosing 3 or 4.***](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)
+***This Section Is Optional, UNLESS Utilizing*** [***hCG dosing 3 or 4.***](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)
 
-As noted above in [hCG dosing 3 &amp; 4,](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that hCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 &amp; 2,](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  
+As noted above in [hCG dosing 3 &amp; 4,](/steroids/draft.md#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that hCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 &amp; 2,](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  
 
 It should also be noted that hCG will also cause an increase in testicular progesterone levels. Estrogen rising is of course undesirable during PCT, as it has already been explained that Estrogen will trigger suppression of endogenous Testosterone production, and there is no doubt that any individual wishes to encounter Estrogenic side effects during PCT either.
 
 Therefore, the option here is to include an aromatase inhibitor. However, there exists a problem in regards to the other two of the three major aromatase inhibitors (Arimidex and Letrozole). The issue is the fact that in a PCT program that includes the use of Nolvadex, Arimidex and Letrozole have direct negative interactions with Nolvadex. 
 
-The potential problem here is that Arimidex &amp; Letrozole both have decreased blood plasma concentrations when used alongside a Nolvadex.^(5, 20, 21) Aromasin completely circumvents this problem, as it has been demonstrated to have no interactions what so ever with Nolvadex, unlike the other two aforementioned aromatase inhibitors. In one study, Aromasin displayed no such reduced effectiveness or any reduced blood plasma levels when utilized with Nolvadex.^(6) The conclusion here is that the use of Arimidex or Letrozole would be last resort options for controling Estrogen during [hCG dosing 3 &amp; 4](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct) use.
+The potential problem here is that Arimidex &amp; Letrozole both have decreased blood plasma concentrations when used alongside a Nolvadex.^(5, 20, 21) Aromasin completely circumvents this problem, as it has been demonstrated to have no interactions what so ever with Nolvadex, unlike the other two aforementioned aromatase inhibitors. In one study, Aromasin displayed no such reduced effectiveness or any reduced blood plasma levels when utilized with Nolvadex.^(6) The conclusion here is that the use of Arimidex or Letrozole would be last resort options for controling Estrogen during [hCG dosing 3 &amp; 4](/steroids/draft.md#wiki_3._1-2_weeks_before_pct) use.
 
 The other benefit of selecting Aromasin over all other AIs is the fact that Aromasin has demonstrated in several studies to impact cholesterol profiles in a negative manner far less than other aromatase inhibitors have, where in one particular study on cancer patients, 24 weeks of Aromasin (Exemestane) administration held no impact on cholesterol profiles.^(7) Some other studies have also demonstrated a nil effect on cholesterol profiles from the use of Aromasin.^(8) Although there have also been some studies that have demonstrated a negative effect on cholesterol profiles resultant from Aromasin use, it is evident that there is not as a significant or as a negatively impacting effect from Aromasin on cholesterol as other aromatase inhibitors.^(9)
 
@@ -302,11 +302,11 @@ Finally, in addition to these benefits from Aromasin, it is very clear that Arom
 
 ## Dosing
 
-Note: This is a lot of Aromasin, but has clinically be shown to be effective. You may end up experiencing [low E2 sides.](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing hCG dosing 1 or 2](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle)
+Note: This is a lot of Aromasin, but has clinically be shown to be effective. You may end up experiencing [low E2 sides.](/steroids/the_estrogen_handbook.md#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing hCG dosing 1 or 2](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle)
 
-Following these details, Aromasin would be the best possible aromatase inhibitor of choice in order to combat the increased aromatase activity caused by hCG. Therefore, Aromasin would then be utilized *up to* a full 25mg ED, and **only while HCG is utilized in** [**hCG dosing 3 or 4**](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)**. Once hCG is discontinued, Aromasin too should be halted.**
+Following these details, Aromasin would be the best possible aromatase inhibitor of choice in order to combat the increased aromatase activity caused by hCG. Therefore, Aromasin would then be utilized *up to* a full 25mg ED, and **only while HCG is utilized in** [**hCG dosing 3 or 4**](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)**. Once hCG is discontinued, Aromasin too should be halted.**
 
-***This section is optional, UNLESS utilizing*** [***hCG dosing 3 or 4.***](https://www.reddit.com/r/steroids/wiki/draft#wiki_3._1-2_weeks_before_pct)
+***This section is optional, UNLESS utilizing*** [***hCG dosing 3 or 4.***](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)
 
 ## Drug Interactions
 
@@ -320,7 +320,7 @@ Common post-cycle complaints include depressive mood alterations, fatigue, letha
 
 ## What to Expect from PCT
 
-As stated above in [the Side Effects section above](https://www.reddit.com/r/steroids/wiki/thecycle/pct#wiki_side_effects), common post-cycle complaints include depressive mood alterations, fatigue, lethargy, insomnia, and decreased libido.^(22) You should be fully prepared to go through these symptoms if you chose to run a cycle.
+As stated above in [the Side Effects section above](/steroids/thecycle/pct.md#wiki_side_effects), common post-cycle complaints include depressive mood alterations, fatigue, lethargy, insomnia, and decreased libido.^(22) You should be fully prepared to go through these symptoms if you chose to run a cycle.
 
 The biggest problem with most PCT plans is the individual having unrealistic explanations. Most PCT plans will last 4-8 weeks and many men expect everything to be back to normal once this 4-8 week period is complete. PCT does not work this way. Many men also expect for all their gains be they weight or strength gains to be maintained post-PCT if the PCT plan was proper and appropriate. Again, PCT does not work this way.
 
@@ -408,7 +408,7 @@ When something is written as "X/X/Y/Y", think of it as Week 1 daily dose/Week 2 
 
 ## SERM Dosing Note
 
-**Note:** As you've noticed in our [SERMs Dosing section](https://www.reddit.com/r/steroids/wiki/draft#wiki_dosing), as well as below, /r/steroids recommends 6-8 weeks of SERMs. It is common for a lot of PCT options to only be 4 weeks. These protocols usually used double the dose for the first week or two. The only reason why many elect to utilize doubling the dose for the first 1-2 weeks of a PCT program is for the purpose of achieving optimal peak blood plasma levels quicker so as to ensure HPTA recovery quicker. This isn't necessary and just further increases your risk of potential sides. It has been studied that the longer you are on SERMs, the better your results of stimulating Testosterone.^(\[15\]) So to prevent unwanted sides as well as potentially achieve better results, we choose to suggest lower dosing over a longer period than 4 weeks.
+**Note:** As you've noticed in our [SERMs Dosing section](/steroids/draft.md#wiki_dosing), as well as below, /r/steroids recommends 6-8 weeks of SERMs. It is common for a lot of PCT options to only be 4 weeks. These protocols usually used double the dose for the first week or two. The only reason why many elect to utilize doubling the dose for the first 1-2 weeks of a PCT program is for the purpose of achieving optimal peak blood plasma levels quicker so as to ensure HPTA recovery quicker. This isn't necessary and just further increases your risk of potential sides. It has been studied that the longer you are on SERMs, the better your results of stimulating Testosterone.^(\[15\]) So to prevent unwanted sides as well as potentially achieve better results, we choose to suggest lower dosing over a longer period than 4 weeks.
 
 ## Optimal/Primary PCT Options
 
@@ -505,7 +505,7 @@ This is the PCT plans you should use if you were in a position where HCG isn't a
 
 ## Post Blast &amp; Cruise Recovery Not Endorsed By /r/steroids
 
-These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be used for information purposes only. They have proven effective for some, but optimally you will use [a PCT protocol listed above](https://www.reddit.com/r/steroids/wiki/draft#wiki_pct_protocols)
+These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be used for information purposes only. They have proven effective for some, but optimally you will use [a PCT protocol listed above](/steroids/draft.md#wiki_pct_protocols)
 
 ## ASRM Guidlines For Physicians To Prescribe
 
@@ -570,7 +570,7 @@ Grossman's statement is corroborated by the [more recent research](https://acade
 
 In other words, estrogen levels during brain development are responsible for the sex-specific differences in gonadotrophin secretion and estrogen feedback at the pituitary. The important point of this research is that males (with the exception of homosexuals) were not found to have any positive feedback from estrogen. Those results that were "strongly confirmed."
 
-Finally, there's [this research](https://www.ncbi.nlm.nih.gov/pubmed/640052) (that was [referenced above](https://www.reddit.com/r/steroids/wiki/draft#wiki_serms.3A_nolvadex.2C_clomid.2C_toremifene.2C_.26amp.3B_raloxifene)), which couldn't have been any more relevant. It directly examined the effects of Nolva and Clomid on the pituitary of human males. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking Nolvadex at 20 mg/day had a significantly increased LH response to GnRH. In contrast, **the men taking Clomid had reduced LH output, a decreased sensitivity to GnRH.** The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen seems the most probable explanation."
+Finally, there's [this research](https://www.ncbi.nlm.nih.gov/pubmed/640052) (that was [referenced above](/steroids/draft.md#wiki_serms.3A_nolvadex.2C_clomid.2C_toremifene.2C_.26amp.3B_raloxifene)), which couldn't have been any more relevant. It directly examined the effects of Nolva and Clomid on the pituitary of human males. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking Nolvadex at 20 mg/day had a significantly increased LH response to GnRH. In contrast, **the men taking Clomid had reduced LH output, a decreased sensitivity to GnRH.** The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen seems the most probable explanation."
 
 ## Jcaesar369 Recommended PCT Protocol
 
@@ -600,7 +600,7 @@ SERMs should be run for a much longer time period, depending on the time of your
 
 ## Controversy
 
-It should be noted that there is some controversy on whether [using two SERMs at once is beneficial or not](https://www.reddit.com/r/steroids/wiki/draft#wiki_controversy), with consensus leaning towards the latter.
+It should be noted that there is some controversy on whether [using two SERMs at once is beneficial or not](/steroids/draft.md#wiki_controversy), with consensus leaning towards the latter.
 
 **How long to wait to check blood work to see if you've recovered?**
 

@@ -229,7 +229,7 @@ The main storage form of fatty acids in the body. May be metabolized and used fo
 
 ###Urea
 
-[see Blood Urea Nitrogen (BUN)](/r/steroids/wiki/bloodwork/health_markers#wiki_blood_urea_nitrogen_.28bun.29)
+[see Blood Urea Nitrogen (BUN)](/steroids/bloodwork/health_markers.md#wiki_blood_urea_nitrogen_.28bun.29)
 
 ###Uric Acid
 

@@ -23,7 +23,7 @@ With the introduction of exogenous testosterone and other AAS, estrogen levels b
 * Thin stream when urinating
 * Constipation (from water retention)
 * Itchy nipples
-* [Gynecomastia](/r/steroids/wiki/sides/gynecomastia)
+* [Gynecomastia](/steroids/sides/gynecomastia.md)
 
 ##Low estrogen sides
 * Dry skin/lips

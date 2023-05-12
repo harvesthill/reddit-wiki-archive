@@ -2,7 +2,7 @@
 
 A  peptide is a compound consisting of two or more amino acids linked in a chain, the carboxyl group of each acid being joined to the amino group of the next by a bond.
 
-##[Datbtrue Archive HERE](https://www.reddit.com/r/steroids/wiki/datbtrue)
+##[Datbtrue Archive HERE](/steroids/datbtrue.md)
 
 ##Peptide Guide
 
@@ -10,7 +10,7 @@ A  peptide is a compound consisting of two or more amino acids linked in a chain
 
 BPC 157 is a peptide of a sequence of amino acids with a molecular formula of 62 carbons, 98 hydrogens, 16 nitrogens, and 22 oxygen atoms (C62-H98-N16-O22). BPC stands for “Body Protecting Compound”. BPC-157 accelerates wound healing, and, via interaction with the Nitric Oxide (NO) system, causes protection of endothelial tissue and an “angiogenic” (blood vessel building) wound healing effect. BPC 157 is surprisingly free of side effects, and has been shown in research that’s been happening since 1991 to repair tendon, muscle, intestines, teeth, bone and more, both in in-vitro laboratory “test-tube” studies, in in-vivo human and rodent studies, and when used orally or inject subcutaneously (under your skin) or intramuscularly (into your muscle). BPC-157 is also known as a “stable gastric pentadecapeptide”, primarily because it is stable in human gastric juice, can cause an anabolic healing effect in both the upper and lower GI tract, has an antiulcer effect, and produces a therapeutic effect on inflammatory bowel disease (IBD) – all again surprisingly free of side effects.
 
-[**More On This Peptide Below**](https://www.reddit.com/r/steroids/wiki/compounds/peptides#wiki_bpc_157_.26amp.3B_healing_your_body)
+[**More On This Peptide Below**](/steroids/compounds/peptides.md#wiki_bpc_157_.26amp.3B_healing_your_body)
 
 ###CJC-1295 with DAC
 
@@ -60,7 +60,7 @@ The polypeptide IGF-1 LR3, also known as Long R3 IGF-1, is a peptide chain consi
 
 ###Insulin
 
-[Insulin](https://www.reddit.com/r/steroids/wiki/insulin) (/ˈɪn.sjʊ.lɪn/ from Latin insula, 'island') is a peptide hormone produced by beta cells of the pancreatic islets; it is considered to be the main anabolic hormone of the body. It regulates the metabolism of carbohydrates, fats and protein by promoting the absorption of glucose from the blood into liver, fat and skeletal muscle cells. In these tissues the absorbed glucose is converted into either glycogen via glycogenesis or fats (triglycerides) via lipogenesis, or, in the case of the liver, into both. Glucose production and secretion by the liver is strongly inhibited by high concentrations of insulin in the blood. 
+[Insulin](/steroids/insulin.md) (/ˈɪn.sjʊ.lɪn/ from Latin insula, 'island') is a peptide hormone produced by beta cells of the pancreatic islets; it is considered to be the main anabolic hormone of the body. It regulates the metabolism of carbohydrates, fats and protein by promoting the absorption of glucose from the blood into liver, fat and skeletal muscle cells. In these tissues the absorbed glucose is converted into either glycogen via glycogenesis or fats (triglycerides) via lipogenesis, or, in the case of the liver, into both. Glucose production and secretion by the liver is strongly inhibited by high concentrations of insulin in the blood. 
 
 Circulating insulin affects the synthesis of proteins in a wide variety of tissues. It is therefore an anabolic hormone, promoting the conversion of small molecules in the blood into large molecules inside the cells. Low insulin levels in the blood have the opposite effect by promoting widespread catabolism, especially of reserve body fat. The secretion of insulin and glucagon into the blood in response to the blood glucose concentration is the primary mechanism of glucose homeostasis.
 
@@ -252,6 +252,6 @@ Here's the deal: since BPC 157 is a completely natural gastric juice peptides,  
 
 #Studies and Other Links
 * GHRP-2 [GHRP-2 increases GH levels](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2824650/)   
-* [Human Growth Hormone](/r/steroids/wiki/growth_hormone)
-* [Insulin-like Growth Factor 1](/r/steroids/wiki/igf-1)
-* [Melanotan II](/r/steroids/wiki/melanotan_ii)
+* [Human Growth Hormone](/steroids/growth_hormone.md)
+* [Insulin-like Growth Factor 1](/steroids/igf-1.md)
+* [Melanotan II](/steroids/melanotan_ii.md)

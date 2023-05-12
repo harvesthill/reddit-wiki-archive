@@ -4,41 +4,41 @@ The r/steroids Wiki provides a unique and comprehensive compendium of knowledge 
 
 [View the traffic statistics](http://www.reddit.com/r/steroids/about/traffic/) or [growth tracking](http://redditmetrics.com/r/steroids) for r/steroids at any time.
 
-## Please Read The [Community Goals, Responsibility, &amp; Rules](/r/steroids/wiki/index/subreddit_rules) prior to posting or participation.
+## Please Read The [Community Goals, Responsibility, &amp; Rules](/steroids/index/subreddit_rules.md) prior to posting or participation.
 
 ## Critical Thinking
 
-Participation in this sub and with this habit requires one to execute [critical thinking](https://www.reddit.com/r/steroids/wiki/critical_thinking) very well, to determine truth from falsehood. Practice daily for best results.
+Participation in this sub and with this habit requires one to execute [critical thinking](/steroids/critical_thinking.md) very well, to determine truth from falsehood. Practice daily for best results.
 
 #🎗TABLE OF CONTENTS
 
-* [**The Community**](/r/steroids/wiki/index/subreddit_rules)
+* [**The Community**](/steroids/index/subreddit_rules.md)
 * [**Overview / Index** (This Page)](/r/steroids/wiki)
-* [|--- Frequently Asked Questions (FAQ)](/r/steroids/wiki/faq/list)
-* [|--- Medicinal Uses](/r/steroids/wiki/medicinal/list)
-* [|--- Testosterone Replacement Therapy (TRT)](/r/steroids/wiki/trt/list)
-* [|--- AAS And The Law](/r/steroids/wiki/laws)
-* [|--- Talking Points](/r/steroids/wiki/talkingpoints)
-* [**Cycle - Things To Know**](/r/steroids/wiki/thecycle/list)
-* [|--- Your First Cycle](/r/steroids/wiki/your_first_cycle)
-* [|--- Example Cycles](/r/steroids/wiki/thecycle/examples)
-* [|--- Safe Injections](/r/steroids/wiki/thecycle/injecting)
-* [|--- Post Cycle Therapy (PCT)](/r/steroids/wiki/thecycle/pct)
-* [|--- The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook)
-* [|--- Cycle Reports](/r/steroids/wiki/reports/list)
-* [|--- Nutrition](/r/steroids/wiki/nutrition)
-* [|--- Women](/r/steroids/wiki/women)
-* [**Compound Profiles**](/r/steroids/wiki/compounds/list)
-* [|--- Hepatotoxicity &amp; Liver Protection](/r/steroids/wiki/hepatotoxicity)
-* [|--- Ancillaries](/r/steroids/wiki/compounds/ancillaries)
-* [|--- Homebrewing](/r/steroids/wiki/homebrew/list)
-* [|--- Esters](/r/steroids/wiki/compounds/esters)
-* [|--- Side Effects &amp; Solutions](/r/steroids/wiki/sides/list)
-* [|--- Human Growth Hormone (HGH)](/r/steroids/wiki/growth_hormone)
-* [|--- Peptides](/r/steroids/wiki/compounds/peptides)
-* [|--- Compound Experience Directory](/r/steroids/wiki/compound_experience_threads)
-* [**Blood Work**](/r/steroids/wiki/bloodwork/list)
-* [|--- Health Markers Defined](/r/steroids/wiki/bloodwork/health_markers)
+* [|--- Frequently Asked Questions (FAQ)](/steroids/faq/list.md)
+* [|--- Medicinal Uses](/steroids/medicinal/list.md)
+* [|--- Testosterone Replacement Therapy (TRT)](/steroids/trt/list.md)
+* [|--- AAS And The Law](/steroids/laws.md)
+* [|--- Talking Points](/steroids/talkingpoints.md)
+* [**Cycle - Things To Know**](/steroids/thecycle/list.md)
+* [|--- Your First Cycle](/steroids/your_first_cycle.md)
+* [|--- Example Cycles](/steroids/thecycle/examples.md)
+* [|--- Safe Injections](/steroids/thecycle/injecting.md)
+* [|--- Post Cycle Therapy (PCT)](/steroids/thecycle/pct.md)
+* [|--- The Estrogen Handbook](/steroids/the_estrogen_handbook.md)
+* [|--- Cycle Reports](/steroids/reports/list.md)
+* [|--- Nutrition](/steroids/nutrition.md)
+* [|--- Women](/steroids/women.md)
+* [**Compound Profiles**](/steroids/compounds/list.md)
+* [|--- Hepatotoxicity &amp; Liver Protection](/steroids/hepatotoxicity.md)
+* [|--- Ancillaries](/steroids/compounds/ancillaries.md)
+* [|--- Homebrewing](/steroids/homebrew/list.md)
+* [|--- Esters](/steroids/compounds/esters.md)
+* [|--- Side Effects &amp; Solutions](/steroids/sides/list.md)
+* [|--- Human Growth Hormone (HGH)](/steroids/growth_hormone.md)
+* [|--- Peptides](/steroids/compounds/peptides.md)
+* [|--- Compound Experience Directory](/steroids/compound_experience_threads.md)
+* [**Blood Work**](/steroids/bloodwork/list.md)
+* [|--- Health Markers Defined](/steroids/bloodwork/health_markers.md)
 
 ##Helpful Links
 
@@ -62,7 +62,7 @@ The following material is presented on topics related to /r/steroids for educati
 4. *The Endocrine Society's Clinical Guide: Testosterone Therapy in Adult Men with Androgen Deficiency Syndrome*. ( [Scribd](http://www.scribd.com/doc/197094136/FINAL-Androgens-in-Men-Standalone) )
 5. *Why are Steroids Illegal in the USA?* ([Scribd](http://www.scribd.com/doc/197091803/Steroid-Legality))
 6. *Testosterone: Action, Deficiency, Substitution*, 3rd Edition (pp. 405-444). Cambridge University Press,  New York.Behre H.M., Nieschlag E., (2004).  
-7.  [More](/r/steroids/wiki/reading) (Page under revision - links to publications are broken)
+7.  [More](/steroids/reading.md) (Page under revision - links to publications are broken)
 
 ### Original Stories
 
@@ -183,7 +183,7 @@ A synthetic steroid hormone that resembles Testosterone in promoting the growth 
 * Liver disease, including cancer
 * Aggressive behavior
 
-See *[Additional Sides](https://www.reddit.com/r/steroids/wiki/sides/list)*
+See *[Additional Sides](/steroids/sides/list.md)*
 
 ### How Do Anabolic Steroids Work?
 
@@ -322,7 +322,7 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 Just as seen in adolescents, the side effects seen in women can be **permanent**. AAS can lower voice, facial hair growth, and induce clitoral enlargement. For this reason, AAS administration to women must be used very cautiously, at more conservative doses, but is possible. 
 
-For more information please visit the [Women's Wiki Page](https://www.reddit.com/r/steroids/wiki/women) and visit r/steroidsxx for specialized advice for women.
+For more information please visit the [Women's Wiki Page](/steroids/women.md) and visit r/steroidsxx for specialized advice for women.
 
 ## Tips For Interpreting Scientific Studies
 

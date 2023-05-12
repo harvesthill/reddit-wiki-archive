@@ -22,7 +22,7 @@ The following goals have been adopted by the community.
 
 Building a great community takes effort from everyone involved.  The moderation team creates the framework in which the members of the community operate, however, we cannot do everything.  Community members have the following responsibilities.
 
-1. Abide by the [community rules of this sub.](/r/steroids/wiki/index/subreddit_rules#wiki_community_rules)
+1. Abide by the [community rules of this sub.](/steroids/index/subreddit_rules.md#wiki_community_rules)
 
 2. Use the report button and message the moderators for posts that break community rules.
 
@@ -42,7 +42,7 @@ Building a great community takes effort from everyone involved.  The moderation 
 
 ###What Is Low-Quality Content?
 
-[Under Rule 5 you will find that threads created on /r/steroids must not be Low Quality Content.](/r/steroids/wiki/index/subreddit_rules#wiki_5._approved_posters_.26amp.3B_high_quality_content_only.)
+[Under Rule 5 you will find that threads created on /r/steroids must not be Low Quality Content.](/steroids/index/subreddit_rules.md#wiki_5._approved_posters_.26amp.3B_high_quality_content_only.)
 
 The following attributes usually describe *low-quality content*.
 
@@ -110,7 +110,7 @@ Chances are … if you are talking about ANY COMPANY, ANY SOURCE, ANY SPECIFIC B
 
 ### Reddit Terms of Service
 
-You indicated consent to the [Reddit Terms of Service (TOS)](https://www.redditinc.com/policies/user-agreement-october-15-2020) when you signed up for an account. This mandates a number of strict limitations and behavioral guidelines that curtail your activities while using the service. We'd strongly encourage you to familiarize yourself with Reddit's sitewide [Terms Of Service](https://www.redditinc.com/policies/user-agreement-october-15-2020), the r/steroids [Rules](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf#wiki_community_rules), the r/steroids [FAQ](https://www.reddit.com/r/steroids/comments/jscjwc/steroids_faq/) and the r/steroids [Wiki](https://www.reddit.com/r/steroids/wiki). *You'll find the answers to most introductory questions there*, and it can save you a lot of time, trouble, and expense. Familiarize yourself with the material so we don't have to.
+You indicated consent to the [Reddit Terms of Service (TOS)](https://www.redditinc.com/policies/user-agreement-october-15-2020) when you signed up for an account. This mandates a number of strict limitations and behavioral guidelines that curtail your activities while using the service. We'd strongly encourage you to familiarize yourself with Reddit's sitewide [Terms Of Service](https://www.redditinc.com/policies/user-agreement-october-15-2020), the r/steroids [Rules](/steroids/index/subreddit_rules.md?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf#wiki_community_rules), the r/steroids [FAQ](https://www.reddit.com/r/steroids/comments/jscjwc/steroids_faq/) and the r/steroids [Wiki](https://www.reddit.com/r/steroids/wiki). *You'll find the answers to most introductory questions there*, and it can save you a lot of time, trouble, and expense. Familiarize yourself with the material so we don't have to.
 
 Please read over the following carefully and *message the moderators* if you have any questions.
 
@@ -284,9 +284,9 @@ After 90 days of participation (comments) in the community, you will automatical
 
 If you made a comment in /r/steroids that is at least 90 days old and you weren't automatically approved, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) linking to the comment. [More information here.](http://www.reddit.com/r/steroids/comments/2t2l76/modharsh_approved_poster_grant_is_increasing_from/)
 
-The only threads that are allowed on /r/steroids are those of high quality content. If you have been around for 90 days you should know that all [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F) belongs in the Daily Ask Anything threads. If you choose to post [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F), your thread will be removed and you risk losing your posting privileges.
+The only threads that are allowed on /r/steroids are those of high quality content. If you have been around for 90 days you should know that all [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F) belongs in the Daily Ask Anything threads. If you choose to post [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F), your thread will be removed and you risk losing your posting privileges.
 
-If you are ever in doubt if something you want to post is [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
+If you are ever in doubt if something you want to post is [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
 
 ####**FAQ**
 
@@ -300,7 +300,7 @@ If you are ever in doubt if something you want to post is [Low Quality Content](
 
 **Q:** What is considered 'High Quality Content'?  
 
-**A:** Most likely, if the post doesn't fall under [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F), then it is *most likely* 'High Quality Content'. If you are ever in doubt if something you want to post is [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
+**A:** Most likely, if the post doesn't fall under [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F), then it is *most likely* 'High Quality Content'. If you are ever in doubt if something you want to post is [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
 
 ##6. No Unlawful Discussions.
 
@@ -345,11 +345,11 @@ The /r/steroids wiki and subreddit is a treasure trove of information regarding 
 
 Before you ask your question, ensure you've reviewed the following *at minimum*: 
 
-* [The Basics](https://www.reddit.com/r/steroids/wiki/thecycle/list)
-* [Your First Cycle](https://www.reddit.com/r/steroids/wiki/your_first_cycle)
-* [The Estrogen Handbook](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook)
-* [Post Cycle Therapy aka PCT](https://www.reddit.com/r/steroids/wiki/thecycle/pct)
-* [The Compound Experience Directory](https://www.reddit.com/r/steroids/wiki/compound_experience_threads)'s threads for the compound you're curious about
+* [The Basics](/steroids/thecycle/list.md)
+* [Your First Cycle](/steroids/your_first_cycle.md)
+* [The Estrogen Handbook](/steroids/the_estrogen_handbook.md)
+* [Post Cycle Therapy aka PCT](/steroids/thecycle/pct.md)
+* [The Compound Experience Directory](/steroids/compound_experience_threads.md)'s threads for the compound you're curious about
 
 Consider also:
 
@@ -394,7 +394,7 @@ We're all busy, and everybody here is volunteering their time to help one anothe
 * Simply ask:
 &gt;    * thoughts?
 &gt;    * anybody ever used [compound]? 
-&gt;       * (see the [Compound Experience Directory](https://www.reddit.com/r/steroids/wiki/compound_experience_threads))
+&gt;       * (see the [Compound Experience Directory](/steroids/compound_experience_threads.md))
 &gt;    * Which steroid is best for [xyz]?
 &gt;    * What steroid does [xyz]?
 &gt;    * Which steroid increases [metabolism/fat loss/xyz]?

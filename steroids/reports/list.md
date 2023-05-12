@@ -2,7 +2,7 @@
 
 Please [read the procedure](http://www.reddit.com/r/steroids/comments/28vfth/mod_cycle_reports_updated_procedure/) for how to create your own cycle report.
 
-Please use this [template](/r/steroids/wiki/reports/template) to start your report.
+Please use this [template](/steroids/reports/template.md) to start your report.
 
 #Current
 
@@ -102,8 +102,8 @@ Weeks 17-18 | Nolvadex | 20mg | ED
 
 ##spitak's Bulking Cycle  (very active)
 
-**Weeks 1-12:** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate), 300mg, E3D   
-**Weeks 1-4:** [Dbol](/r/steroids/wiki/dianabol), 50mg, ED
+**Weeks 1-12:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md), 300mg, E3D   
+**Weeks 1-4:** [Dbol](/steroids/dianabol.md), 50mg, ED
 
 ##MyronMGaines first cycle + EQ
 
@@ -151,10 +151,10 @@ Weeks 94- | Test C  | 50mg | E5D**
 
 ##whitenyummy's Test + Winny Blast and Cruise (active)
 
-**Weeks 1-10:** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate), 300mg, E3D   
-**Weeks 6-10:** [Dbol](/r/steroids/wiki/winstrol), 50mg, ED
+**Weeks 1-10:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md), 300mg, E3D   
+**Weeks 6-10:** [Dbol](/steroids/winstrol.md), 50mg, ED
 
-[Cycle Report](/r/steroids/wiki/whitenyummy)
+[Cycle Report](/steroids/whitenyummy.md)
 
 #Completed -- Many updates
 
@@ -162,22 +162,22 @@ Weeks 94- | Test C  | 50mg | E5D**
 
 Cycle will be 15 weeks long and will consist of:  
 **Weeks 1- 04**  (or until I run out) I'll be running 25mg dbol in the AM, and another 25mg preworkout, with liver support    
-**Weeks 1 -15** [Equipoise](/r/steroids/wiki/equipoise)  600mg / week  
-**Weeks 1- 15** [Trenbolene](/r/steroids/wiki/trenbolone) 400mg / week  
-**Weeks 1 -15** [Masteron](/r/steroids/wiki/masteron) Enanthate 400mg / week  
-**Weeks 1 -15** [Test Enanthate](/r/steroids/wiki/testosterone_enthanate)  250mg / week  
+**Weeks 1 -15** [Equipoise](/steroids/equipoise.md)  600mg / week  
+**Weeks 1- 15** [Trenbolene](/steroids/trenbolone.md) 400mg / week  
+**Weeks 1 -15** [Masteron](/steroids/masteron.md) Enanthate 400mg / week  
+**Weeks 1 -15** [Test Enanthate](/steroids/testosterone_enthanate.md)  250mg / week  
 **Weeks 1 -15**  GHRP 6, 200mg, pinned twice per day    
 **Weeks 1 -15**  MOD GRF 1, 100mg, pinned with the GHRP 6  
 
 I'll be pinning every 4 days, but I'm splitting it up in to EoD injections, Example: Day 1 is tren and test, day 3 is mast and EQ.
 
-[Cycle Report](/r/steroids/wiki/cycles/reports/almightythumbs)
+[Cycle Report](/steroids/cycles/reports/almightythumbs.md)
 
 ##BDB406's DNP Cut  
 
 200 - 400mg daily Ramped DNP cycle
 
-[Cycle Report](/r/steroids/wiki/cycles/reports/bdb406)
+[Cycle Report](/steroids/cycles/reports/bdb406.md)
 
 ##captain_fluff_17psi Cuts With DNP
 
@@ -196,43 +196,43 @@ Starting with 200mg / day.
 
 ##MetalJerk's Basic Bulk+  
 
-**Weeks 1-14:** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate), 250mg, E3D   
-**Weeks 1-6:** [Dbol](/r/steroids/wiki/dianabol), 50mg, ED
+**Weeks 1-14:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md), 250mg, E3D   
+**Weeks 1-6:** [Dbol](/steroids/dianabol.md), 50mg, ED
 
-[Cycle Report](/r/steroids/wiki/reports/01-metaljerk)
+[Cycle Report](/steroids/reports/01-metaljerk.md)
 
 ##MetalJerk Fucks with Tren   
 
-**Weeks 01-12:** [Test Propinate](/r/steroids/wiki/testosterone_propionate) 30mg, ED   
-**Weeks 01- 02:** [Trenbolene](/r/steroids/wiki/trenbolone) 50mg, ED  
-**Weeks 03- 12:** [Trenbolene](/r/steroids/wiki/trenbolone) 75mg, ED   
+**Weeks 01-12:** [Test Propinate](/steroids/testosterone_propionate.md) 30mg, ED   
+**Weeks 01- 02:** [Trenbolene](/steroids/trenbolone.md) 50mg, ED  
+**Weeks 03- 12:** [Trenbolene](/steroids/trenbolone.md) 75mg, ED   
 
-[Cycle Report](/r/steroids/wiki/reports/02-metaljerk)
+[Cycle Report](/steroids/reports/02-metaljerk.md)
 
 ##Metric3036 Blast and Cruise  
 
-**Weeks 01-16:** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate) 250mg, 2x / week, 
-**Weeks 01-16:** [Deca Durabolin](/r/steroids/wiki/deca_durabolin) 200mg 2x                       
-**Weeks 17-??** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate) Cruise
+**Weeks 01-16:** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 250mg, 2x / week, 
+**Weeks 01-16:** [Deca Durabolin](/steroids/deca_durabolin.md) 200mg 2x                       
+**Weeks 17-??** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) Cruise
 
-[Cycle Report](/r/steroids/wiki/cycles/reports/Metric3036)
+[Cycle Report](/steroids/cycles/reports/Metric3036.md)
 
 ##OneTimeThingOnly's - Basic Bulk  
 
-**Weeks 1-20** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate) 500mg, 250mg Mon &amp; Thurs  
-**Weeks 14-20** [Oral Anadrol](/r/steroids/wiki/anadrol) 100mg ED  
-**Weeks 22-26** [Nolvadex](/r/steroids/wiki/nolvadex) 40/40/20/20mg ED  
+**Weeks 1-20** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 500mg, 250mg Mon &amp; Thurs  
+**Weeks 14-20** [Oral Anadrol](/steroids/anadrol.md) 100mg ED  
+**Weeks 22-26** [Nolvadex](/steroids/nolvadex.md) 40/40/20/20mg ED  
 
-[Cycle Report](/r/steroids/wiki/reports/onetimethingonly)  
+[Cycle Report](/steroids/reports/onetimethingonly.md)  
 
 ##TestTrening's - Basic Bulk+  
 
 Very detailed with great background information.
 
-**Weeks 1-12:** [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate)  
-**Weeks 1-5:** [Dbol](/r/steroids/wiki/dianabol) 
+**Weeks 1-12:** [Testosterone Cypionate](/steroids/testosterone_cypionate.md)  
+**Weeks 1-5:** [Dbol](/steroids/dianabol.md) 
 
-[Cycle Report](/r/steroids/wiki/testtrening)  
+[Cycle Report](/steroids/testtrening.md)  
 
 ##ThemsFightinWords' Hits Tren for 20 weeks.
 
@@ -244,24 +244,24 @@ Very detailed with great background information.
 
 ##Totallyforwork's Bulk  
 
-**Day 1-7:** [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate) 200mg, E5D  
-**Day 1-7:** [Anavar](/r/steroids/wiki/anavar) 40mg, ED  
-**Day 10-18:** [Equipoise](/r/steroids/wiki/equipoise) 300mg, E5D  
-**Day 10-18:** [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate) 200mg, E5D  
-**Day 10-18:** [Anavar](/r/steroids/wiki/anavar) 60mg, ED; 20 mg every 8 hours to keep it consistant with it's 1/2 life.   
-**Day 10-18:** [Dbol](/r/steroids/wiki/dianabol) 20mg, ED  
-**Day 18-27:** [Trenbolene](/r/steroids/wiki/trenbolone) Acetate, 50mg, ED  
-**Day 18-27:** [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate) 200mg, E5D    
-**Day 18-27:** [Equipoise](/r/steroids/wiki/equipoise), 300mg, E2D  
+**Day 1-7:** [Testosterone Cypionate](/steroids/testosterone_cypionate.md) 200mg, E5D  
+**Day 1-7:** [Anavar](/steroids/anavar.md) 40mg, ED  
+**Day 10-18:** [Equipoise](/steroids/equipoise.md) 300mg, E5D  
+**Day 10-18:** [Testosterone Cypionate](/steroids/testosterone_cypionate.md) 200mg, E5D  
+**Day 10-18:** [Anavar](/steroids/anavar.md) 60mg, ED; 20 mg every 8 hours to keep it consistant with it's 1/2 life.   
+**Day 10-18:** [Dbol](/steroids/dianabol.md) 20mg, ED  
+**Day 18-27:** [Trenbolene](/steroids/trenbolone.md) Acetate, 50mg, ED  
+**Day 18-27:** [Testosterone Cypionate](/steroids/testosterone_cypionate.md) 200mg, E5D    
+**Day 18-27:** [Equipoise](/steroids/equipoise.md), 300mg, E2D  
 **Day 18-28:** GHRP-2 + Mod GRF (1-29) 100mcg, each twice a day  
-**Day 28+:** Added [Masteron Propinate](/r/steroids/wiki/masteron), 50 mg, 
+**Day 28+:** Added [Masteron Propinate](/steroids/masteron.md), 50 mg, 
 
-[Cycle Report](/r/steroids/wiki/totallyforwork)
+[Cycle Report](/steroids/totallyforwork.md)
 
 ##Karlmalonestelone's First Cycle - Basic Bulk+   
 
-**Weeks 1-12:** [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate) 250mg, Mon / Fri  
-**Weeks 1-5:** [Dbol](/r/steroids/wiki/dianabol) Ramp started, 60mg, ED  
+**Weeks 1-12:** [Testosterone Cypionate](/steroids/testosterone_cypionate.md) 250mg, Mon / Fri  
+**Weeks 1-5:** [Dbol](/steroids/dianabol.md) Ramp started, 60mg, ED  
 
 [Cycle Report](/r/steroids/comments/1dg30y/my_first_time_using_aas_a_steroid_cycle_log_dbol/)
 
@@ -269,35 +269,35 @@ Very detailed with great background information.
 
 14 day albuterol cycle.
 
-[Cycle Report](/r/steroids/wiki/reports/sambianchetto)
+[Cycle Report](/steroids/reports/sambianchetto.md)
 
 #Complete -- Sparse Updates
 
 ##Armando909396's Blast, Cruise and Blast (6 updates)
 
-**Week 01 - 04** – [Test Enanthate](/r/steroids/wiki/testosterone_enthanate) 250mg 2x 300mg Test Prop 3x  
-**Week 05 - 12** - [Test Enanthate](/r/steroids/wiki/testosterone_enthanate) 250mg 2x  
-**Week 13 - 16** - [Test Enanthate](/r/steroids/wiki/testosterone_enthanate) 75mg 2x  
-**Week 14 - 16** - [Equipoise](/r/steroids/wiki/equipoise) 125mg 2x  
+**Week 01 - 04** – [Test Enanthate](/steroids/testosterone_enthanate.md) 250mg 2x 300mg Test Prop 3x  
+**Week 05 - 12** - [Test Enanthate](/steroids/testosterone_enthanate.md) 250mg 2x  
+**Week 13 - 16** - [Test Enanthate](/steroids/testosterone_enthanate.md) 75mg 2x  
+**Week 14 - 16** - [Equipoise](/steroids/equipoise.md) 125mg 2x  
 
-[Cycle Report](/r/steroids/wiki/reports/armando909396) 
+[Cycle Report](/steroids/reports/armando909396.md) 
 
 ##hypnotoadIRL's Mini-bulk to Contest Prep Cut (3 updates)
 
-**Weeks 1-8** [Equipoise](/r/steroids/wiki/equipoise) 300mg E3D  
+**Weeks 1-8** [Equipoise](/steroids/equipoise.md) 300mg E3D  
 **Weeks 1-8** NPP 600mg   
-**Weeks 1-8** [Test Enanthate](/r/steroids/wiki/testosterone_enthanate)  250mg E3D  
-**Weeks 1-8** [Test Propinate](/r/steroids/wiki/testosterone_propionate) 250mg   
+**Weeks 1-8** [Test Enanthate](/steroids/testosterone_enthanate.md)  250mg E3D  
+**Weeks 1-8** [Test Propinate](/steroids/testosterone_propionate.md) 250mg   
 **Weeks 1-4** dbol    
 **Weeks 1-4** drol  
 
-[Cycle Report](/r/steroids/wiki/cycles/reports/hypnotoadIRL)
+[Cycle Report](/steroids/cycles/reports/hypnotoadIRL.md)
 
 ##Johanna0318's 30 day DNP Cut (13 updates)
 
 **Weeks 1-7:** DNP, ramping from 250mg / day   
 
-[Cycle Report](/r/steroids/wiki/cycles/reports/johanna0318-01)
+[Cycle Report](/steroids/cycles/reports/johanna0318-01.md)
 
 ##iiTzGambit Advanced cut with Albuterol and T3 (4 updates)
 
@@ -318,24 +318,24 @@ An advanced cycle showing albuterol and T3 cycling.
 **Weeks 12 - 16:** Superdrol 20mg/ED*  
 **Weeks 12 - 16:** Test E 125/Week  
 
-[Cycle Report](/r/steroids/wiki/cycles/reports/iiTzGambit-01)
+[Cycle Report](/steroids/cycles/reports/iiTzGambit-01.md)
 
 ##SwoleScientist's Cyp and EQ Bulk (5 updates)
 
-**Weeks 1-16:** - [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate), 300mg, E3D   
-**Weeks 1-15:** - [Equipoise](/r/steroids/wiki/equipoise), 250mg, E3D   
+**Weeks 1-16:** - [Testosterone Cypionate](/steroids/testosterone_cypionate.md), 300mg, E3D   
+**Weeks 1-15:** - [Equipoise](/steroids/equipoise.md), 250mg, E3D   
 **Weeks 16-17:** Nothing   
-**Weeks 18-21:** PCT - [Nolvadex](/r/steroids/wiki/nolvadex) 50/50/25/25   
+**Weeks 18-21:** PCT - [Nolvadex](/steroids/nolvadex.md) 50/50/25/25   
 
 Aromasin on hand  
 
-[Cycle Report](/r/steroids/wiki/swolescientist)
+[Cycle Report](/steroids/swolescientist.md)
 
 ##Testbebest's Basic Bulk (9 updates)
 
-**Weeks 1-13** [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate) 250, 250mg E3D   
+**Weeks 1-13** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 250, 250mg E3D   
 **Weeks 14-15:** Nothing  
-**Weeks 16-19:** [Nolvadex](/r/steroids/wiki/nolvadex) 40/40/20/20  
+**Weeks 16-19:** [Nolvadex](/steroids/nolvadex.md) 40/40/20/20  
 Arimidex on hand for signs/symptoms of gyno  
 
 [Cycle Report](http://www.reddit.com/r/steroids/wiki/testbebest)

@@ -17,19 +17,19 @@ You can. Should you? Absolutely not. Oral steroids are going to suppress your na
 
 **ALL steroid cycles need to be taken together with a base of Testosterone to replace your natural production, which will be shut down.** 
 
-**Without a Testosterone base, you will feel** ***weak, tired, depressed, low libido, erectile dysfunction, muscle loss and weakness***—***all the [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)***. 
+**Without a Testosterone base, you will feel** ***weak, tired, depressed, low libido, erectile dysfunction, muscle loss and weakness***—***all the [symptoms of low testosterone](/steroids/trt/list.md#wiki_symptoms_of_low_testosterone)***. 
 
 As you won't have any Testosterone to support the muscles you're building, you'll lose all your newfound, hard-earned gains just after you've gotten them.
 
-If you choose to do a orals-only cycle against all sound advice, you should look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [proper PCT](/r/steroids/wiki/thecycle/pct), as well. You should consider reading through this Wiki and *doing a real cycle*, **complete with Testosterone**, *as you'll find better results, as well as feeling better too*.
+If you choose to do a orals-only cycle against all sound advice, you should look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [proper PCT](/r/steroids/wiki/thecycle/pct), as well. You should consider reading through this Wiki and *doing a real cycle*, **complete with Testosterone**, *as you'll find better results, as well as feeling better too*.
 
 ####What About A Prohormone Or Designer Steroid Cycle?
 
 Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. 
 
-**You need to take ANY CYCLE*** **together with a base of Testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/r/steroids/wiki/trt/list#wiki_symptoms_of_low_testosterone)**. 
+**You need to take ANY CYCLE*** **together with a base of Testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/steroids/trt/list.md#wiki_symptoms_of_low_testosterone)**. 
 
-Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/r/steroids/wiki/nolvadex)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
+Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
 
 ####Is my gear bunk?
 
@@ -73,7 +73,7 @@ There are a million things separating your physique from theirs other than your 
 
 ####I don’t feel anything, I have zero side effects, my training and nutrition is perfect and I’ve still not gained a single pound
 
-Get [bloodwork](https://www.reddit.com/r/steroids/wiki/bloodwork/list) while on cycle and post your results. If the gear is bunk or severely under dosed, your blood work will show this quite clearly and then we can all agree that the gear is indeed bunk. I’ve been blasting and cruising for upwards of 8 years and I can’t ever recall using any gear that was blatantly bunk and I’ve used every lab under the sun, so I don’t think it’s as common as the constant bunk gear threads are suggesting. If you’re using a compound which won’t show on a blood panel, send a sample to Janoshik or a similar lab for testing. That will identify the exact contents of your gear and you'll know if it's accurately dosed, under dosed or bunk. Most of the time, it’s a training/diet issue and people are blaming it on the gear before accepting they might not be ticking all the boxes. If in doubt and you’re doing everything right, get a blood test or a lab test and you’ll know for sure.
+Get [bloodwork](/steroids/bloodwork/list.md) while on cycle and post your results. If the gear is bunk or severely under dosed, your blood work will show this quite clearly and then we can all agree that the gear is indeed bunk. I’ve been blasting and cruising for upwards of 8 years and I can’t ever recall using any gear that was blatantly bunk and I’ve used every lab under the sun, so I don’t think it’s as common as the constant bunk gear threads are suggesting. If you’re using a compound which won’t show on a blood panel, send a sample to Janoshik or a similar lab for testing. That will identify the exact contents of your gear and you'll know if it's accurately dosed, under dosed or bunk. Most of the time, it’s a training/diet issue and people are blaming it on the gear before accepting they might not be ticking all the boxes. If in doubt and you’re doing everything right, get a blood test or a lab test and you’ll know for sure.
 
 Don’t go in to this with your expectations too high. If your diet consists of one solid meal a day and 5 snacks that are fit for a primary school student’s lunchbox, you’re not going to look like Nick Walker any time soon. In fact, you’ll probably never look like him, or even a low level IFBB Pro. Your genetics will dictate 95% of your potential and even if you do EVERYTHING perfectly, you’ll finish your first cycle looking like a slightly thicker, fuller, stronger version of your natural self with slightly rounder delts, more prominent traps and a couple of extra veins running down your upper arm when you’ve got a good pump. Maybe 1 in 50 of you will be a great responder and finish the cycle looking dramatically different, but you’ll never need to ask this question because it’ll be clear your gear is real from the offset.
 
@@ -83,7 +83,7 @@ The Basic Bulk, that is recommend, is a 12–20 week cycle of Testosterone while
 
 Testosterone is a powerful tool, if used correctly and can put on a good **+8-12 lbs of LEAN mass** (excluding water and fat gain) over the course of 16 weeks. Testosterone is a relatively mild compound  that causes little to no issues with side effects. Again, most potential side effects can be avoided entirely if the cycle is followed correctly and the proper precautions are taken.
 
-**[Read Other Experiences With Testosterone](https://www.reddit.com/r/steroids/wiki/compound_experience_threads)**
+**[Read Other Experiences With Testosterone](/steroids/compound_experience_threads.md)**
 
 When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Receptor Modulator) it is advised to buy pharmaceutical grade products whenever possible. Your Testosterone can be pharmaceutical grade or from an underground lab (UGL). Just make sure you do plenty of research of the brand before you spend any money to make sure they have good reviews. 
 
@@ -96,14 +96,14 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 
 ###Essentials
 
-* Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate)  - 4 x 10 mL Vials (generally dosed 250-300mg per mL)
+* Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/r/steroids/wiki/testosterone_cypionate)  - 4 x 10 mL Vials (generally dosed 250-300mg per mL)
 
-* An Aromatase Inhibitor (AI) like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin)
+* An Aromatase Inhibitor (AI) like [Arimidex](/steroids/arimidex.md) or [Aromasin](/r/steroids/wiki/aromasin)
   
 * PCT Medication  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- [/r/steroids Recomended PCT](/r/steroids/wiki/thecycle/pct#wiki_pct_protocols)
+&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- [/r/steroids Recomended PCT](/steroids/thecycle/pct.md#wiki_pct_protocols)
 
-* [Syringes and Needles](https://www.reddit.com/r/steroids/wiki/thecycle/injecting#wiki_pin_suppliers)  
+* [Syringes and Needles](/steroids/thecycle/injecting.md#wiki_pin_suppliers)  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Luer Lock Syringes  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 21g Needles (0.5" to 1.5") for drawing  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g-31g Needles (1" to 1.5") for injecting Glutes  
@@ -112,12 +112,12 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 
 ###Optional Items
 
-* **[An Oral Steroid](/r/steroids/wiki/your_first_cycle#wiki_what_oral_steroid_should_i_use.3F)**
+* **[An Oral Steroid](/steroids/your_first_cycle.md#wiki_what_oral_steroid_should_i_use.3F)**
 
-* [HCG](/r/steroids/wiki/hcg) (Learn more on [the PCT wiki page](https://www.reddit.com/r/steroids/wiki/thecycle/pct))  
+* [HCG](/steroids/hcg.md) (Learn more on [the PCT wiki page](/steroids/thecycle/pct.md))  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Bacteriostatic Water  
 
-* [SERM in case of a gyno flair-up](/r/steroids/wiki/the_estrogen_handbook#wiki_nolvadex_vs._raloxifene_for_gyno)  
+* [SERM in case of a gyno flair-up](/steroids/the_estrogen_handbook.md#wiki_nolvadex_vs._raloxifene_for_gyno)  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Raloxifene  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; **or**  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Nolvadex
@@ -131,17 +131,17 @@ On a lot of forums the first cycle advised to new steroid users is 10-12 weeks. 
 **What's The Difference?**  
 Approximately nothing. Definitely nothing that is going to make a difference in choosing one or the other for our purposes. Read the specifics below:
 
-* The [ester weights](/r/steroids/wiki/compounds/esters#wiki_esters_and_the_active_dose) are almost identical, with Cypionate being *ever so-slightly* heavier.  
+* The [ester weights](/steroids/compounds/esters.md#wiki_esters_and_the_active_dose) are almost identical, with Cypionate being *ever so-slightly* heavier.  
 Meaning there is *ever so-slightly* more actual testosterone hormone (~1%) in Enanthate.
 
-* The [terminal half-life](/r/steroids/wiki/compounds/esters#wiki_esters_active_half-life_table) is also almost identical.  
+* The [terminal half-life](/steroids/compounds/esters.md#wiki_esters_active_half-life_table) is also almost identical.  
 Enanthate is 4.5 days.  
 Cypionate is 5 days.  
 This will result in *ever so-slightly* more stable bloods with Cypionate.
 
-* For some, they may experience a slight difference in potential Post Injection Pain (PIP). This is due to Cypionate having a higher melting point than Enanthate, making Cypionate more prone to being able to cause PIP. This all depends on how your Testosterone was brewed by your source/supplier. [Read more on Post Injection Pain (PIP): Here.](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
+* For some, they may experience a slight difference in potential Post Injection Pain (PIP). This is due to Cypionate having a higher melting point than Enanthate, making Cypionate more prone to being able to cause PIP. This all depends on how your Testosterone was brewed by your source/supplier. [Read more on Post Injection Pain (PIP): Here.](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29)
 
-[**Please See Our Esters Wiki Page: Here**](/r/steroids/wiki/compounds/esters)
+[**Please See Our Esters Wiki Page: Here**](/steroids/compounds/esters.md)
 
 ## WhEn DoEs tHe TeSt KiCk In?
 
@@ -165,29 +165,29 @@ Blood serum concentrations quickly rise to supraphysiological levels.
 
 ## Arimidex or Aromasin?
 
-You should read the AI portion of [The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook#wiki_aromatase_inhibitors_.28ais.29), as well as the compound profiles for each, and make that choice on your own. 
+You should read the AI portion of [The Estrogen Handbook](/steroids/the_estrogen_handbook.md#wiki_aromatase_inhibitors_.28ais.29), as well as the compound profiles for each, and make that choice on your own. 
 
-* [Arimidex compound profile](/r/steroids/wiki/arimidex)
+* [Arimidex compound profile](/steroids/arimidex.md)
 
-* [Aromasin compound profile](/r/steroids/wiki/aromasin)
+* [Aromasin compound profile](/steroids/aromasin.md)
 
-**If you choose Arimidex:** [Just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/r/steroids/wiki/faq/list#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) (In case of a [gyno flair-up](/r/steroids/wiki/the_estrogen_handbook#wiki_gyno_flair-up_protocol). See more below)
+**If you choose Arimidex:** [Just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/steroids/faq/list.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) (In case of a [gyno flair-up](/r/steroids/wiki/the_estrogen_handbook#wiki_gyno_flair-up_protocol). See more below)
 
-**If you choose Aromasin**: [TAKE WITH FATS](/r/steroids/wiki/faq/list#wiki_q.3A_does_aromasin_need_to_be_taken_with_fat.3F)
+**If you choose Aromasin**: [TAKE WITH FATS](/steroids/faq/list.md#wiki_q.3A_does_aromasin_need_to_be_taken_with_fat.3F)
 
 ##How Much AI Do I Need?
 
 ***Hopefully none!***
 
-How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot.’ **MOST** users will find 0.5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good dose. Some may need more frequent (EOD) dosing. Some may even need less than E3.5D. 
+How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/steroids/bloodwork/list.md) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot.’ **MOST** users will find 0.5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good dose. Some may need more frequent (EOD) dosing. Some may even need less than E3.5D. 
 
 *Some don't need any AI at all.* This is something that varies widely from person-to-person.
 
-In [The Estrogen Handbook](/r/steroids/wiki/the_estrogen_handbook), it gives an idea of side effects for both low and high Estrogen levels which may help you gauge an idea of where you’re at should you become confused and not want to have bloods taken, **BUT** blood work will be the only way to know 100%.
+In [The Estrogen Handbook](/steroids/the_estrogen_handbook.md), it gives an idea of side effects for both low and high Estrogen levels which may help you gauge an idea of where you’re at should you become confused and not want to have bloods taken, **BUT** blood work will be the only way to know 100%.
 
 It is **HIGHLY UNLIKELY** that you will need this dose on 500mg of Testosterone, but it is suggested to have enough to run the Arimidex 1mg EOD or Aromasin 25mg EOD, this will give you more than what you realistically should need. 
 
-**REMEMBER:** ***Get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in the AI dose you may need***.
+**REMEMBER:** ***Get [bloodwork](/steroids/bloodwork/list.md) to dial in the AI dose you may need***.
 
 ##When Should You Start Your AI?
 
@@ -273,7 +273,7 @@ If you're injecting on Mondays and Thursdays:
 
 Raloxifene and Nolvadex will both bind to the Estrogen receptor at the breast site and be your first plan of attack against uncontrollable gyno sides. If your Estrogen is wildly out of control and you are developing puffy, sore, or itchy nipples, **UP** your AI dose and start taking your SERM (Rolax - 60mg ED) (Nolva - 20mg ED). It usually will subside after a 7-12 days. Continue the SERM for 3 days after the symptoms have subsided before you drop the SERM.
 
-**Note**: If you choose Arimidex as your AI, [just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/r/steroids/wiki/faq/list#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) To avoid this, you may choose Raloxifene.
+**Note**: If you choose Arimidex as your AI, [just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/steroids/faq/list.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) To avoid this, you may choose Raloxifene.
 
 This isn't required, but it is definitely **RECOMMENDED.** It's always better to have it and not need it rather than need it and not have it.
 
@@ -281,15 +281,15 @@ This isn't required, but it is definitely **RECOMMENDED.** It's always better to
 
 The injection process itself is relatively straight forward. Perhaps nothing causes more anxiety for AAS users than their 1st injection. This fear is far more psychological than physical, as the act of performing an injection, especially when utilizing proper technique and the correct pin size, can be relatively painless. Some muscle groups are more prone to causing discomfort than others and the possibility of hitting a nerve, scar tissue, or a sore spot is a reality, but in general, an injection should not be considered a “painful” experience.
 
-&gt; [**To Learn Step-By-Step On How To Inject Safely, Click Here**](/r/steroids/wiki/thecycle/injecting#wiki_safe_injecting_technique)
+&gt; [**To Learn Step-By-Step On How To Inject Safely, Click Here**](/steroids/thecycle/injecting.md#wiki_safe_injecting_technique)
 
-For a first cycle, the easiest not to mess up is [Glutes](/r/steroids/wiki/thecycle/injecting#wiki_glutes_.28dorsogluteal.29), a nice big muscle with decent circulation and low risk of hitting any nerve clusters. The twisting and turning can be a problem for some in which case shooting [Ventro Glutes](/r/steroids/wiki/thecycle/injecting#wiki_ventro_glutes) is another option. If that is too hard to find for you, try [Quads](/r/steroids/wiki/thecycle/injecting#wiki_quads_.28vastus_lateralis.29), but there is a slightly larger margin for error in regard to hitting nerve clusters and puncturing large veins.  But you should aim to have as many injection sites as possible to avoid building scar tissue.
+For a first cycle, the easiest not to mess up is [Glutes](/steroids/thecycle/injecting.md#wiki_glutes_.28dorsogluteal.29), a nice big muscle with decent circulation and low risk of hitting any nerve clusters. The twisting and turning can be a problem for some in which case shooting [Ventro Glutes](/r/steroids/wiki/thecycle/injecting#wiki_ventro_glutes) is another option. If that is too hard to find for you, try [Quads](/r/steroids/wiki/thecycle/injecting#wiki_quads_.28vastus_lateralis.29), but there is a slightly larger margin for error in regard to hitting nerve clusters and puncturing large veins.  But you should aim to have as many injection sites as possible to avoid building scar tissue.
 
-&gt; [**Visit our injection page to learn all about Safe Injection Technique.**](/r/steroids/wiki/thecycle/injecting)
+&gt; [**Visit our injection page to learn all about Safe Injection Technique.**](/steroids/thecycle/injecting.md)
 
 ###Post Injection Pain
 
-&gt; [**To Learn All About Potential Post Injection Pain, Click Here**](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
+&gt; [**To Learn All About Potential Post Injection Pain, Click Here**](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29)
 
 ##Frontloading Test?
 
@@ -311,23 +311,23 @@ Dry orals such as **anavar** or **turinabol** can be added to your first cycle w
 
 If you use a wet oral such as Dianabol, you'll find AI dosing starts to become more complicated. Not only do you need to find your dosing for Dianabol and Testosterone, but then you also need to readjust once you come off the Dianabol. Regardless, it's a timeless classic that has been used for first cycles for a long time. 
 
-Other options include Anadrol or Superdrol, both of which do not aromatize, but have been known to cause Gyno by some other mechanism. If you choose to use Anadrol or Superdrol, it is recommended to have Raloxifene on hand in case of a [Gyno Flair-Up](/r/steroids/wiki/the_estrogen_handbook#wiki_gyno_flair-up_protocol).
+Other options include Anadrol or Superdrol, both of which do not aromatize, but have been known to cause Gyno by some other mechanism. If you choose to use Anadrol or Superdrol, it is recommended to have Raloxifene on hand in case of a [Gyno Flair-Up](/steroids/the_estrogen_handbook.md#wiki_gyno_flair-up_protocol).
 
 **In the end, the choice is personal in nature**.
 
 ###Suggested Orals
 
-* [Dianabol (Dbol)](http://www.reddit.com/r/steroids/wiki/dianabol) is a very "wet" compound, which means that it converts to estrogen and at a high rate at that. It is highly recommended to use an AI from day one of this cycle in order to prevent heavy water retention, [gynecomastia](/r/steroids/wiki/sides/gynecomastia), and other [high estrogen side effects](/r/steroids/wiki/sides/changes_in_estrogen_levels#wiki_high_estrogen_sides). ([Sides](/r/steroids/wiki/dianabol#wiki_risks.2Fside_effects)). ***Don't use Dianabol unless you know how to manage E2, or you can afford the extra time and attention to properly dial it in.*** For this reason it's oft-best left mid-cycle, or as a finisher when you have your E2 under control, unless you can commit to the added estrogen management from the start. 
+* [Dianabol (Dbol)](http://www.reddit.com/r/steroids/wiki/dianabol) is a very "wet" compound, which means that it converts to estrogen and at a high rate at that. It is highly recommended to use an AI from day one of this cycle in order to prevent heavy water retention, [gynecomastia](/steroids/sides/gynecomastia.md), and other [high estrogen side effects](/r/steroids/wiki/sides/changes_in_estrogen_levels#wiki_high_estrogen_sides). ([Sides](/r/steroids/wiki/dianabol#wiki_risks.2Fside_effects)). ***Don't use Dianabol unless you know how to manage E2, or you can afford the extra time and attention to properly dial it in.*** For this reason it's oft-best left mid-cycle, or as a finisher when you have your E2 under control, unless you can commit to the added estrogen management from the start. 
 
-* [Anadrol (Adrol)](/r/steroids/wiki/anadrol) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, individuals using this compound will often report pronounced estrogen related side effects such as [gynecomastia](/r/steroids/wiki/sides/gynecomastia) and water retention, among others. ([Sides.](/r/steroids/wiki/anadrol#wiki_side_effects.2Frisks))  
+* [Anadrol (Adrol)](/steroids/anadrol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, individuals using this compound will often report pronounced estrogen related side effects such as [gynecomastia](/r/steroids/wiki/sides/gynecomastia) and water retention, among others. ([Sides.](/r/steroids/wiki/anadrol#wiki_side_effects.2Frisks))  
 
-* [Superdrol (Sdrol)](/r/steroids/wiki/gear/methasterone) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, some individuals using this compound still report [gynecomastia](/r/steroids/wiki/sides/gynecomastia) symptoms. There are theories on why this may happen, but nothing has ever been proven. Sdrol is also known to cause lethargy in some. It is a DHT derivative, so hair loss can be a concern. ([Sides.](/r/steroids/wiki/gear/methasterone#wiki_side_effects))  
+* [Superdrol (Sdrol)](/steroids/gear/methasterone.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, some individuals using this compound still report [gynecomastia](/r/steroids/wiki/sides/gynecomastia) symptoms. There are theories on why this may happen, but nothing has ever been proven. Sdrol is also known to cause lethargy in some. It is a DHT derivative, so hair loss can be a concern. ([Sides.](/r/steroids/wiki/gear/methasterone#wiki_side_effects))  
 
-* [Turinabol (Tbol)](/r/steroids/wiki/turinabol) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is also one of the most "side-effect free" compounds, but it is also not known for putting on as much potential mass as Dbol or Adrol. You should still review the compounds [side effect profile](/r/steroids/wiki/turinabol#wiki_risks.2Fside_effects). It does still affect lipids negatively, but most oral steroids do.  
+* [Turinabol (Tbol)](/steroids/turinabol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is also one of the most "side-effect free" compounds, but it is also not known for putting on as much potential mass as Dbol or Adrol. You should still review the compounds [side effect profile](/r/steroids/wiki/turinabol#wiki_risks.2Fside_effects). It does still affect lipids negatively, but most oral steroids do.  
 
-* [Anavar (Var)](https://www.reddit.com/r/steroids/wiki/anavar) is considered a dry compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. Strength increases are common and mixed with less than dramatic weight gains. The compound is very beneficial to athletes participating in sports that have weight divisions, or where extra weight can be a hindrance.
+* [Anavar (Var)](/steroids/anavar.md) is considered a dry compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. Strength increases are common and mixed with less than dramatic weight gains. The compound is very beneficial to athletes participating in sports that have weight divisions, or where extra weight can be a hindrance.
 
-**Note:** These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
+**Note:** These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
 
 ### When Should I Take It?
 
@@ -353,7 +353,7 @@ Off Days: Use the Half-Life Method.
 
 ##How Often Should I Pin (Inject)?
 
-It is suggested on /r/steroids that you should at least inject every three days (E3D) or every 3.5 days (E3.5D) to keep blood levels as stable as possible for Testosterone [Enanthate](/r/steroids/wiki/testosterone_enthanate) or [Cypionate](/r/steroids/wiki/testosterone_cypionate). This will minimize side effects and make controlling estrogen easier. You may do once a week, but it is not optimal.
+It is suggested on /r/steroids that you should at least inject every three days (E3D) or every 3.5 days (E3.5D) to keep blood levels as stable as possible for Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/r/steroids/wiki/testosterone_cypionate). This will minimize side effects and make controlling estrogen easier. You may do once a week, but it is not optimal.
 
 &gt; [Here is an example of blood levels with 500mg of Test Enanthate injected once a week (E7D)](https://imgur.com/a/Ohgt6). This was plotted with [SteroidPlotter](http://www.steroidplotter.com/).
 
@@ -363,17 +363,17 @@ It is suggested on /r/steroids that you should at least inject every three days 
 
 After you did your 12-15 week cycle, you have to begin your Post Cycle Therapy (PCT). The first two weeks after your last injection you do not take any drugs, as the endogenous testosterone is still disrupting your natural endocrine system.
 
-Then, you will either do a [/r/steroids Recomended PCT](/r/steroids/wiki/thecycle/pct#wiki_pct_protocols)
+Then, you will either do a [/r/steroids Recomended PCT](/steroids/thecycle/pct.md#wiki_pct_protocols)
 
 ##Human Chorionic Gonadotrophin (HCG)
 
 ###**Why Should I Use HCG?**
 
-Running a small dose of [HCG](/r/steroids/wiki/hcg) will help to keep the testes full and will aid with recovery once you come to the end of your cycle and need to PCT. It’s not 100% necessary, but if you have access to some and don’t mind spending a small amount of money to speed up your recovery then it is probably worth looking at. 
+Running a small dose of [HCG](/steroids/hcg.md) will help to keep the testes full and will aid with recovery once you come to the end of your cycle and need to PCT. It’s not 100% necessary, but if you have access to some and don’t mind spending a small amount of money to speed up your recovery then it is probably worth looking at. 
 
 Suggested Dose: **Run 250 IU EOD throughout the full cycle**. 
 
-**[Learn more on the PCT wiki page.](https://www.reddit.com/r/steroids/wiki/thecycle/pct)**
+**[Learn more on the PCT wiki page.](/steroids/thecycle/pct.md)**
 
 ###**How Do I Mix And Run My HCG?**
 
@@ -391,7 +391,7 @@ In either case, hCG should be kept in the refrigerator after reconstitution to p
 
 ##Blood Work
 
-Regular blood work is **STRONGLY** encouraged. It is recommend getting blood work before starting your cycle (to assess your baseline Testosterone levels and general health), during your cycle (to confirm that your Testosterone is legitimate and properly dosed), and after your cycle (to assess how well you have recovered). [The wiki page regarding blood work can be found here](/r/steroids/wiki/bloodwork/list) and [some help in how to understand your results can be found here.](https://www.reddit.com/r/steroids/wiki/bloodwork/health_markers)
+Regular blood work is **STRONGLY** encouraged. It is recommend getting blood work before starting your cycle (to assess your baseline Testosterone levels and general health), during your cycle (to confirm that your Testosterone is legitimate and properly dosed), and after your cycle (to assess how well you have recovered). [The wiki page regarding blood work can be found here](/steroids/bloodwork/list.md) and [some help in how to understand your results can be found here.](/steroids/bloodwork/health_markers.md)
 
 **When Should I Get Bloodwork?**
 
@@ -408,21 +408,21 @@ It is recommended to eat about TDEE + 30%. Go find multiple TDEE calculators and
 * **Weeks 1-15:** Testosterone E or C, 250 mg **every 3 or 3.5 days** (E3D or E3.5D) for a total of **500 mg per week**.
 
 * **Weeks 16-17:** Nothing (This allows the exogenous testosterone to clear your body to a reasonable amount). 
-* **Weeks 18-Til:** Whatever [PCT protocol](/r/steroids/wiki/thecycle/pct) you choose.
+* **Weeks 18-Til:** Whatever [PCT protocol](/steroids/thecycle/pct.md) you choose.
 
-* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/r/steroids/wiki/arimidex) or [Aromasin](/r/steroids/wiki/aromasin). Again, dosing is user dependent and you should get [blood work](/r/steroids/wiki/bloodwork/list) to dial in your dose, but **MOST** users will find .5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good starting dose. Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels) - especially high estrogen, like excessive bloating or itchy nipples.
+* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/r/steroids/wiki/aromasin). Again, dosing is user dependent and you should get [blood work](/r/steroids/wiki/bloodwork/list) to dial in your dose, but **MOST** users will find .5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good starting dose. Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels) - especially high estrogen, like excessive bloating or itchy nipples.
 
 **Oral Steroid Options / Additives:**  
 
 Test E &amp; C takes about six weeks to fully saturate the blood (*i.e.,* kick in). If you don't want to wait that long and you want to aid in your bulk, a popular thing to do is start the oral from day 1 (*kickstarting*). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (*finisher*). You can run your oral anytime during the cycle though. You may pick **one** of the following:
 
-* **For 6 Weeks:** [Dianabol (Dbol)](/r/steroids/wiki/dianabol), 30–60 mg, ED **or**  
-* **For 6 Weeks:** [Anadrol (Adrol)](/r/steroids/wiki/anadrol), 50–100 mg, ED **or**  
-* **For 4 Weeks:** [Superdrol (Sdrol)](/r/steroids/wiki/gear/methasterone), 10–20 mg, ED **or**  
-* **For 6 Weeks:** [Turinabol (Tbol)](/r/steroids/wiki/turinabol), 40–80 mg, ED **or** 
-* **For 6 Weeks:** [Anavar (Var)](/r/steroids/wiki/oxandrolone), 30–50 mg, ED
+* **For 6 Weeks:** [Dianabol (Dbol)](/steroids/dianabol.md), 30–60 mg, ED **or**  
+* **For 6 Weeks:** [Anadrol (Adrol)](/steroids/anadrol.md), 50–100 mg, ED **or**  
+* **For 4 Weeks:** [Superdrol (Sdrol)](/steroids/gear/methasterone.md), 10–20 mg, ED **or**  
+* **For 6 Weeks:** [Turinabol (Tbol)](/steroids/turinabol.md), 40–80 mg, ED **or** 
+* **For 6 Weeks:** [Anavar (Var)](/steroids/oxandrolone.md), 30–50 mg, ED
 
-&gt; **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
+&gt; **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
 
 ### Why 500mg?
 

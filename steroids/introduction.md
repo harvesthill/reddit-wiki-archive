@@ -2,34 +2,34 @@
 
 ###[Format Key [Click HERE]]( )
 
-#I.) [The Community](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules)
+#I.) [The Community](/steroids/index/subreddit_rules.md)
 
 #II.) [Overview / Introduction]( )
 
-## [Frequently Asked Questions (FAQ)](https://www.reddit.com/r/steroids/wiki/faq/list)
+## [Frequently Asked Questions (FAQ)](/steroids/faq/list.md)
 
-#III.) [Medicinal Uses](https://www.reddit.com/r/steroids/wiki/medicinal/list)
+#III.) [Medicinal Uses](/steroids/medicinal/list.md)
 
-## [Testosterone Replacement Therapy (TRT)](https://www.reddit.com/r/steroids/wiki/trt/list)
+## [Testosterone Replacement Therapy (TRT)](/steroids/trt/list.md)
 
 #IV.) Essential Cycle / Blast &amp; Cruise Reading
 
-##[Safe Injections](https://www.reddit.com/r/steroids/wiki/thecycle/injecting)
+##[Safe Injections](/steroids/thecycle/injecting.md)
 
 ##[Post Cycle Therapy (PCT)]( )
 
-## [The Estrogen Handbook](https://www.reddit.com/r/steroids/wiki/the_estrogen_handbook)
+## [The Estrogen Handbook](/steroids/the_estrogen_handbook.md)
 
-#IV.) Cycling / Blasting &amp; Cruising (B&amp;C)-  [The Cycle - Things To Know](https://www.reddit.com/r/steroids/wiki/thecycle/list)
+#IV.) Cycling / Blasting &amp; Cruising (B&amp;C)-  [The Cycle - Things To Know](/steroids/thecycle/list.md)
 
-## [Your First Cycle](https://www.reddit.com/r/steroids/wiki/your_first_cycle)
+## [Your First Cycle](/steroids/your_first_cycle.md)
 
-## [Cycle Examples](https://www.reddit.com/r/steroids/wiki/thecycle/examples)
+## [Cycle Examples](/steroids/thecycle/examples.md)
 
-#VI.) [Anabolic Steroids And The Law](https://www.reddit.com/r/steroids/wiki/laws)
+#VI.) [Anabolic Steroids And The Law](/steroids/laws.md)
 
-#VII.) [Talking Points](https://www.reddit.com/r/steroids/wiki/talkingpoints)
+#VII.) [Talking Points](/steroids/talkingpoints.md)
 
-#XIII.) [Nutrition](https://www.reddit.com/r/steroids/wiki/nutrition)
+#XIII.) [Nutrition](/steroids/nutrition.md)
 
 #

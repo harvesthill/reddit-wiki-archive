@@ -89,7 +89,7 @@ Human growth hormone has also been shown to cause gynocomastia in some users. Th
 
 ## HGH Brands List
 
-Only brands listed here are the only HGH brands that are the exception to our ["No Source Talk" rule](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_2._no_source_talk_.2F_no_monetization.). If your brand isn't listed there just refer to it as "generic HGH."
+Only brands listed here are the only HGH brands that are the exception to our ["No Source Talk" rule](/steroids/index/subreddit_rules.md#wiki_2._no_source_talk_.2F_no_monetization.). If your brand isn't listed there just refer to it as "generic HGH."
 
 Brand | Amino Acid | Purity | Available Since |  Manufacturer (Country)
 :--------------|:--------------:|:-------------:|:--------------:|:-------------

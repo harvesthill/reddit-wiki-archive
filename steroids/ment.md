@@ -1,1 +1,1 @@
-#[Redirect to Trestolone](https://www.reddit.com/r/steroids/wiki/trestolone)
+#[Redirect to Trestolone](/steroids/trestolone.md)
