@@ -2,9 +2,9 @@
 
 **If you have any questions regarding my cycle or anything feel free to message me. I will happily discuss anything.**
 
-##[Progress Pictures](http://imgur.com/a/LQ9Wn)
+## [Progress Pictures](http://imgur.com/a/LQ9Wn)
 
-##[Blood Work](http://imgur.com/a/TPYS1)
+## [Blood Work](http://imgur.com/a/TPYS1)
 
 ## Background Info
 So the reason I am doing this cycle is to..... GET HUGE DUH!!! But I will be competing in a Men's Physique contest on March 29th and I want to get as big as I can before I have to start cutting pre-contest. I am planning to start either September 25th or Septemeber 29th. I will keep you guys updated. I am also doing this log to keep track of myself as I feel it will be easier if I have some incentive to track progress. 

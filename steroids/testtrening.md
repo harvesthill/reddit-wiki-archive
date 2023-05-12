@@ -100,7 +100,7 @@ Arimidex will be on hand in case sides come up.
 
 ## Diet
 
-####[Diet Spreadsheets album click here](http://imgur.com/a/bRNjs)
+#### [Diet Spreadsheets album click here](http://imgur.com/a/bRNjs)
 Calories will start at 3500 because I gain weight very easily and will be adjusted when I stop gaining weight. I'm not very lean, so if I end up recomping by accident for the first week or two, I won't complain. 
 
 ## On cycle trianing

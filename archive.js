@@ -20,7 +20,6 @@ async function main () {
   console.log(JSON.stringify(argv, null, 2))
   prepareSubredditFolder(argv.subreddit)
   await fetchPagesForSubreddit(argv.subreddit, argv)
-  await runPostprocessTransformations(argv.subreddit, argv['rewrite-path-relative-wiki-links'], argv['rewrite-web-wiki-links'], argv.tidy)
 }
 
 if (require.main === module) main()
@@ -53,6 +52,16 @@ async function archivePage(url, pageSlug, sub, argv) {
       content = prettifyMarkdown(res.data.content_md)
     } else {
       content = res.data.content_md
+    }
+
+    const transformers = getTransformers(
+      argv['rewrite-path-relative-wiki-links'],
+      argv['rewrite-web-wiki-links'],
+      argv.tidy
+    )
+
+    for (const transformer of transformers) {
+      content = transformer(sub, targetFile, content)
     }
 
     fs.writeFileSync(targetFile, content)
@@ -90,36 +99,11 @@ function prepareSubredditFolder(subredditName) {
   }
 }
 
-async function runPostprocessTransformations(subredditName, shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders) {
-  const transformers = getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders);
-
-  await readdirRecursive(subredditName, async function(file, filePath) {
-    return new Promise((resolve, reject) => {
-      const readStream = fs.createReadStream(filePath);
-      const writeStream = fs.createWriteStream(filePath + '.tmp');
-  
-      const transformStream = new Transform({
-        transform(chunk, encoding, callback) {
-          const modifiedChunk = transformers.reduce((chunkString, transformer) => transformer(subredditName, file, filePath, chunkString), chunk.toString())
-          callback(null, modifiedChunk);
-        }
-      });
-  
-      readStream.pipe(transformStream).pipe(writeStream);
-  
-      writeStream.on('finish', () => {
-        fs.renameSync(filePath + '.tmp', filePath);
-        resolve();
-      });
-    })
-  })
-}
-
 function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders) {
   const transformers = [];
 
   if (shouldRewritePathRelativeWikiLinks) {
-    transformers.push(function(subredditName, file, filePath, chunkString) {
+    transformers.push(function(subredditName, filePath, chunkString) {
       const searchPattern = new RegExp(`\\]\\(\\/r\\/${subredditName}\\/wiki\\/([^)#?]+)([^)]*)\\)`, 'g');
 
       return chunkString.replace(searchPattern, function replacer(match, cg1, cg2) {
@@ -129,7 +113,7 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
   }
 
   if (shouldRewriteWebWikiLinks) {
-    transformers.push(function(subredditName, file, filePath, chunkString) {
+    transformers.push(function(subredditName, filePath, chunkString) {
       const searchPattern = new RegExp(`\\]\\(https:\\/\\/(?:www\\.)?reddit.com\\/r\\/${subredditName}\\/wiki\\/([^)#?]+)([^)]*)\\)`, 'g');
 
       return chunkString.replace(searchPattern, function replacer(match, cg1, cg2) {
@@ -139,29 +123,14 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
   }
 
   if (shouldCleanUpMarkdownHeaders) {
-    transformers.push(function(subredditName, file, filePath, chunkString) {
-      const searchPattern = new RegExp(`\\n(#{1,6})([A-Za-z0-9])`, 'g');
+    transformers.push(function(subredditName, filePath, chunkString) {
+      const searchPattern = new RegExp(`\\n(#{1,6})([A-Za-z0-9\\[])`, 'g');
 
-      return chunkString.replace(searchPattern, function replacer(match, cg1, cg2) {
+      return chunkString.replace(searchPattern, function replacer(match, cg1, cg2, cg3) {
         return `\n${cg1} ${cg2}`
       });
     })
   }
 
   return transformers;
-}
-
-async function readdirRecursive(dir, fileCallback) {
-  let files = fs.readdirSync(dir);
-
-  for (const file of files) {
-    let filePath = path.join(dir, file);
-    let stat = fs.statSync(filePath);
-
-    if (stat.isDirectory()) {
-      readdirRecursive(filePath, fileCallback);
-    } else {
-      await fileCallback(file, filePath);
-    }
-  }
 }

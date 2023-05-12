@@ -566,9 +566,9 @@ Starting dosage 4mg daily as recommended by u/PM_me_varbies but can be upped to 
 
 *****
 
-###[Carrier Oils](http://www.reddit.com/r/steroids/wiki/homebrew/carrieroils)
-###[Solvents](http://www.reddit.com/r/steroids/wiki/homebrew/Solvents)
-###[Antimicrobials/Preservatives](http://www.reddit.com/r/steroids/wiki/homebrew/antimicrobials)
+### [Carrier Oils](http://www.reddit.com/r/steroids/wiki/homebrew/carrieroils)
+### [Solvents](http://www.reddit.com/r/steroids/wiki/homebrew/Solvents)
+### [Antimicrobials/Preservatives](http://www.reddit.com/r/steroids/wiki/homebrew/antimicrobials)
 
 *****
 

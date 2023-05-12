@@ -1,6 +1,6 @@
 #Table Of Contents
 
-###[Format Key [Click HERE]]( )
+### [Format Key [Click HERE]]( )
 
 # I.) [The Community](/steroids/index/subreddit_rules.md)
 
@@ -14,9 +14,9 @@
 
 # IV.) Essential Cycle / Blast &amp; Cruise Reading
 
-##[Safe Injections](/steroids/thecycle/injecting.md)
+## [Safe Injections](/steroids/thecycle/injecting.md)
 
-##[Post Cycle Therapy (PCT)]( )
+## [Post Cycle Therapy (PCT)]( )
 
 ## [The Estrogen Handbook](/steroids/the_estrogen_handbook.md)
 

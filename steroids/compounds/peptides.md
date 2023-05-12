@@ -2,7 +2,7 @@
 
 A  peptide is a compound consisting of two or more amino acids linked in a chain, the carboxyl group of each acid being joined to the amino group of the next by a bond.
 
-##[Datbtrue Archive HERE](/steroids/datbtrue.md)
+## [Datbtrue Archive HERE](/steroids/datbtrue.md)
 
 ## Peptide Guide
 

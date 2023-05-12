@@ -8,7 +8,7 @@
 
 &amp;nbsp;
 
-###[**I'M NOT READY FOR INSULIN.**](https://www.reddit.com/r/steroids/)
+### [**I'M NOT READY FOR INSULIN.**](https://www.reddit.com/r/steroids/)
 
 &amp;nbsp;
 
@@ -20,6 +20,6 @@
 
 &amp;nbsp;
 
-###[**I understand insulin is dangerous and potentially life threatening and choose to proceed at MY OWN RISK.**](/steroids/insulin.md)
+### [**I understand insulin is dangerous and potentially life threatening and choose to proceed at MY OWN RISK.**](/steroids/insulin.md)
 
 &amp;nbsp;
