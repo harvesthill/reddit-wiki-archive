@@ -288,7 +288,7 @@ This is where the AI is to be utilized as a supportive compound for hCG use in t
 
 ***This Section Is Optional, UNLESS Utilizing*** [***hCG dosing 3 or 4.***](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)
 
-As noted above in [hCG dosing 3 &amp; 4,](/steroids/draft.md#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that hCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 &amp; 2,](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  
+As noted above in [hCG dosing 3 &amp; 4,](/steroids/draft.md#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that hCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 &amp; 2,](/steroids/draft.md#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  
 
 It should also be noted that hCG will also cause an increase in testicular progesterone levels. Estrogen rising is of course undesirable during PCT, as it has already been explained that Estrogen will trigger suppression of endogenous Testosterone production, and there is no doubt that any individual wishes to encounter Estrogenic side effects during PCT either.
 
@@ -302,7 +302,7 @@ Finally, in addition to these benefits from Aromasin, it is very clear that Arom
 
 ## Dosing
 
-Note: This is a lot of Aromasin, but has clinically be shown to be effective. You may end up experiencing [low E2 sides.](/steroids/the_estrogen_handbook.md#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing hCG dosing 1 or 2](https://www.reddit.com/r/steroids/wiki/draft#wiki_1._over_the_entire_cycle)
+Note: This is a lot of Aromasin, but has clinically be shown to be effective. You may end up experiencing [low E2 sides.](/steroids/the_estrogen_handbook.md#wiki_aromasin_.28exemestane.29) Most common include the possibility of stiff joints and lethargy. If you wish to avoid this, consider skipping the need for this and [utilizing hCG dosing 1 or 2](/steroids/draft.md#wiki_1._over_the_entire_cycle)
 
 Following these details, Aromasin would be the best possible aromatase inhibitor of choice in order to combat the increased aromatase activity caused by hCG. Therefore, Aromasin would then be utilized *up to* a full 25mg ED, and **only while HCG is utilized in** [**hCG dosing 3 or 4**](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)**. Once hCG is discontinued, Aromasin too should be halted.**
 

@@ -21,7 +21,7 @@ You can. Should you? Absolutely not. Oral steroids are going to suppress your na
 
 As you won't have any Testosterone to support the muscles you're building, you'll lose all your newfound, hard-earned gains just after you've gotten them.
 
-If you choose to do a orals-only cycle against all sound advice, you should look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [proper PCT](/r/steroids/wiki/thecycle/pct), as well. You should consider reading through this Wiki and *doing a real cycle*, **complete with Testosterone**, *as you'll find better results, as well as feeling better too*.
+If you choose to do a orals-only cycle against all sound advice, you should look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/steroids/clomid.md) or the sorts) for a [proper PCT](/steroids/thecycle/pct.md), as well. You should consider reading through this Wiki and *doing a real cycle*, **complete with Testosterone**, *as you'll find better results, as well as feeling better too*.
 
 ####What About A Prohormone Or Designer Steroid Cycle?
 
@@ -29,7 +29,7 @@ Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids ar
 
 **You need to take ANY CYCLE*** **together with a base of Testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/steroids/trt/list.md#wiki_symptoms_of_low_testosterone)**. 
 
-Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/r/steroids/wiki/clomid) or the sorts) for a [real PCT](/r/steroids/wiki/thecycle/pct). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
+Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/steroids/clomid.md) or the sorts) for a [real PCT](/steroids/thecycle/pct.md). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
 
 ####Is my gear bunk?
 
@@ -96,9 +96,9 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 
 ###Essentials
 
-* Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/r/steroids/wiki/testosterone_cypionate)  - 4 x 10 mL Vials (generally dosed 250-300mg per mL)
+* Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/steroids/testosterone_cypionate.md)  - 4 x 10 mL Vials (generally dosed 250-300mg per mL)
 
-* An Aromatase Inhibitor (AI) like [Arimidex](/steroids/arimidex.md) or [Aromasin](/r/steroids/wiki/aromasin)
+* An Aromatase Inhibitor (AI) like [Arimidex](/steroids/arimidex.md) or [Aromasin](/steroids/aromasin.md)
   
 * PCT Medication  
 &amp;nbsp;&amp;nbsp;&amp;nbsp; |--- [/r/steroids Recomended PCT](/steroids/thecycle/pct.md#wiki_pct_protocols)
@@ -171,7 +171,7 @@ You should read the AI portion of [The Estrogen Handbook](/steroids/the_estrogen
 
 * [Aromasin compound profile](/steroids/aromasin.md)
 
-**If you choose Arimidex:** [Just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/steroids/faq/list.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) (In case of a [gyno flair-up](/r/steroids/wiki/the_estrogen_handbook#wiki_gyno_flair-up_protocol). See more below)
+**If you choose Arimidex:** [Just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/steroids/faq/list.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) (In case of a [gyno flair-up](/steroids/the_estrogen_handbook.md#wiki_gyno_flair-up_protocol). See more below)
 
 **If you choose Aromasin**: [TAKE WITH FATS](/steroids/faq/list.md#wiki_q.3A_does_aromasin_need_to_be_taken_with_fat.3F)
 
@@ -179,7 +179,7 @@ You should read the AI portion of [The Estrogen Handbook](/steroids/the_estrogen
 
 ***Hopefully none!***
 
-How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/steroids/bloodwork/list.md) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot.’ **MOST** users will find 0.5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good dose. Some may need more frequent (EOD) dosing. Some may even need less than E3.5D. 
+How much AI is required can vary from person-to-person, as a guide it advised you get [bloodwork](/steroids/bloodwork/list.md) to dial in your dose. You will basically need to use trial and error to find your ideal AI dose to get your Test:Estrogen balance at your personal ‘sweet spot.’ **MOST** users will find 0.5 mg of [Arimidex](/steroids/arimidex.md) or 12.5 mg [Aromasin](/steroids/aromasin.md) E3D or E3.5D to be a good dose. Some may need more frequent (EOD) dosing. Some may even need less than E3.5D. 
 
 *Some don't need any AI at all.* This is something that varies widely from person-to-person.
 
@@ -283,7 +283,7 @@ The injection process itself is relatively straight forward. Perhaps nothing cau
 
 &gt; [**To Learn Step-By-Step On How To Inject Safely, Click Here**](/steroids/thecycle/injecting.md#wiki_safe_injecting_technique)
 
-For a first cycle, the easiest not to mess up is [Glutes](/steroids/thecycle/injecting.md#wiki_glutes_.28dorsogluteal.29), a nice big muscle with decent circulation and low risk of hitting any nerve clusters. The twisting and turning can be a problem for some in which case shooting [Ventro Glutes](/r/steroids/wiki/thecycle/injecting#wiki_ventro_glutes) is another option. If that is too hard to find for you, try [Quads](/r/steroids/wiki/thecycle/injecting#wiki_quads_.28vastus_lateralis.29), but there is a slightly larger margin for error in regard to hitting nerve clusters and puncturing large veins.  But you should aim to have as many injection sites as possible to avoid building scar tissue.
+For a first cycle, the easiest not to mess up is [Glutes](/steroids/thecycle/injecting.md#wiki_glutes_.28dorsogluteal.29), a nice big muscle with decent circulation and low risk of hitting any nerve clusters. The twisting and turning can be a problem for some in which case shooting [Ventro Glutes](/steroids/thecycle/injecting.md#wiki_ventro_glutes) is another option. If that is too hard to find for you, try [Quads](/steroids/thecycle/injecting.md#wiki_quads_.28vastus_lateralis.29), but there is a slightly larger margin for error in regard to hitting nerve clusters and puncturing large veins.  But you should aim to have as many injection sites as possible to avoid building scar tissue.
 
 &gt; [**Visit our injection page to learn all about Safe Injection Technique.**](/steroids/thecycle/injecting.md)
 
@@ -317,17 +317,17 @@ Other options include Anadrol or Superdrol, both of which do not aromatize, but 
 
 ###Suggested Orals
 
-* [Dianabol (Dbol)](http://www.reddit.com/r/steroids/wiki/dianabol) is a very "wet" compound, which means that it converts to estrogen and at a high rate at that. It is highly recommended to use an AI from day one of this cycle in order to prevent heavy water retention, [gynecomastia](/steroids/sides/gynecomastia.md), and other [high estrogen side effects](/r/steroids/wiki/sides/changes_in_estrogen_levels#wiki_high_estrogen_sides). ([Sides](/r/steroids/wiki/dianabol#wiki_risks.2Fside_effects)). ***Don't use Dianabol unless you know how to manage E2, or you can afford the extra time and attention to properly dial it in.*** For this reason it's oft-best left mid-cycle, or as a finisher when you have your E2 under control, unless you can commit to the added estrogen management from the start. 
+* [Dianabol (Dbol)](http://www.reddit.com/r/steroids/wiki/dianabol) is a very "wet" compound, which means that it converts to estrogen and at a high rate at that. It is highly recommended to use an AI from day one of this cycle in order to prevent heavy water retention, [gynecomastia](/steroids/sides/gynecomastia.md), and other [high estrogen side effects](/steroids/sides/changes_in_estrogen_levels.md#wiki_high_estrogen_sides). ([Sides](/steroids/dianabol.md#wiki_risks.2Fside_effects)). ***Don't use Dianabol unless you know how to manage E2, or you can afford the extra time and attention to properly dial it in.*** For this reason it's oft-best left mid-cycle, or as a finisher when you have your E2 under control, unless you can commit to the added estrogen management from the start. 
 
-* [Anadrol (Adrol)](/steroids/anadrol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, individuals using this compound will often report pronounced estrogen related side effects such as [gynecomastia](/r/steroids/wiki/sides/gynecomastia) and water retention, among others. ([Sides.](/r/steroids/wiki/anadrol#wiki_side_effects.2Frisks))  
+* [Anadrol (Adrol)](/steroids/anadrol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, individuals using this compound will often report pronounced estrogen related side effects such as [gynecomastia](/steroids/sides/gynecomastia.md) and water retention, among others. ([Sides.](/steroids/anadrol.md#wiki_side_effects.2Frisks))  
 
-* [Superdrol (Sdrol)](/steroids/gear/methasterone.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, some individuals using this compound still report [gynecomastia](/r/steroids/wiki/sides/gynecomastia) symptoms. There are theories on why this may happen, but nothing has ever been proven. Sdrol is also known to cause lethargy in some. It is a DHT derivative, so hair loss can be a concern. ([Sides.](/r/steroids/wiki/gear/methasterone#wiki_side_effects))  
+* [Superdrol (Sdrol)](/steroids/gear/methasterone.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. Despite this, some individuals using this compound still report [gynecomastia](/steroids/sides/gynecomastia.md) symptoms. There are theories on why this may happen, but nothing has ever been proven. Sdrol is also known to cause lethargy in some. It is a DHT derivative, so hair loss can be a concern. ([Sides.](/steroids/gear/methasterone.md#wiki_side_effects))  
 
-* [Turinabol (Tbol)](/steroids/turinabol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is also one of the most "side-effect free" compounds, but it is also not known for putting on as much potential mass as Dbol or Adrol. You should still review the compounds [side effect profile](/r/steroids/wiki/turinabol#wiki_risks.2Fside_effects). It does still affect lipids negatively, but most oral steroids do.  
+* [Turinabol (Tbol)](/steroids/turinabol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is also one of the most "side-effect free" compounds, but it is also not known for putting on as much potential mass as Dbol or Adrol. You should still review the compounds [side effect profile](/steroids/turinabol.md#wiki_risks.2Fside_effects). It does still affect lipids negatively, but most oral steroids do.  
 
 * [Anavar (Var)](/steroids/anavar.md) is considered a dry compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. Strength increases are common and mixed with less than dramatic weight gains. The compound is very beneficial to athletes participating in sports that have weight divisions, or where extra weight can be a hindrance.
 
-**Note:** These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
+**Note:** These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut) as Turinabol (Tbol).
 
 ### When Should I Take It?
 
@@ -353,7 +353,7 @@ Off Days: Use the Half-Life Method.
 
 ##How Often Should I Pin (Inject)?
 
-It is suggested on /r/steroids that you should at least inject every three days (E3D) or every 3.5 days (E3.5D) to keep blood levels as stable as possible for Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/r/steroids/wiki/testosterone_cypionate). This will minimize side effects and make controlling estrogen easier. You may do once a week, but it is not optimal.
+It is suggested on /r/steroids that you should at least inject every three days (E3D) or every 3.5 days (E3.5D) to keep blood levels as stable as possible for Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/steroids/testosterone_cypionate.md). This will minimize side effects and make controlling estrogen easier. You may do once a week, but it is not optimal.
 
 &gt; [Here is an example of blood levels with 500mg of Test Enanthate injected once a week (E7D)](https://imgur.com/a/Ohgt6). This was plotted with [SteroidPlotter](http://www.steroidplotter.com/).
 
@@ -410,7 +410,7 @@ It is recommended to eat about TDEE + 30%. Go find multiple TDEE calculators and
 * **Weeks 16-17:** Nothing (This allows the exogenous testosterone to clear your body to a reasonable amount). 
 * **Weeks 18-Til:** Whatever [PCT protocol](/steroids/thecycle/pct.md) you choose.
 
-* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/r/steroids/wiki/aromasin). Again, dosing is user dependent and you should get [blood work](/r/steroids/wiki/bloodwork/list) to dial in your dose, but **MOST** users will find .5 mg of [Arimidex](/r/steroids/wiki/arimidex) or 12.5 mg [Aromasin](/r/steroids/wiki/aromasin) E3D or E3.5D to be a good starting dose. Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels) - especially high estrogen, like excessive bloating or itchy nipples.
+* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/steroids/aromasin.md). Again, dosing is user dependent and you should get [blood work](/steroids/bloodwork/list.md) to dial in your dose, but **MOST** users will find .5 mg of [Arimidex](/steroids/arimidex.md) or 12.5 mg [Aromasin](/steroids/aromasin.md) E3D or E3.5D to be a good starting dose. Some may need more frequent (EOD) dosing or some may even need less than E3.5D; this is really something that varies person-to-person too much. Watch out for [signs of low or high estrogen](/steroids/sides/changes_in_estrogen_levels.md) - especially high estrogen, like excessive bloating or itchy nipples.
 
 **Oral Steroid Options / Additives:**  
 
@@ -422,7 +422,7 @@ Test E &amp; C takes about six weeks to fully saturate the blood (*i.e.,* kick i
 * **For 6 Weeks:** [Turinabol (Tbol)](/steroids/turinabol.md), 40–80 mg, ED **or** 
 * **For 6 Weeks:** [Anavar (Var)](/steroids/oxandrolone.md), 30–50 mg, ED
 
-&gt; **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/r/steroids/wiki/thecycle/examples#wiki_the_basic_cut) as Turinabol (Tbol).
+&gt; **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut) as Turinabol (Tbol).
 
 ### Why 500mg?
 

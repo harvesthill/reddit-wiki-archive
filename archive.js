@@ -120,7 +120,7 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
 
   if (shouldRewritePathRelativeWikiLinks) {
     transformers.push(function(subredditName, file, filePath, chunkString) {
-      const searchPattern = new RegExp(`\\]\\(\\/r\\/${subredditName}\\/wiki\\/([^)#?]+)(.*)\\)`, 'g');
+      const searchPattern = new RegExp(`\\]\\(\\/r\\/${subredditName}\\/wiki\\/([^)#?]+)([^)]*)\\)`, 'g');
 
       return chunkString.replace(searchPattern, function replacer(match, cg1, cg2) {
         return `](/${subredditName}/${cg1}.md${cg2 || ''})`
@@ -130,7 +130,7 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
 
   if (shouldRewriteWebWikiLinks) {
     transformers.push(function(subredditName, file, filePath, chunkString) {
-      const searchPattern = new RegExp(`\\]\\(https:\\/\\/(?:www\\.)?reddit.com\\/r\\/${subredditName}\\/wiki\\/([^)#?]+)(.*)\\)`, 'g');
+      const searchPattern = new RegExp(`\\]\\(https:\\/\\/(?:www\\.)?reddit.com\\/r\\/${subredditName}\\/wiki\\/([^)#?]+)([^)]*)\\)`, 'g');
 
       return chunkString.replace(searchPattern, function replacer(match, cg1, cg2) {
         return `](/${subredditName}/${cg1}.md${cg2 || ''})`

@@ -14,15 +14,15 @@ Beginners have one rule: **KISS**. That stands for "***Keep It Simple, Stupid***
 
 ### The Basic Cut
 
-The Basic Cut differs very slightly from [The Basic Bulk](/steroids/your_first_cycle.md), mainly in dosing. The standard rule of thumb is to not cut while off cycle as some hard earned muscle mass could be lost. Most users anecdotally notice less bloat with [Testosterone Propionate](/r/steroids/wiki/testosterone_propionate), so it's often used for cuts, but overall you can use Test E or C just fine as well.
+The Basic Cut differs very slightly from [The Basic Bulk](/steroids/your_first_cycle.md), mainly in dosing. The standard rule of thumb is to not cut while off cycle as some hard earned muscle mass could be lost. Most users anecdotally notice less bloat with [Testosterone Propionate](/steroids/testosterone_propionate.md), so it's often used for cuts, but overall you can use Test E or C just fine as well.
 
 **Dosing:**
 
 * **Weeks 1-12:** [Testosterone Propionate](/steroids/testosterone_propionate.md), 30-50 mg (*ED*) **OR**
-* **Weeks 1-12:** Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 100-200 mg (*E3D or E3.5D*). *PCT differs from propionate protocol below.*
+* **Weeks 1-12:** Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/steroids/testosterone_cypionate.md), 100-200 mg (*E3D or E3.5D*). *PCT differs from propionate protocol below.*
 * **Weeks 13:** Nothing the first 2-3 days (This allows the exogenous testosterone to clear your body). PCT should start day 3 or day 4 due to test **propionate's** active life of \~0.8 days.
 * **Weeks 13-*****til*****:** Starting day 3 or 4. Whatever [PCT protocol](/steroids/thecycle/pct.md) you choose.
-* **Throughout Cycle** (*or at least on hand*): An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels)—especially high estrogen, such as excessive bloating or itchy nipples.
+* **Throughout Cycle** (*or at least on hand*): An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/steroids/aromasin.md). Dosing is user dependent and you should get [bloodwork](/steroids/bloodwork/list.md) to dial in your dose. Watch for [signs of low or high estrogen](/steroids/sides/changes_in_estrogen_levels.md)—especially high estrogen, such as excessive bloating or itchy nipples.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 ***Note***: You can extend up to 20 weeks. If you wish to extend it, all your ending weeks will change and the week you start PCT will as well.
@@ -79,9 +79,9 @@ If you use Test E &amp; C, it takes about six weeks to fully saturate the blood 
 
 **ADDITIONAL WARNINGS**:
 
-* [Winstrol (Winny)](/steroids/winstrol.md) is  considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/r/steroids/wiki/winstrol#wiki_side_effects.2Frisks))
-* [Epistane (Epi)](/steroids/epitiostanol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/r/steroids/wiki/epitiostanol#wiki_risks.2Fside_effects))
-* [Anavar (Var)](/steroids/anavar.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is one of the most side-effect free compounds, but does affect lipids negatively, as most oral steroids do. You should still review the compound side effects. ([*Sides*](/r/steroids/wiki/anavar#wiki_side_effects.2Frisks))
+* [Winstrol (Winny)](/steroids/winstrol.md) is  considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/steroids/winstrol.md#wiki_side_effects.2Frisks))
+* [Epistane (Epi)](/steroids/epitiostanol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/steroids/epitiostanol.md#wiki_risks.2Fside_effects))
+* [Anavar (Var)](/steroids/anavar.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is one of the most side-effect free compounds, but does affect lipids negatively, as most oral steroids do. You should still review the compound side effects. ([*Sides*](/steroids/anavar.md#wiki_side_effects.2Frisks))
 
 **Nutrition:**
 
@@ -93,10 +93,10 @@ It is recommended to keep your caloric intake at no less than 80% TDEE.
 
 By now, you have probably put on a fair bit of mass, and want to see how how much you are capable of. This is a solid second cycle, perfect for putting on mass quickly with minimal side effects. **Nandrolone** also provides excellent joint support, allowing you to push your body a bit harder. At this point you have a bit of a feel for how your body responds to testosterone. You can extend the cycle a bit.
 
-* **Weeks 1-16:** Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/r/steroids/wiki/testosterone_cypionate), 500 mg/week split *E3.5D*.
+* **Weeks 1-16:** Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/steroids/testosterone_cypionate.md), 500 mg/week split *E3.5D*.
 * **Weeks 1-16:** [NPP (Nandrolone)](https://www.reddit.com//r/steroids/wiki/deca_durabolin), 50-75 mg/day (350-500mg weekly)
 * **Weeks 16-18:** Nothing (This allows the extraneous testosterone to clear your body).
-* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/r/steroids/wiki/aromasin). Dosing is user dependent and you should get [bloodwork](/r/steroids/wiki/bloodwork/list) to dial in your dose. Watch out for [signs of low or high estrogen](/r/steroids/wiki/sides/changes_in_estrogen_levels), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
+* **Throughout Cycle (or at least on hand):** An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/steroids/aromasin.md). Dosing is user dependent and you should get [bloodwork](/steroids/bloodwork/list.md) to dial in your dose. Watch out for [signs of low or high estrogen](/steroids/sides/changes_in_estrogen_levels.md), especially high estrogen, like excessive bloating or itchy nipples. *Do not take AI preemptively*.
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 You can extend for up to 20 weeks. If you wish to extend it, obviously all your ending weeks will change and the week you start PCT will as well.
@@ -110,7 +110,7 @@ The following cycle is considered to be a very solid cutting cycle that maintain
 #### NOTE: Running supraphysiological doses of AAS to support a cut has largely fallen out of favor, and is NOT recommended for anybody other than professional, competing bodybuilders.
 
 * **Weeks 1-12:** [Trenbolone Acetate](/steroids/trenbolone.md), 50-100 mg, every day (ED) to your tolerance level
-* **Weeks 1-12:** [Testosterone Propionate](/steroids/testosterone_propionate.md) (or  [Testosterone Enanthate](/r/steroids/wiki/testosterone_enthanate)), 50 mg ED
+* **Weeks 1-12:** [Testosterone Propionate](/steroids/testosterone_propionate.md) (or  [Testosterone Enanthate](/steroids/testosterone_enthanate.md)), 50 mg ED
 * **Weeks 1-12:** [Arimidex](/steroids/arimidex.md), .5mg E3D, watch for E2 crash, adjust accordingly.
 * **Weeks 13-14:** Nothing (This allows the extraneous testosterone to clear your body).
 * On Hand Throughout Cycle: An AI like [Arimidex](/steroids/arimidex.md) in case signs of excessive bloating or itchy nipples occur.

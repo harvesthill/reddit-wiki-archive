@@ -6,7 +6,7 @@ Compound | Type | Notes
 :--------------|:--------------:|:-------------:
 Accutane |  | Acne prevention.  Do not give blood if using. 
 Albuteral | β2-adrenergic receptor agonist | Cutter 
-[Arimidex (Anastrozole)](/steroids/arimidex.md) | AI, Reversible, non-steroidal |   Standard AI, [FAQ](/r/steroids/wiki/edit/compounds/ancillaries#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
+[Arimidex (Anastrozole)](/steroids/arimidex.md) | AI, Reversible, non-steroidal |   Standard AI, [FAQ](/steroids/edit/compounds/ancillaries.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
 [Aromasin (Exemestane)](/steroids/aromasin.md) | AI, Irreversible, steroidal |  [Take with fatty meal](http://www.reddit.com/r/steroids/comments/24zbha/making_a_switch_from_arimidex_to_aromasin_how/chclz14), not water soluble.
 [Bazedoxifene](http://en.wikipedia.org/wiki/Bazedoxifene) | SERM | Need usage info
 [Cabergoline](/steroids/dostinex.md) | Dopamine Receptor Agonists |  Anti-prolactin
@@ -19,7 +19,7 @@ Cialis |  |  Helps blood flow
 [Dimethyl sulfoxide (DMSO)](http://en.wikipedia.org/wiki/Dimethyl_sulfoxide)  |  |  [Possibly dangerous, controversial joint pain relief.](http://www.dmso.org/articles/information/muir.htm)
 [DNP (2,4-Dinitrophenol)](/steroids/dnp.md) | Dinitrophenols | Cutter (See Datrolene)
 [Ephedrine](http://www.reddit.com/r/steroids/wiki/ephedrine) | Sympathomimetic Amine | Cutter, Can enflame prostate
-[ECA or EC Stack](/steroids/eca_stack.md) | [Ephedrine](/r/steroids/wiki/ephedrine) / Caffine / Asprin (Optional) | Cutter
+[ECA or EC Stack](/steroids/eca_stack.md) | [Ephedrine](/steroids/ephedrine.md) / Caffine / Asprin (Optional) | Cutter
 [Fulvestrant](/steroids/compounds/fulvestrant.md) | AI, selective estrogen receptor down-regulator (SERD) | No information on usage during cycles.
 [HCG](/steroids/hcg.md) | Synthetic LH | 
 [Humog (hMG)](/steroids/compounds/human_menopausal_gonadotropins.md) | LH and FSH |  
@@ -30,7 +30,7 @@ Pramipexole | Dopamine Receptor Agonists |   Anti-prolactin
 [Lasofoxifene](http://en.wikipedia.org/wiki/Lasofoxifene) | SERM | Need Info
 [Raloxifene](http://en.wikipedia.org/wiki/Raloxifene)| SERM |  Can treat some gyno from puberty
 [Melatonin](/steroids/compounds/melatonin.md) | Neurohormone |  Sleep regulation
-[Nolvadex (Tamoxifen)](/steroids/nolvadex.md) | SERM |  Used for PCT, [FAQ](/r/steroids/wiki/edit/compounds/ancillaries#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
+[Nolvadex (Tamoxifen)](/steroids/nolvadex.md) | SERM |  Used for PCT, [FAQ](/steroids/edit/compounds/ancillaries.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_ran_together.).
 [SINGULAIR \(montelukast sodium\)](http://en.wikipedia.org/wiki/Montelukast) | Leukast | Can prevent respiratory weakness from Tren
 [Testolactone](http://en.wikipedia.org/wiki/Testolactone) | AI, Reversible, non-steroidal |    Old, weak AI
 T4 (Thyroxine) | Thyroid Hormone | Precursor to T3

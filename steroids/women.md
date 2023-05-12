@@ -548,7 +548,7 @@ As we get into the much more aggressive cycles, it becomes more of a personal pr
 
 ###Testosterone Propionate
 
-There are several esters of testosterone, but only the Propionate ester, also known as [Testosterone Propionate (Test P)](/steroids/testosterone_propionate.md), would be recommended for women. The other variations commonly used by men, [Testosterone Cypionate](/r/steroids/wiki/testosterone_cypionate), [Testosterone Enanthate (Test E)](/r/steroids/wiki/testosterone_enanthate), or [Sustenon](/r/steroids/wiki/sustanon_250), are considerably longer-acting esters, producing anecdotally much more water retention and more aggressive sides, taking a much longer to clear the system.
+There are several esters of testosterone, but only the Propionate ester, also known as [Testosterone Propionate (Test P)](/steroids/testosterone_propionate.md), would be recommended for women. The other variations commonly used by men, [Testosterone Cypionate](/steroids/testosterone_cypionate.md), [Testosterone Enanthate (Test E)](/steroids/testosterone_enanthate.md), or [Sustenon](/steroids/sustanon_250.md), are considerably longer-acting esters, producing anecdotally much more water retention and more aggressive sides, taking a much longer to clear the system.
 
 ####Typical Use
 

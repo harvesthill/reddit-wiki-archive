@@ -4,13 +4,13 @@ Anabolic steroids, technically known as anabolic-androgenic steroids (AAS), are 
 
 Anabolic steroids also have androgenic and virilizing properties, including the development and maintenance of masculine characteristics such as the growth of the vocal cords, testicles (primary sexual characteristics) and body hair (secondary sexual characteristics). The word anabolic comes from the Greek *ἀναβολή* or *anabole*, "that which is thrown up, mound", and the word androgenic from the Greek *ἀνδρός* or *andros*, "of a man" + -*γενής* -*genes*, *“born”*.
 
-**See also pages for [Insulin](/steroids/insulin.md), [hGH](https://www.reddit.com/r/steroids/wiki/growth_hormone), and other [Peptides](https://www.reddit.com/r/steroids/wiki/compounds/peptides)**.
+**See also pages for [Insulin](/steroids/insulin.md), [hGH](/steroids/growth_hormone.md), and other [Peptides](/steroids/compounds/peptides.md)**.
 
 ### Compound Short-cuts
 
 * [*Nandrolone*](/steroids/deca_durabolin.md) *aka* ***Deca***, ***NPP*** — **19-nortestosterone** (***19***\-***nor***). Rated **125**:**37**. Second only to testosterone in terms of popularity as a bulking compound. Water retention, collagen synthesis, joint relief, more gains. [*Experience thread*](https://www.reddit.com/r/steroids/comments/8ako42/compound_experience_saturday_nandrolone_deca_npp/)*.*
 
-* [*Boldenone*](/steroids/equipoise.md) *aka* ***EQ, Equipoise***, ***Parenabol*** — **Testosterone derivative**. Rated **100**:**50**. Metabolites include DHB (*dihydroboldenone*). Steady, dry, lean moderate mass gains, EPO-like stamina, strength and endurance,  appetite increase, collagen synthesis, potent aromatase inhibition, IGF-1 boost, stringent estrogen management requirements. [*Compound Definition*](https://www.reddit.com/r/steroids/wiki/equipoise). [*Comprehensive EQ Guide*](https://www.reddit.com/r/steroids/comments/f493l2/daily_ask_anything_20200215/fhqyyqr/), [*Top-level thread*](https://www.reddit.com/r/steroids/comments/f5aw0b/discussion_eq_equipoise_estrogen_and_ai_effects/)*.* [*Experience thread*](https://www.reddit.com/r/steroids/comments/854ntj/compound_experience_saturday_boldenone_eq/)*.*
+* [*Boldenone*](/steroids/equipoise.md) *aka* ***EQ, Equipoise***, ***Parenabol*** — **Testosterone derivative**. Rated **100**:**50**. Metabolites include DHB (*dihydroboldenone*). Steady, dry, lean moderate mass gains, EPO-like stamina, strength and endurance,  appetite increase, collagen synthesis, potent aromatase inhibition, IGF-1 boost, stringent estrogen management requirements. [*Compound Definition*](/steroids/equipoise.md). [*Comprehensive EQ Guide*](https://www.reddit.com/r/steroids/comments/f493l2/daily_ask_anything_20200215/fhqyyqr/), [*Top-level thread*](https://www.reddit.com/r/steroids/comments/f5aw0b/discussion_eq_equipoise_estrogen_and_ai_effects/)*.* [*Experience thread*](https://www.reddit.com/r/steroids/comments/854ntj/compound_experience_saturday_boldenone_eq/)*.*
 
 * [*Methenolone*](/steroids/primobolan.md) *aka* ***Primo***, ***Primobolan*** — **DHB**/**DHT derivative**. Rated **88**:**57**.  Mild. No sides, dry, lean gains,  collagen synthesis, immune system benefits, “The perfect steroid.” Pricy (±3× test). [*Experience thread*](https://www.reddit.com/r/steroids/comments/9hzn60/compound_experience_saturday_primo_methenolone/)*.*
 
@@ -122,7 +122,7 @@ Meaning there is *ever so-slightly* more actual testosterone hormone (~1%) in En
 Enanthate is 4.5 days.  
 Cypionate is 5 days.
 
-* For some, they may experience a slight difference in potential [Post Injection Pain (PIP)](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29). This is due to Cypionate having a higher melting point than Enanthate, making Cypionate more prone to being able to cause PIP. This all depends on how your Testosterone was brewed by your source/supplier. [Read more on Post Injection Pain (PIP): Here.](/r/steroids/wiki/thecycle/injecting#wiki_pip_.28post_injection_pain.29)
+* For some, they may experience a slight difference in potential [Post Injection Pain (PIP)](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29). This is due to Cypionate having a higher melting point than Enanthate, making Cypionate more prone to being able to cause PIP. This all depends on how your Testosterone was brewed by your source/supplier. [Read more on Post Injection Pain (PIP): Here.](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29)
 
 [**Please See Our Esters Wiki Page: Here**](/steroids/compounds/esters.md)
 

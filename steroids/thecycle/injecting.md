@@ -6,7 +6,7 @@
 * **Subcutaneous injection**: *An injection into the region between the skin and the muscle, also known as a “**SubQ**” injection*. 
 
 AS far as performance enhancement is concerned, there are two primary injection methods. These are the **intramuscular** injection method and the **subcutaneous** injection method. An intramuscular injection is exactly as it sounds; it is an injection given directly into a muscle. A subcutaneous injection is an injection which is placed between the skin and the muscle. Which method is utilized will depend on the drug being administered and the goals &amp; preferences of the user. 
-The overwhelming majority of individuals choose to administer their AAS by way of IM (intramuscular) injection, although they can be injected subcutaneously, if desired, although it is not recommended to inject over ½ cc/mL of AAS. [HGH](/steroids/growth_hormone.md), Insulin, HCG, and [Peptides](/r/steroids/wiki/compounds/peptides)) are typically administered subcutaneously.
+The overwhelming majority of individuals choose to administer their AAS by way of IM (intramuscular) injection, although they can be injected subcutaneously, if desired, although it is not recommended to inject over ½ cc/mL of AAS. [HGH](/steroids/growth_hormone.md), Insulin, HCG, and [Peptides](/steroids/compounds/peptides.md)) are typically administered subcutaneously.
 
 ##The Injection
 

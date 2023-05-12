@@ -284,7 +284,7 @@ After 90 days of participation (comments) in the community, you will automatical
 
 If you made a comment in /r/steroids that is at least 90 days old and you weren't automatically approved, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) linking to the comment. [More information here.](http://www.reddit.com/r/steroids/comments/2t2l76/modharsh_approved_poster_grant_is_increasing_from/)
 
-The only threads that are allowed on /r/steroids are those of high quality content. If you have been around for 90 days you should know that all [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F) belongs in the Daily Ask Anything threads. If you choose to post [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F), your thread will be removed and you risk losing your posting privileges.
+The only threads that are allowed on /r/steroids are those of high quality content. If you have been around for 90 days you should know that all [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F) belongs in the Daily Ask Anything threads. If you choose to post [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F), your thread will be removed and you risk losing your posting privileges.
 
 If you are ever in doubt if something you want to post is [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
 
@@ -300,7 +300,7 @@ If you are ever in doubt if something you want to post is [Low Quality Content](
 
 **Q:** What is considered 'High Quality Content'?  
 
-**A:** Most likely, if the post doesn't fall under [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F), then it is *most likely* 'High Quality Content'. If you are ever in doubt if something you want to post is [Low Quality Content](https://www.reddit.com/r/steroids/wiki/index/subreddit_rules#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
+**A:** Most likely, if the post doesn't fall under [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F), then it is *most likely* 'High Quality Content'. If you are ever in doubt if something you want to post is [Low Quality Content](/steroids/index/subreddit_rules.md#wiki_what_is_low_quality_content.3F) or not, [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids) and ask for clarification.
 
 ##6. No Unlawful Discussions.
 
