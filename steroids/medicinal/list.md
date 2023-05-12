@@ -81,7 +81,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/18684793
 
 ##Hypogonadism
 
-[See Testosterone Replacement Therapy (TRT)](/r/steroids/wiki/trt/list)
+[See Testosterone Replacement Therapy (TRT)](/steroids/trt/list.md)
 
 ##Immune therapy
 

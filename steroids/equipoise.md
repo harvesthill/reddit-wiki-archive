@@ -112,7 +112,7 @@ The active life of boldenone is 14-16 days; however, it produces detectable meta
 
 8. [Equipoise, Estrogen, and AI effects](https://www.reddit.com/r/steroids/comments/f5aw0b/discussion_eq_equipoise_estrogen_and_ai_effects/) (Reddit)
 
-9. [Compound Description Page](https://www.reddit.com/r/steroids/wiki/equipoise) (Reddit)
+9. [Compound Description Page](/steroids/equipoise.md) (Reddit)
 
 10. [Compound Experience Thread](https://www.reddit.com/r/steroids/comments/egroud/compounds_boldenone_undecylenate_aka_equipoiseeq/) (Reddit)
 

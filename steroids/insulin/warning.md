@@ -20,6 +20,6 @@
 
 &amp;nbsp;
 
-###[**I understand insulin is dangerous and potentially life threatening and choose to proceed at MY OWN RISK.**](https://www.reddit.com/r/steroids/wiki/insulin)
+###[**I understand insulin is dangerous and potentially life threatening and choose to proceed at MY OWN RISK.**](/steroids/insulin.md)
 
 &amp;nbsp;
