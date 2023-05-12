@@ -1,4 +1,4 @@
-#Background info
+# Background info
 ## Pre-cycle stats
 
 **Height**:  5'8

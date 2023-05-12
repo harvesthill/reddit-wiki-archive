@@ -1,4 +1,4 @@
-#Cytadren (Aminoglutethimide)
+# Cytadren (Aminoglutethimide)
 
 **Drug Class:** Cortisol and Aromatase Inhibitor
 **Active Life:** approximately 24 hours

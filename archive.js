@@ -124,10 +124,10 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
 
   if (shouldCleanUpMarkdownHeaders) {
     transformers.push(function(subredditName, filePath, chunkString) {
-      const searchPattern = new RegExp(`\\n(#{1,6})([A-Za-z0-9\\[])`, 'g');
+      const searchPattern = new RegExp(`(^|\\n)(#{1,6})([A-Za-z0-9\\[])`, 'g');
 
       return chunkString.replace(searchPattern, function replacer(match, cg1, cg2, cg3) {
-        return `\n${cg1} ${cg2}`
+        return `${cg1}${cg2} ${cg3}`
       });
     })
   }

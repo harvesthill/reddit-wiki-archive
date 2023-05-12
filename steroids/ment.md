@@ -1,1 +1,1 @@
-#[Redirect to Trestolone](/steroids/trestolone.md)
+# [Redirect to Trestolone](/steroids/trestolone.md)

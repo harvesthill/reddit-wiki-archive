@@ -1,4 +1,4 @@
-#Post Cycle Therapy (PCT)
+# Post Cycle Therapy (PCT)
 
 Post Cycle Therapy or PCT is a period of medication treatment that follows the use of anabolic steroids. Post Cycle Therapy is also one of the most confusing topics for many steroid users; this is largely due to misconceptions. When to start PCT, which meds to use, how long to use them and what you should expect, these are all common questions and ones we’ll address here.
 

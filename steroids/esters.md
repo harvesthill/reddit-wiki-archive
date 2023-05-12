@@ -1,4 +1,4 @@
-#Understanding Esters, Active-Life and Half-Life
+# Understanding Esters, Active-Life and Half-Life
 
 Anyone new to steroids may be wondering what this means, even some experienced steroid users may also be wondering what this means. So here in simple terms you can read and hopefully understand all about steroid half life's and what this term means. 
 

@@ -1,4 +1,4 @@
-#Nutrition
+# Nutrition
 
 There are many schools of thought on nutrition, especially when it comes to strength and power athletes. Unfortunately there are no human studies on nutrition involving supraphyisiological doses of AAS making most "bodybuilding" and "powerlifting" diet advice anecdotal.
 

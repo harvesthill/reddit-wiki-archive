@@ -1,4 +1,4 @@
-#Peptides
+# Peptides
 
 A  peptide is a compound consisting of two or more amino acids linked in a chain, the carboxyl group of each acid being joined to the amino group of the next by a bond.
 

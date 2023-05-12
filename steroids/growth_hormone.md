@@ -1,4 +1,4 @@
-#Human Growth Hormone (Somatotropin)
+# Human Growth Hormone (Somatotropin)
 
 **Drug Class:** Growth Hormone/IGF-1 Precursor  
 **Active Life:** Varies by injection method

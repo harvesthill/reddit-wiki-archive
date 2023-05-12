@@ -1,4 +1,4 @@
-#Background info
+# Background info
 Have wanted to be a bodybuilder my entire life, I can remember when I was 16 being stronger and a little more buff looking than the other kids and really wanting to just lift shit.
 
 I started proper training when I was 17 and stuck at it in a serious way for about 3 years. I went from 60.0kg's to 85.0kg in that time with the last 7.0kg coming from a Sust cycle I did at 19. I was advised to take 1 shot of 1.0ml a week for 10 weeks. Regardless of that crappy start to a cycle, no idea on nutrition and low dosage I put on a good 15 kg in that 10 weeks and loved it.

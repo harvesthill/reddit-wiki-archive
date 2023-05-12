@@ -1,4 +1,4 @@
-#Estrogen
+# Estrogen
 ## Introduction
 
 Estrogen management is very important while using steroids, as estrogen that is too high or too low can cause a variety of nasty effects. 

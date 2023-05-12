@@ -1,4 +1,4 @@
-#Create a cycle report!
+# Create a cycle report!
 
 Please [read the procedure](http://www.reddit.com/r/steroids/comments/28vfth/mod_cycle_reports_updated_procedure/) for how to create your own cycle report.
 

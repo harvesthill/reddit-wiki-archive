@@ -1,4 +1,4 @@
-#If you have any questions, concerns, or advice, feel free to PM me! (Except if you're looking for sources, then you're just wasting your time.)
+# If you have any questions, concerns, or advice, feel free to PM me! (Except if you're looking for sources, then you're just wasting your time.)
 
 # Background info
 ## Pre-cycle stats

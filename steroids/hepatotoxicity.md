@@ -1,4 +1,4 @@
-#Hepatotoxicity
+# Hepatotoxicity
 
 It is a well-known fact that most oral anabolic steroids, as well as a select few injectable anabolic steroids induce a measure of liver toxicity (properly referred to as hepatotoxicity) in the body. The range of hepatotoxicity that these compounds can cause varies a great deal, ranging from very minor to serious life-threatening damage. The word "liver toxicity" and "hepatotoxicity" is thrown around a lot in bodybuilding circles and throughout the anabolic steroid using community, but how many people actually understand what these terms mean? How many people actually know what specifically it is that is "toxic" about the anabolic steroid in the liver? What is it that actually happens to the liver cells (hepatocytes)? The majority of people who throw around the words "liver toxic" will not be able to answer those questions at all. This is where that should change. After reading through this post, you will understand why certain anabolic steroids cause hepatotoxicity, what hepatotoxicity actually is, and how it affects the body, and most importantly: what you can do about it and what liver protectants to take.
 

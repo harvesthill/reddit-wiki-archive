@@ -1,4 +1,4 @@
-#Testbebest's 6 week cut/9week bulk, test-e only 
+# Testbebest's 6 week cut/9week bulk, test-e only 
 
 Pre-cycle stats
 

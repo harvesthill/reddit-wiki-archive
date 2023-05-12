@@ -1,4 +1,4 @@
-#Background info
+# Background info
 ## Pre-cycle stats
 
 I am 22 years old (male). Starting in July I did 15 weeks 750 test e/WK with dbol. Cruised on 250 a week and that brings us here!

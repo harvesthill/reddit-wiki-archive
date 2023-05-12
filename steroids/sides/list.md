@@ -1,4 +1,4 @@
-#Side Effects
+# Side Effects
 
 ### General
 * [Acne](/steroids/sides/acne_vulgaris.md)

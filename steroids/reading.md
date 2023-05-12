@@ -1,4 +1,4 @@
-###Books and Publications
+### Books and Publications
 
 ## UNDER REVISION;
 Links are all old and we are working to get a new list of relevant information. (as of 3/1/22)

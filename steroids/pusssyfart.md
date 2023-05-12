@@ -1,4 +1,4 @@
-#Background info  
+# Background info  
 ## Pre-cycle stats  
 **Age**: 27  
 **Height**: 6'  

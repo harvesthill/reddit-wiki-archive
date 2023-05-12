@@ -1,4 +1,4 @@
-#Background info  
+# Background info  
 Been training for almost 2 years now but only really realised what the actual fuck I should be doing in the last 8 months or so.
 I was overweight most of my life and got to a heaviest of 103kg (220lb)  in November/December 2010 and that was when I pulled my head out and started to get fit. Now sitting at 80kgs (176lb) and have been cutting for the last 13 weeks. Abs are NEARLY visible, with the albuterol I should be able to get the results I want in 2, maybe 3 cycles at most.
 ## Pre-cycle stats  

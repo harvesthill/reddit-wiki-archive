@@ -1,4 +1,4 @@
-#The Community
+# The Community
 
 ## Community Goals 
 

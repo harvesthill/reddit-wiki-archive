@@ -1,4 +1,4 @@
-#Insulin-Like Growth Factor 1
+# Insulin-Like Growth Factor 1
 
 **Drug Classification:** Polypeptide Hormone
 

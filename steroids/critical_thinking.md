@@ -1,4 +1,4 @@
-##Carl Sagan's Rules for Critical Thinking and Nonsense-Detection
+## Carl Sagan's Rules for Critical Thinking and Nonsense-Detection
 
 1.  Wherever possible there must be independent confirmation of the “facts.”
 2. Encourage substantive debate on the evidence by knowledgeable proponents of all points of view.

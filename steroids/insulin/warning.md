@@ -1,4 +1,4 @@
-#WARNING / DISCLAIMER
+# WARNING / DISCLAIMER
 
 ## Insulin can be very risky if you do not know what you are doing. If you have the mentality that **MORE IS BETTER**, it is recommend **AVOID** even trying insulin. This hormone can be potentially fatal if taken recklessly - you run the risk of permanent brain damage, coma, or even death. 
 

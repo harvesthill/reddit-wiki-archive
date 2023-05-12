@@ -1,4 +1,4 @@
-#Disallow all bots
+# Disallow all bots
     User-agent: *  
     Disallow: /  
     #Except my bot

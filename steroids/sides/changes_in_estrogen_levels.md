@@ -1,4 +1,4 @@
-#Changes In Estrogen Levels
+# Changes In Estrogen Levels
 
 With the introduction of exogenous testosterone and other AAS, estrogen levels become elevated. Occasionally, with the use of AI, estrogen levels can crash as well. Here are the sides effects that result from both high and low levels of estrogen.
 

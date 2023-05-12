@@ -1,4 +1,4 @@
-#Human Chorionic Gonadotropin (HCG)
+# Human Chorionic Gonadotropin (HCG)
 
 **Drug Class**: Leutenizing Hormone (Gonadotropin)
 **Active Life:** 64 hours

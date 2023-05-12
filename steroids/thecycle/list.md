@@ -1,4 +1,4 @@
-#The Cycle  
+# The Cycle  
 
 Typical AAS usage comes in pre-planned lengths of time that a person is taking any compounds.  The idea is to achieve a set of goals and then allow the body to get back to stasis and ensure that there are no medical issues before doing it again.  There is also some controversy about possible decreased effectivity of long term use of AAS use.  Cycles range in lengths from short (8 weeks) to long (20 weeks).
 

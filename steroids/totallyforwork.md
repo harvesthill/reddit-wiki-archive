@@ -1,4 +1,4 @@
-#First cycle log
+# First cycle log
 
 ## Pre-cycle information
 **Progress pics album:** http://imgur.com/a/oIKsO

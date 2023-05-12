@@ -1,4 +1,4 @@
-#ECA or EC Stack
+# ECA or EC Stack
 
 The ECA stack is a commonly used fat burning stack consisting of Ephedrine, Caffeine, and Aspirin.
 

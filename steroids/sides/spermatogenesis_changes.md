@@ -1,4 +1,4 @@
-#Changes to Spermatogenesis
+# Changes to Spermatogenesis
 
 Spermatogenesis has not been studied much.  However, gear usage does have an affect on spermatogenesis.  (Need more information)
 

@@ -1,4 +1,4 @@
-#Clenbuterol
+# Clenbuterol
 
 **Drug Classification:** selective beta-2 agonist/antagonist
 **Active Life:** up to 68 hours

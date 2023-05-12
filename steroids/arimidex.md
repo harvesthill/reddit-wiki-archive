@@ -1,4 +1,4 @@
-#Arimidex (Anastrozole)
+# Arimidex (Anastrozole)
 
 **Drug Class:** Aromatase Inhibitor
  

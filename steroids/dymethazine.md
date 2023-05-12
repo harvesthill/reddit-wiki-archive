@@ -1,4 +1,4 @@
-#Dymethazine (DMZ, Mebolazine)
+# Dymethazine (DMZ, Mebolazine)
 
 **Chemical structure:** 2,17-dimethyl-5-androstan-17-ol-3,3'-azine
 

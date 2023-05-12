@@ -1,4 +1,4 @@
-#Miotolan (Furazabol)
+# Miotolan (Furazabol)
 
 **Chemical structure:** (1S,2S,10S,13R,14S,17S,18S)-2,17,18-trimethyl-6-oxa-5,7-diazapentacyclo[11.7.0.02,10.04,8.014,18]icosa-4,7-dien-17-ol
 

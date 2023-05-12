@@ -1,4 +1,4 @@
-#Ephedrine
+# Ephedrine
 
 **Pharmaceutical Name:** Ephedrine Hydrochloride
 

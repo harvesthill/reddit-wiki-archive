@@ -1,4 +1,4 @@
-#Anabolic Steroids and the Law
+# Anabolic Steroids and the Law
 
 United States law prohibits the possession of anabolic steroids without a legal medical prescription, imparting severe penalties (including fine and/or imprisonment) for those that choose to violate these laws. Under influence of U.S. government officials, World Anti-Doping Agency (WADA) members, and public criticism following numerous doping scandals, a growing number of countries are following the U.S. by adopting their own laws against the possession of anabolic steroids and other sports doping drugs. In many cases similar severe criminal penalties have been enacted. The following section discusses in more detail various national laws that concern the personal use of anabolic steroids and other related drugs.
 
