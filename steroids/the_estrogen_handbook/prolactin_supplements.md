@@ -15,7 +15,7 @@
 5. Zinc
 6. Ginkgo Biloba
 
-## Vitamin B6 (Pyridoxine Hydrochloride &amp; P5P)
+## Vitamin B6 (Pyridoxine Hydrochloride & P5P)
 
 Vitamin B6 is a surprisingly effective prolactin inhibitor that is extremely cheap and safe:
 
@@ -67,7 +67,7 @@ One study in 1992 looked at "The effect of Vitamin E therapy on sexual functions
 
 "Twenty-four uremic patients on hemodialysis who had never been treated with Vitamin E or related drugs and 12 control patients with normal renal function were studied. Hemodialysis patients were randomly divided into two groups; 12 were treated with oral vitamin E (300 mg/day) for eight weeks and 12 uremic patients and 12 controls were given placebo.
 
-Serum Vitamin E, prolactin, FSH, LH, and free testosterone levels were measured in all patients before and after treatment. **After the Vitamin E treatment serum prolactin levels were significantly decreased (50.8 vs 15.4 ng/ml, p &lt; 0.01).** Vitamin E levels were significantly increased (1.11 vs 1.22 mg/dl, p &lt; 0.05). Serum FSH, LH and free testosterone were not affected. In the other two groups there were no significant changes."
+Serum Vitamin E, prolactin, FSH, LH, and free testosterone levels were measured in all patients before and after treatment. **After the Vitamin E treatment serum prolactin levels were significantly decreased (50.8 vs 15.4 ng/ml, p < 0.01).** Vitamin E levels were significantly increased (1.11 vs 1.22 mg/dl, p < 0.05). Serum FSH, LH and free testosterone were not affected. In the other two groups there were no significant changes."
 
 The authors concluded:
 
@@ -199,7 +199,7 @@ One of the cheapest ways to lower prolactin is to spend at least an hour each da
 *10. http://www.ncbi.nlm.nih.gov/pubmed/2872066*  
 *11. http://www.ncbi.nlm.nih.gov/pubmed/3298421*  
 *12. http://www.ncbi.nlm.nih.gov/pubmed/2120432*  
-*13. http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6T0P-3V39547*  
+*13. http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T0P-3V39547*  
 *14. http://www.ncbi.nlm.nih.gov/pubmed/9761217*  
 *15 http://www.hubmed.org/display.cgi?uids=19501822*  
 *16. http://www.hubmed.org/display.cgi?uids=12508132*  

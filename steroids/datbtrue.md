@@ -14,9 +14,9 @@ GHRH creates no pulse. It only adds to what ever is happening naturally. If ther
 
 I can not speak for Dr. Crisler but he indicated that Sermorelin (GHRH) by itself was not very effective at raising IGF-1 levels. However when he added GHRP-6 with it at saturation dose (I believe administered together twice a day), IGF-1 levels increase by 1/3.
 
-This underscores the need for both a GHRH &amp; a GHRP.
+This underscores the need for both a GHRH & a GHRP.
 
-IF you are 100% sure you have CJC-1295 (and the odds are against it) then because it is a long lasting GHRH (half-life measured in days) it will always be available which means during natural GH waves &amp; troughs. So it behaves differently and its effectiveness in terms of absolute GH release is higher then the other forms of GHRH.
+IF you are 100% sure you have CJC-1295 (and the odds are against it) then because it is a long lasting GHRH (half-life measured in days) it will always be available which means during natural GH waves & troughs. So it behaves differently and its effectiveness in terms of absolute GH release is higher then the other forms of GHRH.
 
 CAVEAT - CJC-1295 raises base levels of GH not the pulses. It is possible that CJC-1295 never gives the somatotrophs sufficient time to reload stores of GH at the 100% level. Normally Somatostatin by stopping GH release activity gives the cells sufficient time to build up a big store of releasable GH. So CJC-1295 no matter how much GHRP you add may not be able to effect as strong a pulse as a GHRP + GHRH.
 
@@ -30,7 +30,7 @@ A far better measure is GH in plasma measured in many multiple intervals over a 
 
 You can then measure IGF-1 levels to determine the effect that THAT dosing had on increasing circulating levels.
 
-You can do the same thing with GHRH &amp; GHRP.
+You can do the same thing with GHRH & GHRP.
 
 The problem people have is they are stuck on absolute levels of GH in circulation as being of paramount importance. It isn't. 
 
@@ -38,7 +38,7 @@ First it is free GH that is important. Anywhere from 10% to 90% may be bound at 
 
 Second it is pulsation that is important for growth not absolute levels. Pulses send communicative signals to the cells. GH is simply the ligand that gives form to the wave. GH has no other value except to be a part of a communication signal.
 
-The cells respond to this wave of GH by mediating events within the cell that are responsible for metabolism, protein synthesis, further ligand transcription &amp; synthesis in the form of IGF-1 ...some of these signaling pathways in the cell carry messages to proliferate, differentiate or induce apoptosis . These intracellular pathways are common to many different tissue populations and respond to initiation from many different types of ligands binding to various receptors.
+The cells respond to this wave of GH by mediating events within the cell that are responsible for metabolism, protein synthesis, further ligand transcription & synthesis in the form of IGF-1 ...some of these signaling pathways in the cell carry messages to proliferate, differentiate or induce apoptosis . These intracellular pathways are common to many different tissue populations and respond to initiation from many different types of ligands binding to various receptors.
 
 This behavior is optimized by pulsation ...continuous GH desensitizes these pathways (and sends certain signals that are common to females to mediate certain events such as creation of specific liver enzymes)...
 
@@ -46,7 +46,7 @@ So it is probable that I (and anyone who understands fully) could get more out o
 
 Finally to answer your question directly: 
 
-I believe that if your CJC-1295 is modified GRF(1-29), coupled with GHRP-6, dosed as described you will achieve your goal of GH level (i.e. 4ius) and exceed both the quantity &amp; quality of those growth optimizing events that THAT equivalent level of synthetic GH will be capable of mediating.
+I believe that if your CJC-1295 is modified GRF(1-29), coupled with GHRP-6, dosed as described you will achieve your goal of GH level (i.e. 4ius) and exceed both the quantity & quality of those growth optimizing events that THAT equivalent level of synthetic GH will be capable of mediating.
 
 ## BEGINNER: What should I use? ...and why? (GH Releasing System Simplified)
 
@@ -68,7 +68,7 @@ You may wonder if we can limp by w/ just GH bleed. We can up until puberty when 
 
 You may also wonder what happens if GHRH and Somatostatin are together at the bottom of the V at the same time. What does the cell do? The answer is that for the most part Somatostatin is stronger and GH will not be released.
 
-From this it is easy to see that a well-functioning GH releasing system depends on both GHRH &amp; Somatostatin. Somatostatin to hold back release so enough GH can be made and then GHRH to cause a pulse of GH. Not only must these two brain-derived hormones which oppose each be active, they also must alternate with one another...GHRH release and a while later somatostatin and then a while later somatostatin retreats and GHRH is released again... this brings release of some of the GH mass that has been built up over the course of 3 hours in what looks like a pulse if graphed.
+From this it is easy to see that a well-functioning GH releasing system depends on both GHRH & Somatostatin. Somatostatin to hold back release so enough GH can be made and then GHRH to cause a pulse of GH. Not only must these two brain-derived hormones which oppose each be active, they also must alternate with one another...GHRH release and a while later somatostatin and then a while later somatostatin retreats and GHRH is released again... this brings release of some of the GH mass that has been built up over the course of 3 hours in what looks like a pulse if graphed.
 
 Ghrelin (GHRPs) the 4th hormone in the GH Releasing System
 
@@ -76,7 +76,7 @@ To be complete we need to add a fourth hormone to this system. One hormone Growt
 
 If you replace the V you formed with your fingers with a Y, by using the same two fingers to form a V and now adding your long forearm, you have a very good model of the GH releasing system.
 
-The forearm extends to the stomach and that is where the hormone Ghrelin is made. Ghrelin is a hunger derived gut-hormone. It is capable of making its way to the pituitary where the GH releasing cells (somatotrophs) reside. Just like GHRH &amp; Somatostatin it also can contact the cell. When it does it reduces Somatostatins effect. Ghrelin increases GH release. It does this in several ways -by encouraging the brain to release more GHRH, amplifying the effect of GHRH when it gets to the somatotroph, benefiting from GHRH being at the cell to amplify Ghrelin's own effect which is in part an increase in GH release and countering Somatostatin's stoppage effect at the cell.
+The forearm extends to the stomach and that is where the hormone Ghrelin is made. Ghrelin is a hunger derived gut-hormone. It is capable of making its way to the pituitary where the GH releasing cells (somatotrophs) reside. Just like GHRH & Somatostatin it also can contact the cell. When it does it reduces Somatostatins effect. Ghrelin increases GH release. It does this in several ways -by encouraging the brain to release more GHRH, amplifying the effect of GHRH when it gets to the somatotroph, benefiting from GHRH being at the cell to amplify Ghrelin's own effect which is in part an increase in GH release and countering Somatostatin's stoppage effect at the cell.
 
 In fact Ghrelin can cause GH release all by itself even if Somatostatin is around. But Ghrelin makes the environment safe for GHRH to act and if GHRH acts when Ghrelin is there the result is what is called a synergistic GH release. Synergy means the amount is larger then each could have produced on its own. If Ghrelin would cause 5 units to be released and GHRH 2 units when you put them together synergy means the result is more then additive (5 + 2). The synergistic result may be 15 units. Why does synergy happen? GHRH and GHRP help each other... they make each other stronger. More complete fuller treatment of the topic available on the forum.
 
@@ -134,7 +134,7 @@ That leaves us with analogs. An analog is a modification(s) to the peptide such 
 
 IGF-1 LR3 is an analog of IGF-1. It survives longer in plasma w/o binding to a binding protein but also has a lower binding affinity for its contact with the cell or better yet IGF-receptor. 
 
-CJC is a term coined &amp; used in a study that tested a newly created velcro type drug complex to attach to GRF(1-29) to allow it to cling to albumin in blood and give it protection and a long life (albumin has a very long plasma life).
+CJC is a term coined & used in a study that tested a newly created velcro type drug complex to attach to GRF(1-29) to allow it to cling to albumin in blood and give it protection and a long life (albumin has a very long plasma life).
 
 They tested three peptides/drug compounds. The first was simply GRF(1-29) with the drug affinity complex (DAC) attached. Think of that DAC as simply the velcro drug component. As you can see the CJCs are not pure peptides. They called this CJC-1288. It lasted about the same as plain old GRF(1-29). Blood plasma enzymes killed it in minutes.
 
@@ -166,7 +166,7 @@ If you are very sensitive to perturbations in cortisol or prolactin you would ch
 
 I Datrius B. True use either GHRP-2 or Ipamorelin with modified GRF(1-29) I usually rotate around.
 
-## The History of Nutrition (supplements &amp; Steroids) in Bodybuilding
+## The History of Nutrition (supplements & Steroids) in Bodybuilding
 
 Splendid Specimens: The History of Nutrition in Bodybuilding By Randy Roach
 
@@ -247,7 +247,7 @@ The first protein powders "tailored" specifically for athletes appeared around 1
 
 Another popular product was Hi-Protein, "a protein food supplement derived from soya flour, milk proteins, and wheat. The free amino acids which include natural tryptophan and the other natural essential amino acids where produced by an acid hydrolysis." The product was developed by bodybuilder and nutrition guru Irvin Johnson with before and after photographs of weaklings turned musclemen. Bob Hoffman quickly capitalized on Johnson's success by following immediately with his own soy-based product marketed heavily in Strength and Health. Hoffman's infamous protein claimed many a victim with hives or gym-clearing gas.
 
-The debates on raw versus cooked and vegetarianism versus meat eating that appeared in bodybuilding magazines during the 1940s gave way to numerous articles on protein supplements in the 1950s, including "Building Biceps Faster With Food Supplements (Iron Man, December 1950," "More and Better Protein Will Keep you Well (Strength &amp; Health, March 1953)," "The Magical Power Of Protein (Mr. America, February 1958)," "Food Supplements Build Rock Hard Definition (Muscle Builder, June 1958)" and "Everyone Needs More Protein (Strength &amp; Health, July 1959).
+The debates on raw versus cooked and vegetarianism versus meat eating that appeared in bodybuilding magazines during the 1940s gave way to numerous articles on protein supplements in the 1950s, including "Building Biceps Faster With Food Supplements (Iron Man, December 1950," "More and Better Protein Will Keep you Well (Strength & Health, March 1953)," "The Magical Power Of Protein (Mr. America, February 1958)," "Food Supplements Build Rock Hard Definition (Muscle Builder, June 1958)" and "Everyone Needs More Protein (Strength & Health, July 1959).
 
 Meal replacement products also appeared during the 1950s, with much hype. One product, called B-FIT, was recommended as a replacement for two or three regular meals per day. According to its promoters, B-FIT "is scientifically formulated to contain all the needed vitamins and minerals, plus ample supplies of the effective proteins and yet is so low in calories that the fatty tissue literally melts away. . . . You will not suffer from any nutritional deficiencies because B-FIT is a complete food insofar as scientific experiment and research is possible to develop. Approved by dieticians."
 
@@ -300,13 +300,13 @@ Gironda often stated that nutrition was 85-90 percent of bodybuilding. His alter
 He recommended following this "anabolic phase" with a 
 short-term vegetarian diet to "re-alkalize" the body. Similarly he alternated a low-carbohydrate diet with periods of carbohydrate loading. He was careful to point out the difference between natural and refined carbohydrate foods. He presented research data that strongly indicted refined carbohydrates as the real culprit in much of the century's degenerative disease. His articles went into surprising detail on the biochemical pathways through which sugar did its damage, pointing out the relation between sugar and atherosclerosis, abnormal increases in height and weight and skeletal anomalies.
 
-As for protein, he believed the average American could get along fine with just 45 grams of quality protein a day. However, he insisted that bodybuilders needed over 300 grams daily for several weeks to force the growth process. He believed in quality protein powders and used Blair's milk-and-egg blend until he came out with his own product. When he used the powders, he blended 1/3 of a cup with a dozen eggs and 12 ounces of raw cream or half &amp;amp; half. He was also big on steak and often ate his meat raw.mmended germ oils, amino acids, vitamin and mineral supplements, and hydrochloric acid (HCL). He recommended mineral rich sea kelp for its iodine content and dried liver extract for blood building and oxygen capacity boosting. Many bodybuilders used desiccated liver after the early 1950s experiments of Dr. Benjamin Ershoff. Ershoff who conducted the famous liver study wherein rats fed 10 percent desiccated liver swam far longer compared to controls.
+As for protein, he believed the average American could get along fine with just 45 grams of quality protein a day. However, he insisted that bodybuilders needed over 300 grams daily for several weeks to force the growth process. He believed in quality protein powders and used Blair's milk-and-egg blend until he came out with his own product. When he used the powders, he blended 1/3 of a cup with a dozen eggs and 12 ounces of raw cream or half & half. He was also big on steak and often ate his meat raw.mmended germ oils, amino acids, vitamin and mineral supplements, and hydrochloric acid (HCL). He recommended mineral rich sea kelp for its iodine content and dried liver extract for blood building and oxygen capacity boosting. Many bodybuilders used desiccated liver after the early 1950s experiments of Dr. Benjamin Ershoff. Ershoff who conducted the famous liver study wherein rats fed 10 percent desiccated liver swam far longer compared to controls.
 
 MACRONUTRIENTLAND
 
 In his early years, Blair recommended a very low carbohydrate diet. Later he advocated a diet consisting of 1/3 protein, 1/3 fat and 1/3 carbohydrates to build muscle; then he reversed himself and again urged avoidance of carbohydrate foods. But other bodybuilders included high levels of carbs in their diets. For example, teenage sensation Casey Viator, who became the youngest Mr. America ever at age 19, had his own special peanut butter pudding that consisted of 2 pounds of peanut butter, 1 jar of grape jelly and 3 or 4 bananas. The bananas were optional. This was part of a diet that also included 2 dozen eggs and 2 gallons of raw milk per day. Casey recalls his father not shedding too many tears when he finally moved out. 
 
-A columnist in Strength &amp; Health magazine recommended the following carbohydrate-rich concoction for "getting big" 
+A columnist in Strength & Health magazine recommended the following carbohydrate-rich concoction for "getting big" 
 along with a diet that allowed unlimited meat and eggs:
 
 A one day supply of Hoffman's Gain Weight formula (based on soy protein)
@@ -323,7 +323,7 @@ By the 1960s, bodybuilders had figured out what they had to do to attain specifi
 
 Yet it was in the early 70s that the lipid hypothesis began to take hold. The result was a series of diets that emphasized carbohydrates over protein and fats. The pre-game meal of beef was giving way to one of lasagna or spaghetti. 
 
-The magazines of 1970 mirrored this confusion. For example, in an issue of Strength &amp;amp; Health, publisher Hoffman praises the African Masai tribe for their reverence of whole milk, while in his other publication, Muscular Development, he recommends skim milk because it is lower in saturated fats. (The vast majority of the nation was now drinking pasteurized milk--long time strength trainer Jim Bryan remembers avoiding raw milk because he was given the impression that it was dangerous.) MuscleMag publisher Bob Kennedy told his readers not to let anyone scare them away from eggs. Frank Zane, Mr. Olympia champion from 1977-79, was still eating the old way with plenty of eggs, lamb, beef, pork, heart, liver, raw milk, protein powder, vegetables, fruit with some potato and brown rice, educating his readers on the misconception of cholesterol and warning against over-consumption of polyunsaturated vegetable oils. But in Iron Man, Sterri Larson was telling readers that the diet of the bodybuilder was not necessarily one to produce good health. He believed that eggs were the best for both building muscle and losing fat, but that saturated fat and cholesterol could prove hazardous. According to bodybuilder Brian Horton, some of the athletes were now eating chicken and fish instead of beef and eggs. 
+The magazines of 1970 mirrored this confusion. For example, in an issue of Strength & Health, publisher Hoffman praises the African Masai tribe for their reverence of whole milk, while in his other publication, Muscular Development, he recommends skim milk because it is lower in saturated fats. (The vast majority of the nation was now drinking pasteurized milk--long time strength trainer Jim Bryan remembers avoiding raw milk because he was given the impression that it was dangerous.) MuscleMag publisher Bob Kennedy told his readers not to let anyone scare them away from eggs. Frank Zane, Mr. Olympia champion from 1977-79, was still eating the old way with plenty of eggs, lamb, beef, pork, heart, liver, raw milk, protein powder, vegetables, fruit with some potato and brown rice, educating his readers on the misconception of cholesterol and warning against over-consumption of polyunsaturated vegetable oils. But in Iron Man, Sterri Larson was telling readers that the diet of the bodybuilder was not necessarily one to produce good health. He believed that eggs were the best for both building muscle and losing fat, but that saturated fat and cholesterol could prove hazardous. According to bodybuilder Brian Horton, some of the athletes were now eating chicken and fish instead of beef and eggs. 
 
 STEROID USE
 
@@ -360,13 +360,13 @@ Also back in the 1960s, cyclists were using a technique of loading their muscles
 Similar diets followed including Cyclical Ketogenic Dieting (CKD) variously known as the "Ultimate Diet," the "High-Fat 
 Diet," the "Anabolic Diet," "Bodyopus," the "Metabolic Diet," "Anabolic Solution," and the "Ultimate Diet 2.0."
 
-## Estrogen - Women &amp; GHRH/GHRP-6
+## Estrogen - Women & GHRH/GHRP-6
 
 ESTROGEN
 
 Well DHEA conversion to estrogen has a pronounced positive effect on GH.
 
-But I wonder...if you have a big fat pad &amp;amp; are an older guy or even a younger guy with a hormonal profile skewed toward "excess" estrogen already...whether DHEA will have a positive impact on GH production. 
+But I wonder...if you have a big fat pad & are an older guy or even a younger guy with a hormonal profile skewed toward "excess" estrogen already...whether DHEA will have a positive impact on GH production. 
 
 Conversely what happens when we reduce either estrogen or its ability to act...
 
@@ -385,7 +385,7 @@ Oral estrogen especially inhibits GH's actions in dose-dependent fashion. Howeve
 
 Oral estrogen administration leads to a reduction in IGF-I levels despite any increase in GH levels (from supplementation). The reason being that estrogen impairs the ability of GH to stimulate hepatic IGF-I production because of its negative impact on the growth hormone receptor and signalling.
 
-Estrogen inhibits GH activation of the JAK/STAT pathway. The inhibition is dose-dependent and results from suppression of GH-induced JAK2 phosphorylation, leading to reduction in transcriptional activity. Estrogen does not affect phosphatase activity but stimulates expression of SOCS-2, which in turn inhibits JAK2 activation. Thus, esotrogen inhibits GH receptor signalling by stimulating SOCS-2 expression. - Growth hormone receptor modulators, Vita Birzniece &amp;amp; Akira Sata &amp;amp; Ken KY Ho, Rev Endocr Metab Disord
+Estrogen inhibits GH activation of the JAK/STAT pathway. The inhibition is dose-dependent and results from suppression of GH-induced JAK2 phosphorylation, leading to reduction in transcriptional activity. Estrogen does not affect phosphatase activity but stimulates expression of SOCS-2, which in turn inhibits JAK2 activation. Thus, esotrogen inhibits GH receptor signalling by stimulating SOCS-2 expression. - Growth hormone receptor modulators, Vita Birzniece & Akira Sata & Ken KY Ho, Rev Endocr Metab Disord
  ![](%%Estrogen%%)
 So how does estrogen effect the use of GHRH and GHRP-6 to effect release of GH?
 
@@ -401,11 +401,11 @@ So women should always include a GHRP (GHRP-6, GHRP-2, Hexarelin, Ipamorelin) in
 
 My thread at PM contains a lot of knowledge about many things beyond just peptides including insulin.
 
-So lets start first with the myth that GH &amp; Insulin can not be used together. Do people even understand that the GH ligand is only half of the equation? GH needs a receptor to bind to. Do they know how to increase GH-receptors? How about increasing GH receptor expression.
+So lets start first with the myth that GH & Insulin can not be used together. Do people even understand that the GH ligand is only half of the equation? GH needs a receptor to bind to. Do they know how to increase GH-receptors? How about increasing GH receptor expression.
 
 Since I just now decided to toot my own horn ...toot toot... let me also say the same applies to testosterone. There is a simple way to increase androgen receptors expression. No I'm not going into that... I just marvel at the guys who are gurus that don't understand these simple things...
 
-First a response from Dr. Crisler who addressed this doctor myth about separating insulin &amp; GH. He was responding to my post on how insulin effects GH-receptor expression.
+First a response from Dr. Crisler who addressed this doctor myth about separating insulin & GH. He was responding to my post on how insulin effects GH-receptor expression.
 
 Here is Dr. Crisler's response to my post which I will summarize afterwords:
 
@@ -441,7 +441,7 @@ If you follow that reasoning you should NEVER take insulin. The truth is you can
 
 Okay this is one thing that insulin does but there so many more things to that insulin does. Do people even know what GH does by itself, what insulin does by itself, what all sorts of things do by themselves. How about if you combine them?
 
-I would copy my posts on this from PM but the formating is lost so I'll just post the links (it is formatted by me to be highly readable &amp; well worth the time to read by anyone who wants to truly understand):
+I would copy my posts on this from PM but the formating is lost so I'll just post the links (it is formatted by me to be highly readable & well worth the time to read by anyone who wants to truly understand):
 
 The above post covers:
 
@@ -498,7 +498,7 @@ Their studies discovered two protocols. One protocol resulted in an immediate an
 The first protocol might be considered by bodybuilders, athletes and fitness enthusiasts while the second might be better suited for the public at large.
 Introduction to Fat Oxidation
 
-To sustain life the production of energy is required. This process necessitates the acquisition &amp; concurrent use of both oxygen and a fuel source. Fuel sources are available from either consumption of carbohydrates, fats, and rarely proteins or the release of stored fuels from within the body. The ingestion of dietary fat is an initial energy acquisition process called consumption while the process called oxidation is the final step of conversion into human energy. Between the initial process of consumption and the final step of conversion are the processes of storage and eventual release for conversion into energy.
+To sustain life the production of energy is required. This process necessitates the acquisition & concurrent use of both oxygen and a fuel source. Fuel sources are available from either consumption of carbohydrates, fats, and rarely proteins or the release of stored fuels from within the body. The ingestion of dietary fat is an initial energy acquisition process called consumption while the process called oxidation is the final step of conversion into human energy. Between the initial process of consumption and the final step of conversion are the processes of storage and eventual release for conversion into energy.
 
 Whether the middle processes of fat storage or fat release are activated depends primarily on the state of energy balance at any point in time. If there is a surplus of fuel sources from ingested carbohydrates or fats then fat will not be released from storage in fat cells in appreciable quantities and the body will use its preferred source of energy carbohydrates followed by newly ingested fats to meet its energy requirements.
 
@@ -528,7 +528,7 @@ The Mitochondria (the intra-cellular area where oxidation and energy production 
 
 However there are two separate pools of carnitine that need to be utilized to move fatty acids into the mitochondria. One pool located outside of the mitochondria membrane and one pool located inside the mitochondria matrix. The one outside the mitochondria is the one that binds to fatty acids and transports them through the first of 2 layers that make up the membrane and up to the 2nd inner layer but not through the mitochondria membrane. The pool of carnitine inside the mitochondria is known as “intra-mitochondria free carnitine”. It moves to the membrane from the inside and is “handed” the fatty acyl-CoA that was delivered “to the door” by outside carnitine. The handing over process is mediated by an enzyme called Carnitine palmitoyltransferase I (CPT1) which resides on the 2nd layer of the membrane. We don’t need to introduce all the various proteins and enzymes involved in the process. Simply understand that CPT1 is akin to a bouncer at a nightclub who takes a note from someone outside the doorway and gives it to someone inside the doorway.
 
-In this way two carnitines (one from outside &amp; one from inside the mitochondria) do the work of transporting the fatty acyl-CoA.
+In this way two carnitines (one from outside & one from inside the mitochondria) do the work of transporting the fatty acyl-CoA.
 
 Inside the mitochondria matrix the newly formed acylcarnitine (thanks to the hand off) is reduced back to two individual components: free carnitine and the long chain fatty acyl-CoA.
 
@@ -572,9 +572,9 @@ Support for this understanding is well established and not limited to the Stephe
 
 Roepstorff et al. (2005) showed a 2.5-fold decrease in the rate of fat oxidation, compared to control, during moderate intensity exercise (65% of VO2 max) when free carnitine availability was reduced by 50% as a result of pyruvate, and therefore acetyl-CoA, production being increased as a result of pre-exercise muscle glycogen content being elevated.
 
-Further support for the understanding that free carnitine availability may limit fat oxidation comes from Achten &amp; Jeukendrup, (2004). Muscle free carnitine content has been shown to decrease from approximately 11 to below 5.5mmol (kg dm)-1 between the exercise intensities of 60 and 80% of VO2 max, and it has been calculated that maximal and minimal fat oxidation rates during exercise are achieved at exercise intensities of around 65% and greater than 80% of VO2 max, respectively.
+Further support for the understanding that free carnitine availability may limit fat oxidation comes from Achten & Jeukendrup, (2004). Muscle free carnitine content has been shown to decrease from approximately 11 to below 5.5mmol (kg dm)-1 between the exercise intensities of 60 and 80% of VO2 max, and it has been calculated that maximal and minimal fat oxidation rates during exercise are achieved at exercise intensities of around 65% and greater than 80% of VO2 max, respectively.
 
-Reversing the Switch – Turning up the rate of fat oxidation &amp; turning down the rate of carbohydrate oxidation
+Reversing the Switch – Turning up the rate of fat oxidation & turning down the rate of carbohydrate oxidation
 
 Putmanet al. (1993) supply evidence by demonstrating that during bicycle exercise at 75% of VO2 max to exhaustion, both muscle free carnitine content and fat oxidation rates were markedly higher when pre-exercise muscle glycogen content was lowered compared to control.
 
@@ -582,13 +582,13 @@ In one of the Stephens Group’s studies they found that a 15% increase in skele
 
 As an explanation
 
-Philip Randle in the 1960s undertook a series of landmark and controversial studies detailing the workings of the balance between fatty acid oxidation and glucose oxidation in what he called the glucoseâ€“fatty acid cycle (Randle et al. 1963, 1964; Garland et al. 1963; Garland &amp; Randle, 1963). Therein he laid down the fundamental concept of reciprocal substrate competition between glucose and non-esterified fatty acids (the major fuels that are oxidized to provide ATP in mammals) in normal physiology in muscle.
+Philip Randle in the 1960s undertook a series of landmark and controversial studies detailing the workings of the balance between fatty acid oxidation and glucose oxidation in what he called the glucoseâ€“fatty acid cycle (Randle et al. 1963, 1964; Garland et al. 1963; Garland & Randle, 1963). Therein he laid down the fundamental concept of reciprocal substrate competition between glucose and non-esterified fatty acids (the major fuels that are oxidized to provide ATP in mammals) in normal physiology in muscle.
 
 In describing the competition between glucose oxidation and fatty acid oxidation he specified that an increase in beta-oxidation would result in an elevation of muscle acetyl-CoA concentration and, consequently, an increase in muscle citrate and glucose-6-phosphate content. This, in turn, would result in the down-regulation of carbohydrate flux [activity], due to product inhibition of PDC, phosphofructokinase and hexokinase, respectively.
 
 The Stephens Group acknowledge Randle’s important work in their elaboration of the results of their own study stating “In support of [Randle’s description] muscle long-chain acyl-CoA content returned to basal overnight during the L-carnitine infusion visit (whereas it remained suppressed during the control visit), which suggests that Beta-oxidation was indeed increased…while there was a 30% decrease in muscle PDC activity”
 
-Athletic Performance, fatigue &amp; the first few seconds of muscle contraction
+Athletic Performance, fatigue & the first few seconds of muscle contraction
 
 It is well established that there is a lag in oxidative ATP delivery at the onset of exercise and muscular contraction. This is attributable to a lag in mitochondrial ATP production brought about by a lag in PDC activity which results in an insufficient acetyl-CoA supply to match the demands of the TCA cycle (Krebs cycle – energy producing). The fuel supply is lacking at that moment in time.
 
@@ -661,7 +661,7 @@ A detailed description of this process is beyond the scope of this article so a 
 
 The concentration of potassium ions (K+) is as much as 20 times higher inside the cell then outside. Conversely, the fluid outside the cell contains a concentration of sodium ions (Na+) as much as 10 times greater than that within the cell. Because of this difference a concentration gradient amenable to flow exists and the Na+/K+ ATPase pump effects the transfer of these two ions pushing out 3 Na+ ions for every 2 K+ ions pumped back into the cell. This activity establishes a net charge across the plasma membrane with the interior of the cell being negatively charged with respect to the exterior.
 
-So with this basic understanding that OCTN2 is a cotransporter of sodium &amp; carnitine and that under normal conditions it is fully saturated and thus unable to benefit further carnitine inflow via Na+/K+ ATPase pump activity, lets examine how insulin overcomes this equilibrium and brings about an increased inflow of carnitine into skeletal muscle.
+So with this basic understanding that OCTN2 is a cotransporter of sodium & carnitine and that under normal conditions it is fully saturated and thus unable to benefit further carnitine inflow via Na+/K+ ATPase pump activity, lets examine how insulin overcomes this equilibrium and brings about an increased inflow of carnitine into skeletal muscle.
 
 How insulin increases the flow of carnitine into muscle
 
@@ -677,7 +677,7 @@ It has been demonstrated that the Na+ dependent uptake of other nutrients into s
 
 Insulin is able to increase the flow of carnitine into skeletal muscle as follows.
 
-Insulin increases Na+/K+ ATPase pump activity by increasing translocation (or movement) of alpha2 and beta1 pump subunits from an intracellular storage site to the plasma membrane (Sweeney &amp; Klip, 1998), and through an increase in the sensitivity of the Na+/K+ ATPase pump to intracellular Na+ (Clausen, 1986, 2003; Ewart &amp; Klip, 1995).
+Insulin increases Na+/K+ ATPase pump activity by increasing translocation (or movement) of alpha2 and beta1 pump subunits from an intracellular storage site to the plasma membrane (Sweeney & Klip, 1998), and through an increase in the sensitivity of the Na+/K+ ATPase pump to intracellular Na+ (Clausen, 1986, 2003; Ewart & Klip, 1995).
 
 OCTN2 has equal affinity for sodium ion (Na+) and carnitine and bonds to both. With an increased Na+/K+ ATPase pump activity brought about by an increase in circulating insulin concentration intracellular Na+ concentration is lowered which increases the electrochemical gradient for Na+ and therefore increases Na+/carnitine cotransport.
 
@@ -689,7 +689,7 @@ The Stephens Group undertook a series of experiments building on each to create 
 
 In addition they infused insulin at a dose I will call an “overkill amount”. The aim of study was to determine whether insulin could increase Na+/dependent skeletal muscle carnitine up-take in healthy human subjects as a result of increasing Na+/K+ ATPase pump activity. They were very much successful. The positive results of the study are incorporated in the previous section.
 
-Using an identical protocol and intravenous L-carnitine &amp; insulin amounts they undertook another study reported in An Acute Increase in Skeletal Muscle Carnitine Content Alters Fuel Metabolism in Resting Human Skeletal Muscle with the broader aim of determining the effect that an increase in skeletal muscle carnitine content would have on the integration of muscle fat and carbohydrate oxidation during and after hyper-insulinemia.
+Using an identical protocol and intravenous L-carnitine & insulin amounts they undertook another study reported in An Acute Increase in Skeletal Muscle Carnitine Content Alters Fuel Metabolism in Resting Human Skeletal Muscle with the broader aim of determining the effect that an increase in skeletal muscle carnitine content would have on the integration of muscle fat and carbohydrate oxidation during and after hyper-insulinemia.
 
 As in the previous study total carnitine content increased in skeletal muscle, this time by 15%.
 
@@ -709,7 +709,7 @@ In the words of the Stephens Group in an overall review of their work:
 
 “…the apparent reduction in glycolytic flux and carbohydrate oxidation… (decreased PDC activity and lactate content, and increased glycogen accumulation), in the face of high carbohydrate availability, could have been caused by a carnitine-mediated increase in skeletal muscle long-chain fatty acid oxidation, i.e. an increase in long-chain acyl-CoA translocation into the mitochondrial matrix via CPT1, resulting in an increase in beta-oxidation.
 
-According to Randleâ€™s glucoseâ€“fatty acid cycle (Randle et al. 1963, 1964; Garland et al. 1963; Garland &amp; Randle, 1963), a concept proposed in the 1960s from experiments involving rat heart and diaphragm muscle, an increase in beta-oxidation would result in an elevation of muscle acetyl-CoA concentration and, consequently, an increase in muscle citrate and glucose-6-phosphate content. This, in turn, would result in the down-regulation of carbohydrate flux, due to product inhibition of PDC….
+According to Randleâ€™s glucoseâ€“fatty acid cycle (Randle et al. 1963, 1964; Garland et al. 1963; Garland & Randle, 1963), a concept proposed in the 1960s from experiments involving rat heart and diaphragm muscle, an increase in beta-oxidation would result in an elevation of muscle acetyl-CoA concentration and, consequently, an increase in muscle citrate and glucose-6-phosphate content. This, in turn, would result in the down-regulation of carbohydrate flux, due to product inhibition of PDC….
 
 Indeed, the decrease in PDC activity observed in our study was paralleled by a reduction in muscle lactate content and resulted in an accumulation of muscle glycogen overnight, conditions which are both consistent with the premise that glycolytic flux, and therefore carbohydrate oxidation, was inhibited. In support of this… muscle long-chain acyl-CoA content returned to basal overnight during the l-carnitine infusion visit (whereas it remained suppressed during the control visit), which suggests that beta-oxidation was indeed increased.”
 
@@ -737,7 +737,7 @@ Both studies used oral ingestion of:
 
 followed by
 
-94 g of simple sugars (CHO) either ingested twice at 1 hour &amp; 4 hours after L-carnitine ingestion as in the 14 day study or as in the one day study four time across a 5 hour period.
+94 g of simple sugars (CHO) either ingested twice at 1 hour & 4 hours after L-carnitine ingestion as in the 14 day study or as in the one day study four time across a 5 hour period.
 
 Serum insulin concentrations during the period when simple sugars were ingested are graphed below. Surprisingly peak serum insulin concentrations of about 70mU/l proved to be sufficient.
 
@@ -785,7 +785,7 @@ An immediate threshold amount of increase in muscle carnitine concentration can 
 
 An accumulation strategy of daily oral ingestion of low bioavailable l-carnitine with oral ingestion of two high glycemic index drinks such as SyntheDEXTRIN™ (Maltodextrin Pure Carbohydrate) will lead to a threshold amount of muscle carnitine concentration within 100 days.
 
-These strategies should enable reversing the switch – Turning up the rate of fat oxidation &amp; turning down the rate of carbohydrate oxidation.
+These strategies should enable reversing the switch – Turning up the rate of fat oxidation & turning down the rate of carbohydrate oxidation.
 
 ## THE SCIENCE BEHIND: ‘SYNTHEROL – SITE ENHANCING OIL’
 Syntherol™ is a caprylic acid based proprietary formulated sterile site enhancement oil. It is manufactured by a major pharmaceutical company in accordance with the highest level of manufacturing practices. No other seller of site enhancement oil can guarantee that the product they sell is sanitary, hygienic, bottled and sealed under pharmaceutical conditions that assure the health and wellbeing of the end user..
@@ -805,7 +805,7 @@ When a muscular contraction occurs fascia or rather fascicle (a fascia bundle of
 
 So a contracted muscle which bulges can be understood to have increased pressure inward.
 
-There really are two distinct classes of fascia. The superficial fascia (the body wrap) is connected to the dermis and the upper torso is enveloped in this tissue from the pectorals to the rib cage area &amp; stomach, up under the lats, from the pectorals up over the delts and down the arms.
+There really are two distinct classes of fascia. The superficial fascia (the body wrap) is connected to the dermis and the upper torso is enveloped in this tissue from the pectorals to the rib cage area & stomach, up under the lats, from the pectorals up over the delts and down the arms.
 
 This body sheath is capable of transmitting information to various parts of the body concerning the amount of pressure that is occurring on other regions of the body as a result of force generation.
 
@@ -813,7 +813,7 @@ The second class of fascia is specific to the region and yet this deeper tissue 
 
 Pectoral fascia thickness varies greatly between people. The lower pectoral fascia is thicker then the upper with the upper pectorial region averaging .49mm in thickness and the lower averaging .60mm in thickness.
 
-There is a significant deviation from these averages in both the thickness &amp; pliability among individuals. One study found lower pectoral fascia thickness varied from a high of .99mm to a low of .24mm.
+There is a significant deviation from these averages in both the thickness & pliability among individuals. One study found lower pectoral fascia thickness varied from a high of .99mm to a low of .24mm.
 
 So from this brief summary we can understand that:
 
@@ -876,7 +876,7 @@ More importantly the studies show that MCT oil is not deadly. It has half the vi
 
 It has a half-life (i.e. degradation rate) of a week and a linear continual clearance rate so MCT oil will not stay around for a long period of time. Only about 1% remains after 6 weeks.
 
-What determines absorption of administered oil &amp; how is it absorbed?
+What determines absorption of administered oil & how is it absorbed?
 
 Lymphatic (minor role)
 
@@ -912,7 +912,7 @@ The second mechanism involves the portion of MCTs that do find there way into ad
 
 “Compared to the pharmaceutical inhibitors of lipogenesis, the effects of octanoate [caprylic acid] can be considered as moderate and yet might be more desirable for physiological regulation of body fat mass without adversely affecting normal fat tissue functions.” – *
 
-* – Modulation of adipocyte lipogenesis by octanoate: involvement of reactive oxygen species, Wen Guo, Weisheng Xie and Jianrong Han, Nutrition &amp; Metabolism 2006, 3:30
+* – Modulation of adipocyte lipogenesis by octanoate: involvement of reactive oxygen species, Wen Guo, Weisheng Xie and Jianrong Han, Nutrition & Metabolism 2006, 3:30
 
 This is one reason why MCT oil works well in those in pre-contest mode. It is used for site enhancement but it also acts as an energy substrate with very little fat storage and a positive effect as an inhibitor of lipogenesis.
 
@@ -1048,7 +1048,7 @@ And again, we strongly suggest that the muscle be stretched and vigorously massa
 
 What is a peptide?
 
-Peptides (proteins) are present in every living cell and possess a variety of biochemical activities. Some peptides are synthesized in the ribosomes of a cell by translation of mRNA (messenger RNA) into hormones and signaling molecules for example. Other peptides are assembled (rather then synthesized) and become enzymes with a vast variety of functions. Peptides also make up the structure of receptors which await binding of hormones &amp;amp; signaling molecules.
+Peptides (proteins) are present in every living cell and possess a variety of biochemical activities. Some peptides are synthesized in the ribosomes of a cell by translation of mRNA (messenger RNA) into hormones and signaling molecules for example. Other peptides are assembled (rather then synthesized) and become enzymes with a vast variety of functions. Peptides also make up the structure of receptors which await binding of hormones & signaling molecules.
 
 A peptide is a molecule created by joining two or more amino acids. In general if the number of amino acids is less than fifty, these molecules are called peptides, while larger sequences are referred to as proteins. 
 
@@ -1058,7 +1058,7 @@ Raw Constituents of Peptides (Amino Acids)
 
 Amino acids are small molecules made up of atoms. As part of their structure they posses a grouping of a Nitrogen (N) atom bonded to two Hydrogen (H) atoms. This is called an amino group and written as (NH2). In addition their structure is also made up of a second grouping of a Carbon (C) atom bonded to two Oxygen (O) and one Hydrogen atom. This group is called a carboxyl group and is written as (COOH). 
 
-Between these two groupings are atoms and bonds unique to each amino acid. In other words all amino acids possess the two groupings (amino&amp;amp; carboxyl) as end-points between which are sandwiched a unique set of atoms.
+Between these two groupings are atoms and bonds unique to each amino acid. In other words all amino acids possess the two groupings (amino& carboxyl) as end-points between which are sandwiched a unique set of atoms.
 
 Amino Acids
 
@@ -1147,7 +1147,7 @@ Growth Hormone Releasing Hormone (GHRH) (amplifies the GHRP initiated pulse):
 - Longer-lasting analogs of GRF(1-29):
 -- replace the 2nd amino acid Alanine w/ D-Alanine only to modify GRF(1-29), D-Ala2 GRF(1-29) (Tyr-DAla-Asp-Ala-Ile-Phe-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg-NH2) =half-life "closer to 10 minutes" - Ref-4 
 
--- replace the 2nd, 8th, 15th &amp;amp; 27th amino acids &amp;amp; get modified GRF(1-29) or CJC-1295 w/o the DAC (i.e. the part that will bind to albumin &amp;amp; make the half-life days) (Tyr-DAla-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-NH2) = Half-life at least 30 minutes or so - Ref-5
+-- replace the 2nd, 8th, 15th & 27th amino acids & get modified GRF(1-29) or CJC-1295 w/o the DAC (i.e. the part that will bind to albumin & make the half-life days) (Tyr-DAla-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-NH2) = Half-life at least 30 minutes or so - Ref-5
 
 -- CJC-1295 (Tyr-DAla-Asp-Ala-Ile-Phe-Thr-Gln-Ser-Tyr-Arg-Lys-Val-Leu-Ala-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Leu-Ser-Arg-Lys-(Maleimidopropionyl)-NH2) = Half-life measured in days, - Ref-6
 
@@ -1184,8 +1184,8 @@ Growth hormone (GH) in the body is released in pulsatile fashion. It has been de
 
 These very important signaling pathways desensitize to Growth Hormone's initiating effects and need to experience an absence of Growth Hormone in order to reset and be ready to act again. The presence of GH released in pulsatile fashion is graphed as a wave with the low or no growth hormone period graphed as a trough. Therefore attempting to find a natural GH to synthetic GH equivalency is not very productive because in the end what is probably import is:
 
-- the quantity &amp;amp; quality of intracellular signaling events; and
-- the degree to which GH stimulates autocrine/paracrine (locally produced/locally used) muscle IGF-1 &amp;amp; post-exercise its splice variant MGF.
+- the quantity & quality of intracellular signaling events; and
+- the degree to which GH stimulates autocrine/paracrine (locally produced/locally used) muscle IGF-1 & post-exercise its splice variant MGF.
 
 Synthetic GH versus Natural GH in IUs
 
@@ -1204,7 +1204,7 @@ Somatostatin which is the inhibitory hormone and responsible in large part for t
 
 Growth Hormone Releasing Hormone (GHRH) which is the stimulatory hormone responsible for initiating GH release; and
 
-Ghrelin which is a modulating hormone and in essence optimizes the balance between the "on" hormone &amp;amp; the "off" hormone. Before Ghrelin was discovered the synthetic growth hormone releasing peptides (GHRPs) were created and are superior to Ghrelin in that they do not share Ghrelin's lipogenic behavior. These GHRPs are GHRP-6, GHRP-2, Hexarelin and later Ipamorelin all of which behave in similar fashion.
+Ghrelin which is a modulating hormone and in essence optimizes the balance between the "on" hormone & the "off" hormone. Before Ghrelin was discovered the synthetic growth hormone releasing peptides (GHRPs) were created and are superior to Ghrelin in that they do not share Ghrelin's lipogenic behavior. These GHRPs are GHRP-6, GHRP-2, Hexarelin and later Ipamorelin all of which behave in similar fashion.
 In the aging adult these Ghrelin-mimetics or the GHRPs restore a more youthful ability to release GH from the pituitary as they turn down somatostatin's negative influence which becomes stronger as we age and turn up growth hormone releasing hormone's influence which becomes weaker as we age.
 
 The exogenous administration of Growth Hormone Releasing Hormone (GHRH) creates a pulse of GH release which will be small if administered during a natural GH trough and higher if administered during a rising natural GH wave.
@@ -1221,7 +1221,7 @@ Growth Hormone Releasing Hormone (GHRH) however is currently available in severa
 
 GRF(1-29) is produced and sold as a drug called Sermorelin. It has a short-half life measured in minutes. If you prefer analogies think of this as a Testosterone Suspension (i.e. unestered).
 
-To increase the stability and half-life of GRF(1-29) four amino acid changes where made to its structure. These changes increase the half-life beyond 30 minutes which is more than sufficient to exert a sustained effect which will maximize a GH pulse. This form is often calledtetrasubstituted GRF(1-29) (or modified) and unfortunately &amp;amp; confusingly mislabeled as CJC-1295. If you prefer analogies think of this as a Testosterone Propionate (i.e. short-estered).
+To increase the stability and half-life of GRF(1-29) four amino acid changes where made to its structure. These changes increase the half-life beyond 30 minutes which is more than sufficient to exert a sustained effect which will maximize a GH pulse. This form is often calledtetrasubstituted GRF(1-29) (or modified) and unfortunately & confusingly mislabeled as CJC-1295. If you prefer analogies think of this as a Testosterone Propionate (i.e. short-estered).
 
 Note that some may also refer to this as CJC-1295 without the DAC (Drug Affinity Complex).
 
@@ -1235,7 +1235,7 @@ Modified GRF(1-29)however when combined with a GHRP brings about a substantial p
 
 Dosing GHRPs
 
-The saturation dose in most studies on the GHRPs (GHRP-6, GHRP-2, Ipamorelin &amp;amp; Hexarelin) is defined as either 100mcg or 1mcg/kg.
+The saturation dose in most studies on the GHRPs (GHRP-6, GHRP-2, Ipamorelin & Hexarelin) is defined as either 100mcg or 1mcg/kg.
 
 What that means is that 100mcg will saturate the receptors fully, but if you add another 100mcg to that dose only 50% of that portion will be effective. If you add an additional 100mcg to that dose only about 25% will be effective. Perhaps a final 100mcg might add a little something to GH release but that is it.
 
@@ -1243,15 +1243,15 @@ So 100mcg is the saturation dose and you could add more up to 300 to 400mcg and 
 
 A 500mcg dose will not be more effective then a 400mcg, perhaps not even more effective then 300mcg.
 
-The additional problems are desensitization &amp;amp; cortisol/prolactin side-effects.
+The additional problems are desensitization & cortisol/prolactin side-effects.
 
 Ipamorelin is about as efficacious as GHRP-6 in causing GH release but even at higher dose (above 100mcg) it does not create prolactin or cortisol.
 
-GHRP-6 at the saturation dose 100mcg does not really increase prolactin &amp;amp; cortisol but may do so slightly at higher doses. This rise is still within the normal range.
+GHRP-6 at the saturation dose 100mcg does not really increase prolactin & cortisol but may do so slightly at higher doses. This rise is still within the normal range.
 
-GHRP-2 is a little more efficacious then GHRP-6 at causing GH release but at the saturation dose or higher may produce a slight to moderate increase in prolactin &amp;amp; cortisol. This rise is still within the normal range although doses of 200 - 400mcg might make it the high end of the normal range.
+GHRP-2 is a little more efficacious then GHRP-6 at causing GH release but at the saturation dose or higher may produce a slight to moderate increase in prolactin & cortisol. This rise is still within the normal range although doses of 200 - 400mcg might make it the high end of the normal range.
 
-Hexarelin is the most efficacious of all of the GHRPs at causing an increase in GH release. However it has the highest potential to also increase cortisol &amp;amp; prolactin. This rise will occur even at the 100mcg saturation dose. This rise will reach the higher levels of what is defined as normal.
+Hexarelin is the most efficacious of all of the GHRPs at causing an increase in GH release. However it has the highest potential to also increase cortisol & prolactin. This rise will occur even at the 100mcg saturation dose. This rise will reach the higher levels of what is defined as normal.
 
 Desensitization
 
@@ -1267,7 +1267,7 @@ Chronic use of GHRP-6 at 100mcg dosed several times a day every day will not cau
 
 GHRH 
 
-Now Sermorelin, GHRH (1-44) and GRF(1-29) all are basically GHRH and have a short half-life in plasma because of quick cleavage between the 2nd &amp;amp; 3rd amino acid. This is no worry naturally because this hormone is secreted from the hypothalamus and travels a short distance to the underlying anterior pituitary and is not really subject to enzymatic cleavage. The release from the hypothalamus and binding to somatotrophs (pituitary cells) happens quickly.
+Now Sermorelin, GHRH (1-44) and GRF(1-29) all are basically GHRH and have a short half-life in plasma because of quick cleavage between the 2nd & 3rd amino acid. This is no worry naturally because this hormone is secreted from the hypothalamus and travels a short distance to the underlying anterior pituitary and is not really subject to enzymatic cleavage. The release from the hypothalamus and binding to somatotrophs (pituitary cells) happens quickly.
 
 However when injected into the body it must circulate before finding its way to the pituitary and so within 3 minutes it is already being degraded.
 
@@ -1326,11 +1326,11 @@ This may be dosed several times a day to be highly effective.
 A solid approach is a bit more conservative at 100mcg of GHRP-6 + 100mcg of a GHRH analog dosed either once, twice, three or four times a day.
 When dosing multiple times a day at least 3 hours should separate the administrations. 
 
-The difference is once a day dosing pre-bed will give a youthful restorative amount of GH while multiple dosing and or higher levels will give higher GH &amp;amp; IGF-1 levels when coupled with diet &amp;amp; exercise will lead to muscle gain &amp;amp; fatloss.
+The difference is once a day dosing pre-bed will give a youthful restorative amount of GH while multiple dosing and or higher levels will give higher GH & IGF-1 levels when coupled with diet & exercise will lead to muscle gain & fatloss.
 
 Dose w/o food 
 
-Administration should ideally be done on either an empty stomach or with only protein in the stomach. Fats &amp;amp; carbs blunt GH release. So administer the peptides and wait about 20 minutes (no more then 30 but no less then 15 minutes) to eat. AT that point the GH pulse has about hit the peak and you can eat what you want.
+Administration should ideally be done on either an empty stomach or with only protein in the stomach. Fats & carbs blunt GH release. So administer the peptides and wait about 20 minutes (no more then 30 but no less then 15 minutes) to eat. AT that point the GH pulse has about hit the peak and you can eat what you want.
 
 ## Basic Guide: CJC-1295
 
@@ -1355,18 +1355,18 @@ I conjecture that it also makes them better neighbors to corticotroph, thyrotrop
 Revision 2 [8/31/08]
 
 Restoring Growth Hormone
-"It has been argued that the age-dependent decline in sex steroid, Growth Hormone, and IGF-I production is nature’s way of protecting us from cancer and heart disease, but a far more likely scenario is that once we reach our reproductive capacity, nature begins programming us for death."- Roy G. Smith, Ph.D. Director, Huffington Center on Aging; Professor, Department of Molecular &amp;amp; Cellular Biology; former Vice President for Basic Research at Merck Research Laboratories, Merck &amp;amp; Co
+"It has been argued that the age-dependent decline in sex steroid, Growth Hormone, and IGF-I production is nature’s way of protecting us from cancer and heart disease, but a far more likely scenario is that once we reach our reproductive capacity, nature begins programming us for death."- Roy G. Smith, Ph.D. Director, Huffington Center on Aging; Professor, Department of Molecular & Cellular Biology; former Vice President for Basic Research at Merck Research Laboratories, Merck & Co
 Such programming begins as the second decade of life draws to a close, the negative consequences of which become more noticeable with each passing year. 
 
 We begin to experience a steady decline in immune function. (1,2) Our bodies increase production of glucocorticoids (catabolic hormones) and cytokines (inflammatory) which negatively impact metabolism, bone density, strength, exercise tolerance, cognitive function, and mood. (3,4–8) 
 
-The hormones of sex, dehydroepiandrosterone (DHEA), Growth Hormone (GH), and Insulin-like Growth Factor (IGF-1) are positively correlated with the health and well-being of the body in general and the specific functioning of metabolism, the cardiovascular system, the musculature skeletal system, cognitive function &amp;amp; the immune system. However these hormonal levels naturally decline as we age and as a consequence those systems necessary to maintain optimal health decline as well. (1-4,9)
+The hormones of sex, dehydroepiandrosterone (DHEA), Growth Hormone (GH), and Insulin-like Growth Factor (IGF-1) are positively correlated with the health and well-being of the body in general and the specific functioning of metabolism, the cardiovascular system, the musculature skeletal system, cognitive function & the immune system. However these hormonal levels naturally decline as we age and as a consequence those systems necessary to maintain optimal health decline as well. (1-4,9)
 
 "Hence, if we wish to maintain quality of life during aging we must oppose nature." - Roy G. Smith, Ph.D.
 
-A progressive decline in lean body mass, atrophy of its component organs &amp;amp; reduction in their function and increased deposition of adipose tissue mass characteristic of the aging human body result partially from the body's diminished secretion of growth hormone. (10-13) These negative changes resulting from growth hormone deficiency have been shown to be reversible by replacement doses of growth hormone. (14-21)
+A progressive decline in lean body mass, atrophy of its component organs & reduction in their function and increased deposition of adipose tissue mass characteristic of the aging human body result partially from the body's diminished secretion of growth hormone. (10-13) These negative changes resulting from growth hormone deficiency have been shown to be reversible by replacement doses of growth hormone. (14-21)
 
-Growth Hormone is a vital anabolic hormone whose positive stimulatory effects on protein synthesis (particularly in the liver, muscle, bone, cartlidge, spleen, kidney, skin, thymus, and red blood cells) and on lipolysis (the breakdown of fat stored in fat cells) contributes greatly to growth, repair &amp;amp; well-being. (10)
+Growth Hormone is a vital anabolic hormone whose positive stimulatory effects on protein synthesis (particularly in the liver, muscle, bone, cartlidge, spleen, kidney, skin, thymus, and red blood cells) and on lipolysis (the breakdown of fat stored in fat cells) contributes greatly to growth, repair & well-being. (10)
 
 Growth Hormone (GH) secretion is primarily regulated by the release of two peptides, Growth Hormone-Releasing Hormone (GHRH) andSomatostatin. The hypothalamus region of the brain releases these hormones in response to signals from the central nervous system. GHRH once released makes its way to the receptors on the somatotrope cells of the pituitary gland below the brain where it stimulates Growth Hormone release. 
 
@@ -1378,7 +1378,7 @@ The end product of this cascade, Growth Hormone (GH) once secreted exerts its ef
 
 ![](%%CJC-1295-1%%)
 
-Growth Hormone (GH) is released periodically within the body in a controlled pulsating fashion. This periodic pattern plays an important role in transmitting the GH "growth, repair &amp;amp; well-being" message to tissue. A review of several studies involving GH replacement in GH-deficient animals reveals the biological significance of episodic secretion. These studies conclude that GH released in a pulsatile pattern is far more efficient in improving mammalian growth and repair than the method of GH administration by constant infusion.
+Growth Hormone (GH) is released periodically within the body in a controlled pulsating fashion. This periodic pattern plays an important role in transmitting the GH "growth, repair & well-being" message to tissue. A review of several studies involving GH replacement in GH-deficient animals reveals the biological significance of episodic secretion. These studies conclude that GH released in a pulsatile pattern is far more efficient in improving mammalian growth and repair than the method of GH administration by constant infusion.
 
 In males GH pulses occur approximately every three (3) hours, a frequency that appears across most mammals. The secretion bursts are preceded and followed by almost undetectable levels of plasma GH. 
 
@@ -1394,7 +1394,7 @@ Growth Hormone levels may be increased either by exogenically administering Grow
 
 Studies have concluded that endogenous Growth Hormone Releasing Hormone (GHRH) is the principal regulator of pulsatile GH secretion in humans and that continuous GHRH infusion augments pulsatile GH release. Whereas exogenic administration of GH raises overall GH levels but has no effect on amplifying the pulses.
 
-People of all ages naturally continue to possess the ability to secrete GH from stores within the pituitary. Most studies are in agreement on this point. One study in particular examined the effects of administration of GHRH &amp;amp; a Growth Hormone Releasing Peptide on all adult age groups from those in their 20's to those above 75 years of age. They observed substantial increases in GH release as a direct result of administration of GHRH &amp;amp; GHRP-6. This prompted them to conclude, "...that the lack of side-effects &amp;amp; safety of the protocol and the discovered lack of age-related decline in the 'GHRH-GHRP-6-mediated' GH release opens the possibility of using it as a therapeutical tool to revert some deleterious manifestations of aging in man." (23)
+People of all ages naturally continue to possess the ability to secrete GH from stores within the pituitary. Most studies are in agreement on this point. One study in particular examined the effects of administration of GHRH & a Growth Hormone Releasing Peptide on all adult age groups from those in their 20's to those above 75 years of age. They observed substantial increases in GH release as a direct result of administration of GHRH & GHRP-6. This prompted them to conclude, "...that the lack of side-effects & safety of the protocol and the discovered lack of age-related decline in the 'GHRH-GHRP-6-mediated' GH release opens the possibility of using it as a therapeutical tool to revert some deleterious manifestations of aging in man." (23)
 
 Long-lasting GHRH analog CJC-1295
 
@@ -1406,11 +1406,11 @@ Exposure of native GHRH to blood plasma results in rapid degradation. CJC-1295, 
 
  ![](%%CJC-1295-2%%)
 
-In a recent (2006) study "Prolonged Stimulation of Growth Hormone (GH) and Insulin-Like Growth Factor I Secretion by CJC-1295, a Long-Acting Analog of GH-Releasing Hormone, in Healthy Adults", Sam L. Teichman, et al. Journal of Clinical Endocrinology &amp;amp; Metabolism 91(3):799-805, CJC-1295 was found to result in "sustained, dose-dependent increases in GH and IGF-I levels in healthy adults and was safe and relatively well tolerated, particularly at doses of 30mcg/kg or 60 mcg/kg."
+In a recent (2006) study "Prolonged Stimulation of Growth Hormone (GH) and Insulin-Like Growth Factor I Secretion by CJC-1295, a Long-Acting Analog of GH-Releasing Hormone, in Healthy Adults", Sam L. Teichman, et al. Journal of Clinical Endocrinology & Metabolism 91(3):799-805, CJC-1295 was found to result in "sustained, dose-dependent increases in GH and IGF-I levels in healthy adults and was safe and relatively well tolerated, particularly at doses of 30mcg/kg or 60 mcg/kg."
 
 It has been demonstrated repeatedly in various studies that GHRH is effective at instigating GH release and longer acting analogs do increase the overall effectiveness. So it is no surprise that the results of this CJC-1295 study comport with what has been previously demonstrated. 
 
-What was unknown was what effect persistent elevation of GH by a long-lasting GHRH analog would have on the pulsatility of release. This was explored in a follow up study, "Pulsatile Secretion of Growth Hormone (GH) Persists during Continuous Stimulation by CJC-1295, a Long- Acting GH-Releasing Hormone Analog", Madalina Ionescu, et al. The Journal of Clinical Endocrinology &amp;amp; Metabolism 91(12):4792-4797.
+What was unknown was what effect persistent elevation of GH by a long-lasting GHRH analog would have on the pulsatility of release. This was explored in a follow up study, "Pulsatile Secretion of Growth Hormone (GH) Persists during Continuous Stimulation by CJC-1295, a Long- Acting GH-Releasing Hormone Analog", Madalina Ionescu, et al. The Journal of Clinical Endocrinology & Metabolism 91(12):4792-4797.
 
 That study found that pulsatility was not interfered with and was in fact preserved in all subjects both immediately after administration and continuing 7 days post-administration.
 
@@ -1506,12 +1506,12 @@ In the 1980's three classes of compounds where studied to determine their effect
 
 Growth Hormone Releasing Hormone (natural hormone) 
 Growth Hormone Releasing Peptides (synthetic molecules often termed "GH-Secretagogues") 
-Opiates (Dermorphin &amp;amp; Benzomorphan)
+Opiates (Dermorphin & Benzomorphan)
 Individually each class of compound when administered in laboratory rats was found to induce growth hormone release. However when they were all combined growth hormone release dramatically increased.
 
 Growth Hormone Releasing Hormone (GHRH) + Growth Hormone Releasing Peptide (GHRP) was found to induce a large synergistic secretion of growth hormone (GH).
 
-However when the Opiate was combined with GHRH &amp;amp; GHRP the synergy was huge amounting to a release of GH more than double that achieved by the GHRH/GHRP combo alone.
+However when the Opiate was combined with GHRH & GHRP the synergy was huge amounting to a release of GH more than double that achieved by the GHRH/GHRP combo alone.
 
  ![](%%secretagogues-1%%)
 
@@ -1537,7 +1537,7 @@ These Growth Hormone Secretagogues (GHSs) exert their effect on increasing GH ou
 
 First they INDIRECTLY increase growth hormone (GH) secretion by inducing Growth Hormone Releasing Hormone (GHRH) release from the hypothalamus in the brain. GHRH once released makes its way to the Growth Hormone Releasing Hormone Receptors (GHRH-R) in cells within the pituitary (a gland just below the brain) where it binds and exerts its direct influence in signaling GH release.
 
-Second these GHS also make there way to those same pituitary cells where they themselves bind to a Growth Hormone Secretagogue Receptor (GHS-R) and exert a DIRECT influence in signaling GH release. This signaling uses a different mode of action distinct from that of GHRH. As a consequence both bound GHRH &amp;amp; bound GHS can exert their positive influence concurrently resulting in synergistic growth hormone (GH) release.
+Second these GHS also make there way to those same pituitary cells where they themselves bind to a Growth Hormone Secretagogue Receptor (GHS-R) and exert a DIRECT influence in signaling GH release. This signaling uses a different mode of action distinct from that of GHRH. As a consequence both bound GHRH & bound GHS can exert their positive influence concurrently resulting in synergistic growth hormone (GH) release.
 
 Third they INDIRECTLY increase GH secretion by reducing release of Somatostatin (the GH inhibiting hormone) from the hypothalamus and DIRECTLY by reducing the magnitude of Somatostatin's inhibiting action once it binds to its receptor on the pituitary cells.
 
@@ -1567,9 +1567,9 @@ Investigators subsequently modified the structure of GHRP-6 and identified more 
 
 D-Ala-D-2 Nal-Ala-Trp-D-Phe-Lys-NH2
 
-In 1982, after a long search the natural hormone "Growth Hormone Releasing Hormone" (GHRH) was finally isolated and identified. As a result the interest in Growth Hormone Secretagogues (at that point limited to the three peptides) faded. Eventually researchers discovered that those GH-Releasing Peptides (specifically GHRP-6 &amp;amp; GHRP-2) followed a mode of action which bound them to and was mediated through receptors different from those for GHRH. In addition researches discovered that these GH-Releasing Peptides acted synergistically with the natural hormone Growth Hormone Releasing Hormone (GHRH) in vivo (in both laboratory animals &amp;amp; humans) to produce large releases of Growth Hormone.
+In 1982, after a long search the natural hormone "Growth Hormone Releasing Hormone" (GHRH) was finally isolated and identified. As a result the interest in Growth Hormone Secretagogues (at that point limited to the three peptides) faded. Eventually researchers discovered that those GH-Releasing Peptides (specifically GHRP-6 & GHRP-2) followed a mode of action which bound them to and was mediated through receptors different from those for GHRH. In addition researches discovered that these GH-Releasing Peptides acted synergistically with the natural hormone Growth Hormone Releasing Hormone (GHRH) in vivo (in both laboratory animals & humans) to produce large releases of Growth Hormone.
 
-Taken together these two discoveries made it clear that GHRPs were not simply surrogates of GHRH. GHRP-6 and its analogues were artificial activators of a separate newly discovered receptor termed the "Growth Hormone Secretagogue Receptor" (GHS-R). Eventually the natural hormone Ghrelin was discovered as the endogenous ligand that binds to the GHS-R. Together the natural hormone Ghrelin, and all the synthetic compounds (both peptides &amp;amp; smaller molecules) such as GHRP-6 were termed "Growth Hormone Secretagogues" (GHSs).
+Taken together these two discoveries made it clear that GHRPs were not simply surrogates of GHRH. GHRP-6 and its analogues were artificial activators of a separate newly discovered receptor termed the "Growth Hormone Secretagogue Receptor" (GHS-R). Eventually the natural hormone Ghrelin was discovered as the endogenous ligand that binds to the GHS-R. Together the natural hormone Ghrelin, and all the synthetic compounds (both peptides & smaller molecules) such as GHRP-6 were termed "Growth Hormone Secretagogues" (GHSs).
 
 This nomenclature continues in the literature to this day however increasingly new terminology is used. For instance the "Ghrelin Receptor" is synonymous with "GHS-R" and "Ghrelin mimetics" are synonymous with all the synthetic compounds that are capable of binding to the GHS-R. This paper uses the more established nomenclature throughout.
 
@@ -1593,13 +1593,13 @@ In addition to allowing Ca2+ into the cell, GHSs may also cause a rise in intrac
 
 This brief description is an over simplification. The important point is that GHRH and GHS act through their own receptors and distinct intermediate pathways.
 
-This is not the only difference. Although the image herein depicts one pituitary somatotrope with both types of receptors activated (GHRH-R &amp;amp;GHS-R) this may not give a completely accurate picture. GHRH and GHS appear to act on different somatotrope subpopulations. GHRP has been shown to increase the number of somatotropes releasing GH, without altering the amount of hormone released by each individual cell. On the other hand, GHRH stimulates both the number of cells secreting GH and the amount of GH secreted per cell. 
+This is not the only difference. Although the image herein depicts one pituitary somatotrope with both types of receptors activated (GHRH-R &GHS-R) this may not give a completely accurate picture. GHRH and GHS appear to act on different somatotrope subpopulations. GHRP has been shown to increase the number of somatotropes releasing GH, without altering the amount of hormone released by each individual cell. On the other hand, GHRH stimulates both the number of cells secreting GH and the amount of GH secreted per cell. 
 
 From these limited discoveries we can begin to understand how GHRH and GHSs compliment each other's GH releasing actions rather then duplicate one another.
 
 It should be noted that Somatostatin (the GH inhibiting hormone) has been shown primarily to decrease the number of cells secreting GH without affecting the amount of GH secreted per cell.
 
-To sum up in very general terms GHS increases, while Somatostatin decreases, the number of active GH secreting somatotropes, probably because these two factors act by depolarizing and hyperpolarizing cells, respectively (i.e. GHSs turns the cell into a Calcium ion sponge &amp;amp;Somatostatin turns the cell into a squeegee, squeezing out and repelling Calcium ions).
+To sum up in very general terms GHS increases, while Somatostatin decreases, the number of active GH secreting somatotropes, probably because these two factors act by depolarizing and hyperpolarizing cells, respectively (i.e. GHSs turns the cell into a Calcium ion sponge &Somatostatin turns the cell into a squeegee, squeezing out and repelling Calcium ions).
 
 On the other hand GHRH does both, but acts primarily by stimulating the amount of secreted GH within the active somatotropes.
 
@@ -1613,19 +1613,19 @@ But something different happens when you put these two compounds into living bre
 
 This occurs as a result of GHSs actions within the Hypothalamus (region of the brain) rather then its direct pituitary actions. There are GHSreceptors (GHS-R) in the hypothalamus; perhaps even subtype receptors. When GHSs bind to these receptors they behave like a hypothalamic neurohormone and as such exhibit a dual action.
 
-They stimulate endogenous GHRH release and concurrently suppress endogenous Somatostatin release. How they do this is a complex process with much still unknown. Basically they incite electrical activation of arcuate neurons (within the hypothalamus). About seventy-five percent of the cells excited by GHRP-6 project outside the blood brain barrier (hypothalamus) into the median eminence (boundary between hypothalamus &amp;amp; the portal system which connects to the pituitary which lies just below the brain) and are neurosecretory involved in the regulation of pituitary function. 
+They stimulate endogenous GHRH release and concurrently suppress endogenous Somatostatin release. How they do this is a complex process with much still unknown. Basically they incite electrical activation of arcuate neurons (within the hypothalamus). About seventy-five percent of the cells excited by GHRP-6 project outside the blood brain barrier (hypothalamus) into the median eminence (boundary between hypothalamus & the portal system which connects to the pituitary which lies just below the brain) and are neurosecretory involved in the regulation of pituitary function. 
 
 The activation of these neurons by GHRP-6 is extremely long lasting (longer than 1 hour) and reaches the peak rapidly (within 5 to 10 minutes). Non-peptide GHSs respond slower perhaps for the reason that they penetrate the blood brain barrier slower than GHRP-6.
 
-GHRP-6s excitation of neuronal activity beyond those neurons that regulate GHRH &amp;amp; Somatostatin (i.e. the remaining 25%) may account for some of the impact GHRPs have on non-GH releasing activity.
+GHRP-6s excitation of neuronal activity beyond those neurons that regulate GHRH & Somatostatin (i.e. the remaining 25%) may account for some of the impact GHRPs have on non-GH releasing activity.
 
-The important point is to recognize that GHSs have an impact on GHRH release and Somatostatin suppression at the hypothalamus which appears to be responsible for the now well-recognized synergistic effect on GH release from concurrent administration of GHRH &amp;amp; GHRPs in vivo.
+The important point is to recognize that GHSs have an impact on GHRH release and Somatostatin suppression at the hypothalamus which appears to be responsible for the now well-recognized synergistic effect on GH release from concurrent administration of GHRH & GHRPs in vivo.
 
 Furthermore it should now be firmly understood that GH release is regulated by the following trinity - GHRH, Somatostatin and GHSs.
 
 NOTE: The information presented in this section was drawn generally from Refs: 13-5, 9, 18
 
-GHS Potency (i.e. efficacy) &amp;amp; Dosing in Humans
+GHS Potency (i.e. efficacy) & Dosing in Humans
 
 When administered at clinical research dosages, all GHSs (both peptides and non-peptides) release significantly larger amounts of GH (i.e. are more efficacious) than GHRH. This is not to be confused with the term potency which takes into account the molecular weight of a compound and thus measures GH output on a "per mol" basis. By this measure GHRH is more potent.
 
@@ -1645,7 +1645,7 @@ GHSs have been repeatedly demonstrated in studies to be very strong GH releasers
 
 There may be an age-related reduction in the GH-releasing capability of GHSs. The studies have not yet been able to come to a consensus. However, the synergistic effect of GHRH and GHS on GH secretion is not reduced as humans age throughout the entire lifespan. This holds true even for the very old (Those in their 90's). 
 
-There are no reported side-effects with GHS usage. However both the peptidyl and non-peptidyl compounds have been found to induce slight increases (still within what is deemed the normal range) in prolactin and in adrenocorticotrophin(ACTH)/cortisol, and in a few studies dehydroepiandrosterone (DHEA). Low to moderate dose (1 mcg/kg) administration of GHRP-6 has been found to result in very large GH release with no significant effects on cortisol or prolactin. Of the peptides, Hexarelin appears to induce the highest level of these hormones (prolactin &amp;amp; cortisol). Ipamorelin a newer GHS has no effect on these hormones no matter what the dose.
+There are no reported side-effects with GHS usage. However both the peptidyl and non-peptidyl compounds have been found to induce slight increases (still within what is deemed the normal range) in prolactin and in adrenocorticotrophin(ACTH)/cortisol, and in a few studies dehydroepiandrosterone (DHEA). Low to moderate dose (1 mcg/kg) administration of GHRP-6 has been found to result in very large GH release with no significant effects on cortisol or prolactin. Of the peptides, Hexarelin appears to induce the highest level of these hormones (prolactin & cortisol). Ipamorelin a newer GHS has no effect on these hormones no matter what the dose.
 
 NOTE: The information presented in this section was drawn generally from Refs: 19-31
 
@@ -1669,7 +1669,7 @@ If we understand desensitization than we will easily understand why the oral GHS
 
 The problem is that while long-lasting analogues of GHRH do not result in desensitization and pronounced down-regulation, long-lasting analogues of GHRP-6 do desensitize and consequently lose effectiveness.
 
-CJC-1295 brings about persistent and chronically elevated levels of GH while GHRP-6 if injected a couple of times a day amplifies the very important GH pulses. The two compounds greatly compliment each other. In the previous article on GHRH &amp;amp; CJC-1295 we discussed the importance of pulsation which has been shown to be necessary for growth. The other important component of anabolism is chronic GH elevation.
+CJC-1295 brings about persistent and chronically elevated levels of GH while GHRP-6 if injected a couple of times a day amplifies the very important GH pulses. The two compounds greatly compliment each other. In the previous article on GHRH & CJC-1295 we discussed the importance of pulsation which has been shown to be necessary for growth. The other important component of anabolism is chronic GH elevation.
 
 Continuously elevated levels of GH increase IGF-I levels more than intermittent increases in GH. The intermittent nature of GH release brought on by GHSs' mode of action does create a rise in IGF-I levels but the anabolic effect may not be pronounced.
 
@@ -1697,7 +1697,7 @@ GHRH plus GHRP-6 was administered together at 100mcg each. This resulted in area
 
 As a single dose these results show that GHRP-6 is about twice as effective as GHRH.
 
-The synergy between GHRH &amp;amp; GHRP-6 is clearly evident as co-administration resulted in twice the benefit of the additive values of single doses of the two peptides.
+The synergy between GHRH & GHRP-6 is clearly evident as co-administration resulted in twice the benefit of the additive values of single doses of the two peptides.
 
 The second study is the one that established the saturation dose for these peptides often used in other studies. "Growth hormone (GH)-releasing peptide stimulates GH release in normal men and acts synergistically with GH-releasing hormone ", CY Bowers..., J. Clin. Endocrinol. Metab., Apr 1990; 70: 975-982.
 
@@ -1715,7 +1715,7 @@ This particular study examined the effects of combined administration of GHRH, i
 
 All the subjects had a positive GH secretory response to the combined administration with no differences observed between men and women. However the group comprising the very old had the highest level of GH release followed by the group comprising the aged subjects with the "less than 40 yr group" experiencing a substantial rise but not as high as the other two groups.
 
-The study concluded that the lack of side-effects &amp;amp; safety of the protocol and the discovered lack of age-related decline in the "GHRH-GHRP-6-mediated GH release opens the possibility of using it as a therapeutical tool to revert some deleterious manifestations of aging in man."
+The study concluded that the lack of side-effects & safety of the protocol and the discovered lack of age-related decline in the "GHRH-GHRP-6-mediated GH release opens the possibility of using it as a therapeutical tool to revert some deleterious manifestations of aging in man."
 
  ![](%%secretagogues-6%%)
 
@@ -1835,7 +1835,7 @@ The primary study used herein is the Lilly Clinical trial using single dose admi
 
 CJC-1295 Administration
 
-In "Prolonged Stimulation of Growth Hormone (GH) and Insulin-Like Growth Factor I Secretion by CJC-1295, a Long-Acting Analog of GH-Releasing Hormone, in Healthy Adults", Sam L. Teichman, et al. Journal of Clinical Endocrinology &amp;amp; Metabolism 91(3):799-805, sixty-six healthy normal men and women aged 21-61 were administered various doses of CJC-1295 (long-lasting GHRH analog). The CJC-1295 was administered in a single dose and again in some groups 7 days later and other groups 14 days later. For the reason that we are only examining a week's worth of data only the initial dose is of interest. Blood samples were collected before dosing and then at 15, 30, and 60 minutes and 2, 3, 4, 6, 8, 10, 12, and 24 hours afterdosing; and then every 8 hours on days 2–3, then daily on days 4, 5, 6, 7.
+In "Prolonged Stimulation of Growth Hormone (GH) and Insulin-Like Growth Factor I Secretion by CJC-1295, a Long-Acting Analog of GH-Releasing Hormone, in Healthy Adults", Sam L. Teichman, et al. Journal of Clinical Endocrinology & Metabolism 91(3):799-805, sixty-six healthy normal men and women aged 21-61 were administered various doses of CJC-1295 (long-lasting GHRH analog). The CJC-1295 was administered in a single dose and again in some groups 7 days later and other groups 14 days later. For the reason that we are only examining a week's worth of data only the initial dose is of interest. Blood samples were collected before dosing and then at 15, 30, and 60 minutes and 2, 3, 4, 6, 8, 10, 12, and 24 hours afterdosing; and then every 8 hours on days 2–3, then daily on days 4, 5, 6, 7.
 
 The doses administered were: 30mcg/kg; 60mcg/kg; 125mcg/kg; 250mcg/kg
 
@@ -1920,9 +1920,9 @@ The Bowers study demonstrated that a small dose of GHRP (.1mcg/kg) added to a sa
 In comparison to synthetic GH administration we find that:
 
 22iu of synthetic GH results in 495 - 585 ng/ml
-Saturation doses of GHRH &amp;amp; GHRP results in 130 - 170 ng/ml
+Saturation doses of GHRH & GHRP results in 130 - 170 ng/ml
 
-These results indicate that 22iu is between 3.8 and 3.4 more efficacious then a single administration of GHRH &amp;amp; GHRP which means that a single dose of GHRH &amp;amp; GHRP has the potential to produce better then the equivalent of 5iu of GH in plasma.
+These results indicate that 22iu is between 3.8 and 3.4 more efficacious then a single administration of GHRH & GHRP which means that a single dose of GHRH & GHRP has the potential to produce better then the equivalent of 5iu of GH in plasma.
 
 A dosing protocol of GHRH + GHRP at saturation dose, administered 3 times per day has the potential to exceed the equivalent of 15iu.
 
@@ -1972,9 +1972,9 @@ Local IGF-1 in muscle has been demonstrated to be responsible for muscle growth 
 
 Local IGFs in muscle are increased by growth hormone and testosterone. It is conjectured that pulsatile GH (such as IV dosing) or the use of GHRH/GHRPs results in high levels of muscle IGFs w/o creating high levels of systemic circulating IGFs.
 
-## SWS &amp; GH release
+## SWS & GH release
 
-There are two types of sleep, rapid eye movement (REM) and non-rapid eye movement (NREM). Sleep proceeds in cycles composed of four types of stages of NREM and a stage of REM usually ordered as: 1 &gt; 2 &gt; 3 &gt; 4 &gt; 3 &gt; 2 &gt; REM 
+There are two types of sleep, rapid eye movement (REM) and non-rapid eye movement (NREM). Sleep proceeds in cycles composed of four types of stages of NREM and a stage of REM usually ordered as: 1 > 2 > 3 > 4 > 3 > 2 > REM 
 
 The cycle lasts on average 90 to 110 minutes, with a greater quantity of stages 3 and 4 experienced early in the night and more REM later in the night.
 
@@ -2063,9 +2063,9 @@ RESULTS: A clear univariate increase in postmenopausal PTH levels was found amon
 
 CONCLUSIONS: The results corroborate the hormonal set-point hypothesis and seem to extend effects of famine exposure to hormones such as PTH, which plays a role in early bone growth as well as in osteoporosis later in life. Though PTH is not under hypothalamic or pituitary control, it is partially under ganglion control. Embryologically, the parathyroids and the adenohypophysis share a common origin from pharyngeal endodermal pouches.
 
-## GHRH binds to GHS-receptor &amp; potentiates GHRP's GH releasing action!
+## GHRH binds to GHS-receptor & potentiates GHRP's GH releasing action!
 
-We have spent a lot of time in this thread discussing how GHRPs (such as GHRP-6, GHRP-2, Hexarelin &amp;amp; Ipamorelin) potentiate GHRH's GH releasing effect. We talk of synergy, note GHRPs somatostatin inhibition at the hypothalumus &amp;amp; pituitary and note that GHRPs use a different method then GHRH in changing calcium concentrations within somatotrophs (GH releasing cells in the pituitary) that lead to GH secretion.
+We have spent a lot of time in this thread discussing how GHRPs (such as GHRP-6, GHRP-2, Hexarelin & Ipamorelin) potentiate GHRH's GH releasing effect. We talk of synergy, note GHRPs somatostatin inhibition at the hypothalumus & pituitary and note that GHRPs use a different method then GHRH in changing calcium concentrations within somatotrophs (GH releasing cells in the pituitary) that lead to GH secretion.
 
 But now we learn that GHRH also enhances GHRP's effect on GH release by binding to the GHS-receptor (obviously in addition to binding to their own GHRH receptors) and increasing the binding strength for GHRPs when they in turn bind. In other words GHRH will partially bind to a GHS-receptor and still allow GHRPs to bind as well. In fact this arrangement likely permits a double stack of two GHRP ligands thus modulating (increasing) GHRPs action.
 
@@ -2087,7 +2087,7 @@ With regard to molecular mechanisms, it is not possible from the present data to
 ## A Couple of quick notes:
 
 1.	Beware taking MTII with CJC-1295/GHRP-6 seems to prolong and intensify nausea. (Sample of two at the moment... one of them being me.)
-2.	Beware GHRP-6 (assume all GHRPs) has been shown conclusively to increase gastic motility &amp;amp; "accelerate gastric emptying of solids ...through activation of GHS receptors, possibly located on local cholinergic enteric nerves" (Sample various effects from different people) *
+2.	Beware GHRP-6 (assume all GHRPs) has been shown conclusively to increase gastic motility & "accelerate gastric emptying of solids ...through activation of GHS receptors, possibly located on local cholinergic enteric nerves" (Sample various effects from different people) *
 
 3.	Beware that as part of the gastric response, "GHRP-6 enhances neural contractile responses, partially via interaction with the motilin receptor on noncholinergic nerves with tachykinins as mediator, and partially via another receptor that may be a GHS-R subtype on cholinergic nerves that corelease tachykinins." (Sample at least two reports, occurs from time to time) **
 
@@ -2105,15 +2105,15 @@ It is just interesting to think about.
 
 ** - Interaction of the Growth Hormone-Releasing Peptides Ghrelin and Growth Hormone-Releasing Peptide-6 with the Motilin Receptor in the Rabbit Gastric Antrum, Inge Depoortere, The Journal Of Pharmacology And Experimental Therapeutics Vol. 305, No. 2
 
-## GHRH &amp; GHRP-2 and GH mRNA &amp; GH-R mRNA
+## GHRH & GHRP-2 and GH mRNA & GH-R mRNA
 
 The following is the majority of the discussion from, EXPERIMENTAL STUDY - Effect of GHRH and GHRP-2 treatment in vitro on GH secretion and levels of GH, pituitary transcription factor-1, GHRH-receptor, GH-secretagogue-receptor and somatostatin receptor mRNAs in ovine pituitary cells, Ming Yan, Maria Hernandez, Ruwei Xu and Chen Chen, European Journal of Endocrinology (2004) 150 235–242
 
-Its a long read, but I posted it in full because it references relevant in vivo studies as well as their own findings to give us a picture of precisely how GHRH &amp;amp; GHRP-2 effect GH mRNA levels. The timing is interesting...
+Its a long read, but I posted it in full because it references relevant in vivo studies as well as their own findings to give us a picture of precisely how GHRH & GHRP-2 effect GH mRNA levels. The timing is interesting...
 
 Note that Sermorelin's half-life comes up a little short....as perhaps 10 minutes is needed. 
 
-Solution? - maybe inject Sermorelin &amp;amp; GHRP-6 together, wait 6 minutes and inject another bit of Sermorelin.
+Solution? - maybe inject Sermorelin & GHRP-6 together, wait 6 minutes and inject another bit of Sermorelin.
 
 Solution? - modify Sermorelin at the 2nd position (swap alanine for D-alanine)
 
@@ -2139,21 +2139,21 @@ In summary, the results of this study indicate that GHRH and GHRP-2 are importan
 
 Selected References
 
-37 Frohman LA &amp;amp; Kineman RD. Growth hormone-releasing hormone and pituitary somatotrope proliferation. Minerva Endocrinology 2002 27 277–285.
+37 Frohman LA & Kineman RD. Growth hormone-releasing hormone and pituitary somatotrope proliferation. Minerva Endocrinology 2002 27 277–285.
 
-38 Gick GG, Zeytin FN, Brazeau P, Ling NC, Esch FS &amp;amp; Bancroft C. Growth hormone-releasing factor regulates growth hormone mRNA in primary cultures of rat pituitary cells. PNAS 1984 81 1553–1555.
+38 Gick GG, Zeytin FN, Brazeau P, Ling NC, Esch FS & Bancroft C. Growth hormone-releasing factor regulates growth hormone mRNA in primary cultures of rat pituitary cells. PNAS 1984 81 1553–1555.
 
-39 Barinaga M, Yamonoto G, Rivier C, Vale W, Evans R &amp;amp; Rosenfeld MG. Transcription regulation of growth hormone gene expression by growth hormone-releasing factor. Nature 1983 306 84–85.
+39 Barinaga M, Yamonoto G, Rivier C, Vale W, Evans R & Rosenfeld MG. Transcription regulation of growth hormone gene expression by growth hormone-releasing factor. Nature 1983 306 84–85.
 
-40 Barinaga M, Bilezikjian LM, Vale WW, Rosenfeld MG &amp;amp; Evans RM. Independent effects of growth hormone releasing factor on growth hormone release and gene transcription. Nature 1985 314 279–281.
+40 Barinaga M, Bilezikjian LM, Vale WW, Rosenfeld MG & Evans RM. Independent effects of growth hormone releasing factor on growth hormone release and gene transcription. Nature 1985 314 279–281.
 
-8 Kineman RD, Kamegai J &amp;amp; Frohman LA. Growth hormone (GH)- releasing hormone (GHRH) and the GH secretagogue (GHS), L692,585, differentially modulate rat pituitary GHS receptor and GHRH receptor messenger ribonucleic acid levels. Endocrinology 1999 140 3581–3586.
+8 Kineman RD, Kamegai J & Frohman LA. Growth hormone (GH)- releasing hormone (GHRH) and the GH secretagogue (GHS), L692,585, differentially modulate rat pituitary GHS receptor and GHRH receptor messenger ribonucleic acid levels. Endocrinology 1999 140 3581–3586.
 
-20 Lasko CM, Korytko AI, Wehrenberg WB &amp;amp; Cuttler L. Differential GH-releasing hormone regulation of GHRH receptor mRNA expression in the rat pituitary. American Journal of Physiology 2001 280 E626–631.
+20 Lasko CM, Korytko AI, Wehrenberg WB & Cuttler L. Differential GH-releasing hormone regulation of GHRH receptor mRNA expression in the rat pituitary. American Journal of Physiology 2001 280 E626–631.
 
 ## Insulin, how it works and why GH isn't anabolic w/o it
 
-I am tired of seeing the same wrong explanations on why insulin &amp;amp; growth hormone are anabolic so lets take a look. I don't feel like writing an article so I'll just borrow from a couple of sources.
+I am tired of seeing the same wrong explanations on why insulin & growth hormone are anabolic so lets take a look. I don't feel like writing an article so I'll just borrow from a couple of sources.
 
 Insulin physiology
 
@@ -2161,7 +2161,7 @@ It is often stated that the primary benefit of insulin in bodybuilding is that i
 
 There is a sufficient population of glucose transporters in all cell membranes at all times to ensure enough glucose uptake to satisfy the cell’s respiration, even in the absence of insulin. Insulin can and does increase the number of these transporters in some cells but glucose uptake is never truly insulin dependent.
 
-Stimulatory &amp;amp; Inhibiting actions
+Stimulatory & Inhibiting actions
 
 Through stimulating the translocation or movement of 'Glut 4' glucose transporters from the cytoplasm of muscle and adipose tissue to the cell membrane insulin increases the rate of glucose uptake to values greater than the uptake that takes place in the basal state without insulin.
 
@@ -2173,7 +2173,7 @@ Thus insulin increases glucose metabolism more through reducing FFA and ketone l
 
 NOTE: The above was taken from:
 
-Mechanism of action of insulin in diabetic patients: a dose-related effect on glucose production and utilisation, Brown P, Tompkins C, Juul S &amp;amp; Sonksen PH, British Medical Journal 1978 1239–1242.
+Mechanism of action of insulin in diabetic patients: a dose-related effect on glucose production and utilisation, Brown P, Tompkins C, Juul S & Sonksen PH, British Medical Journal 1978 1239–1242.
 
 Anabolic effect
 
@@ -2201,7 +2201,7 @@ HORMONES AND SPORT: Insulin, growth hormone and sport, P H Sonksen, Journal of E
 
 I understand not wanting to use exogenously administered insulin. Does this mean you would lose out on insulin's contribution to GH induced anabolism?
 
-No...you can achieve what would amount to a couple iu of Hum-R by using glucose &amp;amp; leucine. The two work synergistically to spike insulin.
+No...you can achieve what would amount to a couple iu of Hum-R by using glucose & leucine. The two work synergistically to spike insulin.
 
 About 3.5 grams of Leucine was sufficient to double the insulin response to 25grams of glucose. See below:
 
@@ -2217,7 +2217,7 @@ It might be of use to someone so I post it here today:
 
 INSULIN CODEX - I 
 
-Many factors are known to regulate the responsiveness of the growth hormone receptor (GHR) to growth hormone (GH). The most important are insulin, thyroid [SEE: THYROID HORMONES CODEX] and sex hormones [SEE: ESTROGEN CODEX &amp;amp; TESTOSTEONE CODEX]. 
+Many factors are known to regulate the responsiveness of the growth hormone receptor (GHR) to growth hormone (GH). The most important are insulin, thyroid [SEE: THYROID HORMONES CODEX] and sex hormones [SEE: ESTROGEN CODEX & TESTOSTEONE CODEX]. 
 
 The growth-promoting action of GH is mediated by IGF-I which is produced mainly in the liver, but also in extrahepatic tissues. There is strong evidence that the anabolic action of GH requires the presence of insulin and adequate nutrition. This is exemplified in type 1 diabetes where IGF-I levels are low and longitudinal growth is impaired despite high serum levels of GH [1, 2]. These abnormalities are corrected by insulin treatment [3, 4].
 
@@ -2302,7 +2302,7 @@ SOURCES:
 
 21 - Xu J, Keeton AB, Franklin JL, Li X, Venable DY, Frank SJ, et al. Insulin enhances growth hormone induction of the MEK/ERK signaling pathway. J Biol Chem. 2006;281:982–92.
 
-22 - Growth Hormone Signaling in Vivo in Human Muscle and Adipose Tissue: Impact of Insulin, Substrate Background, and Growth Hormone Receptor Blockade, Charlotte Nielsen, et al., The Journal of Clinical Endocrinology &amp;amp; Metabolism July 2008 Vol. 93, No. 7 2842-2850
+22 - Growth Hormone Signaling in Vivo in Human Muscle and Adipose Tissue: Impact of Insulin, Substrate Background, and Growth Hormone Receptor Blockade, Charlotte Nielsen, et al., The Journal of Clinical Endocrinology & Metabolism July 2008 Vol. 93, No. 7 2842-2850
 
 ## Protein Metabolism - The complementary role of various hormones in inducing Anabolism
 
@@ -2354,12 +2354,12 @@ Transmembrane transport and intracellular kinetics of amino acids in human skele
 
 Insulin
 
-There is indirect evidence that post-prandial [after a meal] hyperinsulinemia induces protein anabolism, other than through the suppression of whole-body proteolysis [i.e. protein breakdown/ catabolism], also by facilitating the incorporation of dietary amino acids into new proteins. In fact, when post-prandial hyperinsulinemia and hyperaminoacidemia [high insulin &amp;amp; high amino acids] are reproduced in normal subjects by a combined intravenous infusion of insulin and amino acids, the estimates of whole-bodyprotein synthesis increase more than after amino acids alone (20). 
+There is indirect evidence that post-prandial [after a meal] hyperinsulinemia induces protein anabolism, other than through the suppression of whole-body proteolysis [i.e. protein breakdown/ catabolism], also by facilitating the incorporation of dietary amino acids into new proteins. In fact, when post-prandial hyperinsulinemia and hyperaminoacidemia [high insulin & high amino acids] are reproduced in normal subjects by a combined intravenous infusion of insulin and amino acids, the estimates of whole-bodyprotein synthesis increase more than after amino acids alone (20). 
 
 [Insulin + Amino Acids = greater increase in entire body proteinsynthesis]
 The stimulatory effect of hyperinsulinemia on whole-body protein synthesis cannot be demonstrated when insulin alone is infused (20-25). In this case, by reducing the rate of protein breakdown, hyperinsulinemia decreased the intracellular concentrations of most amino acids (26), limiting their utilization for proteinsynthesis (27). 
 
-[In other words the store of amino acids (often called the intracellular amino acid pool) is replenished in two ways. One by eating/ingestion of protein &amp;amp; the other by the breakdown of protein in muscle (i.e.protein degradation). This latter, protein degradation reduces proteinto its constituent parts (amino acids) which will be transported outside the cell &amp;amp; either be further removed or remain in the amino acid pool (which resides between muscle cells) and is available for reuse in muscle for the next round of transport into muscle &amp;amp; new proteinsynthesis. Insulin reduces protein breakdown so the amino acid pools are not replenished.]
+[In other words the store of amino acids (often called the intracellular amino acid pool) is replenished in two ways. One by eating/ingestion of protein & the other by the breakdown of protein in muscle (i.e.protein degradation). This latter, protein degradation reduces proteinto its constituent parts (amino acids) which will be transported outside the cell & either be further removed or remain in the amino acid pool (which resides between muscle cells) and is available for reuse in muscle for the next round of transport into muscle & new proteinsynthesis. Insulin reduces protein breakdown so the amino acid pools are not replenished.]
 Branched-chain amino acids are particularly sensitive to hyperinsulinemia (28) and it has been shown the insulin-induced suppression of plasma isoleucine concentration (29), i.e. of a single essential amino acid, is sufficient to decrease wholebody protein synthesis.
 
 [So in essence protein synthesis requires all the essential amino acids. If one is missing no protein synthesis will occur.]
@@ -2391,9 +2391,9 @@ References:
 
 30. Biolo G, Declan Fleming RY. Wolfe RR. Physiologic hyper¬ insulinemia stimulates proteinsynthesis and enhances trans¬ port of selected amino acids in human skeletal muscle. J Clin Invest 1995:95:811-9
 
-Insulin increases the amount of protein deposited in muscle by directly increasing the rate of proteinsynthesis (40-60% as measured by lysine &amp;amp; phenylalanine dissapearance from intracellular pools). Insulin does not increase (or regulate) transmember amino acid transport. Therefore transportation of amino acids is not a primary mediator of insulin anabolic actions in muscle.
+Insulin increases the amount of protein deposited in muscle by directly increasing the rate of proteinsynthesis (40-60% as measured by lysine & phenylalanine dissapearance from intracellular pools). Insulin does not increase (or regulate) transmember amino acid transport. Therefore transportation of amino acids is not a primary mediator of insulin anabolic actions in muscle.
 
-[So Insulin's primary modes of action are reduction of whole-bodyprotein breakdown as discussed already &amp;amp; in muscle an increase in the rate of protein synthesis. Now it draws on the intracellular pool of amino acids to effect this increased synthesis. It is possible to run out of amino acids from that pool. Insulin can suck the reservoir dry so to speak. 
+[So Insulin's primary modes of action are reduction of whole-bodyprotein breakdown as discussed already & in muscle an increase in the rate of protein synthesis. Now it draws on the intracellular pool of amino acids to effect this increased synthesis. It is possible to run out of amino acids from that pool. Insulin can suck the reservoir dry so to speak. 
 
 In addition insulin in general (there is an exception) does not increase the rate of transportation of amino acids across the cell membrane into the cell. That remains normal. But the benefit of insulin in muscle is that it increases protein synthesis. However other things are needed besides insulin to effect anabolism.]
 Insulin draws on an existing intracellular pool of amino acids. When amino acid concentrations are maintained at levels higher than normal during systemic insulin administration insulin increased muscleprotein synthesis (40).
@@ -2405,13 +2405,13 @@ Insulin does not significantly modify protein breakdown in muscle. It has been s
 
 [So again insulin will increase protein synthesis in muscle but will not inhibit protein breakdown. So in general anabolism will occur if moreprotein synthesis then protein breakdown occurs.]
 
-Following protein degradation, the amino acids from the degradation event are either transported outward (or in the case of leucine oxidized) or are redirected back into protein synthesis. Phenylalanine &amp;amp; leucine have been shown to be redirected back into protein synthesis while lysine may not.
+Following protein degradation, the amino acids from the degradation event are either transported outward (or in the case of leucine oxidized) or are redirected back into protein synthesis. Phenylalanine & leucine have been shown to be redirected back into protein synthesis while lysine may not.
 
-Insulin induces hyperpolarization in the skeletal muscle cells by directly activating the sodium ion (Na+) and potassium ion (K+) -ATPase pump. Those amino acids which are strongly "attracted" to the electrochemical characteristics of the cell membrane are more readily taken up into muscle from the intracellular pool of amino acids. Alanine &amp;amp; lysine are two amino acids that have this attraction and are more readily drawn into muscle by insulin.
+Insulin induces hyperpolarization in the skeletal muscle cells by directly activating the sodium ion (Na+) and potassium ion (K+) -ATPase pump. Those amino acids which are strongly "attracted" to the electrochemical characteristics of the cell membrane are more readily taken up into muscle from the intracellular pool of amino acids. Alanine & lysine are two amino acids that have this attraction and are more readily drawn into muscle by insulin.
 
 [When protein in muscle is broken down and its constituents removed back to the amino acid pool, those amino acids may be removed from muscle pools entirely, may be reused for new synthesis or for some amino acids oxidized or used for energy. It would not benefit anabolism to lose the important amino acid leucine to oxidation.
 
-Insulin which in general doesn't increase transport of amino acids from pool into cells, does so for a few amino acids which use NA+ &amp;amp; K+ channels, namely alanine &amp;amp; lysine.]
+Insulin which in general doesn't increase transport of amino acids from pool into cells, does so for a few amino acids which use NA+ & K+ channels, namely alanine & lysine.]
 
 The branched-chain amino acids (leucine, valine, and isoleucine) and the aromatic (phenylalanine and tyrosine) are preferably transported through system L . This sodium-independent system is unable to generate high transmembrane gradients for its substrates. It has been shown that the kinetic characteristics of system L are not influenced by insulin.
 
@@ -2419,7 +2419,7 @@ The branched-chain amino acids (leucine, valine, and isoleucine) and the aromati
 Blood flow has been found to increase local amino acid delivery to muscle and secondarily increase amino acid transport. This effect may be responsible for increase in leucine uptake.
 
 [This is an extremely important way in which amino acids are drawn to muscle and into cells. Time and again the important amino acid leucine has been shown to make its way into cells via increase in blood flow.]
-Alanine synthesis (which is a function of pyruvate) also increases in the presence of insulin because insulin increases glucose uptake &amp;amp; intracellular pyruvate in muscle.
+Alanine synthesis (which is a function of pyruvate) also increases in the presence of insulin because insulin increases glucose uptake & intracellular pyruvate in muscle.
 
 [Certain amino acids can be synthesized from the breakdown of other amino acids. Alanine is one of them. Alanine is often used for energy and so protein synthesis rate or anabolism may depend on the availability of alanine not yet oxidized. The fact that insulin increases alanine synthesis is a desirable effect.]
 The anabolic effect of insulin on muscle may have become self-limited because of an intracellular depletion of precursor amino acids for protein synthesis, unless amino acid transport is independently stimulated by other factors, i.e., amino acid administration.
@@ -2445,18 +2445,18 @@ Growth hormone decreases muscle glutamine production
 
 In agreement with previous observations in animals (20, 23), this study shows that rhGH infusion in traumatized patients accelerates the rates of transmembrane transport of the essential amino acids leucine and phenylalanine. This effect was independent of changes of leg blood flow and arterial amino acid concentrations. This rhGH-mediated increased ability of transmembrane systems to transport essential amino acids confirms previous observations in vitro (20, 23) and represents a novel observation in vivo.
 
-[So while insulin increases transport of a few aminos (alanine &amp;amp; lysine), GH increases amino acid transport for leucine and phenylalanine. This would mean that GH would increase transport of the other aromatic amino acid tyrosine and the other branch-chain amino acids valine and isolecine]
+[So while insulin increases transport of a few aminos (alanine & lysine), GH increases amino acid transport for leucine and phenylalanine. This would mean that GH would increase transport of the other aromatic amino acid tyrosine and the other branch-chain amino acids valine and isolecine]
 
 Besides stimulating protein synthesis, growth hormone suppressed the rate of catabolism of the branched-chain amino acids leucine, isoleucine, and valine. This effect has been reported by several other authors using isotopic tracers of leucine at the whole body level (8, 12).
 
-[So growth hormone unlike insulin suppresses the breakdown and loss of branch-chain amino acids &amp;amp; probably all amino acids. Thus GH provides more raw material for insulin-induced higher rate of proteinsynthesis.]
+[So growth hormone unlike insulin suppresses the breakdown and loss of branch-chain amino acids & probably all amino acids. Thus GH provides more raw material for insulin-induced higher rate of proteinsynthesis.]
 
 glutamine and alanine constitute the major carriers of nitrogen among body tissues (2).In skeletal muscle, these amino acids are constantly being synthesized and released into the bloodstream (2). In severe trauma, alanine release from muscle is greatly accelerated, whereas glutamine release was found to be increased or unchanged (5). Our results indicate that rhGH administration selectively decreases the rates of synthesis and release of glutamine, whereas alanine synthesis did not change during the hormone administration.
 
 [Growth hormone has a negative effect on glutamine synthesis.]
 In our patients, whole body skeletal muscle released 19 g of glutamine per day into the bloodstream before rhGH administration. After rhGH administration, glutamine release from skeletal muscle decreased by 50%, whereas at the whole body level, glutamine clearance tended to decrease by 15%.
 
-[So glutamine which is very important to the immune system &amp;amp; is urgently needed in times or severe trauma is not really made available. This in part may be the reason why death occurs in critically ill patients given GH.]
+[So glutamine which is very important to the immune system & is urgently needed in times or severe trauma is not really made available. This in part may be the reason why death occurs in critically ill patients given GH.]
 The obvious solution for this potential side effect of growth hormone treatment in critically ill patients is to simultaneously administer exogenous glutamine to offset the decreased availability of the endogenous amino acid.
 
 [This also is a lesson for those seeking muscle anabolism while using GH. Less glutamine is synthesized and thus available in the presence of GH. Thus supplementation with glutamine should increase the potential for anabolism.]
@@ -2464,7 +2464,7 @@ The obvious solution for this potential side effect of growth hormone treatment 
 
 Amino Acid Pool
 
-From a dynamic point of view, such muscle hypertrophy results from changes in the rates of proteinsynthesis and/or breakdown. In addition, an acceleration of the rates of amino acid transport into muscle cells may contribute to muscle anabolism by increasing amino acid availability for protein synthesis. Studies suggest that muscle protein accretion occurs in the recovery phase after exercise rather than during the actual exercise period. The leucine tracer incorporation technique has shown that the rate of muscle protein synthesis in humans is increased after exercise (7) and remains elevated for &gt; 24 h (7). 
+From a dynamic point of view, such muscle hypertrophy results from changes in the rates of proteinsynthesis and/or breakdown. In addition, an acceleration of the rates of amino acid transport into muscle cells may contribute to muscle anabolism by increasing amino acid availability for protein synthesis. Studies suggest that muscle protein accretion occurs in the recovery phase after exercise rather than during the actual exercise period. The leucine tracer incorporation technique has shown that the rate of muscle protein synthesis in humans is increased after exercise (7) and remains elevated for > 24 h (7). 
 
 In these studies, muscle protein breakdown was not ddirectly measured. However, the increase in proteinsynthesis was so large that if it were not accompanied by a concomitant increment in protein breakdown, exercise training would result in a greater increase in muscle size than actually occurs.
 
@@ -2474,7 +2474,7 @@ Exercise
 
 We found that, after exercise, the rates of muscle protein turnover and amino acid transport were increased. protein synthesis and breakdown increased simultaneously but to a different extent. Synthesis increased by - lOO%, whereas breakdown increased by only - 50%. Consequently, protein balance (synthesis minus breakdown) improved after exercise (becoming not significantly different from zero) but did not shift to a positive value. These results suggest that physical exercise can restrain net muscleprotein catabolism but does not directly promote net protein deposition in the postabsorptive state. Thus exercise probably needs to interact with other factors, such as feeding, to promote muscle anabolism.
 
-[Although this paragraph is not completely clear, having read the studies I can say that the take home message is that exercise reduces catabolism. Exercise increase both breakdown &amp;amp; synthesis ofprotein but that exercise alone will not tilt things toward anabolism. Amino acid availability is required.]
+[Although this paragraph is not completely clear, having read the studies I can say that the take home message is that exercise reduces catabolism. Exercise increase both breakdown & synthesis ofprotein but that exercise alone will not tilt things toward anabolism. Amino acid availability is required.]
 The notion that increased amino acid availability can directly regulate protein synthesis is further supported by the fact that the rate of synthesis was enhanced during amino acid infusion or in catabolic patients, in whom a large primary increase of breakdown occurs. In the present study therefore the acceleration of protein breakdown and amino acid transport may have contributed to the increase inprotein synthesis. Because of the increase in amino acid transport, the changes in protein degradation have been more than offset by the increased rate of synthesis.
 
 We found that, after exercise, the absolute rate of protein breakdown was accelerated. This catabolic response almost counteracted the increase in protein synthesis.
@@ -2535,7 +2535,7 @@ In humans, IGF-I administration promoted protein anabolism both by stimulating p
 
 11. Fryburg DA. Insulin-like growth factor I exerts growth hormone- and insulin-like actions on human muscle protein metabolism. Am J Physiol Endocrinol Metab 267: E331–E336, 1994.
 
-[So IGF-1 administration both stimulates protein synthesis and inhibitsprotein degradation in muscle &amp;amp; the entire body. However the reduction in protein degradation in muscle is unique to this hormone as this is not a benefit of GH's sole actions, of insulin's actions or of androgen action.]
+[So IGF-1 administration both stimulates protein synthesis and inhibitsprotein degradation in muscle & the entire body. However the reduction in protein degradation in muscle is unique to this hormone as this is not a benefit of GH's sole actions, of insulin's actions or of androgen action.]
 - - -
 
 Androgens
@@ -2577,15 +2577,15 @@ Thus, whole-body and muscle protein catabolism induced by triple hormonal infusi
 
 ## EOD Calorie Restriction = Longevity?
 
-EasyEJL your mind is just wasted when it is mixed in with all the "fluff" posts at AM.   You mentioned something that to my mind is an awesome area of research with tremendous potential to make people less susceptible to cancer, better cardiovascular profiles, better memory &amp;amp; less damage to brain, lower oxidative stress, much better insulin sensitivity, prolonged life, ...just on and on...there are a lot of studies going back to the 1940's that demonstrate these positive effect...
+EasyEJL your mind is just wasted when it is mixed in with all the "fluff" posts at AM.   You mentioned something that to my mind is an awesome area of research with tremendous potential to make people less susceptible to cancer, better cardiovascular profiles, better memory & less damage to brain, lower oxidative stress, much better insulin sensitivity, prolonged life, ...just on and on...there are a lot of studies going back to the 1940's that demonstrate these positive effect...
 
 I became very interested in every other day calorie restriction when I experimented for years with it on myself and found that if I alternated between:
 
-a day of very low calories (say between 1000 &amp;amp; 1400) w/ food intake primarily at the beginning and end of the day &amp;amp; cardio exercise(s) in the earlier portion of the day followed by no food intake for several hours...
+a day of very low calories (say between 1000 & 1400) w/ food intake primarily at the beginning and end of the day & cardio exercise(s) in the earlier portion of the day followed by no food intake for several hours...
 
 and a day where I ate at about maintenence w/ a higher intake of carbs around a session of weightlifing.
 
-I could readily lose fat &amp;amp; retain muscle. In fact I always made minor but consistent strength gains and felt mentally sharp &amp;amp; had energy during the fasted portion of low cal day.
+I could readily lose fat & retain muscle. In fact I always made minor but consistent strength gains and felt mentally sharp & had energy during the fasted portion of low cal day.
 
 I have been researching a pattern of eating involving a day of eating less then 20% of maintenance calories (or a complete fast) followed by eating freely (but not excessively). I have very little doubt that this pattern is as beneficial as calorie restriction diets in promoting longevity. But has the advantage of preserving body mass.
 
@@ -2619,13 +2619,13 @@ In conclusion, the findings that intermittent fasting increases insulin sensitiv
 
 ## Caprylic Acid (MCTs) - reduce expression of lipogenic genes
 
-Thank you for posting that up BT. MCTs, specifically caprylic acid (octonate) does much more than that. Permit me to introduce you to one of my secrets. Very few people know and understand what follows. Best explained by the study Modulation of adipocyte lipogenesis by octanoate: involvement of reactive oxygen species, Wen Guo, Weisheng Xie and Jianrong Han, Nutrition &amp;amp; Metabolism 2006, 3:30
+Thank you for posting that up BT. MCTs, specifically caprylic acid (octonate) does much more than that. Permit me to introduce you to one of my secrets. Very few people know and understand what follows. Best explained by the study Modulation of adipocyte lipogenesis by octanoate: involvement of reactive oxygen species, Wen Guo, Weisheng Xie and Jianrong Han, Nutrition & Metabolism 2006, 3:30
 
 Background:
 
 Medium-chain fatty acids (MCFA) belong to a unique type of fatty acids that is metabolized differently from either long-chain fatty acids or carbohydrates. Dietary Medium-chain triglycerides (MCT) inhibit body fat mass growth in both animals and human. Early studies suggest that this effect might be caused by rapid absorption of MCT-derived MCFA and their ß-oxidation in the liver, which reduces the circulating fatty acids available to the adipocytes [11]. This model is supported by the evidence that MCFA enters the ß-oxidation pathway in liver mitochondria independent of carnitine palmitoyl transferase I (CPT-I) [12]. 
 
-[The afore-mentioned was presented by you BT &amp;amp; your wonderful illustrations]
+[The afore-mentioned was presented by you BT & your wonderful illustrations]
 
 However, it does not explain the findings that dietary MCT inhibits lipogenesis in adipocytes [13,14].
 
@@ -2655,9 +2655,9 @@ Conclusion:
 
 This study demonstrated that octanoate had a direct inhibitory effect on fat storage in adipocytes under conditions that normally favor lipogenesis. This was related to its unique ß-oxidation mechanism which links to elevated cellular ROS levels and subsequent inactivation of PPARy. The exact mechanism by which PPARy is inactivated, in particular, how ROS is involved in this process, still remains to be elucidated. Furthermore, ROS is known to have diverse and complex molecular targets, which might directly or indirectly influence the activities of additional adipocyte transcription factors or modify selected lipogenic proteins [44,71]. Elucidation of these mechanisms will be helpful for the application of MCT for dietary intervention to prevent obesity and may reveal possible pharmaceutical targets to modulate fat metabolism.
 
-From the RESULTS an important practical tip [l-carnitine &amp;amp; MCTs (Caprylic Acid) should not be used together &amp;amp; MCTs (Caprylic Acid) are more effective then l-carnitine in the presence of insulin]
+From the RESULTS an important practical tip [l-carnitine & MCTs (Caprylic Acid) should not be used together & MCTs (Caprylic Acid) are more effective then l-carnitine in the presence of insulin]
 
-As shown in Figure 3A, ß-oxidation of octanoate was slightly inhibited (~18%) by insulin, a hormone that promotes the generation of the natural inhibitor of CPT-I [37], and Etomoxir, a pharmaceutical inhibitor of CPT-I. On the other hand, l-carnitine, an activator of CPT-I, caused a ~60% inhibition of octanoate oxidation. A combination of l-carnitine and exogenous oleate further enhanced the inhibition (&gt; 85%). In contrast, ß-oxidation of oleate was increased by l-carnitine more than 2 fold but inhibited by insulin by about 60% (Fig. 3B), consistent with the literature [37]. These results indicate that in adipocytes, octanoate was mainly oxidized independent of CPT-I (&gt; 80%). A small fraction (&lt; 20%), that was sensitive to insulin and etomoxir, might be activated in the cytosol and hence depend on CPT-I to enter the mitochondria. The observation that l-carnitine inhibited, rather than promoted, ß-oxidation of octanoate suggests that activation of CPT-I largely increased the transport of endogenous fatty acids into the ß-oxidation pathway which compete with octanoate for the enzymes downstream from CPT-1. This competition was further enhanced in the presence of added oleate.
+As shown in Figure 3A, ß-oxidation of octanoate was slightly inhibited (~18%) by insulin, a hormone that promotes the generation of the natural inhibitor of CPT-I [37], and Etomoxir, a pharmaceutical inhibitor of CPT-I. On the other hand, l-carnitine, an activator of CPT-I, caused a ~60% inhibition of octanoate oxidation. A combination of l-carnitine and exogenous oleate further enhanced the inhibition (> 85%). In contrast, ß-oxidation of oleate was increased by l-carnitine more than 2 fold but inhibited by insulin by about 60% (Fig. 3B), consistent with the literature [37]. These results indicate that in adipocytes, octanoate was mainly oxidized independent of CPT-I (> 80%). A small fraction (< 20%), that was sensitive to insulin and etomoxir, might be activated in the cytosol and hence depend on CPT-I to enter the mitochondria. The observation that l-carnitine inhibited, rather than promoted, ß-oxidation of octanoate suggests that activation of CPT-I largely increased the transport of endogenous fatty acids into the ß-oxidation pathway which compete with octanoate for the enzymes downstream from CPT-1. This competition was further enhanced in the presence of added oleate.
 
 References:
 
@@ -2813,13 +2813,13 @@ There is a positive correlation in the animal kingdom between body size and cell
 
 All of this is correlated to lifespan. Highly polyunsaturated acyl chains (primarily DHA) are very susceptible to peroxidative damage. This kind of damage shortens lifespan.
 
-The brain however is not correlated to any of this and in humans posses high DHA content in the cellular membrane &amp;amp; thus higher metabolism. It is thought that evolution probably weeded out those sluggish thought creatures that had slower brain cell metabolism.
+The brain however is not correlated to any of this and in humans posses high DHA content in the cellular membrane & thus higher metabolism. It is thought that evolution probably weeded out those sluggish thought creatures that had slower brain cell metabolism.
 
 How does it work? Well the physical properties of polyunsaturates primarily DHA are such that these lipid chains are flexible and active compared to unsaturated lipids. Because of the active or rapid movement of DHA lipids they exert lateral pressure on neighboring molecules in the cellular membrane. This creates greater activity in membrane enzymes, Na+/K+-ATPase molecules and thus ion channels become approximtely 25% more active. A large part of cellular energy goes into operating those channels.
 
 Similar sorts of activity occur in the mitochondrial membrane proteins.
 
-A good &amp;amp; recent review of all of this is The links between membrane composition, metabolic rate and lifespan, A.J. Hulbert, Comparative Biochemistry and Physiology, Part A 150 (2008) 196–203
+A good & recent review of all of this is The links between membrane composition, metabolic rate and lifespan, A.J. Hulbert, Comparative Biochemistry and Physiology, Part A 150 (2008) 196–203
 
 Now we know from source material such as Evolutionary Aspects of Diet, the Omega-6/Omega-3 Ratio, and Gene Expression by Artemis P. Simopoulos found in the book Phytochemicals: Nutrient-Gene Interactions, Mark S. Meskin (Editor), CRC; 1 edition (February 22, Phytochemicals: Nutrient-Gene Interactions, Mark S. Meskin (Editor), CRC; 1 edition (February 22, 2006) that:
 
@@ -2849,7 +2849,7 @@ Hormone-sensitive lipase is a vital component of fat mobilization and is a posit
 
 Fatty acids have very low solubility in the blood however serum albumin, binds free fatty acids, and thereby increases their effective solubility by a factor of about 1000. Serum albumin transports fatty acids to organs such as muscle and liver for oxidation and this happens when blood sugar is low.
 
-So what is the minimal amount of glucose needed to trigger insulin &amp;amp; why again is insulin bad?
+So what is the minimal amount of glucose needed to trigger insulin & why again is insulin bad?
 
 From the textbook Biochemical and Physiological Aspects of Human Nutrition, Stipanuk et al. ed. 2000
 
@@ -2874,14 +2874,14 @@ For two days I used my glucose monitor to check my blood glucose after ingestion
 •	Black coffee w/ no additives = zero rise in glucose
 •	Black coffee w/ Stevia = a 2 point rise in glucose
 •	Black coffee w/ Splenda = a 5 - 8 point rise in glucose.
-•	Coffee w/ Splenda &amp;amp; generic Coffee Mate creamer = 15+ point rise in glucose
-•	Coffee w/ Splenda &amp;amp; 2% Lactose free Milk = 17+ point rise in glucose
+•	Coffee w/ Splenda & generic Coffee Mate creamer = 15+ point rise in glucose
+•	Coffee w/ Splenda & 2% Lactose free Milk = 17+ point rise in glucose
 
 So for me the caffeine in a cup of coffee does not effect blood glucose BUT the additives sure as heck do!
 
 How do you reduce the rise in blood glucose w/ these additives (besides the obvious)? ....add FIBER.
 
-So ingesting 2 grams of Psyllium Husk powder just prior to drinking Coffee w/ Splenda &amp;amp; Coffee Mate creamer resulted in only a 4 point rise in blood glucose. WOW!
+So ingesting 2 grams of Psyllium Husk powder just prior to drinking Coffee w/ Splenda & Coffee Mate creamer resulted in only a 4 point rise in blood glucose. WOW!
 
 So how does Growth Hormone fit in to all of this?
 
@@ -2903,13 +2903,13 @@ Use of GH
 
 From other posts we understand that GH has a dual role to play in a diet. It can increase the rate of fat loss and it can help inhibit the breakdown of muscle. So you want to administer GH in smaller amounts, you want to have off periods (i.e. time when GH is not active) so that the intracellular pathways can reset and you want to maximize the frequency of administration.
 
-So we need to understand the impact of GH dose on levels of GH in plasma to set a schedule. We can extrapolate from the chart from the GH study posted above. Assuming a linear relationship (since 7.5ius were active for 12 hours &amp;amp; 15ius for 24 hours) we can assume that a dose of 2ius of synthetic GH administration will elevate GH in plasma for 3.2 hours. 
+So we need to understand the impact of GH dose on levels of GH in plasma to set a schedule. We can extrapolate from the chart from the GH study posted above. Assuming a linear relationship (since 7.5ius were active for 12 hours & 15ius for 24 hours) we can assume that a dose of 2ius of synthetic GH administration will elevate GH in plasma for 3.2 hours. 
 
 If we need about 4 hours off (we can probably round down to 3.8 hours) we can dose 2ius of GH every 7 hours. For ease of fitting a dosing schedule into our lives we can round up to 8 hours and say that we can dose 2ius three times a day spaced out by 7-8 hours.
 
 Since GH isn't effective for fat loss in the presence of insulin we probably want the meals that have the biggest impact on blood glucose and thus insulin to be ingested during the time GH is not active. After that meal is digested and insulin rises and then falls back to 90ng/dL we can administer GH and be confident it will have a positive impact on our overall fat loss protocol.
 
-## Further Note on GH &amp;amp; Insulin
+## Further Note on GH & Insulin
 
 In plain language, GH in certain circumstances increases glucose uptake identical to that of insulin into both muscle and adipose tissue. This involves translocations of glut 4 and to a lesser extent glut 1 from an intracellular pool to the plasma membrane. BUT in order for this to happen there must be an absence of GH for prolonged periods of time. It appears that this rarely occurs because the base level of GH is still too high to create this effect. *
 
@@ -2919,7 +2919,7 @@ Of more importance is the "likely" effect of GH on glucose transport into adipos
 ...
 The data give evidence for the importance of GH in vivo, in balance with insulin, for the control of the activity of the glucose carrier in adipose tissue." - Glucose transport in adipocytes and its control by growth hormone in vivo, Schoenle et al. 242 (6): E368. (1982)
 
-So there is a good possibility that although GH in the presence of insulin will not lead to substantial fat lossvia lipolysis, it will inhibit the uptake of glucose into adipose tissue. This leads us to the generalization that concurrent administration of GH &amp;amp; insulin will skew nutrient partitioning in favor of muscle tissue and away from adipose tissue.
+So there is a good possibility that although GH in the presence of insulin will not lead to substantial fat lossvia lipolysis, it will inhibit the uptake of glucose into adipose tissue. This leads us to the generalization that concurrent administration of GH & insulin will skew nutrient partitioning in favor of muscle tissue and away from adipose tissue.
 
 One further note of interest though is this glucose uptake inhibiting effect of GH leads to a restoration of sensitivity to insulin in that tissue.
 
@@ -2927,7 +2927,7 @@ One further note of interest though is this glucose uptake inhibiting effect of 
 
 ## Age-Related Changes in Slow Wave Sleep and Relationship With Growth Hormone Levels
 
-I've tried to emphasize that Slow Wave Sleep (SW) and Growth Hormone (GH) are not merely positively correlated but are intricately bound together such that a change in one leads to a change in the other. That is why from the start I have attempted to underscore that a pre-bed dose of Growth Hormone Releasing Hormone (GHRH) &amp;amp; Growth Hormone Releasing Peptide 6 (GHRP-6) will increase that vital period of sleep known as Slow Wave Sleep which has restorative benefits beyond amplified GH release.
+I've tried to emphasize that Slow Wave Sleep (SW) and Growth Hormone (GH) are not merely positively correlated but are intricately bound together such that a change in one leads to a change in the other. That is why from the start I have attempted to underscore that a pre-bed dose of Growth Hormone Releasing Hormone (GHRH) & Growth Hormone Releasing Peptide 6 (GHRP-6) will increase that vital period of sleep known as Slow Wave Sleep which has restorative benefits beyond amplified GH release.
 
 The following study is fascinating for all of us because it reveals that somatopause begins dramatically between age 25 and 35. The following study published in the prestigious Journal of the AmericanMedical Association is well worth examining.
 
@@ -2945,23 +2945,23 @@ The mean (SEM) percentage of deep slow wave sleep decreased from 18.9% (1.3%) du
 
  ![](%%slow-wave-sleep-1%%)
 
-The transition from midlife to late life (age 71-83 years) involved no further significant decrease in slow wave sleep but an increase in time awake of 28 minutes per decade at the expense of decreases in both light non-REM sleep (-24 minutes per decade; P&lt;.001) and REM sleep (-10 minutes per decade; P&lt;.001).
+The transition from midlife to late life (age 71-83 years) involved no further significant decrease in slow wave sleep but an increase in time awake of 28 minutes per decade at the expense of decreases in both light non-REM sleep (-24 minutes per decade; P<.001) and REM sleep (-10 minutes per decade; P<.001).
 
  ![](%%slow-wave-sleep-2%%)
 
-The decline in slow wave sleep from early adulthood to midlife was paralleled by a major decline in GH secretion (-372 µg per decade; P&lt;.001). From midlife to late life, GH secretion further declined at a slower rate (-43 µg per decade; P&lt;.02).
+The decline in slow wave sleep from early adulthood to midlife was paralleled by a major decline in GH secretion (-372 µg per decade; P<.001). From midlife to late life, GH secretion further declined at a slower rate (-43 µg per decade; P<.02).
 
  ![](%%slow-wave-sleep-3%%)
 
-Independently of age, the amount of GH secretion was significantly associated with slow wave sleep (P&lt;.001).
+Independently of age, the amount of GH secretion was significantly associated with slow wave sleep (P<.001).
 
  ![](%%slow-wave-sleep-4%%)
 
-Increasing age was associated with an elevation of evening cortisol levels (+19.3 nmol/L per decade; P&lt;.001) that became significant only after age 50 years, when sleep became more fragmented and REM sleep declined. A trend for an association between lower amounts of REM sleep and higher evening cortisol concentrations independent of age was detected (P&lt;.10).
+Increasing age was associated with an elevation of evening cortisol levels (+19.3 nmol/L per decade; P<.001) that became significant only after age 50 years, when sleep became more fragmented and REM sleep declined. A trend for an association between lower amounts of REM sleep and higher evening cortisol concentrations independent of age was detected (P<.10).
 
  ![](%%slow-wave-sleep-5%%)
 
-For a deeper read I include the following Introduction &amp;amp; Comments which elaborate on the significance of the results. I strongly encourage any one interested in anti-aging to read it so that they can adopt the appropriate compensatory strategies.
+For a deeper read I include the following Introduction & Comments which elaborate on the significance of the results. I strongly encourage any one interested in anti-aging to read it so that they can adopt the appropriate compensatory strategies.
 
 INTRODUCTION
 
@@ -3112,7 +3112,7 @@ REFERENCES
 
 The following was originally created primarily for my benefit and serves as a basic summary of Growth Hormone Receptor structure, post-biogenesis behavior and degradation.
 
-It is not intended for a wider audience and is not a Datbtrue copyrighted article. It represents the current state of knowledge in the aforementioned area (October, 2008) and was derived primarily from an unpublished paper by Stuart J. Frank &amp;amp; Serge Y. Fuchs on growth hormone receptor abundance and function and from Growth hormone receptor; mechanism of action, Andrew J. Brooks, Jong Wei Wooh, Kathryn A. Tunny, Michael J. Waters, The International Journal of Biochemistry &amp;amp; Cell Biology 40 (2008) 1984–1989
+It is not intended for a wider audience and is not a Datbtrue copyrighted article. It represents the current state of knowledge in the aforementioned area (October, 2008) and was derived primarily from an unpublished paper by Stuart J. Frank & Serge Y. Fuchs on growth hormone receptor abundance and function and from Growth hormone receptor; mechanism of action, Andrew J. Brooks, Jong Wei Wooh, Kathryn A. Tunny, Michael J. Waters, The International Journal of Biochemistry & Cell Biology 40 (2008) 1984–1989
 
 These unrefined notes are for educational use only.
 
@@ -3132,7 +3132,7 @@ A Kinase is a type of enzyme that transfers phosphate groups from high-energy do
 
 Since cytokine receptors such as GHR possess no catalytic kinase activity, they rely on the Janus kinase family of tyrosine kinases to phosphorylate and activate downstream proteins involved in their signal transduction pathways.
 
-Phosphorylation of a substrate by tyrosine kinases acts as a switch to trigger binding to an SH2 domain-containing protein. STAT &amp;amp; PI3K proteins possess an SH2 "docking" protein and once bound begin to exert their respective effects.
+Phosphorylation of a substrate by tyrosine kinases acts as a switch to trigger binding to an SH2 domain-containing protein. STAT & PI3K proteins possess an SH2 "docking" protein and once bound begin to exert their respective effects.
 
 The growth hormone (GH) molecule intiates this phosphorylation process by binding to one of the two GHR domains via its site of stongest attraction. For the 22kDa form of GH it would be site 1. Once bound via GH site 1 to one of the two GHR domains the GH molecule binds to the second GHR domain via the GH molecule location known as site 2.
 
@@ -3162,7 +3162,7 @@ Unlike STAT5b, GH-induced ERK and PI3K activation does not require the entire GH
 
 GH sensitivity is substantially affected by the abundance of GHR available for ligand engagement at particular target cells and tissues. Surface GHR availability is regulated at several levels, including transcriptional, post-transcriptional, and post-translational. 
 
-For a thorough review of transcriptional and post-transcriptional events see references 51 &amp;amp; 52.
+For a thorough review of transcriptional and post-transcriptional events see references 51 & 52.
 
 GHR regulation at the post-translational will be reviewed herein.
 
@@ -3238,15 +3238,15 @@ REFERENCES:
 
 [17] Brown, R. J., Adams, J. J., Pelekanos, R. A.,Wan,Y., McKinstry,W. J., Palethorpe, K., et al. (2005). Model for growth hormone receptor activation based on subunit rotation within a receptor dimer. Nat. Struct. Mol. Biol., 12(9), 814–821.
 
-[18] Ihle, J. N., &amp;amp; Gilliland, D. G. (2007). Jak2: Normal function and role in hematopoietic disorders. Curr. Opin. Genet. Dev., 17(1), 8–14.
+[18] Ihle, J. N., & Gilliland, D. G. (2007). Jak2: Normal function and role in hematopoietic disorders. Curr. Opin. Genet. Dev., 17(1), 8–14.
 
-[19] Waters, M. J., Hoang, H. N., Fairlie, D. P., Pelekanos, R. A., &amp;amp; Brown, R. J. (2006). New insights into growth hormone action. J. Mol. Endocrinol., 36(1), 1–7.
+[19] Waters, M. J., Hoang, H. N., Fairlie, D. P., Pelekanos, R. A., & Brown, R. J. (2006). New insights into growth hormone action. J. Mol. Endocrinol., 36(1), 1–7.
 
-[20] Zhu, T., Ling, L., &amp;amp; Lobie, P. E. (2002). Identification of a JAK2- independent pathway regulating growth hormone (GH)-stimulated p44/42 mitogen-activated protein kinase activity. GH activation of Ral and phospholipaseDis Src-dependent. J. Biol. Chem., 277(47), 45592–45603.
+[20] Zhu, T., Ling, L., & Lobie, P. E. (2002). Identification of a JAK2- independent pathway regulating growth hormone (GH)-stimulated p44/42 mitogen-activated protein kinase activity. GH activation of Ral and phospholipaseDis Src-dependent. J. Biol. Chem., 277(47), 45592–45603.
 
 [21] Rowlinson, S. W., Yoshizato, H., Brown, R. J., Behncken, S. N., Barclay, J. L., Brooks, A. J., et al. An activation-related conformational change determines signalling pathway choice for the growth hormone (GH) receptor. Manuscript submitted for publication.
 
-[22] Fresno Vara, J. A., Caceres, M. A., Silva, A., &amp;amp; Martin-Perez, J. (2001). Src family kinases are required for prolactin induction of cell proliferation. Mol. Biol. Cell, 12(7), 2171–2183.
+[22] Fresno Vara, J. A., Caceres, M. A., Silva, A., & Martin-Perez, J. (2001). Src family kinases are required for prolactin induction of cell proliferation. Mol. Biol. Cell, 12(7), 2171–2183.
 
 [23] S.J. Frank, J.L. Messina, Growth hormone receptor, in: J.J. Oppenheim, M. Feldman (Eds.), Cytokine Reference On-Line, Academic Press, Harcourt, London, UK, 2002, pp. 1–21, Website,www.academicpress.com/cytokinereference, 24-hour free access.
 
@@ -3444,7 +3444,7 @@ Next, we determined that GHRP-6- and GHRH-induced secretion of GH was lower 1 h 
 
 However, a combination of GHRP-6 at 3 ug/kg BW and GHRH at 0.2 ug/kg BW synergistically induced an equal and massive release of GH before and after feeding that was fivefold greater than GHRH induced release of GH after feeding. 
 
-## GF-1, GHRP, Testosterone, Trenbolone &amp; Nandrolone Primer [entire thread...] (What you should read if you don't want to be a beginner)
+## GF-1, GHRP, Testosterone, Trenbolone & Nandrolone Primer [entire thread...] (What you should read if you don't want to be a beginner)
 
 I think it's important to start off by visualizing an interesting distinction between peptide hormones such as insulin and growth hormone and the peptide hormone IGF-1. Insulin and Growth Hormone have their own specific storage vesicles within specialize cells or tissue where they may sit and await a command for release. IGF-1 has no such storage compartment. Stated succinctly, Growth Hormone and Insulin are held in storage compartments before release whereas there is no such storage compartment for IGF-1.
 
@@ -3460,7 +3460,7 @@ For IGF-1 the circulation becomes the extracellular storage area and it is maint
 
 Growth hormone and Insulin are transmitted to target tissue in a pulse through the bloodstream from their storage units. The bloodstream is merely a means of transmission. For IGF-1 it must rely on the bloodstream to serve as it's reservoir. 
 
-IGF-1 also differs from growth hormone and insulin in that IGF-1 is produced in tissue throughout the body from muscle to brain (even though the liver remains the primary source). As a consequence IGF-1 is best thought of as an autocrine or paracrine IGF1 system even though circulating IGF-1 is often characterizes as endocrine or systemic. In the IGF-1 autocrine/paracrine system local signaling is highly dependent on the local synthesis and release of IGF acting on the producer cell, or its neighbours, by local diffusion. Furthermore local production of specific binding proteins may attract circulating IGF-1 and sequester them, either localizing them to target cells or retaining them in the producer tissue in an extracellular pool from which that cell population may eventually draw from. Proteases which cut off the IGF-1 from the attached binding proteins would free IGF-1 and make them available to the cellular receptors. The appearance of proteases to do this most likely comes from release &amp; activation from damaged cells such as damaged muscle cells from resistance exercise.
+IGF-1 also differs from growth hormone and insulin in that IGF-1 is produced in tissue throughout the body from muscle to brain (even though the liver remains the primary source). As a consequence IGF-1 is best thought of as an autocrine or paracrine IGF1 system even though circulating IGF-1 is often characterizes as endocrine or systemic. In the IGF-1 autocrine/paracrine system local signaling is highly dependent on the local synthesis and release of IGF acting on the producer cell, or its neighbours, by local diffusion. Furthermore local production of specific binding proteins may attract circulating IGF-1 and sequester them, either localizing them to target cells or retaining them in the producer tissue in an extracellular pool from which that cell population may eventually draw from. Proteases which cut off the IGF-1 from the attached binding proteins would free IGF-1 and make them available to the cellular receptors. The appearance of proteases to do this most likely comes from release & activation from damaged cells such as damaged muscle cells from resistance exercise.
 
 IGF-1 once cut off from the local binding protein could either join a local pool of free IGF-1 for local activity or escape the local environment and enter circulation. Binding proteins in circulation would reattach to and buffer the paracrine IGF-1 to prevent the locally generated IGF-1 signaling to spread to other tissues.
 
@@ -3483,13 +3483,13 @@ Akt is a very important element. It can trigger protein synthesis and at the sam
 It does the latter (prevention of atrophy) by preventing FOXO from moving to the nucleus and this has the ultimate effect of blocking the up-regulation of those muscle atrophy elements MuRF1 and MAFbx. MuRF1 and MAFbx cause atrophy by "spray painting" parts of proteins so that proteasomes can locate those areas and degrade the protein.
 
 Under normal growth conditions, FOXOs are inactivated and not required for the survival of cells. 
-Growth factors (such as insulin &amp; IGF-1) inhibit FOXO activation whereas ROS, DNA-damage, energy stress activate it
+Growth factors (such as insulin & IGF-1) inhibit FOXO activation whereas ROS, DNA-damage, energy stress activate it
 
 The point I appeared to be making is that there are some signals through FOXO that I want and some that I may not want. There is no inherent good or bad in inhibiting FOXO. Stopping FOXO from excessively triggering the atrophy of my muscles is good. Stopping FOXO so that things that need to be eliminated aren't isn't a good thing. 
 
 So back to the main topic... MuRF1 is really good at marking the thick muscle fibers for destruction and so by blocking MuRF1 activation IGF-1 through trigger Akt helps prevent the break down of the thicker parts of muscle.
 
-IGF-1 may also strongly inhibit the anti-hypertrophy effects of myostatin. Myostatin activates two elements Smad2 and Smad3. It actually binds to a receptor complex made up of ACTRII and ALK4 or ALK5 and in so doing activates Smad2 and Smad3. Once activated these two move to the nucleus and from there they are able to inhibit Akt which ends up inhibiting TORC1. This inhibition feeds back and allows myostatin to activate even more Smad2. Akt remember does two things. It promotes protein synthesis through mTOR and it inhibits atrophy. When it does this in myoblast and myotubes this promotes anabolism and muscle mass. When Myostatin inhibits the activation of Akt in myoblasts and myotubes it hinders anabolism and muscle mass. To some extent TGFB may also activate SMAD2 &amp; 3. 
+IGF-1 may also strongly inhibit the anti-hypertrophy effects of myostatin. Myostatin activates two elements Smad2 and Smad3. It actually binds to a receptor complex made up of ACTRII and ALK4 or ALK5 and in so doing activates Smad2 and Smad3. Once activated these two move to the nucleus and from there they are able to inhibit Akt which ends up inhibiting TORC1. This inhibition feeds back and allows myostatin to activate even more Smad2. Akt remember does two things. It promotes protein synthesis through mTOR and it inhibits atrophy. When it does this in myoblast and myotubes this promotes anabolism and muscle mass. When Myostatin inhibits the activation of Akt in myoblasts and myotubes it hinders anabolism and muscle mass. To some extent TGFB may also activate SMAD2 & 3. 
 
 Now the signaling pathway Akt/mTOR/p70S6 in addition to increasing protein synthesis also mediates both differentiation in myoblasts and hypertrophy in myotubes.... basically the making and enlarging of muscle. If left to it's own devices myostatin would cause decreases in the diameters of myotubes.
 
@@ -3498,7 +3498,7 @@ IGF-1 dominantly blocks the effects of myostatin in myoblasts and myotubes. I di
 
 The authors also mentioned in partially non-published data that "In addition to restoring Akt phosphorylation, IGF-1 also partially rescues the differentiation of myostatin-treated myoblasts, as determined by measuring fusion index, diameters (data not shown), and CK (Creatine kinase) activity."
 
-So IGF-1 gets this signaling pathway going by stimulating PI3k/Akt which leads to the elements that can induce protein synthesis. It is a serious over simplification but resistance exercise leads to activation of the PI3k/Akt pathway by directly inducing muscle expression of IGF-1. - DeVol DL,Activation of insulin-like growth factor gene expression during work-induced skeletal muscle growth, Am J Physiol 259:E89–95 1990 &amp; Yan Z, Insulin-like growth factor immunoreactivity increases in muscle after acute eccentric contractions, J Appl Physiol 74:410–414 1993 . This is sufficient to induce hypertrophy in muscle both in vitro - Vandenburgh HH, Insulin and IGF-I induce pronounced hypertrophy of skeletal myofibers in tissue culture, Am J Physiol 260:C475–484 1991and later in vivo - Musaro A, Localized IGF-1 transgene expression sustains hypertrophy and regeneration in senescent skeletal muscle, Nature Genet 27:195–200 2001 &amp; Coleman ME,Myogenic vector expression of insulin-like growth factor I stimulates muscle cell differentiation and myofiber hypertrophy in transgenic mice, J Biol Chem 270:12109–12116 1995
+So IGF-1 gets this signaling pathway going by stimulating PI3k/Akt which leads to the elements that can induce protein synthesis. It is a serious over simplification but resistance exercise leads to activation of the PI3k/Akt pathway by directly inducing muscle expression of IGF-1. - DeVol DL,Activation of insulin-like growth factor gene expression during work-induced skeletal muscle growth, Am J Physiol 259:E89–95 1990 & Yan Z, Insulin-like growth factor immunoreactivity increases in muscle after acute eccentric contractions, J Appl Physiol 74:410–414 1993 . This is sufficient to induce hypertrophy in muscle both in vitro - Vandenburgh HH, Insulin and IGF-I induce pronounced hypertrophy of skeletal myofibers in tissue culture, Am J Physiol 260:C475–484 1991and later in vivo - Musaro A, Localized IGF-1 transgene expression sustains hypertrophy and regeneration in senescent skeletal muscle, Nature Genet 27:195–200 2001 & Coleman ME,Myogenic vector expression of insulin-like growth factor I stimulates muscle cell differentiation and myofiber hypertrophy in transgenic mice, J Biol Chem 270:12109–12116 1995
 
 Activation of Akt is sufficient to induce hypertrophy in vivo. In the study cited for this sentence, acute activation of Akt for two to three weeks was found to be sufficient to induce a doubling in the size of skeletal muscle... this increase occurred in the average cross-sectional are of individual muscle fibers brought about by an increase in the TORC1/p70S6K protein synthesis pathways. - Lai K-MV,Conditional activation of Akt in adult skeletal muscle induces rapid hypertrophy, Mol Cell Biol 24:9295–9304 2004.
 
@@ -3528,11 +3528,11 @@ In other words MGF never leaves the cell it was created in. For emphasis I quote
 
 Geoffrey Goldspink has written "that MGF increases myoblast proliferation via a different signalling pathway" then IGF-1.
 
-To reiterate &amp; expand upon this concept I quote from another source:
+To reiterate & expand upon this concept I quote from another source:
 
 "IGF-1 isoforms differ in the signaling pathways they activate. By over-expressing IGF-1Ea and MGF in muscle, it has been shown that both isoforms can activate IGF-1R and AKT phosphorylation. In addition, MGF was shown to induce phosphorylation of ERK, a property not shared with IGF-1Ea." 
 
-So IGF-1 and MGF work through different pathways not receptors. There is only one receptor, IGF-1-receptor (also insulin, IGF-II &amp; hybrid receptors which are not relevant to this discussion). There is no MGF receptor. The reason why it would be nonsensical to have an MGF receptor is that MGF does not leave the cell.
+So IGF-1 and MGF work through different pathways not receptors. There is only one receptor, IGF-1-receptor (also insulin, IGF-II & hybrid receptors which are not relevant to this discussion). There is no MGF receptor. The reason why it would be nonsensical to have an MGF receptor is that MGF does not leave the cell.
 
 This contrasts with IGF-1 which is released from the liver into circulation and which is created in muscle and translocates to the cell surface. Both events result in IGF-1 binding to the IGF-1 receptor.
 
@@ -3540,7 +3540,7 @@ So what happens in plain language please?
 
 During the process of gene transcription pieces of DNA are transcribed and then spliced together by RNA and this code is taken to the ribosomes where the peptide is manufactured. In splicing MGF there is a subtle frame shift such that the right side of the code is a little different then IGF-1. Everything else is identical.
 
-This subtle difference means that when MGF &amp; IGF-1 are manufactured by the riboomes MGF MUST because of the signal pull that is part of its make up, translocate to the Nucleus of the cell and more specifically the Nucleolus.
+This subtle difference means that when MGF & IGF-1 are manufactured by the riboomes MGF MUST because of the signal pull that is part of its make up, translocate to the Nucleus of the cell and more specifically the Nucleolus.
 
 IGF-1 because of its makeup MUST move to the cytoplasm where it forms a pool of IGF-1 which will transloacte to the cell membrane where it will bind w/ an IGF-1 receptor.
 
@@ -3572,7 +3572,7 @@ Note: The notation 5' and 3' refer to the direction of the DNA template in the c
 
 These isoforms have characteristic N-terminal signal peptide sequences and C-terminal extension (E) peptide domains. Exons 1 and 2 and part of exon 3 encode the signal peptides. The remainder of exon 3 and exon 4 encode the mature IGF-1 peptide and the proximal part of the E peptide, which are shared by all isoforms. Splicing of exon 4 to exon 6 generates the predominant transcript IGF-1Ea. Splicing of exon 4 to exon 5 generates IGF- 1Eb, which encodes an isoform with 47 distinct amino acids in the E domain. When part of exon 5 is spliced to exon 6, the IGF- 1Ec (IGF-1EB in mouse) variant is generated. In this case, a frame-shift occurs in exon 5 followed by premature transcription stop in exon 6 that results in a stretch of 25 amino acids unique to this variant.
 
-As a result these templates produce in cellular ribosomes IGF-1 peptide forms that differ in amino acid structure in the E peptide region. This results in different C-terminal regions for the IGF-1 &amp; MGF peptides. MGF BECAUSE of its C-terminal sequence, upon "birth" becomes rapidly localized in the nucleus. It is the carboxy portion which draws either MGF or the altered portion to the nucleus rather than to the cell membrane.
+As a result these templates produce in cellular ribosomes IGF-1 peptide forms that differ in amino acid structure in the E peptide region. This results in different C-terminal regions for the IGF-1 & MGF peptides. MGF BECAUSE of its C-terminal sequence, upon "birth" becomes rapidly localized in the nucleus. It is the carboxy portion which draws either MGF or the altered portion to the nucleus rather than to the cell membrane.
 
 "We found that the isoform of the human IGF-I precursor encoded by exon 5 [MGF] localized to the nucleus and strongly to the nucleolus. Precursors containing exon 6 or the upstream portion of exon 5 did not...The findings are consistent with the presence of a nuclear and nucleolar localization signal situated in the C-terminal part of the exon 5-encoded domain."
 
@@ -3596,14 +3596,14 @@ This contrasts with, "similar experiments carried out using the systemic or live
 
 ## Testosterone blunts IGF-1 inhibition of GH
 
-Rexanator led me to Testosterone Blunts Feedback Inhibition of Growth Hormone Secretion by Experimentally Elevated Insulin-Like Growth Factor-I Concentration, Johannes D. Veldhuis, Stacey M. Anderson, Ali Iranmanesh and Cyril Y. Bowers, The Journal of Clinical Endocrinology &amp;amp; Metabolism Vol. 90, No. 3 1613-1617, 2005, where they found:
+Rexanator led me to Testosterone Blunts Feedback Inhibition of Growth Hormone Secretion by Experimentally Elevated Insulin-Like Growth Factor-I Concentration, Johannes D. Veldhuis, Stacey M. Anderson, Ali Iranmanesh and Cyril Y. Bowers, The Journal of Clinical Endocrinology & Metabolism Vol. 90, No. 3 1613-1617, 2005, where they found:
 
 "...supplementation of a high dose of Te in middle-aged and older men attenuates IGF-I feedback-dependent inhibition of nadir and peak GH secretion."
  
 
 The results of this study were confirmed in a recent study published this month:
 
-Testosterone Supplementation in Older Men Restrains Insulin-Like Growth Factor’s Dose-Dependent Feedback Inhibition of Pulsatile Growth Hormone Secretion,Johannes D. Veldhuis, Daniel M. Keenan, Joy N. Bailey, Adenborduin Adeniji, John M. Miles, Remberto Paulo, Mihaela Cosma and Cacia Soares-Welch,The Journal of Clinical Endocrinology &amp;amp; Metabolism Vol. 94, No. 1 246-254, 2009
+Testosterone Supplementation in Older Men Restrains Insulin-Like Growth Factor’s Dose-Dependent Feedback Inhibition of Pulsatile Growth Hormone Secretion,Johannes D. Veldhuis, Daniel M. Keenan, Joy N. Bailey, Adenborduin Adeniji, John M. Miles, Remberto Paulo, Mihaela Cosma and Cacia Soares-Welch,The Journal of Clinical Endocrinology & Metabolism Vol. 94, No. 1 246-254, 2009
 
 Background: Pulsatile GH secretion declines in older men. The causal mechanisms are unknown. Candidates include deficient feedforward (stimulation) by endogenous secretagogues and excessive feedback (inhibition) by GH or IGF-I due to age and/or relative hypoandrogenemia. 
 
@@ -3615,11 +3615,11 @@ Methods: We performed a prospectively randomized, double-blind, placebo-controll
 
 Analysis: Deconvolution and approximate entropy analyses of pulsatile, basal, and entropic (pattern-sensitive) modes of GH secretion were conducted. 
 
-Results: Recombinant human IGF-I injections 1) elevated mean and peak serum IGF-I concentrations dose-dependently (both P &lt; 0.001); 2) suppressed pulsatile GH secretion (P = 0.003), burst mass (P = 0.025), burst number (P = 0.005), interpulse variability (P = 0.032), and basal GH secretion (P = 0.009); and 3) increased secretory pattern regularity (P = 0.020).T administration did not alter experimentally controlled IGF-I concentrations, but it elevated mean GH concentrations (P = 0.015) and stimulated pulsatile GH secretion (frequency P = 0.037, mass per burst P = 0.038). Compared with placebo, T attenuated exogenous IGF-I’s inhibition of GH secretory-burst mass (P &lt; 0.038) without restoring pulse number, basal secretion, or pattern regularity. 
+Results: Recombinant human IGF-I injections 1) elevated mean and peak serum IGF-I concentrations dose-dependently (both P < 0.001); 2) suppressed pulsatile GH secretion (P = 0.003), burst mass (P = 0.025), burst number (P = 0.005), interpulse variability (P = 0.032), and basal GH secretion (P = 0.009); and 3) increased secretory pattern regularity (P = 0.020).T administration did not alter experimentally controlled IGF-I concentrations, but it elevated mean GH concentrations (P = 0.015) and stimulated pulsatile GH secretion (frequency P = 0.037, mass per burst P = 0.038). Compared with placebo, T attenuated exogenous IGF-I’s inhibition of GH secretory-burst mass (P < 0.038) without restoring pulse number, basal secretion, or pattern regularity. 
 
 Conclusion: The capability of systemic T to mute IGF-I feedback on pulsatile GH secretion suggests a novel mechanism for augmenting GH production.
 
-## Adipose Visceral Fat Negatively correlated with effectiveness of GHRH &amp; GHRP-2
+## Adipose Visceral Fat Negatively correlated with effectiveness of GHRH & GHRP-2
 
 Joint Regulation of Pulsatile GH Secretion by Estradiol, Dihydrotestosterone and Abdominal Visceral-Fat Mass in Healthy Older Men: A Paradigm of Aromatase and 5-alpha-Reductase Types I and II Blockade, J Veldhuis, K Mielke, J Miles, C Bowers
 
@@ -3645,7 +3645,7 @@ Summary E2 and DHT are positively predictive of GH responses to specific, rather
 
 Conclusion Sex steroids specifically and visceral adiposity generally determine peptide-selective drive of GH secretion in healthy older men. The precise pathways that mediate the interdigitating mechanisms are not known.
 
-## Here is another way to compare GHRPs &amp; GH dosing vs effect
+## Here is another way to compare GHRPs & GH dosing vs effect
 
 This study * caught my attention because it examined the pharmacokinetics of GHRP-2 and in so doing compared it to synthetic GH administration.
 
@@ -3661,7 +3661,7 @@ For GHRP-2 that would mean the children received 1mcg * 18kg = 18mcg of GHRP-2.
 
 Using the studies statement that 2mcg/kg of GHRP-2 equalled the synthetic GH dose we arrive at 2mcg * 18kg = 36mcg of GHRP-2 equally 2.3iu of synthetic GH...or further extrapolation 100mcg of GHRP-2 approximately = 6iu of synthetic GH.
 
-I think the above extrapolation is too liberal for adults &amp;amp; thus flawed. So lets be real conservative in our approach and recognize that the studies used saturation doses (1mcg/kg). For adults I would like to stick with the definition of saturation dose of 1mcg/kg... and use that for adults so for a 100kg man that equals 100mcg of GHRP-2. That would mean a single 100mcg dose of GHRP-2 would equal 1.15iu of synthtic GH.
+I think the above extrapolation is too liberal for adults & thus flawed. So lets be real conservative in our approach and recognize that the studies used saturation doses (1mcg/kg). For adults I would like to stick with the definition of saturation dose of 1mcg/kg... and use that for adults so for a 100kg man that equals 100mcg of GHRP-2. That would mean a single 100mcg dose of GHRP-2 would equal 1.15iu of synthtic GH.
 
 All this approach assumes is that the saturation dose for children produced the equivalent of 1.15iu of synthetic GH therefore the saturation dose for adults will do the same.
 
@@ -3669,7 +3669,7 @@ So 3 100mcg doses of GHRP-2 per day will conservatively equate to (1.15 x 3) abo
 
 So it is probably not unrealistic to figure that 100mcg of GHRP-6 dosed three times a day will yield the approximate equivalent of 3.5 to 4 ius of synthetic GH per day in a young adult male.
 
-* Pharmacokinetics and Pharmacodynamics of Growth Hormone-Releasing Peptide-2: A Phase I Study in Children Catherine Pihoker, Gregory L. Kearns, Daniel French and Cyril Y. Bowers, The Journal of Clinical Endocrinology &amp;amp; Metabolism 1998 Vol. 83, No. 4 1168-1172
+* Pharmacokinetics and Pharmacodynamics of Growth Hormone-Releasing Peptide-2: A Phase I Study in Children Catherine Pihoker, Gregory L. Kearns, Daniel French and Cyril Y. Bowers, The Journal of Clinical Endocrinology & Metabolism 1998 Vol. 83, No. 4 1168-1172
 
 Abstract
 
@@ -3703,10 +3703,10 @@ In other words MGF never leaves the cell it was created in. For emphasis I quote
 
 Geoffrey Goldspink has written "that MGF increases myoblast proliferation via a different signalling pathway" then IGF-1.
 
-To reiterate &amp;amp; expand upon this concept I quote from another source:
+To reiterate & expand upon this concept I quote from another source:
 
 "IGF-1 isoforms differ in the signaling pathways they activate. By over-expressing IGF-1Ea and MGF in muscle, it has been shown that both isoforms can activate IGF-1R and AKT phosphorylation. In addition, MGF was shown to induce phosphorylation of ERK, a property not shared with IGF-1Ea."
 
-So IGF-1 and MGF work through different pathways not receptors. There is only one receptor, IGF-1-receptor (also insulin, IGF-II &amp;amp; hybrid receptors which are not relevant to this discussion). There is no MGF receptor. The reason why it would be nonsensical to have an MGF receptor is that MGF does not leave the cell.
+So IGF-1 and MGF work through different pathways not receptors. There is only one receptor, IGF-1-receptor (also insulin, IGF-II & hybrid receptors which are not relevant to this discussion). There is no MGF receptor. The reason why it would be nonsensical to have an MGF receptor is that MGF does not leave the cell.
 
 This contrasts with IGF-1 which is released from the liver into circulation and which is created in muscle and translocates to the cell surface. Both events result in IGF-1 binding to the IGF-1 receptor.

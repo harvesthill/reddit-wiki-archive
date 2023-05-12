@@ -92,7 +92,7 @@ Sermorelin or GRF 1-29 is a growth hormone secretagogue, which means that it sti
 
 Thymosin Beta 4 or TB-500, as it is called, is an exploration peptide that is tested primarily for its abilities to increase strength, endurance and restoration in subjects. It is known to have many of the same effects of growth hormone in animals equating to results in humans that would be related to an increase in testosterone. It has been shown to inhibit tumor growth making TB-500 an amazing product for research studies and with further testing, something that may become widely accepted in the minds of many. TB-500 has been proven to speed up the therapeutic process in wounds as well as being used clinically for anti-inflammatory purposes. This is extremely important when it comes to competitive competitions or events as well as simple body maintenance. Recovery times and pain relief occur much faster for the duration of use allowing for peak performance as well as a healthier well being. Subjects have also proven a slight increase in hair growth which is a positive side effect of TB-500 use. As you can see, research in animals has shown superior and appealing results in existing studies when it comes to its use. In inclusion to the restoration aspects of using TB-500 as an exploration peptide, there are several other notable facts that are being discovered. Subjects have proven a significant increase in muscle growth which clearly improves strength and endurance as well as a huge enhancement in muscle tone itself. The improvement in flexibility due to its anti- inflammation components and known abilities to be able to stretch tissue safely have made this a favorite of those performing investigation in the area of performance and physical enhancements. Exploration of this peptide on subjects is simply producing astonishing results in most cases.
 
-# The Body's Growth Hormone System &amp; Peptides
+# The Body's Growth Hormone System & Peptides
 Besides Growth hormone (GH) itself, your body utilizes three basic hormones:
 
 - **Growth Hormone Releasing Hormone** (GHRH)- Released by the brain to tell your bodies growth hormone storage cells (somatotrophs) to release growth hormone. 
@@ -166,7 +166,7 @@ Dosing is going to be mostly dependent on your goals and it is generally recomme
 
 - Pre-bed Saturation- 100mcg of each GHRP (except Hexarelin) and GHRH. Results in better overall health, recovery and well being. This is a solid general anti- aging protocol.
 
-- Pre-bed &amp; Post Workout Saturation Dose- PWO serves protein metabolism well and increases protein synthesis. Twice a day saturation doses has increased recovery, contribution to anabolism, injury healing, better well being and serious anti-aging properties.
+- Pre-bed & Post Workout Saturation Dose- PWO serves protein metabolism well and increases protein synthesis. Twice a day saturation doses has increased recovery, contribution to anabolism, injury healing, better well being and serious anti-aging properties.
 
 - Pre-bed, PWO, and Morning Saturation Doses- The morning dose, when fasted, engages the release of fatty acids which can be burned off for energy during activity. Three saturation doses per day further increases anabolism and decreases catabolism. Local growth factors will rise including systemic IGF-1, but within physiological levels, resulting in no enhanced health dangers, no abnormal organ or structural growth. 
 
@@ -175,7 +175,7 @@ There are more advanced dosing protocols but for simplicity they have been left 
 ### Administration
 For best results doses should be administered on an empty stomach (2 or so hours after eating) or with *only* protein in the stomach. Fats and Carbs blunt the bodies GH release. So, administer your dose, wait 20 minutes for the GH pulse to reach its peak and then you can eat Carbs or fats without having to worry about blunting the GH pulse. If dosing multiple times per day allow at least **3** hours between administrations.
 
-# BPC 157 &amp; Healing Your Body
+# BPC 157 & Healing Your Body
 
 ## What is BPC 157?
 

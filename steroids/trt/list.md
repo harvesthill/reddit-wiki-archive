@@ -66,7 +66,7 @@ Additional tests of use include a measurement of LH (luteinizing hormone) levels
 
 TRT has really only recently gone mainstream. Some physicians know quite a bit about it; some know very little. Some physicians wholeheartedly support it; some look at it very skeptically. Most will be somewhere in the middle. Thus, it’s important to find a physician that you feel comfortable with and that has a good understanding of and respect for TRT. 
 
-If you suspect you have low testosterone because you have some symptoms of low T, start by talking about these symptoms with your doctor. Then, ask your doctor for a simple blood test to measure your testosterone levels. If your doctor won’t perform a blood test, either get a different doctor or get some blood work done yourself. Plenty of companies now offer hormone panel testing services [Any Lab Test Now](http://www.anylabtestnow.com/tests/testosterone-blood-test/), [DirectLabs](https://directlabs.com/Default.aspx?&amp;catid=90&amp;language=en-US&amp;tabid=55), [DiscountedLabs](http://www.discountedlabs.com/), [ZRT Laboratory](https://store.zrtlab.com/sex-hormones). While you can’t get a TRT prescription from them, you can arm yourself with the results by figuring out whether or not your levels are low.
+If you suspect you have low testosterone because you have some symptoms of low T, start by talking about these symptoms with your doctor. Then, ask your doctor for a simple blood test to measure your testosterone levels. If your doctor won’t perform a blood test, either get a different doctor or get some blood work done yourself. Plenty of companies now offer hormone panel testing services [Any Lab Test Now](http://www.anylabtestnow.com/tests/testosterone-blood-test/), [DirectLabs](https://directlabs.com/Default.aspx?&catid=90&language=en-US&tabid=55), [DiscountedLabs](http://www.discountedlabs.com/), [ZRT Laboratory](https://store.zrtlab.com/sex-hormones). While you can’t get a TRT prescription from them, you can arm yourself with the results by figuring out whether or not your levels are low.
 
 Here are the different doctors that you can see that most often treat men with low testosterone (ordered by ease of access and knowledge of TRT). In any case, a male doctor is more likely to prescribe testosterone than a female doctor:
 
@@ -87,7 +87,7 @@ The official recommendations of the major professional organizations are:
 |---|---|
 | [The Endocrine Society](http://press.endocrine.org/doi/full/10.1210/jc.2009-2354)  |  2010 guidelines suggest 300 ng/dL as a common threshold for symptoms in many men, but state that “the threshold testosterone level below which symptoms of androgen deficiency and adverse health outcomes occur and testosterone administration improves outcomes in the general population is not known”. |
 | [American Organization of Clinical Endocrinologists](https://www.aace.com/files/hypo-gonadism.pdf)  | 2002 guidelines suggest men with symptomatic hypogonadism and a total testosterone level of less than 200 ng/dL may be potential candidates for therapy. |
-| [European Association of Urology](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754376/)  | &lt; 350 ng/dL  |
+| [European Association of Urology](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2754376/)  | < 350 ng/dL  |
 | [Japanese Urological Association](http://onlinelibrary.wiley.com/doi/10.1111/j.1442-2042.2008.02010.x/full)  |  2008 guidelines suggest that total testosterone be ignored and diagnoses be made purely from free testosterone.  |
 
 As mentioned above, your free testosterone level is as important, if not more important, as the total testosterone level. The normal range for free testosterone in men is 5 ng/dL to 21 ng/dL. It should be noted that labs use different assays and methodologies to measure free testosterone levels. A free testosterone (direct) test will yield values outside of the above range if you try to convert the values. In this case, use the reference range for free testosterone provided by the lab. Compare your lab results directly to the lab provided range to assess where you stand. For example, AnyLabTestNow provides a free (direct ) range of 35 to 155 pg/mL (3.5 to 15.5 ng/dL). 
@@ -225,7 +225,7 @@ Besides stopping TRT or lowering the dosage, one potential way to maintain ferti
 
 According to the [American Association of Clinical Endocrinologists Clinical Guidelines](https://www.aace.com/files/sexdysguid.pdf) HCG should be the initial therapy of choice for increasing sperm production for at least six to twelve months. Therapy with HCG is generally begun at 1,000 to 2,000 IU injected intramuscularly two to three times a week, and it is taken alongside testosterone. Also, two studies with men specifically on testosterone replacement therapy show that 500 IUs every other day also maintains normal sperm production.
 
-If sperm production has not been initiated within six to twelve months of therapy with HCG, the AACE recommends that administration of FSH in a dosage of 75 IU injected intramuscularly three times a week along with the HCG regimen. After six months, if sperm are not present or are present in very low numbers (&lt;100,000/mL), the human menopausal gonadotropin (or FSH) dosage can be increased to 150 IU intramuscularly three times a week for another six months.
+If sperm production has not been initiated within six to twelve months of therapy with HCG, the AACE recommends that administration of FSH in a dosage of 75 IU injected intramuscularly three times a week along with the HCG regimen. After six months, if sperm are not present or are present in very low numbers (<100,000/mL), the human menopausal gonadotropin (or FSH) dosage can be increased to 150 IU intramuscularly three times a week for another six months.
 
 It should be noted that HCG must be properly stored because it is a peptide not a discrete molecule, like testosterone. Typically HCG comes in the form of a powder in a sterile ampule to prolong its shelf life. In order to use, HCG must be reconstituted/remixed with bacteriostatic water.
 
@@ -318,9 +318,9 @@ The Endocrine Society Clinical Practical Guidelines detail the conditions in whi
 **Moderate to high risk of adverse outcomes**
 
 * Unevaluated prostate nodule or induration
-* PSA &gt;4 ng/ml (&gt;3 ng/ml in individuals at high risk for prostate cancer, such as African-Americans or men with first-degree relatives who have prostate cancer)
-* Hematocrit &gt;50%
-* Severe lower urinary tract symptoms associated with benign prostatic hypertrophy as indicated by AUA/IPSS &gt;19
+* PSA >4 ng/ml (>3 ng/ml in individuals at high risk for prostate cancer, such as African-Americans or men with first-degree relatives who have prostate cancer)
+* Hematocrit >50%
+* Severe lower urinary tract symptoms associated with benign prostatic hypertrophy as indicated by AUA/IPSS >19
 * Uncontrolled or poorly controlled congestive heart failure
 
 * [TRT Side Effects](http://www.medscape.com/viewarticle/543997_8) - Medscape
@@ -340,5 +340,5 @@ The Endocrine Society Clinical Practical Guidelines detail the conditions in whi
 ## Studies
 
 [Subcutaneous administration of testosterone. A pilot study report.](http://www.ncbi.nlm.nih.gov/pubmed/17143361)
-&gt;CONCLUSION:
+>CONCLUSION:
 Therapy with weekly subcutaneous testosterone produced serum levels that were within the normal range in 100% of patients for both peak and trough levels. This is the first report, which demonstrated the efficacy of delivering weekly testosterone using this cheap, safe, and less painful subcutaneous route.

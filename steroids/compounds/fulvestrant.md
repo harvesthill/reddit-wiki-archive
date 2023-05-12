@@ -22,7 +22,7 @@ Fulvestrant has no negative effects on triglycerides or HDL and in fact, it lowe
 
 ## References
 
-1. Wikipedia contributors. *Fulvestrant.* Wikipedia, The Free Encyclopedia. December 11, 2014, 03:43 UTC. Available at: http://en.wikipedia.org/w/index.php?title=Fulvestrant&amp;oldid=637573674
+1. Wikipedia contributors. *Fulvestrant.* Wikipedia, The Free Encyclopedia. December 11, 2014, 03:43 UTC. Available at: http://en.wikipedia.org/w/index.php?title=Fulvestrant&oldid=637573674
 2. Mehta RS, Barlow WE, Albain KS, et al. Combination anastrozole and fulvestrant in metastatic breast cancer. *N Engl J Med.* 2012;367(5):435-44.
 3. Vergote I, Abram P. Fulvestrant, a new treatment option for advanced breast cancer: tolerability versus existing agents. *Ann Oncol.* 2006;17(2):200-4.
 4. Chouinard S, Tessier M, Vernouillet G, et al. Inactivation of the pure antiestrogen fulvestrant and other synthetic estrogen molecules by UDP-glucuronosyltransferase 1A enzymes expressed in breast tissue. *Mol Pharmacol.* 2006;69(3):908-20.

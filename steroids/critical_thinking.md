@@ -12,7 +12,7 @@
 
 ## 20 Most Common Logical Fallacies (aka: baloney detection)
 
-&gt;In addition to teaching us what to do when evaluating a claim to knowledge, any good baloney detection kit must also teach us what not to do. It helps us recognize the most common and perilous fallacies of logic and rhetoric. Many good examples can be found in religion and politics, because their practitioners are so often obliged to justify two contradictory propositions.
+>In addition to teaching us what to do when evaluating a claim to knowledge, any good baloney detection kit must also teach us what not to do. It helps us recognize the most common and perilous fallacies of logic and rhetoric. Many good examples can be found in religion and politics, because their practitioners are so often obliged to justify two contradictory propositions.
 
 The twenty most common and perilous ones — many rooted in our chronic discomfort with ambiguity — with examples of each in action:
 

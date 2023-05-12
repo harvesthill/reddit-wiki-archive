@@ -10,7 +10,7 @@ The following goals have been adopted by the community.
 
 3. Consistently document information related to steroid use for future reference in the /r/steroids/wiki.
 
-4. Let members decide what content is desirable (within the confines of Reddit’s &amp; /r/steroids TOS/rules). 
+4. Let members decide what content is desirable (within the confines of Reddit’s & /r/steroids TOS/rules). 
 
 5. Keep the environment free from any monetary influences.
 
@@ -84,13 +84,13 @@ The spirit of the Rule is to promote Goal #5 of the community:
 
 *Keep the environment free from any monetary influences.*  
 
-&gt;**Do not ask WHERE** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
-&gt;  
-&gt;**Do not ask HOW** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
-&gt;  
-&gt;**Do not ask for RECOMMENDED labs, brands or suppliers.**  
-&gt;
-&gt;**Do not promote BRANDS, COMPANIES, PRODUCTS** *of any sort.*
+>**Do not ask WHERE** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
+>  
+>**Do not ask HOW** *to get prescription drugs, TRT, HRT, SERMs, SARMS, PEDs and/or AAS.*  
+>  
+>**Do not ask for RECOMMENDED labs, brands or suppliers.**  
+>
+>**Do not promote BRANDS, COMPANIES, PRODUCTS** *of any sort.*
 
 ###**No Source Talk**
 
@@ -110,7 +110,7 @@ Chances are … if you are talking about ANY COMPANY, ANY SOURCE, ANY SPECIFIC B
 
 ### Reddit Terms of Service
 
-You indicated consent to the [Reddit Terms of Service (TOS)](https://www.redditinc.com/policies/user-agreement-october-15-2020) when you signed up for an account. This mandates a number of strict limitations and behavioral guidelines that curtail your activities while using the service. We'd strongly encourage you to familiarize yourself with Reddit's sitewide [Terms Of Service](https://www.redditinc.com/policies/user-agreement-october-15-2020), the r/steroids [Rules](/steroids/index/subreddit_rules.md?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf#wiki_community_rules), the r/steroids [FAQ](https://www.reddit.com/r/steroids/comments/jscjwc/steroids_faq/) and the r/steroids [Wiki](https://www.reddit.com/r/steroids/wiki). *You'll find the answers to most introductory questions there*, and it can save you a lot of time, trouble, and expense. Familiarize yourself with the material so we don't have to.
+You indicated consent to the [Reddit Terms of Service (TOS)](https://www.redditinc.com/policies/user-agreement-october-15-2020) when you signed up for an account. This mandates a number of strict limitations and behavioral guidelines that curtail your activities while using the service. We'd strongly encourage you to familiarize yourself with Reddit's sitewide [Terms Of Service](https://www.redditinc.com/policies/user-agreement-october-15-2020), the r/steroids [Rules](/steroids/index/subreddit_rules.md?utm_source=share&utm_medium=ios_app&utm_name=iossmf#wiki_community_rules), the r/steroids [FAQ](https://www.reddit.com/r/steroids/comments/jscjwc/steroids_faq/) and the r/steroids [Wiki](https://www.reddit.com/r/steroids/wiki). *You'll find the answers to most introductory questions there*, and it can save you a lot of time, trouble, and expense. Familiarize yourself with the material so we don't have to.
 
 Please read over the following carefully and *message the moderators* if you have any questions.
 
@@ -202,7 +202,7 @@ Message the mods if you feel harassed or need help or advice about how to procee
 
 If you are private messaged by another user asking for sources or claiming to be a source, please take a screenshot of the PM and use https://imgur.com/ (or any other anonymous photo sharing website of your preference) to send the Moderators and Reddit Admins a screenshot.
 
-[**PLEASE CLICK HERE TO MESSAGE THE R/STEROIDS MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=steroids&amp;utm_content=t5_2rifm)
+[**PLEASE CLICK HERE TO MESSAGE THE R/STEROIDS MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&utm_source=reddit&utm_medium=usertext&utm_name=steroids&utm_content=t5_2rifm)
 
 [**PLEASE CLICK HERE TO MESSAGE THE REDDIT ADMINISTRATORS**](http://www.reddit.com/report)
 
@@ -220,7 +220,7 @@ Community members who post new topics, or even comments, often receive a rash of
 
 If you are private messaged by another user asking for sources or claiming to be a source, please take a screenshot of the PM and use https://imgur.com/ (or any other anonymous photo sharing website of your preference) to send the mods the screenshot.
 
-[**PLEASE CLICK HERE TO MESSAGE THE MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&amp;utm_source=reddit&amp;utm_medium=usertext&amp;utm_name=steroids&amp;utm_content=t5_2rifm)
+[**PLEASE CLICK HERE TO MESSAGE THE MODERATORS**](http://www.reddit.com/message/compose?to=%2Fr%2Fsteroids&utm_source=reddit&utm_medium=usertext&utm_name=steroids&utm_content=t5_2rifm)
 
 ####**Disclose Guesses.**
   
@@ -234,7 +234,7 @@ Always cite info when possible, but if you are claiming something that is not co
 
 ***This community does not provide medical, legal or any other types of advice.  We provide only anecdotal experience-based information.  All medical practices should be in consultation with a licensed physician.***
 
-## 4. Keep It Friendly &amp; On-Topic.
+## 4. Keep It Friendly & On-Topic.
 
 This is a mature community with a specific tone and manner that excels compared to most communities. That tone and manner will be maintained. 
 
@@ -250,7 +250,7 @@ If someone is breaking this portion of Rule 4, do not reply and stoop to their l
 
 **Quite simply, if you cannot respond in a friendly manner seeking to de-escalate conflict, simply do not hit the save button.**
 
-&amp;nbsp;
+ 
 
 ####**No Political Discussion**
 
@@ -276,9 +276,9 @@ This is not a forum for you to where your ban like a badge of honor. If you or s
 
 ####**[HARSH] Tag** 
 
-Comments &amp; Post topics that have a [HARSH] tag on them will be moderated less-strictly. This does not mean that we will allow personal attacks, escalated bickering or non-productive comments / criticism. A Comment or Topic with the [HARSH] tag still requires constructive criticism in a comment in order to be productive.
+Comments & Post topics that have a [HARSH] tag on them will be moderated less-strictly. This does not mean that we will allow personal attacks, escalated bickering or non-productive comments / criticism. A Comment or Topic with the [HARSH] tag still requires constructive criticism in a comment in order to be productive.
 
-## 5. Approved Posters &amp; High-Quality Content Only. 
+## 5. Approved Posters & High-Quality Content Only. 
 
 After 90 days of participation (comments) in the community, you will automatically be approved to create new topics by /u/steroidsBot. 
 
@@ -356,7 +356,7 @@ Consider also:
 * Searching /r/steroids using https://camas.unddit.com/
    * Input `steroids` under `SUBREDDIT` and your key words under `SEARCH TERM`
 * Googling your question
-    * Also search this subreddit using google by performing the following query: `site:www.reddit.com/r/steroids &lt;Search String&gt;`
+    * Also search this subreddit using google by performing the following query: `site:www.reddit.com/r/steroids <Search String>`
 * Scrolling through a couple previous Ask Anything threads
 
 ### Don't be an Askhole
@@ -383,7 +383,7 @@ We're all busy, and everybody here is volunteering their time to help one anothe
         * Units of measure
 * Your goals:
     * Athletic goals, e.g. are you training for aesthetics on a casual or professional level, strength, a specific sport, etc.
-    * Are you bulking, cutting, maintaining? ([Don't say recomp](https://www.realstorygroup.com/images/up/Going%20Nowhere%20Fast.jpg), [don't say recomp](https://media.istockphoto.com/id/1178700346/vector/businessmen-riding-tandem-bicycle-facing-opposite-directions.jpg?s=170667a&amp;w=0&amp;k=20&amp;c=k6sZxXjQFyLotwUJSosONPRlQVUbKkHE6d3CfhReGJk=), [don't say recomp](https://cdn.road.cc/sites/default/files/styles/main_width/public/images/News/Push%20Me-Pull%20You%20Tandem%20%28Facebook%20video%20still%29.JPG))
+    * Are you bulking, cutting, maintaining? ([Don't say recomp](https://www.realstorygroup.com/images/up/Going%20Nowhere%20Fast.jpg), [don't say recomp](https://media.istockphoto.com/id/1178700346/vector/businessmen-riding-tandem-bicycle-facing-opposite-directions.jpg?s=170667a&w=0&k=20&c=k6sZxXjQFyLotwUJSosONPRlQVUbKkHE6d3CfhReGJk=), [don't say recomp](https://cdn.road.cc/sites/default/files/styles/main_width/public/images/News/Push%20Me-Pull%20You%20Tandem%20%28Facebook%20video%20still%29.JPG))
 * Your intended compounds to use:
     * The full list of compounds including esters (enanthate, propionate, undecanoate etc.) as opposed to just "testo" or "nand"
     * The milligrams or IU you intend to use per day or week, NOT cc's, not mLs
@@ -392,12 +392,12 @@ We're all busy, and everybody here is volunteering their time to help one anothe
 **You should not:**
 
 * Simply ask:
-&gt;    * thoughts?
-&gt;    * anybody ever used [compound]? 
-&gt;       * (see the [Compound Experience Directory](/steroids/compound_experience_threads.md))
-&gt;    * Which steroid is best for [xyz]?
-&gt;    * What steroid does [xyz]?
-&gt;    * Which steroid increases [metabolism/fat loss/xyz]?
+>    * thoughts?
+>    * anybody ever used [compound]? 
+>       * (see the [Compound Experience Directory](/steroids/compound_experience_threads.md))
+>    * Which steroid is best for [xyz]?
+>    * What steroid does [xyz]?
+>    * Which steroid increases [metabolism/fat loss/xyz]?
 
 * Ask what cycle your favorite influencer is on
 * Ask if [xyz influencer/athlete/celebrity] is natty or not
@@ -435,7 +435,7 @@ Post  | When | Purpose
 [Help] | Occasionally | Any topic that requires help from the community.
 [\[Homebrew\]](https://www.google.com/#q=site%3Awww.reddit.com%2Fr%2Fsteroids+ Homebrew) | Frequently | All topics regarding homebrewing
 [\[HARSH\]](https://www.google.com/#q=site%3Awww.reddit.com%2Fr%2Fsteroids+ HARSH) | Frequently | If added to a topic title, Rule #4 will be more leniently enforced -- but not completely unenforced.
-[Nutrition] | Rarely | Topics regarding nutrition, diet, supplements, etc. These are rare as most things belong in the weekly Diet &amp; Nutrition Wednesday thread.
+[Nutrition] | Rarely | Topics regarding nutrition, diet, supplements, etc. These are rare as most things belong in the weekly Diet & Nutrition Wednesday thread.
 [[Off-Topic]](https://www.google.com/#q=site%3Awww.reddit.com%2Fr%2Fsteroids+ Off-Topic) | Rarely | This is rarely allowed as most off-topic things belong in our daily off-topic threads. All other off-topic posts are subject to be removed.
 [PSA] | Occasionally | Public Service Announcment
 [Training] | Rarely | Topics regarding all things training. These are rare as most things belong in the weekly Training Monday thread.
@@ -464,9 +464,9 @@ You can use these terms to find historic posts using Google, just like those lin
 
 **Please, use this search before posting a new topic!**
 
-    site:www.reddit.com/r/steroids &lt;Search String&gt;
+    site:www.reddit.com/r/steroids <Search String>
 
-Simply replace the &lt;Search String&gt; with a post type or other search criteria and go.
+Simply replace the <Search String> with a post type or other search criteria and go.
 
 ## Warning/Banning System
 

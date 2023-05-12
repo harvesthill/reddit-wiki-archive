@@ -4,7 +4,7 @@ The r/steroids Wiki provides a unique and comprehensive compendium of knowledge 
 
 [View the traffic statistics](http://www.reddit.com/r/steroids/about/traffic/) or [growth tracking](http://redditmetrics.com/r/steroids) for r/steroids at any time.
 
-## Please Read The [Community Goals, Responsibility, &amp; Rules](/steroids/index/subreddit_rules.md) prior to posting or participation.
+## Please Read The [Community Goals, Responsibility, & Rules](/steroids/index/subreddit_rules.md) prior to posting or participation.
 
 ## Critical Thinking
 
@@ -29,11 +29,11 @@ Participation in this sub and with this habit requires one to execute [critical 
 * [|--- Nutrition](/steroids/nutrition.md)
 * [|--- Women](/steroids/women.md)
 * [**Compound Profiles**](/steroids/compounds/list.md)
-* [|--- Hepatotoxicity &amp; Liver Protection](/steroids/hepatotoxicity.md)
+* [|--- Hepatotoxicity & Liver Protection](/steroids/hepatotoxicity.md)
 * [|--- Ancillaries](/steroids/compounds/ancillaries.md)
 * [|--- Homebrewing](/steroids/homebrew/list.md)
 * [|--- Esters](/steroids/compounds/esters.md)
-* [|--- Side Effects &amp; Solutions](/steroids/sides/list.md)
+* [|--- Side Effects & Solutions](/steroids/sides/list.md)
 * [|--- Human Growth Hormone (HGH)](/steroids/growth_hormone.md)
 * [|--- Peptides](/steroids/compounds/peptides.md)
 * [|--- Compound Experience Directory](/steroids/compound_experience_threads.md)
@@ -78,10 +78,10 @@ The following material is presented on topics related to /r/steroids for educati
 ### Hall of Shame
 
 1. [First Tren Cycle](https://www.reddit.com/r/steroids/comments/4u7mwg/aftermath_of_16_week_tren_cycle/)
-2. [Abuse of DNP](https://www.reddit.com/r/steroids/comments/tx295g/psa_dnp_terrifying_experience_with_only_200mgd_no/?ref=share&amp;ref_source=link)
+2. [Abuse of DNP](https://www.reddit.com/r/steroids/comments/tx295g/psa_dnp_terrifying_experience_with_only_200mgd_no/?ref=share&ref_source=link)
 3. [Wasted First Cycle Cutting](https://www.reddit.com/r/steroids/comments/uywmcq/cycle_report_1st_test_cycle_thoughts_opinions/)
 4. [YEARS OF BLAST N CRUISE](https://www.unddit.com/r/steroids/comments/xdakg0/cycle_2_years_of_blast_n_cruise/)
-5. [Teen tren abuse](https://www.reddit.com/r/steroids/comments/zsr5ah/cycle_18m_300_mgml_tri_tren_blend/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+5. [Teen tren abuse](https://www.reddit.com/r/steroids/comments/zsr5ah/cycle_18m_300_mgml_tri_tren_blend/?utm_source=share&utm_medium=web2x&context=3)
 
 ## AAS Related Acronyms
 
@@ -93,7 +93,7 @@ The following material is presented on topics related to /r/steroids for educati
 |**AI**|Aromatase Inhibitor|compounds that stop Gyno|
 |**ALT**|Alanine transaminase|An enzyme found in the highest amounts in the liver. Injury to the liver results in release of the substance into the blood.|
 |**AST**|Aspartate Aminotransferase|Low levels of AST are normally found in the blood. When body tissue or an organ such as the heart or liver is diseased or damaged, additional AST is released into the bloodstream. The amount of AST in the blood is directly related to the extent of the tissue damage.|
-|**B&amp;C**|Blast and Cruise|Alternating between a bulk cycle with high AAS use and a TRT cruise.|
+|**B&C**|Blast and Cruise|Alternating between a bulk cycle with high AAS use and a TRT cruise.|
 |**BMR**|Base Metabolic Rate||
 |**Dbol**|Dianabol||
 |**Deca**|Deca Durabolin (Nandrolone Decanoate)||
@@ -132,7 +132,7 @@ The following material is presented on topics related to /r/steroids for educati
 |**VG**|Ventro Glute|A very common muscle in which to inject|
 |**Winny**|Winstrol||
 
-## Sharing Files &amp; Photos to r/steroids
+## Sharing Files & Photos to r/steroids
 
 ### Posting Progress Pictures to r/steroids
 
@@ -241,7 +241,7 @@ You will eventually reach a genetic potential maximum ([calculate yours here](ht
 
 * [Natural Bodybuilder Cut Study](http://www.ncbi.nlm.nih.gov/pubmed/23412685)
 
-* [Natural Muscle Building: A Look At Potential, Genetics &amp; Arm Size](http://www.muscleandstrength.com/expert-guides/bodybuilding-genetics)
+* [Natural Muscle Building: A Look At Potential, Genetics & Arm Size](http://www.muscleandstrength.com/expert-guides/bodybuilding-genetics)
 
 ## Why Young Men Should Not Take AAS
 
@@ -263,17 +263,17 @@ For hypogonadal patients *under the age of 25* the standard of care medical prof
 
 **What are the different risks?**
 
-&gt;“Anabolic steroids have been reported to induce psychiatric side effects such as *aggression* and *depression*. Adolescence represents an *extremely sensitive neurodevelopmental period* to influence by *detrimental effects*.”
+>“Anabolic steroids have been reported to induce psychiatric side effects such as *aggression* and *depression*. Adolescence represents an *extremely sensitive neurodevelopmental period* to influence by *detrimental effects*.”
 
 – *Side Effects of Drugs Annual*
 
-&gt;“AAS use by teenagers is a primary concern because of the potential side effects where *remodeling of the brain and behavioral maturation* occurs.”
+>“AAS use by teenagers is a primary concern because of the potential side effects where *remodeling of the brain and behavioral maturation* occurs.”
 
 – *Journal of Behavioral Processes*
 
-&gt; “AAS use *impaired spatial learning and memory*, and this effect was not rescued by exercise. The harmful effects of AAS on learning and memory should be taken into account when athletes decide to use them for performance or body image improvement.” 
+> “AAS use *impaired spatial learning and memory*, and this effect was not rescued by exercise. The harmful effects of AAS on learning and memory should be taken into account when athletes decide to use them for performance or body image improvement.” 
 
-&gt; “Testosterone and anabolic steroids have been found to affect the central nervous system (CNS) in humans and laboratory animals. The locations they affect include centers that regulate mood, sexuality and aggression. People who use steroids in excessive doses often experience mood disorders that meet the criteria of psychiatric disease categories such as *depression*, *anxiety*, *psychotic reactions* and *cognitive deterioration*.”
+> “Testosterone and anabolic steroids have been found to affect the central nervous system (CNS) in humans and laboratory animals. The locations they affect include centers that regulate mood, sexuality and aggression. People who use steroids in excessive doses often experience mood disorders that meet the criteria of psychiatric disease categories such as *depression*, *anxiety*, *psychotic reactions* and *cognitive deterioration*.”
 
 – *Anabolic Steroids Cause Longstanding Changes in the Brain*
 
@@ -312,13 +312,13 @@ Androgen usage in teens increases the risk of gyno. Gyno has already been known 
 
 [Maturation of the Adolescent Brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3621648/) 
 
-&gt;Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
-&gt;  
-&gt;Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. *These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics*. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
-&gt;  
-&gt;In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
+>Neuromorphological, neurochemical, neurophysiological, neurobehavioral, and neuropharmacological evidence suggests that the brain remains in its active state of maturation during adolescence. Such evidence supports the hypothesis that the adolescent brain is *structurally and functionally vulnerable* to environmental stress, risky behavior, drug addiction, impaired driving, and unprotected sex.   
+>  
+>Computed tomography and MRI studies also provide evidence in support of this hypothesis. Brain maturation occurs during adolescence due to a surge in the synthesis of sex hormones implicated in puberty including estrogen, progesterone, and testosterone. *These sex hormones augment myelinogenesis and the development of the neurocircuitry involved in efficient neurocybernetics*. Although tubulinogenesis, axonogenesis, and synaptogenesis can occur during the prenatal and early postnatal periods, myelinogenesis involved in the insulation of axons remains under construction in adolescence. Sex hormones also significantly influence food intake and sleep requirements during puberty.   
+>  
+>In addition to dramatic changes in secondary sex characteristics, sex hormones influence learning, intelligence, memory, and behavior of adolescents. The development of excitatory glutamatergic neurotransmission occurs earlier in the developing brain as compared to GABAergic neurotransmission, which makes the pediatric population susceptible to seizures. *The development and maturation of the prefrontal cortex occurs primarily during adolescence and is* **fully accomplished at the age of 25 years**. The development of the *prefrontal cortex* is very important for complex behavioral performance, as this region of the brain helps accomplish **executive brain functions**.
 
-## Women &amp; AAS
+## Women & AAS
 
 Just as seen in adolescents, the side effects seen in women can be **permanent**. AAS can lower voice, facial hair growth, and induce clitoral enlargement. For this reason, AAS administration to women must be used very cautiously, at more conservative doses, but is possible. 
 

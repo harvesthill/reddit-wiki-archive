@@ -3,7 +3,7 @@ body {
     font-family: "Calibri", Verdana, sans-serif;
 }
 
-.comments-page .sitetable.nestedlisting &gt; .thing.id-t1_cmn5xjb, .comments-page .sitetable.nestedlisting &gt; .thing.id-t1_cmoioub, .comments-page .sitetable.nestedlisting &gt; .thing.id-t1_cmov5mu {
+.comments-page .sitetable.nestedlisting > .thing.id-t1_cmn5xjb, .comments-page .sitetable.nestedlisting > .thing.id-t1_cmoioub, .comments-page .sitetable.nestedlisting > .thing.id-t1_cmov5mu {
     background-color: #ddffdd;
     border: 2px solid green !important;
     order: -1;
@@ -119,7 +119,7 @@ text-indent: -9999px;
 /* tab menu to choose how topics are displayed
 ======================================*/
 
-# header-bottom-left &gt; ul.tabmenu {
+# header-bottom-left > ul.tabmenu {
     position: absolute;
     bottom: -53px !important;
     left: 0px !important;
@@ -129,16 +129,16 @@ text-indent: -9999px;
     padding-left: 15px;
 }
 
-# header-bottom-left &gt; ul.tabmenu li {
+# header-bottom-left > ul.tabmenu li {
     margin-right: 5px;
     padding-top: 10px;
 }
 
-# header-bottom-left &gt; ul.tabmenu li:last-of-type {
+# header-bottom-left > ul.tabmenu li:last-of-type {
     margin-right: 0;
 }
 
-# header-bottom-left &gt; ul.tabmenu a {
+# header-bottom-left > ul.tabmenu a {
     background: none;
     font-size: 16px;
     position: relative;
@@ -149,32 +149,32 @@ text-indent: -9999px;
 
 .choice { text-transform: capitalize!important; }
 
-# header-bottom-left &gt; ul.tabmenu li a {
+# header-bottom-left > ul.tabmenu li a {
     color: #fff;
 }
 
-# header-bottom-left &gt; ul.tabmenu li a:hover {
+# header-bottom-left > ul.tabmenu li a:hover {
     text-decoration: underline;
 }
 
-# header-bottom-left &gt; ul.tabmenu li.selected {
+# header-bottom-left > ul.tabmenu li.selected {
     border: none!important;
 }
 
 .tabmenu li.selected a { border: none; }
 
-# header-bottom-left &gt; ul.tabmenu li.selected a {
+# header-bottom-left > ul.tabmenu li.selected a {
     border: none!important;    
 }
 
 /* wiki draw-to image 
 ======================================*/
 
-# header-bottom-left &gt; ul.tabmenu li a[href*="/wiki/"] {
+# header-bottom-left > ul.tabmenu li a[href*="/wiki/"] {
     position: relative;
 }
 
-# header-bottom-left &gt; ul.tabmenu li a[href*="/wiki/"]:before {
+# header-bottom-left > ul.tabmenu li a[href*="/wiki/"]:before {
     
     height: 74px !important;
     position: absolute;
@@ -278,13 +278,13 @@ div#header-bottom-right a.login-required, div#remember-me a {
     background: #ffffff;
 }
 
-.roundfield-content&gt;.usertext textarea { 
+.roundfield-content>.usertext textarea { 
     background-image: url(%%post-warning%%); 
     background-repeat: no-repeat; 
     border: 1px solid #ccc; 
 }
 
-.roundfield-content&gt;.usertext textarea:focus { 
+.roundfield-content>.usertext textarea:focus { 
     background-position: -504px -104px; 
 }
 
@@ -576,7 +576,7 @@ div.morelink a:hover {
     color: #fff;
 }
 
-.titlebox ul:hover &gt; li {
+.titlebox ul:hover > li {
     display: block;
 }
 
@@ -728,7 +728,7 @@ div.usertext-body div.md a:visited {
     border: 2px solid #32373C;
     box-shadow: 0 0 5px #939DCD;
 }
-div.comment div.child &gt; .sitetable &gt; .thing, div.comment div.child div.child div.child &gt; .sitetable &gt; .thing, div.comment div.child div.child div.child div.child div.child &gt; .sitetable &gt; .thing, div.comment div.child div.child div.child div.child div.child div.child div.child &gt; .sitetable &gt; .thing, div.comment div.child div.child div.child div.child div.child div.child div.child div.child div.child &gt; .sitetable &gt; .thing, div.comment div.child div.child div.child div.child div.child div.child div.child div.child div.child div.child div.child &gt; .sitetable &gt; .thing {
+div.comment div.child > .sitetable > .thing, div.comment div.child div.child div.child > .sitetable > .thing, div.comment div.child div.child div.child div.child div.child > .sitetable > .thing, div.comment div.child div.child div.child div.child div.child div.child div.child > .sitetable > .thing, div.comment div.child div.child div.child div.child div.child div.child div.child div.child div.child > .sitetable > .thing, div.comment div.child div.child div.child div.child div.child div.child div.child div.child div.child div.child div.child > .sitetable > .thing {
     border-left: 3px solid #000000 !important;
 }
 
@@ -764,18 +764,18 @@ cursor:default}
 form.grayed, form.grayed ~ ul.flat-list.buttons {
     display: none
     }
-p.tagline &gt; a.expand:first-child + em:after, div.collapsed &gt; a.expand:first-child + em:after {
+p.tagline > a.expand:first-child + em:after, div.collapsed > a.expand:first-child + em:after {
     visibility: visible;
     font-size: medium;
     font-weight: bold;
     color: red!important;
     content: "(PIP)"
     }
-p.tagline &gt; a.expand:first-child + em, div.collapsed &gt; a.expand:first-child + em {
+p.tagline > a.expand:first-child + em, div.collapsed > a.expand:first-child + em {
     visibility: hidden;
     font-size: 0
     }
-div.collapsed &gt; a.expand:first-child + em + time + a.expand, div.collapsed &gt; a.expand:first-child + em + time + em + a.expand {
+div.collapsed > a.expand:first-child + em + time + a.expand, div.collapsed > a.expand:first-child + em + time + em + a.expand {
     display: none
     }
 
@@ -864,7 +864,7 @@ a.author.friend {
 }
 
 .author[href$="/Owwmybutt"]:after {
-    content: " [1 &amp; 3/4 pinkies]"
+    content: " [1 & 3/4 pinkies]"
 }
 
 .author[href$="/Sdmonster"]:after {
@@ -1258,7 +1258,7 @@ a.author.friend {
 }
 
 .author[href$="/Swolenerd"]:after {
-    content: " [D&amp;D Str: 15]" 
+    content: " [D&D Str: 15]" 
 }
 
 .author[href$="/TestTrening2"]:after {
@@ -1482,7 +1482,7 @@ a:hover.helplink::before {
 }
 
 a:hover.helplink::after {
-	content: "You need to participate in the community for 90 days (comments). So, participate in the community, ask your questions, and have fun. If you have a question, use the daily [Forum] Ask Anything thread. If you have a post in this subreddit that is &gt;90 days old, THEN you may message us linking it in your message and we'll approve you.";
+	content: "You need to participate in the community for 90 days (comments). So, participate in the community, ask your questions, and have fun. If you have a question, use the daily [Forum] Ask Anything thread. If you have a post in this subreddit that is >90 days old, THEN you may message us linking it in your message and we'll approve you.";
 	position: fixed;
 	top: 60px;
 	right: 0;

@@ -111,7 +111,7 @@ This means that you can find the timing and dosage that works for you; this flex
 
 **The Good:**
 
-* Lowers SHBG, increasing free test &amp; makes all other anabolic steroids more bio-available (i.e. more gains)
+* Lowers SHBG, increasing free test & makes all other anabolic steroids more bio-available (i.e. more gains)
 * Increases IGF-1
 * No adverse changes in lipid profiles for men (unless you crash estrogen - studies were also not on cycle and may be different)
 * Is not liver toxic
@@ -218,7 +218,7 @@ Although steroids are the primary culprit when it comes to prolactin-induced sid
 
 ### What Is Prolactin?
 
-Most commonly referred to as the lactation hormone, prolactin is responsible for the production of breast milk in nursing mothers and also plays a critical role in the growth &amp; development of the mammary glands. Despite its connotation with pregnancy, it is a diverse hormone, having influence over a large number of functions and being implicated in over 300 separate actions. When it comes to steroid users, most are interested in circumventing just two of these—the development of glandular tissue in the breast (gyno) and lactation.
+Most commonly referred to as the lactation hormone, prolactin is responsible for the production of breast milk in nursing mothers and also plays a critical role in the growth & development of the mammary glands. Despite its connotation with pregnancy, it is a diverse hormone, having influence over a large number of functions and being implicated in over 300 separate actions. When it comes to steroid users, most are interested in circumventing just two of these—the development of glandular tissue in the breast (gyno) and lactation.
 
 However, prolactin also encourages bodyfat storage by directly increasing the production of a specific protein called lipoprotein lipase (LPL). Lipoprotein lipase plays an important role in fuel metabolism by hydrolyzing triglycerides from circulating plasma chylomicrons (chylomicrons are fat globules which transport dietary triglycerides from the small intestine into circulation) and other low-density lipoproteins, providing free fatty acids to adipose tissue for storage. The higher one’s LPL levels, the more likely one is to accumulate bodyfat. Prolactin has also been shown to increase estrogen receptor concentration within breast tissue, increasing one’s sensitivity to circulating estrogen and making the individual more susceptible to gynecomastia and other estrogenic side effects.
 
@@ -236,7 +236,7 @@ When you're wanting to preventatively take action against prolactin, a Dopamine 
 
 ***PLEASE READ: [Prolactin-Inhibiting Supplements Wiki Page](/steroids/the_estrogen_handbook/prolactin_supplements.md)***
 
-- [**Vitamin B6 (Pyridoxine Hydrochloride &amp; P-5-P)**](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_vitamin_b6_.28pyridoxine_hydrochloride_.26amp.3B_p5p.29) - To lower prolactin levels it's recommend you take 50-200mg of P-5-P a day, in divided doses. If you want to take regular B6, which can sometimes cause [minor side effects](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_side_effects_of_b6_.28pyridoxine_hydrochloride.29), take 300-1000 mg per day in divided doses.
+- [**Vitamin B6 (Pyridoxine Hydrochloride & P-5-P)**](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_vitamin_b6_.28pyridoxine_hydrochloride_.26amp.3B_p5p.29) - To lower prolactin levels it's recommend you take 50-200mg of P-5-P a day, in divided doses. If you want to take regular B6, which can sometimes cause [minor side effects](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_side_effects_of_b6_.28pyridoxine_hydrochloride.29), take 300-1000 mg per day in divided doses.
 
  **Read the label before you buy B6 (if you choose not to get P-5-P), because the Pyridoxine Hydrochloride type of B6 (in most supplements) has been shown to be a prolactin inhibitor, but Pyridoxal Hydrochloride has been shown to be ineffective at lowering prolactin – make sure you buy the right type!**
 

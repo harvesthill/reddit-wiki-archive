@@ -2,7 +2,7 @@
 
 ## WARNING / DISCLAIMER
 
-Insulin can be very risky if you do not know what you are doing. This hormone can be potentially fatal if taken recklessly - you run the risk of permanent brain damage, coma, or even death. The risk may not be the worth the reward. /r/steroids should not be your only source for information and is not responsible for your choices, so know all the facts &amp; research thoroughly before trying insulin. 
+Insulin can be very risky if you do not know what you are doing. This hormone can be potentially fatal if taken recklessly - you run the risk of permanent brain damage, coma, or even death. The risk may not be the worth the reward. /r/steroids should not be your only source for information and is not responsible for your choices, so know all the facts & research thoroughly before trying insulin. 
 
 ## Intro
 
@@ -36,7 +36,7 @@ The symptoms of insulin shock are easy to recognize:
 * Trembling / Anxiety
 * Rapid Heartbeat
 * Feeling Of Weakness Or Faintness
-* Irritability &amp; Change In Mood Or Personality
+* Irritability & Change In Mood Or Personality
 * Loss Of Consciousness
 
 ### Treatment
@@ -56,8 +56,8 @@ In the even that you are using insulin in dieting, do not be afraid to "blow you
 
 Insulin | Onset | Peak | Duration | Type of Insulin
 -------|-----|----|--------|---
-Humalog | &lt;15 min. | 30-90 min. | 3-5 hours | Rapid
-NovaLog | &lt;15 min. | 30-90 min. | 3-5 hours | Rapid
+Humalog | <15 min. | 30-90 min. | 3-5 hours | Rapid
+NovaLog | <15 min. | 30-90 min. | 3-5 hours | Rapid
 --- | --- | --- | --- | ---
 Humulin R | 30-60 min. | 2-4 hours | 4-5 hours | Short
 Novolin R | 30-60 min. | 2-4 hours | 4-5 hours | Short
@@ -66,7 +66,7 @@ Lantus | 60-120 min. | No Peak | 20-24 hours | Long
 Levemir | 60-120 min. | Flat | Up to 24 hours | Long
 --- | --- | --- | --- | ---
 Humulin N (70/30) | 30-60 min. | 2-10 hours | 10-18 hours | Combo/Mix 
-NovoLog Mix (70/30) | &lt;15 min, | 1-2 hours | 10-18 hours | Combo/Mix
+NovoLog Mix (70/30) | <15 min, | 1-2 hours | 10-18 hours | Combo/Mix
 
 There are three important characteristics that differentiate the available types of modern insulin. To properly use insulin in bodybuilding it is important to know the following characteristics:
 
@@ -74,7 +74,7 @@ There are three important characteristics that differentiate the available types
 * **Peak**: The time period in which the insulin is working it's hardest to lower the blood sugar.
 * **Duration**: The length of time the insulin will be working in the bloodstream. It is important to remember that insulin is an indiscriminate storage hormone. It doesn't care if its storing fat or glucose. Therefore fat intake should be as low as possible during the effective period of the insulin in the body. This will help prevent excessive fat gain. 
 
-For bodybuilding purposes we will only be concerned with three types of insulin; Rapid, Short, &amp; Long are the most useful types of insulin for body building purposes. Humulin "N" or NovoLog Mix can be used as well, but it is only suggested for the most advanced users at the highest tiers of competition due to it's longer peak and active duration time which can greatly increase the risks of hypoglycemia and improper nutrition intake.
+For bodybuilding purposes we will only be concerned with three types of insulin; Rapid, Short, & Long are the most useful types of insulin for body building purposes. Humulin "N" or NovoLog Mix can be used as well, but it is only suggested for the most advanced users at the highest tiers of competition due to it's longer peak and active duration time which can greatly increase the risks of hypoglycemia and improper nutrition intake.
 
 Humulin "R" and Novolin "R" are known as short-acting insulins. The manufacturers claim that this type of insulin is active in the body for up to six hours; in reality it's closer to four and a half hours. The onset time of "R" is roughly thirty minutes and the drug peaks in one and a half to two and a half hours after injection. These are very commonly used at higher levels of body building. It has longer peaks and duration compared to "log" types, and fits well into most user's eating and workout schedule. 
 
@@ -104,7 +104,7 @@ A PCT of Metformin is recommended to be run after the insulin cycle. This is to 
 
 ### Shakes
 
-A beginner to intermediate insulin cycle would be based on a 'shake' protocol. There are many different recipes but they all include: Protein, Carbs, Essential and/or Branch Chain Amino Acids, &amp; Creatine. Now lets break that down into parts: 
+A beginner to intermediate insulin cycle would be based on a 'shake' protocol. There are many different recipes but they all include: Protein, Carbs, Essential and/or Branch Chain Amino Acids, & Creatine. Now lets break that down into parts: 
 
 * **Protein** - Whey isolate is recommended. 50-80g
 
@@ -130,7 +130,7 @@ Taken first thing on the morning (fasting for 8+ hours):
 
 * 70-110mg/dL - normal range this is individualistic.
 * 110-126mg/dL - impaired tolerance range. This means you need to monitor closely as becoming a diabetic is a problem. 
-* 126mg/dL &amp; above - You are a diabetic....
+* 126mg/dL & above - You are a diabetic....
 
 ####**Establishing A Baseline**
 
@@ -239,9 +239,9 @@ Your following insulin cycles should be augmented by adding an additional insuli
 
 This cycle is centered around your post-workout meal. Log type insulins are generally considered the easiest to manage due to the shorter peak and duration, this makes log easier to predict. Log still follows the same IU/Carb needs as "R" types. Note that your sensitivity to log may vary drastically compared to R. If you are trying log do not expect a similar experience to an "R" cycle, treat it as a new insulin cycle and work your way up with dosing. Just be sure that you do not go to sleep while you are still in the duration of the insulin dose.  
 
-This first cycle will be just insulin post-workout. With Log type insulin you should pin your insulin and start drinking "Shake 1" 5 minutes, then 15 minutes after your injection you should drink "Shake 2." Afterwards, 60-75 minutes after your injection, you will eat a "Protein &amp; Carb Meal." 
+This first cycle will be just insulin post-workout. With Log type insulin you should pin your insulin and start drinking "Shake 1" 5 minutes, then 15 minutes after your injection you should drink "Shake 2." Afterwards, 60-75 minutes after your injection, you will eat a "Protein & Carb Meal." 
 
-####**The Shakes &amp; Meal**
+####**The Shakes & Meal**
 
 **Shake 1**
 
@@ -253,7 +253,7 @@ This first cycle will be just insulin post-workout. With Log type insulin you sh
 
 * 80g Whey Protein 
 
-**Protein &amp; Carb Meal**
+**Protein & Carb Meal**
 
 Eat a meal containing:
 
@@ -269,28 +269,28 @@ Eat a meal containing:
 * 5iu Rapid-acting ("Log" type) insulin post-workout. 
 * Injection + 5 minutes - Drink Shake 1 containing 50g carbs.
 * Injection + 15 minutes - Drink Shake 2
-* Injection + 60-75 minutes - Eat the Protein &amp; Carb meal
+* Injection + 60-75 minutes - Eat the Protein & Carb meal
 
 **Day 4-6**
 
 * 6iu Rapid-acting ("Log" type) insulin post-workout.
 * Injection + 5 minutes - Drink Shake 1 containing 60g carbs.
 * Injection + 15 minutes - Drink Shake 2
-* Injection + 60-75 minutes - Eat the Protein &amp; Carb meal
+* Injection + 60-75 minutes - Eat the Protein & Carb meal
 
 **Day 7-10**
 
 * 8iu Rapid-acting ("Log" type) insulin post-workout.
 * Injection + 5 minutes - Drink Shake 1 containing 80g carbs.
 * Injection + 15 minutes - Drink Shake 2
-* Injection + 60-75 minutes - Eat the Protein &amp; Carb meal
+* Injection + 60-75 minutes - Eat the Protein & Carb meal
 
 **Day 11-14**
 
 * 10iu Rapid-acting ("Log" type) insulin post-workout.
 * Injection + 5 minutes - Drink Shake 1 containing 100g carbs.
 * Injection + 15 minutes - Drink Shake 2
-* Injection + 60-75 minutes - Eat the Protein &amp; Carb meal
+* Injection + 60-75 minutes - Eat the Protein & Carb meal
 
 **Day 15-18**
 
@@ -299,21 +299,21 @@ Eat a meal containing:
 * 10iu Rapid-acting ("Log" type) insulin post-workout.
 * Injection + 5 minutes - Drink Shake 1 containing 90g carbs.
 * Injection + 15 minutes - Drink Shake 2
-* Injection + 60-75 minutes - Eat the Protein &amp; Carb meal
+* Injection + 60-75 minutes - Eat the Protein & Carb meal
 
 **Day 19-21**
 
 * 10iu Rapid-acting ("Log" type) insulin post-workout.
 * Injection + 5 minutes - Drink Shake 1 containing 80g carbs.
 * Injection + 15 minutes - Drink Shake 2
-* Injection + 60-75 minutes - Eat the Protein &amp; Carb meal
+* Injection + 60-75 minutes - Eat the Protein & Carb meal
 
 **Day 22-30**
 
 * 10iu Rapid-acting ("Log" type) insulin post-workout.
 * Injection + 5 minutes - Drink Shake 1 containing 70g carbs.
 * Injection + 15 minutes - Drink Shake 2
-* Injection + 60-75 minutes - Eat the Protein &amp; Carb meal
+* Injection + 60-75 minutes - Eat the Protein & Carb meal
 
 You should now stop your insulin cycle and begin one month optional PCT. Make sure to take at least 1 month off to allow your insulin sensitivity to restore. If you intend to follow it with another cycle, ensure that your morning fasted glucose readings have returned to your baseline before proceeding. It is suggested but not required to use a PCT of metformin during your time off. You can also use a ketogenic diet and/or cardio to help restore your insulin sensitivity.
 

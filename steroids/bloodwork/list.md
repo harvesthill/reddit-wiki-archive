@@ -24,7 +24,7 @@ If you want to use AAS safely, bloodwork is essential.
 
 * A test after completing PCT can ensure things have returned to normal. 
 
-* For those that Blast &amp; Cruise (B&amp;C), it's important to run bloodwork at least 3-4 times per year to ensure health levels are stable and not declining or anomalous for any reason. 
+* For those that Blast & Cruise (B&C), it's important to run bloodwork at least 3-4 times per year to ensure health levels are stable and not declining or anomalous for any reason. 
 
 *It's good to have a baseline knowledge* of individual health markers, so be sure to check out our [Health Markers](/steroids/bloodwork/health_markers.md) page.
 
@@ -38,7 +38,7 @@ There are two principal ways to get bloodwork done.
 
 ## What Bloodwork do you need before Your First Cycle?
 
-**TLDR:** An easy and popular way to get labs done in the U.S. is to order the ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&amp;show=3107&amp;category=14&amp;search=#3107) from privatemdlabs.com. This will provide a comprehensive metabolic panel (CMP), complete blood count (CBC), hormone panel, and lipid panel. As of January 2023, the cost is $118.99. Discount codes are easy to find. Note that the panel costs substantially more from LabCorp, so be sure to choose the Quest option if you have Quest Diagnostics locations near you. Also note that due to state laws, Private MD Labs can not provide lab orders in the states of New York, New Jersey, Rhode Island, or Hawaii.
+**TLDR:** An easy and popular way to get labs done in the U.S. is to order the ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&show=3107&category=14&search=#3107) from privatemdlabs.com. This will provide a comprehensive metabolic panel (CMP), complete blood count (CBC), hormone panel, and lipid panel. As of January 2023, the cost is $118.99. Discount codes are easy to find. Note that the panel costs substantially more from LabCorp, so be sure to choose the Quest option if you have Quest Diagnostics locations near you. Also note that due to state laws, Private MD Labs can not provide lab orders in the states of New York, New Jersey, Rhode Island, or Hawaii.
 
 Continue reading for a more in-depth explanation.
 
@@ -84,15 +84,15 @@ There are several providers in the USA to choose from.
 
 **Note**: Unfortunately, testing is unavailable in *NY*, *NJ*, *RI* and *HI*. If you're a resident of one of these states you'll have to drive out of state to use Private MD Labs, LabsMD, or any other private lab. Instructions Below.
 
-*MA &amp; MD residents only*: You can use [Health Tests Direct.](https://www.health-tests-direct.com/)
+*MA & MD residents only*: You can use [Health Tests Direct.](https://www.health-tests-direct.com/)
 
 #### Private MD Labs
 
 [Private MD Labs](https://www.privatemdlabs.com/) — A good and trusted online service that can send lab orders to Quest Diagnostics or LabCorp locations. Note that in most cases, LabCorp tests are significantly more expensive than Quest for the same information. It's generally recommended to use Quest if there are locations near you.
 
-* ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&amp;show=3107&amp;category=14&amp;search=#3107). This will provide a CMP, CBC, hormone panel, and lipid panel. The testosterone results will show levels greater than 1500 ng/dL, and the estradiol test is the ultrasensitive version. **DO NOT** use this to test whether your tren is counterfeit, as it will not count it in the estrogen test.
+* ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&show=3107&category=14&search=#3107). This will provide a CMP, CBC, hormone panel, and lipid panel. The testosterone results will show levels greater than 1500 ng/dL, and the estradiol test is the ultrasensitive version. **DO NOT** use this to test whether your tren is counterfeit, as it will not count it in the estrogen test.
 
-* Anything with [Test 070195](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;search=070195) will show the actual value for testosterone, rather than “high” or “greater than 1500.” 
+* Anything with [Test 070195](http://www.privatemdlabs.com/lab_tests.php?view=search_results&search=070195) will show the actual value for testosterone, rather than “high” or “greater than 1500.” 
 
 * [Thyroid TSH, T4 and T3 Panel](http://www.privatemdlabs.com/lp/Thyroid_TSH_T3_T4.php) optional, check thyroid levels if you suspect anything wrong with them. 
 
@@ -100,7 +100,7 @@ There are several providers in the USA to choose from.
 
 * [Lipid Test](http://www.privatemdlabs.com/lp/lipid_panel.php) to check cholesterol levels.
 
-* Anything with [Test 303756](http://www.privatemdlabs.com/lab_tests.php?view=search_results&amp;search=303756) contains a lipid panel.
+* Anything with [Test 303756](http://www.privatemdlabs.com/lab_tests.php?view=search_results&search=303756) contains a lipid panel.
 
 #### ULTA Labs
 
@@ -112,13 +112,13 @@ There are several providers in the USA to choose from.
 
 #### LabsMD
 
-* [Hormone Panel for Females](http://labsmd.com/tests.php?view=category_result&amp;show=2234&amp;category=14&amp;search=#2234) will provide the actual number for testosterone rather than "&gt; 1500". The assay used for testing estradiol will not give a false reading when using tren.
+* [Hormone Panel for Females](http://labsmd.com/tests.php?view=category_result&show=2234&category=14&search=#2234) will provide the actual number for testosterone rather than "> 1500". The assay used for testing estradiol will not give a false reading when using tren.
 
 #### Walgreens
 
 * [Cholesterol tests](http://www.walgreens.com/topic/pharmacy/scheduler/cholesterol-screening-and-counseling_9.jsp) are available at most locations.
 
-### Bloodwork for residents of NY, NJ, MA, MD, &amp; RI
+### Bloodwork for residents of NY, NJ, MA, MD, & RI
 
 #### Private MD Labs, Labs MD:
 
@@ -130,13 +130,13 @@ There are several providers in the USA to choose from.
 
 4. In a new browser tab, buy a gift certificate of that amount on the Private MD Labs or Labs MD website. Using a credit/debit card with a NY, NJ, MA, MD, or RI billing address should work here.
 
-5. Use that gift certificate code to pay for the test. **NOTE:** Some report being able to skip Step 4 and just pay using their credit card, even if the billing information is a NY, NJ, MA, MD, &amp; RI address.
+5. Use that gift certificate code to pay for the test. **NOTE:** Some report being able to skip Step 4 and just pay using their credit card, even if the billing information is a NY, NJ, MA, MD, & RI address.
 
 6. Leave credit card info blank. Put in both Billing Information and Patient Information with your own name, but with an address outside of your state. Others put a out-of-state relative's address (with their permission) with no issues. Nothing *should* be physically mailed to that address either . . .  Billing address shouldn't matter since you didn't put in credit card info, but they ask for it anyway.
 
 7. Print requisition papers. You may optionally (but recommended) set up an appointment for your desired out-of-state LabCorp / Quest location.
 
-8. Show up to the LabCorp/Quest location.  If asked for ID it's reportedly fine to show your NY, NJ, MA, MD, &amp; RI Drivers License. Alternatively, others have used Passports, Work or School IDs, etc.
+8. Show up to the LabCorp/Quest location.  If asked for ID it's reportedly fine to show your NY, NJ, MA, MD, & RI Drivers License. Alternatively, others have used Passports, Work or School IDs, etc.
 
 9. Wait to be emailed the lab results.
 
@@ -146,7 +146,7 @@ There are several providers in the USA to choose from.
 
 2. Print requisition papers. You may optionally (but recommended) set up an appointment for your desired out-of-state LabCorp / Quest location.
 
-3. Show up to the LabCorp / Quest location. If asked for ID it's reportedly fine to show your NY, NJ, MA, MD, &amp; RI Drivers License. Alternatively, others have used Passports, Work or School IDs, etc.
+3. Show up to the LabCorp / Quest location. If asked for ID it's reportedly fine to show your NY, NJ, MA, MD, & RI Drivers License. Alternatively, others have used Passports, Work or School IDs, etc.
 
 4. Wait to be emailed the lab results.
 
@@ -176,7 +176,7 @@ If you live in Ontario you can use [GetMaple.ca](http://www.GetMaple.ca) to easi
 
 You can also use [TeleTest](https://teletest.ca/)! /u/miketeletest notes:
 
-&gt; TeleTest has a panel specifically for PED users that checks all the relevant hormones and biomarkers, and includes a followup consultation with our physicians to review results. Our service allows patients to order the panel from their phone and arrange lab work that same day usually which could be a better alternative to walk-in clinics or waiting on family doctors. We want to make the process of getting bloodwork easy so people can utilize AAS as safely as possible.
+> TeleTest has a panel specifically for PED users that checks all the relevant hormones and biomarkers, and includes a followup consultation with our physicians to review results. Our service allows patients to order the panel from their phone and arrange lab work that same day usually which could be a better alternative to walk-in clinics or waiting on family doctors. We want to make the process of getting bloodwork easy so people can utilize AAS as safely as possible.
 
 [Link to their male PED user's panel](https://teletest.ca/app/care/mens-health/)
 

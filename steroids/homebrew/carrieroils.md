@@ -222,6 +222,6 @@ vehicles.* Drug Dev Commun1974–751(5): 471–477.](http://www.researchgate.net
 
 - [Rowe, C. *Handbook of Pharmaceutical Excipients.* London: RPS Publishing, 2009. Print.](http://www.amazon.com/Handbook-Pharmaceutical-Excipients-Rowe/dp/0853697922)
 
-- [*Food Chemicals Codex.* Washington: The National Academies Press, 2004. Print.](http://www.amazon.com/Food-Chemicals-Codex-Effective-January/dp/0309088666/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1390691618&amp;sr=1-4&amp;keywords=Food+Chemicals+Codex)
+- [*Food Chemicals Codex.* Washington: The National Academies Press, 2004. Print.](http://www.amazon.com/Food-Chemicals-Codex-Effective-January/dp/0309088666/ref=sr_1_4?s=books&ie=UTF8&qid=1390691618&sr=1-4&keywords=Food+Chemicals+Codex)
 
-# [&lt; BACK](http://www.reddit.com/r/steroids/wiki/homebrew/list)
+# [< BACK](http://www.reddit.com/r/steroids/wiki/homebrew/list)

@@ -83,9 +83,9 @@ Human growth hormone has also been shown to cause gynocomastia in some users. Th
 
 **Answer:** 
 
-&gt;The mechanism by which chronic exposure to hGH leads to tolerance, dependence, and a withdrawal syndrome is unclear and does not involve the suppression of hormone secretion. During the nadir of growth velocity, which follows the withdrawal of prolonged drug therapy, serum GH levels remain normal, as do serum IGF-I and IGF-binding protein-3 levels (4). Moreover, endogenous pulsatile secretion of GH resumes within days even after long-term hGH therapy (7).
+>The mechanism by which chronic exposure to hGH leads to tolerance, dependence, and a withdrawal syndrome is unclear and does not involve the suppression of hormone secretion. During the nadir of growth velocity, which follows the withdrawal of prolonged drug therapy, serum GH levels remain normal, as do serum IGF-I and IGF-binding protein-3 levels (4). Moreover, endogenous pulsatile secretion of GH resumes within days even after long-term hGH therapy (7).
 
-&gt;http://press.endocrine.org/doi/full/10.1210/jcem.87.8.8721
+>http://press.endocrine.org/doi/full/10.1210/jcem.87.8.8721
 
 ## HGH Brands List
 

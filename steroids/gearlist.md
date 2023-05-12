@@ -38,7 +38,7 @@ Dianabol
 
 Anavar
 
-D-Aspartic: http://ezinearticles.com/?The-Dangers-of-D-Aspartic-Acid---Boost-Your-Testosterone-Safely-With-This-Secret!&amp;id=4632468
+D-Aspartic: http://ezinearticles.com/?The-Dangers-of-D-Aspartic-Acid---Boost-Your-Testosterone-Safely-With-This-Secret!&id=4632468
 
 EPO
 
@@ -56,7 +56,7 @@ Ipamorelin
 
 Winstrol: Stanozolol, commonly sold under the name Winstrol (oral) and Winstrol Depot (intramuscular), was developed by Winthrop Laboratories in 1962. It is a synthetic anabolic steroid derived from testosterone, and has been approved by the FDA for human use.
 
-Ostarine: Enobosarm ((2S)-3-(4-cyanophenoxy)-N-[4-cyano-3-(trifluoromethyl)phenyl]-2-hydroxy-2-methylpropanamide) (also known as Ostarine, GTx-024 and MK-2866) is an investigational selective androgen receptor modulator (SARM) from GTX, Inc for treatment of conditions such as muscle wasting and osteoporosis, formerly under development by Merck &amp; Company.[1]
+Ostarine: Enobosarm ((2S)-3-(4-cyanophenoxy)-N-[4-cyano-3-(trifluoromethyl)phenyl]-2-hydroxy-2-methylpropanamide) (also known as Ostarine, GTx-024 and MK-2866) is an investigational selective androgen receptor modulator (SARM) from GTX, Inc for treatment of conditions such as muscle wasting and osteoporosis, formerly under development by Merck & Company.[1]
 
 Proviron: Mesterolone is an orally applicable androgen, and DHT derivative. It is sold under the brand name Proviron, by Schering. In the late 70's and early 80's it was used with some success in controlled studies of men suffering from various forms of depression.
 

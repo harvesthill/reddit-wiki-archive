@@ -54,7 +54,7 @@ An aromatase inhibitor should always be on hand for AAS users so as to avoid the
 
 There are two categories of drugs that are administered to help in clearing up gyno.  
 
-**1.**&amp;nbsp;&amp;nbsp;[Aromatase Inhibitors](http://en.wikipedia.org/wiki/Aromatase_inhibitor) (AIs).  These block enzymatic action of aromatase and therefore down regulate the conversion of testosterone to estrogen.  
+**1.**  [Aromatase Inhibitors](http://en.wikipedia.org/wiki/Aromatase_inhibitor) (AIs).  These block enzymatic action of aromatase and therefore down regulate the conversion of testosterone to estrogen.  
 
 ### Non-steroidal Inhibitors.  
 These drugs inhibit aromatization by reversible competition for the aromatase enzyme.  By using up the aromatase molecules in the system, it is unavailable to participate in aromatization which greatly slows down the process.
@@ -72,7 +72,7 @@ These drugs form a permanent and deactivating bond with the aromatase enzyme.  T
 
 * [Exemestane](http://www.reddit.com/r/steroids/wiki/aromasin) (Aromasin) is a powerful AI that, at a dose of 25mg, will block 85% to 95% of estrogen production.
 
-**2.**&amp;nbsp;&amp;nbsp;[Estrogen antagonists](http://en.wikipedia.org/wiki/Receptor_antagonist).  This class of drugs do not lower the amount of estrogen that is in the system.  They act by binding to the [estrogen receptor](http://en.wikipedia.org/wiki/Estrogen_receptor) without generating a biological response. These are also called [Selective Estrogen Receptor Modulators](http://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator) (SERMS).  Different SERMs can block the estrogen receptors in different areas of the body.  The below ones block them in breast tissue.
+**2.**  [Estrogen antagonists](http://en.wikipedia.org/wiki/Receptor_antagonist).  This class of drugs do not lower the amount of estrogen that is in the system.  They act by binding to the [estrogen receptor](http://en.wikipedia.org/wiki/Estrogen_receptor) without generating a biological response. These are also called [Selective Estrogen Receptor Modulators](http://en.wikipedia.org/wiki/Selective_estrogen_receptor_modulator) (SERMS).  Different SERMs can block the estrogen receptors in different areas of the body.  The below ones block them in breast tissue.
 
 * [Tamoxifen](http://www.reddit.com/r/steroids/wiki/nolvadex) (Nolvadex) at 20 to 40 mg has been shown to be an effective treatment.
 

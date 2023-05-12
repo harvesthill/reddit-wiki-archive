@@ -6,7 +6,7 @@ const { Transform } = require('stream');
 
 const cli = require('sywac')
   .positional('<subreddit>', { paramsDesc: 'The subreddit whose wiki we should archive' })
-  .boolean('--tidy', { desc: 'Set this flag to run a Markdown beautifier over the wiki data' })
+  .boolean('--tidy', { desc: 'Set this flag to run a Markdown beautifier and some custom rules over the wiki data' })
   .boolean('--rewrite-path-relative-wiki-links', { desc: 'Rewrite Markdown links that start with /r/:subName/wiki to be clickable in GitHub' })
   .boolean('--rewrite-web-wiki-links', { desc: 'Rewrite Markdown links that start with https://www.reddit.com/r/:subName/wiki/ to be clickable in GitHub' })
   .help('-h, --help')
@@ -57,7 +57,8 @@ async function archivePage(url, pageSlug, sub, argv) {
     const transformers = getTransformers(
       argv['rewrite-path-relative-wiki-links'],
       argv['rewrite-web-wiki-links'],
-      argv.tidy
+      argv.tidy,
+      argv.tidy,
     )
 
     for (const transformer of transformers) {
@@ -99,7 +100,7 @@ function prepareSubredditFolder(subredditName) {
   }
 }
 
-function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders) {
+function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWikiLinks, shouldCleanUpMarkdownHeaders, shouldCleanUpHtmlEntities) {
   const transformers = [];
 
   if (shouldRewritePathRelativeWikiLinks) {
@@ -129,6 +130,30 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
       return chunkString.replace(searchPattern, function replacer(match, cg1, cg2, cg3) {
         return `${cg1}${cg2} ${cg3}`
       });
+    })
+  }
+
+  if (shouldCleanUpHtmlEntities) {
+    transformers.push(function(subredditName, filePath, chunkString) {
+      const mappingPattern = new RegExp(`(&amp;|&)(nbsp|amp|quot|lt|gt);`, 'gi');
+      const mappings = {
+        "nbsp":" ",
+        "amp" : "&",
+        "quot": "\"",
+        "lt"  : "<",
+        "gt"  : ">"
+      };
+
+      const decodePattern = new RegExp(`&#(\d+);`, `gi`);
+
+      return chunkString
+        .replace(mappingPattern, function replacer(match, cg1, cg2) {
+          return mappings[cg2.toLowerCase()] || `&${cg1};`
+        })
+        .replace(decodePattern, function replacer(match, cg1, cg2) {
+          var num = parseInt(cg2, 10);
+          return String.fromCharCode(num);
+        });
     })
   }
 

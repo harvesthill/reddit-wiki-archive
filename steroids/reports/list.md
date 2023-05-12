@@ -219,7 +219,7 @@ Starting with 200mg / day.
 
 ## OneTimeThingOnly's - Basic Bulk  
 
-**Weeks 1-20** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 500mg, 250mg Mon &amp; Thurs  
+**Weeks 1-20** [Testosterone Enanthate](/steroids/testosterone_enthanate.md) 500mg, 250mg Mon & Thurs  
 **Weeks 14-20** [Oral Anadrol](/steroids/anadrol.md) 100mg ED  
 **Weeks 22-26** [Nolvadex](/steroids/nolvadex.md) 40/40/20/20mg ED  
 

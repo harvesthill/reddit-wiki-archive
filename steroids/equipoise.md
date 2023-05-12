@@ -43,13 +43,13 @@ For ***bulking purposes***, **600–1200**mg/wk.
 
 **DISCLAIMER**: The following excerpts were written from the perspective of an IFBB Pro bodybuilder. Unless you're aiming to compete with [Dallas McCarver](https://amp.reddit.com/r/bodybuilding/comments/7gfmpo/dallas_mccarvers_test_levels_were_550ngml_or/), stick with the previously-defined, more sensible, lower dosage range of 600-1200mg per week. 
 
-&gt; ***Unlike most other steroids***, which usually begin to reach the point of diminishing returns at between 500–1,000 mg per week, EQ tends to reach its optimal dosing range much later on: around two grams per week. 
-&gt;
-&gt; Of course, all steroids will continue to activate more receptor sites, and thus provide greater muscle growth, up until about 3,500 mg per week—but with Boldenone, it seems that the gains are just starting to get good at one gram per week—while most other AAS seem to be nearly tapped out by that point, quickly hitting the point of diminishing returns.  
-&gt;  
-&gt;***One factor which makes higher dosing possible*** is Boldenone's relatively mild nature in terms of side effects. While many steroids would be rather unpleasant to run at two grams  per week, many will find Boldenone to be rather tame at that dose. This is an important consideration, because after all, no one wants to be miserable on-cycle. It's understandable to think that some may initially be put off by these doses, as the typical steroid user frequently views anything over one gram per week per steroid as “*mega-dosing*” and therefore, excessive. Presumably, this mentality was instilled through the repeated dosing recommendations of other AAS, which by their intrinsic nature, do not need to be dosed much higher than one gram per week to achieve near optimal results—but with Boldenone, we are dealing with a different animal altogether.  
-&gt;  
-&gt; Boldenone is a steroid which needs to be dosed higher than other AAS if one wishes to take advantage of its full capabilities. When dosed at the above-mentioned higher ranges, Boldenone becomes a formidable muscle-builder, *packing on genuine muscle fiber rather quickly*. The next time you consider using Bold as a part of your cycle, try to look at it from a fresh perspective—as a drug that “*needs*” to be utilized at higher dosages in order to experience all that it has to offer. If you do, I can promise you impressive, high-quality, water-free increases in muscle tissue, along with dramatic increases in vascularity over a 12–16 week period.
+> ***Unlike most other steroids***, which usually begin to reach the point of diminishing returns at between 500–1,000 mg per week, EQ tends to reach its optimal dosing range much later on: around two grams per week. 
+>
+> Of course, all steroids will continue to activate more receptor sites, and thus provide greater muscle growth, up until about 3,500 mg per week—but with Boldenone, it seems that the gains are just starting to get good at one gram per week—while most other AAS seem to be nearly tapped out by that point, quickly hitting the point of diminishing returns.  
+>  
+>***One factor which makes higher dosing possible*** is Boldenone's relatively mild nature in terms of side effects. While many steroids would be rather unpleasant to run at two grams  per week, many will find Boldenone to be rather tame at that dose. This is an important consideration, because after all, no one wants to be miserable on-cycle. It's understandable to think that some may initially be put off by these doses, as the typical steroid user frequently views anything over one gram per week per steroid as “*mega-dosing*” and therefore, excessive. Presumably, this mentality was instilled through the repeated dosing recommendations of other AAS, which by their intrinsic nature, do not need to be dosed much higher than one gram per week to achieve near optimal results—but with Boldenone, we are dealing with a different animal altogether.  
+>  
+> Boldenone is a steroid which needs to be dosed higher than other AAS if one wishes to take advantage of its full capabilities. When dosed at the above-mentioned higher ranges, Boldenone becomes a formidable muscle-builder, *packing on genuine muscle fiber rather quickly*. The next time you consider using Bold as a part of your cycle, try to look at it from a fresh perspective—as a drug that “*needs*” to be utilized at higher dosages in order to experience all that it has to offer. If you do, I can promise you impressive, high-quality, water-free increases in muscle tissue, along with dramatic increases in vascularity over a 12–16 week period.
 
 **TRANSLATION**: Boldenone—and to a certain extent, Primobolan—are the only two AAS mild enough to be comfortably run at gram-plus levels absent sides or diminishing returns. Boldenone and Primobolan are the only anabolics you'll regularly find being run at gram-plus levels in an effectively “normal” cycle, notwithstanding IFBB megadoses.
 
@@ -88,7 +88,7 @@ Boldenone raises red blood cell count significantly, as it stimulates the releas
 
 An increase in hematocrit values don't have to be cause for alarm so long as one is otherwise healthy. If there aren't any sides such as headache or sluggishness from the high HTC, then there's no immediate cause for alarm. Contra outdated medical consensus of old, elevated HCT in isolation [is no longer considered](http://www.haematologica.org/content/104/4/653) an independent risk factor.
 
-&gt; Nearly every old study reporting the dangers of a elevated HCT analyzes it in the context of *polycythemia vera* or another similar condition. These conditions cause a multitude of hematological changes. For example, *polycythemia vera* also causes a significant increase in platelets, which is problematic on its own and further amplified by the synergistic thrombotic action of elevated red blood cells with elevated platelets.
+> Nearly every old study reporting the dangers of a elevated HCT analyzes it in the context of *polycythemia vera* or another similar condition. These conditions cause a multitude of hematological changes. For example, *polycythemia vera* also causes a significant increase in platelets, which is problematic on its own and further amplified by the synergistic thrombotic action of elevated red blood cells with elevated platelets.
 
 ## Detectability
 
@@ -108,7 +108,7 @@ The active life of boldenone is 14-16 days; however, it produces detectable meta
 
 6. Shabin N., Malik H., et al. (2015). [*Effect of Nandrolone Decanoate, Boldenone Undecylenate on Renal Status of Rabbits (Oryctolagus cuniculus)*](https://www.researchgate.net/publication/317427148_Effect_of_Nandrolone_Decanoate_Boldenone_Undecylenate_on_Renal_Status_of_Rabbits_Oryctolagus_cuniculus). Global Veterinaria **14** (3): 432-438. ISSN 1992-6197. DOI: 10.5829/idosi.gv.2015.14.03.92201.
 
-7. Kantarci, U. H., Punduk, Z., Senarslan, O., &amp; Dirik, A. (2018). [*Evaluation of anabolic steroid induced renal damage with sonography in bodybuilders*](https://sci-hub.se/10.23736/S0022-4707.17.06763-9)*. The Journal of Sports Medicine and Physical Fitness, 58(11).* doi:10.23736/s0022-4707.17.06763-9 
+7. Kantarci, U. H., Punduk, Z., Senarslan, O., & Dirik, A. (2018). [*Evaluation of anabolic steroid induced renal damage with sonography in bodybuilders*](https://sci-hub.se/10.23736/S0022-4707.17.06763-9)*. The Journal of Sports Medicine and Physical Fitness, 58(11).* doi:10.23736/s0022-4707.17.06763-9 
 
 8. [Equipoise, Estrogen, and AI effects](https://www.reddit.com/r/steroids/comments/f5aw0b/discussion_eq_equipoise_estrogen_and_ai_effects/) (Reddit)
 

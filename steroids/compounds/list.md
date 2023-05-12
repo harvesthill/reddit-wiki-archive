@@ -43,11 +43,11 @@ Durabolin (Nandrolone Phenylpropionate) | 37 | 125 |92-96 |
 [Primobolan (Methenolone Acetate)](/steroids/primobolan.md) | 44-57 | 88 | 141-143|   
 [Proviron (Mesterolone)](/steroids/proviron.md) | 30-40 | 100-150 | 202-206 | Detectable for 3 weeks   
 [Superdrol (Methyldrostanolone)](/steroids/gear/methasterone.md) | 20 | 400 | 223-225 | Detectable for 3 months   
-[Sustanon 100 &amp; 250](/steroids/sustanon_250.md) | 100 | 100 | |   
+[Sustanon 100 & 250](/steroids/sustanon_250.md) | 100 | 100 | |   
 [Testosterone Cypionate](/steroids/testosterone_cypionate.md) | 100 | 100 |98-104 | Detectable for 3 months   
 [Testosterone Enanthate](/steroids/testosterone_enanthate.md) | 100 | 100 |32-36 | Detectable for 3 months   
 [Testosterone Propionate](/steroids/testosterone_propionate.md) |100 | 100  | 118-122 | Detectable for 2 weeks   
-[Trenbolone Acetate/Enanthate &amp; Blends](/steroids/trenbolone.md) | 500 | 500 | 94-97 &amp; 72-78| Detectable for 5 months, Use Montelukast to avoid respiratory weakness. Tren is being considered for addition to androgen replacement therapy due to its ability to increase muscle mass [while maintaining prostate size and HCT.](http://www.ncbi.nlm.nih.gov/pubmed/21266670) 
+[Trenbolone Acetate/Enanthate & Blends](/steroids/trenbolone.md) | 500 | 500 | 94-97 & 72-78| Detectable for 5 months, Use Montelukast to avoid respiratory weakness. Tren is being considered for addition to androgen replacement therapy due to its ability to increase muscle mass [while maintaining prostate size and HCT.](http://www.ncbi.nlm.nih.gov/pubmed/21266670) 
 [Winstrol (Stanozolol)](/steroids/winstrol.md) | 30 | 320 |228-242 | Detectable for 2 months  
 
 ### Extended List
@@ -102,7 +102,7 @@ Prostanozol | n/a | n/a | |
 Protabol (Thiomesterone) | 61 | 456 | |   
 Sanabolicum (Nandrolone Cyclohexylpropionate) | 37 | 125 | |   
 Steranabol Ritardo (Oxabolone Cypionate) | 20-60 | 50-90 | |   
-Synovex (Testosterone Propionate &amp; Estradiol) | 100 | 100 | |   
+Synovex (Testosterone Propionate & Estradiol) | 100 | 100 | |   
 Test 400 | 100 | 100 | |
 THG (Tetrahydrogestrinone) | No Data  | No Data  | |   
 [Trenavar (Trenbolone prohormone)](http://www.reddit.com/r/steroids/wiki/compounds/trenavar) | No Data  | No Data  | |

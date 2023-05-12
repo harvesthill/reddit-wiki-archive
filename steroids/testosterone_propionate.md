@@ -42,4 +42,4 @@ As should be expected with an ester such as propionate, suppression of endogenou
 
 1. *Fujioka M., Shinohara Y., Baba S., et al. Pharmacokinetic properties of testosterone propionate in normal men. J Clin Endocrinol Metab 63 (1986), pp. 1361-4*
 2. *Llewellyn, William, Anabolics 2004, 2003-4, Molecular Nutrition, pp.160-2*
-3. *Pope, H.G, Kouri, E.M., &amp; Hudson, J.I. Effects of supraphysiologic doses of testosterone on mood and aggression in normal men: A randomized controlled trial. Archives of General Psychiatry, 2000, 57, pp. 133-140*
+3. *Pope, H.G, Kouri, E.M., & Hudson, J.I. Effects of supraphysiologic doses of testosterone on mood and aggression in normal men: A randomized controlled trial. Archives of General Psychiatry, 2000, 57, pp. 133-140*

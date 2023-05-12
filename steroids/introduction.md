@@ -12,7 +12,7 @@
 
 ## [Testosterone Replacement Therapy (TRT)](/steroids/trt/list.md)
 
-# IV.) Essential Cycle / Blast &amp; Cruise Reading
+# IV.) Essential Cycle / Blast & Cruise Reading
 
 ## [Safe Injections](/steroids/thecycle/injecting.md)
 
@@ -20,7 +20,7 @@
 
 ## [The Estrogen Handbook](/steroids/the_estrogen_handbook.md)
 
-# IV.) Cycling / Blasting &amp; Cruising (B&amp;C)-  [The Cycle - Things To Know](/steroids/thecycle/list.md)
+# IV.) Cycling / Blasting & Cruising (B&C)-  [The Cycle - Things To Know](/steroids/thecycle/list.md)
 
 ## [Your First Cycle](/steroids/your_first_cycle.md)
 

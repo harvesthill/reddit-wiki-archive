@@ -45,11 +45,11 @@ Estrogen (E2) high or low can both cause acne (usually high, but large fluctuati
 
 ####**DHT and Acne**
 
-Nizoral and Head &amp; Shoulders are supposedly good for fungal acne, although it may be hard to identify it as such though.
+Nizoral and Head & Shoulders are supposedly good for fungal acne, although it may be hard to identify it as such though.
 
 Ketoconazole or Nizoral are typical anti androgens. Get the benefits of stopping DHT from binding to the sebaceous gland without ingesting an anti-androgen. 
 
-####**Lifestyle Habits &amp; Washing Habits**
+####**Lifestyle Habits & Washing Habits**
 
 Firstly, a great resource is acne.org and it's subsequent forums and this includes much general consensus from acne groups.
 
@@ -109,7 +109,7 @@ Use a non-comodegenic moisturizer. The oil you should be using on your face is J
 
 - Many people swear that cutting out Dairy reduced their acne. Considering the amount of hormone derivatives pumped into cows, it is a reasonable assumption. Since many of us are putting hormones into our body anyways, it might not matter, but most people get reduced acne from cutting out Dairy.
 
-- Cutting out Sugar &amp; Fructose can reduce acne. Inconsistent blood sugar levels are related to acne, and high amounts of sugar provide a good environment for bacteria to proliferate. Try it out.
+- Cutting out Sugar & Fructose can reduce acne. Inconsistent blood sugar levels are related to acne, and high amounts of sugar provide a good environment for bacteria to proliferate. Try it out.
 
 - Eating more veggies. Try it out, it might help.
 
@@ -212,9 +212,9 @@ Cialis (Tadalafil) **DOES NOT** lower BP. **AT ALL, EVER**. Anyone who tells you
 [Package insert for Cialis, FDA approved.](http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022332lbl.pdf)  
 Taken directly from page 7:
 
-&gt;Effects on Blood Pressure
+>Effects on Blood Pressure
 
-&gt;**Tadalafil 20 mg administered to healthy male subjects produced no significant difference compared to placebo in supine
+>**Tadalafil 20 mg administered to healthy male subjects produced no significant difference compared to placebo in supine
 systolic and diastolic blood pressure** (difference in the mean maximal decrease of 1.6/0.8 mm Hg, respectively) and in standing
 systolic and diastolic blood pressure"
 
@@ -238,7 +238,7 @@ When you're wanting to preventatively take action against prolactin, a Dopamine 
 
 ***PLEASE READ: [Prolactin-Inhibiting Supplements Wiki Page](/steroids/the_estrogen_handbook/prolactin_supplements.md)***
 
-- [**Vitamin B6 (Pyridoxine Hydrochloride &amp; P-5-P)**](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_vitamin_b6_.28pyridoxine_hydrochloride_.26amp.3B_p5p.29) - To lower prolactin levels it's recommend you take 50-200mg of P-5-P a day, in divided doses. If you want to take regular B6, which can sometimes cause [minor side effects](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_side_effects_of_b6_.28pyridoxine_hydrochloride.29), take 300-1000 mg per day in divided doses.
+- [**Vitamin B6 (Pyridoxine Hydrochloride & P-5-P)**](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_vitamin_b6_.28pyridoxine_hydrochloride_.26amp.3B_p5p.29) - To lower prolactin levels it's recommend you take 50-200mg of P-5-P a day, in divided doses. If you want to take regular B6, which can sometimes cause [minor side effects](/steroids/the_estrogen_handbook/prolactin_supplements.md#wiki_side_effects_of_b6_.28pyridoxine_hydrochloride.29), take 300-1000 mg per day in divided doses.
 
  **Read the label before you buy B6 (if you choose not to get P-5-P), because the Pyridoxine Hydrochloride type of B6 (in most supplements) has been shown to be a prolactin inhibitor, but Pyridoxal Hydrochloride has been shown to be ineffective at lowering prolactin – make sure you buy the right type!**
 

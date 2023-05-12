@@ -98,7 +98,7 @@ The extra electron density at the 2 makes Superdrol 2-3x as anabolic (mg for mg)
 
 #### **Effects**
 
-**Anabolic effects &amp; dosing requirements**
+**Anabolic effects & dosing requirements**
 
 As fascinating as all this chemistry might be, you are probably much more interested in how well Superdrol is going to work. What you are going to gain, and how much it will take you to make these gains? The gains from Superdrol are very dry and lean, so numbers do not tell the whole story, but let us look at them nonetheless. 
 

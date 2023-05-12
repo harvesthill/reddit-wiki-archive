@@ -6,17 +6,17 @@ My goal for this cycle is to basically blow up in size, I'd like to be at least 
 
 **The Cycle**
 
-Week 1: Dbol 25mg ED &amp; Test E 500mg (250mg/ml twice a week)
+Week 1: Dbol 25mg ED & Test E 500mg (250mg/ml twice a week)
 
-Week 2: Dbol 50mg ED &amp; Test E 500mg (250mg/ml twice a week)
+Week 2: Dbol 50mg ED & Test E 500mg (250mg/ml twice a week)
 
-Week 3: Dbol 50mg ED &amp; Test E 500mg (250mg/ml twice a week)
+Week 3: Dbol 50mg ED & Test E 500mg (250mg/ml twice a week)
 
-Week 4: Dbol 50mg ED &amp; Test E 500mg (250mg/ml twice a week)
+Week 4: Dbol 50mg ED & Test E 500mg (250mg/ml twice a week)
 
-Week 5: Dbol 50mg ED &amp; Test E 500mg (250mg/ml twice a week)
+Week 5: Dbol 50mg ED & Test E 500mg (250mg/ml twice a week)
 
-Week 6: Dbol 50mg ED &amp; Test E 500mg (250mg/ml twice a week)
+Week 6: Dbol 50mg ED & Test E 500mg (250mg/ml twice a week)
 
 Week 7: Test E 500mg (250mg/ml twice a week)
 

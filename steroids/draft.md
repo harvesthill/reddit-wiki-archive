@@ -79,17 +79,17 @@ The main testosterone stimulating agents for HPTA recovery during PCT are:
 
 **Aromatase inhibitors:** These are compounds such as Aromasin (Exemestane), Arimidex (Anastrozole), and Letrozole (Femara). Rather than block the activity of Estrogen at the cellular level in different tissues, aromatase inhibitors (AIs) serve to lower total circulating Estrogen levels in the body by way of inhibiting the aromatase enzyme, which is the enzyme responsible for the conversion of androgens into Estrogen. The conversion of androgens into Estrogen results in excess Estrogen levels, which, as explained earlier in this article, will trigger the negative feedback loop leading to suppression of Testosterone production. By way of lowering total circulating blood plasma Estrogen levels, AIs will engage the negative feedback loop in a positive manner and result in the release of LH and FSH for the manufacture and secretion of more Testosterone. This is essentially due to the hypothalamus realizing that circulating Estrogen levels are too low, and will attempt to increase circulating levels of Testosterone in order for a portion of the Testosterone secreted to be able to become aromatized into Estrogen in order to restore the hormonal balance. The main importance of aromatase inhibitors is the ability to mitigate the Estrogenic effects of HCG, if HCG is utilized in certain ways that will be expanded on later. It is important to note, however, that the majority of aromatase inhibitors do not comply very well with SERMs such as Nolvadex, and that very specific choices should be made in regards as to which AI is used during PCT.
 
-### SERMs: Nolvadex, Clomid, Toremifene, &amp; Raloxifene
+### SERMs: Nolvadex, Clomid, Toremifene, & Raloxifene
 
-The question is often asked among the anabolic steroid using community: Clomid or Nolvadex? Which one for PCT? But there are also relatively newer SERMs as well. Toremifene (Torem) &amp; Rolaxifene (Rolax).
+The question is often asked among the anabolic steroid using community: Clomid or Nolvadex? Which one for PCT? But there are also relatively newer SERMs as well. Toremifene (Torem) & Rolaxifene (Rolax).
 
-First of all, we will look at the two main SERMs people use for PCT -- Nolvadex &amp; Clomid. Nolvadex on a mg for mg basis is far more effective than Clomid in stimulating endogenous Testosterone production, as well as being a more cost-effective choice than Clomid itself. Studies have demonstrated that 150mg of Clomid (Clomiphene Citrate) administered daily raised endogenous Testosterone levels of 10 healthy males by approximately 150%, while incidentally, 20mg of Nolvadex (Tamoxifen Citrate) daily raised endogenous Testosterone levels by the same amount.^[12] It is very evident here that Clomid is very effective for this purpose, but Nolvadex seems to be a more cost-effective choice seeing as though it is more effective than Clomid when compared mg for mg. In the same study, they directly examined the effects of Nolva and Clomid on the pituitary. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking nolvadex at 20mg/day had a significantly increased LH response to GnRH. In contrast, the men taking clomid had reduced LH output, a decreased sensitivity to GnRH. The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen (Nolva) seems the most probable explanation."^[12] Likewise, Clomid actually has been studied to exhibit Estrogen agonist effects at the pituitary in vitro.^[13] What all this means is that Clomid potentially will work in varying degrees as an Estrogen at the pituitary gland, triggering the negative feedback loop and reducing the output of Testosterone stimulating gonadotropins (LH and FSH). This is a problem during post cycle therapy, which is a period in which individuals are trying to recover their HPTA function rather than halt it even further. Ideally, one would want a SERM that exhibits almost 100% Estrogen antagonistic effects on the pituitary gland. 
+First of all, we will look at the two main SERMs people use for PCT -- Nolvadex & Clomid. Nolvadex on a mg for mg basis is far more effective than Clomid in stimulating endogenous Testosterone production, as well as being a more cost-effective choice than Clomid itself. Studies have demonstrated that 150mg of Clomid (Clomiphene Citrate) administered daily raised endogenous Testosterone levels of 10 healthy males by approximately 150%, while incidentally, 20mg of Nolvadex (Tamoxifen Citrate) daily raised endogenous Testosterone levels by the same amount.^[12] It is very evident here that Clomid is very effective for this purpose, but Nolvadex seems to be a more cost-effective choice seeing as though it is more effective than Clomid when compared mg for mg. In the same study, they directly examined the effects of Nolva and Clomid on the pituitary. They infused the men with 100 mcg of GnRH and then measured LH output from the pituitary. The men taking nolvadex at 20mg/day had a significantly increased LH response to GnRH. In contrast, the men taking clomid had reduced LH output, a decreased sensitivity to GnRH. The researchers stated that "a role of the intrinsic estrogenic activity of Clomid which is practically absent in Tamoxifen (Nolva) seems the most probable explanation."^[12] Likewise, Clomid actually has been studied to exhibit Estrogen agonist effects at the pituitary in vitro.^[13] What all this means is that Clomid potentially will work in varying degrees as an Estrogen at the pituitary gland, triggering the negative feedback loop and reducing the output of Testosterone stimulating gonadotropins (LH and FSH). This is a problem during post cycle therapy, which is a period in which individuals are trying to recover their HPTA function rather than halt it even further. Ideally, one would want a SERM that exhibits almost 100% Estrogen antagonistic effects on the pituitary gland. 
 
 In addition to all this, vision sides are common Clomid and could may cause irreversible changes.^[19] Nolvadex may potentially cause some vision sides as well,^[20] but they are known to be more prominent in Clomid than Nolvadex.^[17] More on [Side Effects]( ) below.
 
 Despite all of this, it should still be noted that the FDA actually recommends clomid for treatment of male hypogonadism and that high doses are unnecessary to bring hypogonadal men into range.^[15][18]
 
-To touch lightly on Torem &amp; Ralox, they have all been compared and studied alongside Nolva.^[16] The study looked at the effects of each SERM in just under 300 infertile men with low sperm count and low testosterone levels. The men were given 20mg Nolvadex, 60mg Toremiefene or 60mg Rolaxifene every day for three months. [See Figure 1 from the study here showing results month to month.](https://imgur.com/a/qIHpf4B) Or see table below with the medians and results after three months:
+To touch lightly on Torem & Ralox, they have all been compared and studied alongside Nolva.^[16] The study looked at the effects of each SERM in just under 300 infertile men with low sperm count and low testosterone levels. The men were given 20mg Nolvadex, 60mg Toremiefene or 60mg Rolaxifene every day for three months. [See Figure 1 from the study here showing results month to month.](https://imgur.com/a/qIHpf4B) Or see table below with the medians and results after three months:
 
 SERM | FSH (mIU/mL)| LH (mIU/mL)| Testosterone (ng/dL) | Sperm concentration (x 10^6 / mL) | Normal sperm forms (%)
 :----:|:----:|:----:|:----:|:----:|:-----
@@ -97,11 +97,11 @@ SERM | FSH (mIU/mL)| LH (mIU/mL)| Testosterone (ng/dL) | Sperm concentration (x 
 **Torem** | 5.64 to 9.53 (+69%) | 4.05 to 6.54 (+61%) | 498.96 to 743.92 (+49%) | 25.84 to 37.82 (+46%) | 23.09 to 31.73 (+37%)
 **Ralox** | 6.39 to 6.87 (+7%) | 4.18 to 4.75 (+13%) | 583.55 to 604.35 (+3%) | 27.01 to 32.64 (+20%) | 14.72 to 21.86 (+48%)
 
-As seen Nolvadex came out on top here in LH, Testosterone &amp; Normal sperm forms. Torem topped Nolva in FSH and Sperm concentration. Both are very suitable PCT options (as already known with Nolva, but this shows Torem as a viable option as well). Ralox was unfavorable and is probably best used just for gynecomastia treatment.
+As seen Nolvadex came out on top here in LH, Testosterone & Normal sperm forms. Torem topped Nolva in FSH and Sperm concentration. Both are very suitable PCT options (as already known with Nolva, but this shows Torem as a viable option as well). Ralox was unfavorable and is probably best used just for gynecomastia treatment.
 
 **IMPORTANT NOTE:** Also be sure to check out the [Drug Interactions](/steroids/draft.md#wiki_drug_interactions) section, as it contains important information for those using SSRIs and SERMs.
 
-&amp;nbsp;
+ 
 
 ####**Dosing**
 
@@ -111,7 +111,7 @@ In all studies involving Nolvadex doses used to stimulate endogenous Testosteron
 
 * **6-8 Weeks:** 20mg ED
 
-&amp;nbsp;
+ 
 
 #####**Clomid**
 
@@ -119,21 +119,21 @@ According to the study previously mentioned,^[15] and thus recommended by the FD
 
 * **6-8 Weeks:** 25mg ED or 50mg EOD
 
-&amp;nbsp;
+ 
 
 #####**Torem**
 
-In the study above comparing Nolva, Torem, &amp; Ralox, 60mg was the dosage used and found to be very sufficient for PCT purposes. 60mg ED is the FDA recommended dosage and they found no benefit upon doubling the dose in women with breast cancer. Again, doubling the dose for the purpose of achieving optimal peak blood plasma levels quicker isn't necessary and just further increases your risk of potential sides. Dosing of a PCT including Torem is as followed:
+In the study above comparing Nolva, Torem, & Ralox, 60mg was the dosage used and found to be very sufficient for PCT purposes. 60mg ED is the FDA recommended dosage and they found no benefit upon doubling the dose in women with breast cancer. Again, doubling the dose for the purpose of achieving optimal peak blood plasma levels quicker isn't necessary and just further increases your risk of potential sides. Dosing of a PCT including Torem is as followed:
 
 * **6-8 Weeks:** 60mg ED
 
-&amp;nbsp;
+ 
 
 #####**SERM Dosing Note**
 
 **Note:** As you've noticed above, /r/seroids recommends 6-8 weeks of SERMs. It is common for a lot of PCT options to only be 4 weeks. These protocols usually used double the dose for the first week or two. The only reason why many elect to utilize doubling the dose for the first 1-2 weeks of a PCT program is for the purpose of achieving optimal peak blood plasma levels quicker so as to ensure HPTA recovery quicker. This isn't necessary and just further increases your risk of potential sides. It has been studied that the longer you are on SERMs, the better your results of stimulating Testosterone.^[16] So to prevent unwanted sides as well as potentially achieve better results, we choose to suggest lower dosing over a longer period than 4 weeks.
 
-&amp;nbsp;
+ 
 
 ### HCG
 
@@ -145,7 +145,7 @@ It has been mentioned already that much of the difficulty in recovering the HPTA
 
 If you choose to include HCG in your PCT protocol, the best possible SERM for the PCT protocol is Nolvadex, as studies have demonstrated that HCG and Nolvadex utilized together have exhibited a remarkable synergistic effect in terms of stimulating endogenous Testosterone production, and that Nolvadex will actually work to block the desensitization effect on the Leydig cells of the testes caused by high doses of HCG.^[11] This is very important, because just as too little LH secretion for extended periods can cause desensitization to gonadotropins, too much gonadotropin stimulation (in the form of HCG or otherwise) may likewise cause a desensitization effect.
 
-&amp;nbsp;
+ 
 
 ####**Dosing**
 
@@ -159,7 +159,7 @@ HCG is ran a couple different ways:
 
 4. **First 1-2 Weeks Of PCT**
 
-&amp;nbsp;
+ 
 
 #####**1. Over The Entire Cycle**
 
@@ -170,7 +170,7 @@ HCG can be ran over the entire length of the cycle to make PCT easy and efficien
 
 Note: 250 iu 2x/week is used by some, but due to studies showing 250 iu EOD maintains intratesticular testosterone within the normal range in healthy men with gonadotropin suppression,^[14] it is recommended to use at least 250 iu 3x/week, if not EOD.
 
-&amp;nbsp;
+ 
 
 #####**2. Weeks Leading Up To PCT**
 
@@ -182,7 +182,7 @@ Starting 6 weeks before PCT:
 * **Weeks 3-1:** 500-1000 iu IM 2x/week 
 * **Week 0:** Start PCT (SERM)
 
-&amp;nbsp;
+ 
 
 #####**3. 1-2 Weeks Before PCT**
 
@@ -197,7 +197,7 @@ This is where the AI is to be utilized as a supportive compound for HCG use in t
 * **1-2 Weeks Before PCT:** 1000-1500 iu EOD
 * **1-2 Weeks Before PCT:** AI will be used only as long as HCG
 
-&amp;nbsp;
+ 
 
 #####**4. First 1-2 Weeks Of PCT**
 
@@ -212,13 +212,13 @@ This is where the AI is to be utilized as a supportive compound for HCG use in t
 * **First 1-2 Weeks Of PCT:** 1000-1500 iu EOD
 * **First 1-2 Weeks Of PCT:** AI will be used only as long as HCG
 
-&amp;nbsp;
+ 
 
 ### Aromatase Inhibitors: Aromasin (Exemestane) Above All Else
 
 ***Ignore this section, UNLESS utilizing [HCG dosing 3 or 4.](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)***
 
-As noted above in [HCG dosing 3 &amp; 4,](/steroids/draft.md#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that HCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 &amp; 2,](/steroids/draft.md#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  It should also be noted that HCG will also cause an increase in testicular progesterone levels. Estrogen rising is of course undesirable during PCT, as it has already been explained that Estrogen will trigger suppression of endogenous Testosterone production, and there is no doubt that any individual wishes to encounter Estrogenic side effects during PCT either.
+As noted above in [HCG dosing 3 & 4,](/steroids/draft.md#wiki_3._1-2_weeks_before_pct) one issue that needs to be addressed will be the fact that HCG will trigger increases in testicular aromatase expression, and result in Estrogen increases in the body. If you are on cycle, as you would be with [HCG dosing 1 & 2,](/steroids/draft.md#wiki_1._over_the_entire_cycle) you will already be taking an AI and be taking care of this.  It should also be noted that HCG will also cause an increase in testicular progesterone levels. Estrogen rising is of course undesirable during PCT, as it has already been explained that Estrogen will trigger suppression of endogenous Testosterone production, and there is no doubt that any individual wishes to encounter Estrogenic side effects during PCT either.
 
 Therefore, the option here is to include an aromatase inhibitor. However, there exists a big problem in regards to the other two of the three major aromatase inhibitors (Arimidex and Letrozole). The issue is the fact that in a PCT program that includes the use of SERMs such as Nolvadex and Clomid, which are known as absolutely essential components to a PCT program, Arimidex and Letrozole have direct negative interactions with Nolvadex. The problem here is that Arimidex (or Letrozole) and Nolvadex both directly counteract one another. One study has demonstrated that when Arimidex is utilized with Nolvadex, Nolvadex will decrease blood plasma concentration of Arimidex (as well as Letrozole, another commonly used aromatase inhibitor).^[5] The conclusion here is that the use of Arimidex or Letrozole with Nolvadex together is a very bad idea and may work counterproductively if used together in a PCT protocol. Aromasin completely circumvents this problem, as it has been demonstrated to have no interactions what so ever with Nolvadex, unlike the other two aforementioned aromatase inhibitors. In one study, Aromasin displayed no such reduced effectiveness or any reduced blood plasma levels when utilized with Nolvadex.^[6]
 
@@ -232,15 +232,15 @@ Note: This is a lot of Aromasin, but has clinically be shown to be effective. Yo
 
 Following these details, Aromasin would be the best possible aromatase inhibitor of choice in order to combat the increased aromatase activity caused by HCG. Therefore, Aromasin would then be utilized *up to* a full 25mg ED, and **only while HCG is utilized in [HCG dosing 3 or 4](/steroids/draft.md#wiki_3._1-2_weeks_before_pct). Once HCG is discontinued, Aromasin too should be halted.**
 
-&amp;nbsp;
+ 
 
 ***Ignore this section, UNLESS utilizing [HCG dosing 3 or 4.](/steroids/draft.md#wiki_3._1-2_weeks_before_pct)***
 
-&amp;nbsp;
+ 
 
 ### Side Effects
 
-As stated earlier, vision sides are common for both Clomid &amp; Nolva, more so with Clomid. Hot Flashes, Nausea are two common side effects of Clomid, Nolva, &amp; Torem. Depression is known to affect many in PCT and is an actual listed side effect of Nolva. **Please make sure you are aware of this and in a good place mentally before ever starting a cycle as you will be faced with the potential of depression in PCT.**
+As stated earlier, vision sides are common for both Clomid & Nolva, more so with Clomid. Hot Flashes, Nausea are two common side effects of Clomid, Nolva, & Torem. Depression is known to affect many in PCT and is an actual listed side effect of Nolva. **Please make sure you are aware of this and in a good place mentally before ever starting a cycle as you will be faced with the potential of depression in PCT.**
 
 ### Drug Interactions
 
@@ -280,9 +280,9 @@ If you’re going to supplement with anabolic steroids there is one single truth
 
 ### Michael Scally (former) M.D.'s Thoughts:
 
-&gt;In the case of pre-menopausal females, tapering the anabolic-androgenic steroids (AAS) would be the best treatment. Anabolic steroid administration, like males, causes the HPGA to shutdown. However, stopping the AAS will produce menopausal like symptoms, therefore tapering until menses returns is best. The labs follicle stimulating hormone (FSH), luteneizing hormone (LH), progesterone (P) and estradiol (E2) will be the best indicator. They will show if the HPGA is affected adversely. In marked contrast to a man, the period typically returns within 1-2 months and will occur while tapering.
+>In the case of pre-menopausal females, tapering the anabolic-androgenic steroids (AAS) would be the best treatment. Anabolic steroid administration, like males, causes the HPGA to shutdown. However, stopping the AAS will produce menopausal like symptoms, therefore tapering until menses returns is best. The labs follicle stimulating hormone (FSH), luteneizing hormone (LH), progesterone (P) and estradiol (E2) will be the best indicator. They will show if the HPGA is affected adversely. In marked contrast to a man, the period typically returns within 1-2 months and will occur while tapering.
 
-&gt;I would NOT suggest “selective estrogen receptor modulators” (SERMs) or aromatase inhibitors (AIs) for a woman! NEVER! It is the equivalency of forcing them into menopausal symptoms. The HPGA/HPTA are very different. In fact, SERM/AI (such as Nolvadex and Arimidex) are used in Breast Cancer, which includes a significant number of adverse effects. Decreasing E2 in a man is far different from doing the same in a female. E2 and P are the main female hormones. Just imagine how a man feels that receives Androgen Deprivation Therapy (ADT) for Prostate Cancer.
+>I would NOT suggest “selective estrogen receptor modulators” (SERMs) or aromatase inhibitors (AIs) for a woman! NEVER! It is the equivalency of forcing them into menopausal symptoms. The HPGA/HPTA are very different. In fact, SERM/AI (such as Nolvadex and Arimidex) are used in Breast Cancer, which includes a significant number of adverse effects. Decreasing E2 in a man is far different from doing the same in a female. E2 and P are the main female hormones. Just imagine how a man feels that receives Androgen Deprivation Therapy (ADT) for Prostate Cancer.
 
 ## Refrences
 
@@ -314,11 +314,11 @@ If you’re going to supplement with anabolic steroids there is one single truth
 
 [14] Coviello AD, Matsumoto AM, Bremner WJ, Herbst KL, Amory JK, Anawalt BD, Sutton PR, Wright WW, Brown TR, Yan X, Zirkin BR, Jarow JP. Low-dose human chorionic gonadotropin maintains intratesticular testosterone in normal men with testosterone-induced gonadotropin suppression. 2005 May;90(5):2595-602. Epub 2005 Feb 15.
 
-[15] Katz, D. J., Nabulsi, O., Tal, R., &amp; Mulhall, J. P. (2011). Outcomes of clomiphene citrate treatment in young hypogonadal men. BJU International, 110(4), 573–578.
+[15] Katz, D. J., Nabulsi, O., Tal, R., & Mulhall, J. P. (2011). Outcomes of clomiphene citrate treatment in young hypogonadal men. BJU International, 110(4), 573–578.
 
-[16] Tsourdi, E., Kourtis, A., Farmakiotis, D., Katsikis, I., Salmas, M., &amp; Panidis, D. (2009). The effect of selective estrogen receptor modulator administration on the hypothalamic-pituitary-testicular axis in men with idiopathic oligozoospermia. Fertility and Sterility, 91(4), 1427–1430.
+[16] Tsourdi, E., Kourtis, A., Farmakiotis, D., Katsikis, I., Salmas, M., & Panidis, D. (2009). The effect of selective estrogen receptor modulator administration on the hypothalamic-pituitary-testicular axis in men with idiopathic oligozoospermia. Fertility and Sterility, 91(4), 1427–1430.
 
-[17] Dobbs M. R. (2009). Clinical Neurotoxicology: Syndromes, Substances, Environments. pg 106. [Link.](http://books.google.com/books?id=Pmcy24y2HyMC&amp;pg=PA106&amp;dq=clomiphene+citrate+ocular&amp;hl=en&amp;sa=X&amp;ei=XkABU82MCY2FogSGz4DICw&amp;ved=0CCsQ6AEwAA#v=onepage&amp;q=clomiphene%20citrate%20ocular&amp;f=false)
+[17] Dobbs M. R. (2009). Clinical Neurotoxicology: Syndromes, Substances, Environments. pg 106. [Link.](http://books.google.com/books?id=Pmcy24y2HyMC&pg=PA106&dq=clomiphene+citrate+ocular&hl=en&sa=X&ei=XkABU82MCY2FogSGz4DICw&ved=0CCsQ6AEwAA#v=onepage&q=clomiphene%20citrate%20ocular&f=false)
 
 [18] Teodósio Da Ros C. Twenty-five Milligrams Of Clomiphene Citrate Presents Positive Effect On Treatment Of Male Testosterone Deficiency - A Prospective Study. Vol. 38 (4): 512-518, July - August, 2012. [Link](http://brazjurol.com.br/july_august_2012/DaRos_512_518.htm)
 
@@ -338,7 +338,7 @@ When something is written as "X/X/Y/Y", think of it as Week 1 daily dose/Week 2 
 
 ## Optimal/Primary PCT Options
 
-This is the PCT plans you should use if you want PCT to be as **as effective as possible.** This is highly recommended to those that have been on cycle a long time or that are coming off a Blast &amp; Cruise.
+This is the PCT plans you should use if you want PCT to be as **as effective as possible.** This is highly recommended to those that have been on cycle a long time or that are coming off a Blast & Cruise.
 
 ### Nolvadex
 
@@ -356,7 +356,7 @@ Starting 6 weeks before PCT (SERM).
 
 * **Weeks 6-4:** 500-1000 iu IM 3x/week
 * **Weeks 3-1:** 500-1000 iu IM 2x/week
-* **Week 0:** Stop HCG &amp; Starting SERM
+* **Week 0:** Stop HCG & Starting SERM
  * **6-8 Weeks:** Nolvadex 20mg ED = 20/20/20/20/20/20 (/20/20)
 
 ### Clomid
@@ -375,7 +375,7 @@ Starting 6 weeks before PCT (SERM).
 
 * **Weeks 6-4:** 500-1000 iu IM 3x/week
 * **Weeks 3-1:** 500-1000 iu IM 2x/week
-* **Week 0:** Stop HCG &amp; Starting SERM
+* **Week 0:** Stop HCG & Starting SERM
  * **6-8 Weeks:** Clomid 25mg ED or 50mg EOD = 25/25/25/25/25/25 (/25/25)
 
 ### Torem
@@ -394,7 +394,7 @@ Starting 6 weeks before PCT (SERM).
 
 * **Weeks 6-4:** 500-1000 iu IM 3x/week
 * **Weeks 3-1:** 500-1000 iu IM 2x/week
-* **Week 0:** Stop HCG &amp; Starting SERM
+* **Week 0:** Stop HCG & Starting SERM
  * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
 ## Secondary PCT Options
@@ -476,7 +476,7 @@ This is the PCT plans you should use if you were in a position where HCG isn't a
 
 * **6-8 Weeks:** Torem 60mg ED = 60/60/60/60/60/60 (/60/60)
 
-## Post Blast &amp; Cruise Recovery Not Endorsed By /r/steroids
+## Post Blast & Cruise Recovery Not Endorsed By /r/steroids
 
 These are PCT protocols listed are **NOT** endorsed by /r/steroids and should be used for information purposes only. They have proven effective for some, but optimally you will use [a PCT protocol listed above](/steroids/draft.md#wiki_pct_protocols)
 
@@ -510,11 +510,11 @@ Aside from the high Clomid and HCG dosages, it should be noted that there is som
 
 This is one of the explanations that Dr. Scally has given: 
 
-&gt;*Clomid acts as an estrogen, rather than an anti-estrogen, by sensitizing pituitary cells to the action of GnRH. Although tamoxifen is almost as effective as Clomid in binding to pituitary estrogen receptors, tamoxifen has little or no estrogenic activity in terms of its ability to enhance the GnRH-stimulated release of LH. The estrogenic action of Clomid at the pituitary represents a unique feature of this compound and that tamoxifen may be devoid of estrogenic activity at the pituitary level.*
+>*Clomid acts as an estrogen, rather than an anti-estrogen, by sensitizing pituitary cells to the action of GnRH. Although tamoxifen is almost as effective as Clomid in binding to pituitary estrogen receptors, tamoxifen has little or no estrogenic activity in terms of its ability to enhance the GnRH-stimulated release of LH. The estrogenic action of Clomid at the pituitary represents a unique feature of this compound and that tamoxifen may be devoid of estrogenic activity at the pituitary level.*
 
 Some strongly disagree with Dr. Scally's reasoning behind the use of clomid. What he is describing here is believed to be "estrogen priming," the concept that estrogen makes the pituitary more sensitive to GnRH from the hypothalamus, so that more LH is released for a given GnRH stimulus. This is well known to occur in females leading up to ovulation. Unlike females, however, men don't have a preovulatory period or spikes in LH. The research is fairly clear that estrogen priming does not occur in males. For starters, take a look at an authoritative reference work like Grossman's Clinical Endocrinology, which states (pg. 99): 
 
-&gt;Progesterone, acting synergistically with oestrogens, exerts negative feedback on the hypothalamus during the luteal phase, thus limiting GnRH pulsatility and slowing LH pulse frequency. The mechanism of positive oestrogen feedback at the time of the LH surge has been much debated. There is now evidence that enhancement of both hypothalamic GnRH pulse generator activity and pituitary responsiveness to GnRH are involved. All species so far studied have shown an increased 'self-priming' effect of GnRH on the pituitary during the preovulatory period... In males, the situation is more straightforward. Since LH surges do not occur, only negative feedback effects are relevant. testosterone (and its active metabolite dihydrotestosterone, DHT) exerts major suppressive effects on both LH and FSH secretion, largely by inhibiting the GnRH pulse frequency generator, but possibly also by direct pituitary actions. Oestrogens in the male reduce pituitary responsiveness to GnRH.
+>Progesterone, acting synergistically with oestrogens, exerts negative feedback on the hypothalamus during the luteal phase, thus limiting GnRH pulsatility and slowing LH pulse frequency. The mechanism of positive oestrogen feedback at the time of the LH surge has been much debated. There is now evidence that enhancement of both hypothalamic GnRH pulse generator activity and pituitary responsiveness to GnRH are involved. All species so far studied have shown an increased 'self-priming' effect of GnRH on the pituitary during the preovulatory period... In males, the situation is more straightforward. Since LH surges do not occur, only negative feedback effects are relevant. testosterone (and its active metabolite dihydrotestosterone, DHT) exerts major suppressive effects on both LH and FSH secretion, largely by inhibiting the GnRH pulse frequency generator, but possibly also by direct pituitary actions. Oestrogens in the male reduce pituitary responsiveness to GnRH.
 
 That states clearly that there is no priming in males, only negative feedback. The last emboldened sentence in this quote directly contradicts Dr. Scally's quote above. If clomid were to produce estrogenic action in the pituitary, it would only serve to inhibit LH secretion.
 
@@ -522,7 +522,7 @@ Grossman's statement is corroborated by the [more recent research](https://acade
 
 [This older paper](https://www.ncbi.nlm.nih.gov/pubmed/3695504) had a very interesting finding: 
 
-&gt;The positive estrogen feedback was found to be a relatively sex-specific reaction of the hypothalamo-hypophyseal system in rats as well as in human beings. It is dependent--most of all--on the estrogen convertible androgen level during sexual brain differentiation, but also on an estrogen priming effect in adulthood. The lower the estrogen convertible androgen or primary estrogen level during brain differentiation, the higher is the evocability of a positive estrogen action on LH secretion in later life. In clinical studies, we were able to induce a positive estrogen feedback on LH secretion in most intact homosexual men in clear-cut contrast to intact hetero- or bisexual men. These findings were strongly confirmed by Gladue and associates.
+>The positive estrogen feedback was found to be a relatively sex-specific reaction of the hypothalamo-hypophyseal system in rats as well as in human beings. It is dependent--most of all--on the estrogen convertible androgen level during sexual brain differentiation, but also on an estrogen priming effect in adulthood. The lower the estrogen convertible androgen or primary estrogen level during brain differentiation, the higher is the evocability of a positive estrogen action on LH secretion in later life. In clinical studies, we were able to induce a positive estrogen feedback on LH secretion in most intact homosexual men in clear-cut contrast to intact hetero- or bisexual men. These findings were strongly confirmed by Gladue and associates.
 
 In other words, estrogen levels during brain development are responsible for the sex-specific differences in gonadotrophin secretion and estrogen feedback at the pituitary. The important point of this research is that males (with the exception of homosexuals) were not found to have any positive feedback from estrogen. Those results that were "strongly confirmed."
 
@@ -570,7 +570,7 @@ The reason for the nolvadex or Toremifine is to prevent the estrogen rebound tha
 
 ### TL;DR:
 
-**Last 6 Weeks of Your Cycle / Blast &amp; Cruise:**  
+**Last 6 Weeks of Your Cycle / Blast & Cruise:**  
 *(including the time needed to allow all compounds to clear)*
 
 We will count down the last 6 weeks (plus 3 days - 45 days total). You will start the SERM's after day 0.
@@ -578,8 +578,8 @@ We will count down the last 6 weeks (plus 3 days - 45 days total). You will star
 * **T-minus 45 to 24 Days:** 500 to 1000 iu HCG 3x weekly (injected IM) for 3 weeks 
 
 * **T-minus 23 to 2 Days:** 500 to 1000 iu HCG 2x weekly (injected IM) for 3 weeks  
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; **OR**   
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 250 to 500 iu HCG 3x weekly (injected IM) for 3 weeks  
+                                         **OR**   
+                                         250 to 500 iu HCG 3x weekly (injected IM) for 3 weeks  
 
 * **T-minus 2 to 0 Days:** Wait 3 days before starting SERM's
 
@@ -591,7 +591,7 @@ The SERM's should be run for a much longer time period, depending on the time of
 **OR**  
 60 mg Toremifene everyday
 
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; **AND**
+       **AND**
 
 - 25 mg Clomid (Clomiphene) everyday
 
@@ -599,13 +599,13 @@ The SERM's should be run for a much longer time period, depending on the time of
 
 It should be noted that there is some controversy on whether [using two SERMs at once is beneficial or not.](/steroids/draft.md#wiki_controversy)
 
-&amp;nbsp;
+ 
 
 **How long to wait to check blood work to see if you've recovered?**  
 
 **Answer:** ONE MONTH after cessation of SERM's. You will be looking for LH/FSH returning to fairly normal, as well as total and free testosterone levels. How do you know what normal is? What your levels were that you got with your pre-cycle natural self blood work.
 
-&amp;nbsp; 
+  
 
 **Disclaimer:** All of these RECOMMENDATIONS (not mandatory) are to be used as advice. All of Jcaesar369 suggestions are based off of large clinical FDA trials and studies, found in the original post for reference. 
 

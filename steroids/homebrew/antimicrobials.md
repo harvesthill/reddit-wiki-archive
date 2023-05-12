@@ -240,7 +240,7 @@ Observe normal precautions. Butylated hydroxyanisole may be irritant to the eyes
 
 3. [Hofmann H et al. *Anaphylactic shock from chlorobutanol-preserved oxytocin.* Contact Dermatitis 1986; 15: 241.](http://soap.org/display_2010_abstract.php?id=163)
 
-4. [Gosselin RE et al. *Clinical Toxicology of Commercial Products, 4th edn.* Baltimore: Williams &amp; Wilkins, 1976; II-119.](http://www.amazon.com/Clinical-Toxicology-Commercial-Products-Poisoning/dp/0683036319)
+4. [Gosselin RE et al. *Clinical Toxicology of Commercial Products, 4th edn.* Baltimore: Williams & Wilkins, 1976; II-119.](http://www.amazon.com/Clinical-Toxicology-Commercial-Products-Poisoning/dp/0683036319)
 
 5. [Golightly LK et al. *Pharmaceutical excipients: adverse effects associated with ‘inactive’ ingredients in drug products (part II).* Med Toxicol 1988; 3: 209–240.](http://www.ncbi.nlm.nih.gov/pubmed/3041246)
 
@@ -250,4 +250,4 @@ Observe normal precautions. Butylated hydroxyanisole may be irritant to the eyes
 
 - [Rowe, C. *Handbook of Pharmaceutical Excipients.* London: RPS Publishing, 2009. Print.](http://www.amazon.com/Handbook-Pharmaceutical-Excipients-Rowe/dp/0853697922)
 
-# [&lt; BACK](http://www.reddit.com/r/steroids/wiki/homebrew/list)
+# [< BACK](http://www.reddit.com/r/steroids/wiki/homebrew/list)

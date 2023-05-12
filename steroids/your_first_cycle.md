@@ -25,11 +25,11 @@ If you choose to do a orals-only cycle against all sound advice, you should look
 
 #### What About A Prohormone Or Designer Steroid Cycle?
 
-Again. You can. Should you? Probably not. Prohormones &amp; Designer Steroids are going to suppress your natural Test pretty hard. 
+Again. You can. Should you? Probably not. Prohormones & Designer Steroids are going to suppress your natural Test pretty hard. 
 
 **You need to take ANY CYCLE*** **together with a base of Testosterone to replace your natural production, which will be shut down. Without a testosterone base you may find you don't feel the best or you feel [symptoms of low testosterone](/steroids/trt/list.md#wiki_symptoms_of_low_testosterone)**. 
 
-Prohormones &amp; Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/steroids/clomid.md) or the sorts) for a [real PCT](/steroids/thecycle/pct.md). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
+Prohormones & Designer Steroids are no better (or even worse in some cases) than using a traditional oral steroid. The supplemental PCT crap they sell with these Prohormones is predominantly bogus stuff and if you choose to do a Prohormone / Designer Steroid cycle, you should at least look into getting a SERM (like [Nolvadex](/steroids/nolvadex.md)/[Clomid](/steroids/clomid.md) or the sorts) for a [real PCT](/steroids/thecycle/pct.md). You should consider reading through this Wiki and *doing a real cycle, complete with Testosterone, as you'll find better results, as well as feeling better overall too*.
 
 #### Is my gear bunk?
 
@@ -101,30 +101,30 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 * An Aromatase Inhibitor (AI) like [Arimidex](/steroids/arimidex.md) or [Aromasin](/steroids/aromasin.md)
   
 * PCT Medication  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- [/r/steroids Recomended PCT](/steroids/thecycle/pct.md#wiki_pct_protocols)
+    |--- [/r/steroids Recomended PCT](/steroids/thecycle/pct.md#wiki_pct_protocols)
 
 * [Syringes and Needles](/steroids/thecycle/injecting.md#wiki_pin_suppliers)  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Luer Lock Syringes  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 21g Needles (0.5" to 1.5") for drawing  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g-31g Needles (1" to 1.5") for injecting Glutes  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- 25g-31g Needles (0.5" to 1") for injecting anywhere else (Not necessary if only injecting Glutes.)  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Alcohol swabs  
+    |--- Luer Lock Syringes  
+    |--- 21g Needles (0.5" to 1.5") for drawing  
+    |--- 25g-31g Needles (1" to 1.5") for injecting Glutes  
+    |--- 25g-31g Needles (0.5" to 1") for injecting anywhere else (Not necessary if only injecting Glutes.)  
+    |--- Alcohol swabs  
 
 ### Optional Items
 
 * **[An Oral Steroid](/steroids/your_first_cycle.md#wiki_what_oral_steroid_should_i_use.3F)**
 
 * [HCG](/steroids/hcg.md) (Learn more on [the PCT wiki page](/steroids/thecycle/pct.md))  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Bacteriostatic Water  
+    |--- Bacteriostatic Water  
 
 * [SERM in case of a gyno flair-up](/steroids/the_estrogen_handbook.md#wiki_nolvadex_vs._raloxifene_for_gyno)  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Raloxifene  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; **or**  
-&amp;nbsp;&amp;nbsp;&amp;nbsp; |--- Nolvadex
+    |--- Raloxifene  
+    **or**  
+    |--- Nolvadex
 
 ## Why 4 Vials of Testosterone?
 
-On a lot of forums the first cycle advised to new steroid users is 10-12 weeks. 10 weeks is slightly too little. 12 weeks is fine, but you will have Test left in the vial. For this reason, you may go up to 16–20 weeks. Given this is your first cycle and will likely yield some of the most dramatic results, (assuming diet, training and rest are on point) you want to strike a balance between maximizing your gain and minimizing the time it will take to recover from the cycle and any potential side effects. It is always recommended to at least PCT for your first cycle vs. Blast &amp; Cruise.
+On a lot of forums the first cycle advised to new steroid users is 10-12 weeks. 10 weeks is slightly too little. 12 weeks is fine, but you will have Test left in the vial. For this reason, you may go up to 16–20 weeks. Given this is your first cycle and will likely yield some of the most dramatic results, (assuming diet, training and rest are on point) you want to strike a balance between maximizing your gain and minimizing the time it will take to recover from the cycle and any potential side effects. It is always recommended to at least PCT for your first cycle vs. Blast & Cruise.
 
 ### Testosterone Enanthate Or Testosterone Cypionate?
 
@@ -263,7 +263,7 @@ If you're injecting on Mondays and Thursdays:
 
 4.	[Nakazawa R, Baba K, Nakano M, Katabami T, Saito N. Hormone Profiles after Intramuscular Injection of Testosterone Enanthate in Patients with Hypogonadism. In: Endocrine Journal 2006, 53 (3), 305-310](https://www.jstage.jst.go.jp/article/endocrj/53/3/53_3_305/_pdf)
 
-5.	[Kishore M. Lakshman, Beth Kaplan, Thomas G. Travison, Shehzad Basaria, Philip E. Knapp, Atam B. Singh, Michael P. LaValley, Norman A. Mazer, Shalender Bhasin; The Effects of Injected Testosterone Dose and Age on the Conversion of Testosterone to Estradiol and Dihydrotestosterone in Young and Older Men, The Journal of Clinical Endocrinology &amp; Metabolism, Volume 95, Issue 8, 1 August 2010, Pages 3955–3964](https://academic.oup.com/jcem/article/95/8/3955/2597323)
+5.	[Kishore M. Lakshman, Beth Kaplan, Thomas G. Travison, Shehzad Basaria, Philip E. Knapp, Atam B. Singh, Michael P. LaValley, Norman A. Mazer, Shalender Bhasin; The Effects of Injected Testosterone Dose and Age on the Conversion of Testosterone to Estradiol and Dihydrotestosterone in Young and Older Men, The Journal of Clinical Endocrinology & Metabolism, Volume 95, Issue 8, 1 August 2010, Pages 3955–3964](https://academic.oup.com/jcem/article/95/8/3955/2597323)
 
 6.	[Cohan P.G.; Aromatase, adiposity, aging and disease. The hypogonadal-metabolic-atherogenic-disease and aging connection. In: Medical Hypotheses, Volume 56, Issue 6, June 2001, Pages 702-708](https://www.ncbi.nlm.nih.gov/pubmed/11399122)
 
@@ -281,15 +281,15 @@ This isn't required, but it is definitely **RECOMMENDED.** It's always better to
 
 The injection process itself is relatively straight forward. Perhaps nothing causes more anxiety for AAS users than their 1st injection. This fear is far more psychological than physical, as the act of performing an injection, especially when utilizing proper technique and the correct pin size, can be relatively painless. Some muscle groups are more prone to causing discomfort than others and the possibility of hitting a nerve, scar tissue, or a sore spot is a reality, but in general, an injection should not be considered a “painful” experience.
 
-&gt; [**To Learn Step-By-Step On How To Inject Safely, Click Here**](/steroids/thecycle/injecting.md#wiki_safe_injecting_technique)
+> [**To Learn Step-By-Step On How To Inject Safely, Click Here**](/steroids/thecycle/injecting.md#wiki_safe_injecting_technique)
 
 For a first cycle, the easiest not to mess up is [Glutes](/steroids/thecycle/injecting.md#wiki_glutes_.28dorsogluteal.29), a nice big muscle with decent circulation and low risk of hitting any nerve clusters. The twisting and turning can be a problem for some in which case shooting [Ventro Glutes](/steroids/thecycle/injecting.md#wiki_ventro_glutes) is another option. If that is too hard to find for you, try [Quads](/steroids/thecycle/injecting.md#wiki_quads_.28vastus_lateralis.29), but there is a slightly larger margin for error in regard to hitting nerve clusters and puncturing large veins.  But you should aim to have as many injection sites as possible to avoid building scar tissue.
 
-&gt; [**Visit our injection page to learn all about Safe Injection Technique.**](/steroids/thecycle/injecting.md)
+> [**Visit our injection page to learn all about Safe Injection Technique.**](/steroids/thecycle/injecting.md)
 
 ### Post Injection Pain
 
-&gt; [**To Learn All About Potential Post Injection Pain, Click Here**](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29)
+> [**To Learn All About Potential Post Injection Pain, Click Here**](/steroids/thecycle/injecting.md#wiki_pip_.28post_injection_pain.29)
 
 ## Frontloading Test?
 
@@ -303,7 +303,7 @@ No, this is your first cycle and we want to keep things as simple as possible, t
 
 Again, an oral steroid is **completely optional**. Oral steroids can add greater complexity to cycles if we start throwing in more compounds. 
 
-&gt; *It's suggested either to use* ***dry orals*** *or, to use aromatizing ones such as dianabol only if you can commit to properly managing the added complexity in managing your estrogen levels.*
+> *It's suggested either to use* ***dry orals*** *or, to use aromatizing ones such as dianabol only if you can commit to properly managing the added complexity in managing your estrogen levels.*
 
 **If one has preexisting pubertal gyno, or if you are prone to massive aromatization, there's better choices**. Aromatizing orals might be better as finishers **once you've already learned E2 management**. But if you can keep your estrogen under control, and aren't afraid of the added complexity, they can certainly be fun to run in the beginning. 
 
@@ -355,9 +355,9 @@ Off Days: Use the Half-Life Method.
 
 It is suggested on /r/steroids that you should at least inject every three days (E3D) or every 3.5 days (E3.5D) to keep blood levels as stable as possible for Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/steroids/testosterone_cypionate.md). This will minimize side effects and make controlling estrogen easier. You may do once a week, but it is not optimal.
 
-&gt; [Here is an example of blood levels with 500mg of Test Enanthate injected once a week (E7D)](https://imgur.com/a/Ohgt6). This was plotted with [SteroidPlotter](http://www.steroidplotter.com/).
+> [Here is an example of blood levels with 500mg of Test Enanthate injected once a week (E7D)](https://imgur.com/a/Ohgt6). This was plotted with [SteroidPlotter](http://www.steroidplotter.com/).
 
-&gt; [Here is an example of 250mg Test Enanthate injected every 3.5 days](https://imgur.com/a/LwCgI), also plotted with [SteroidPlotter](http://steroidplotter.com/). As you can see the release rate, in which Testosterone is released into your blood, is more stable.
+> [Here is an example of 250mg Test Enanthate injected every 3.5 days](https://imgur.com/a/LwCgI), also plotted with [SteroidPlotter](http://steroidplotter.com/). As you can see the release rate, in which Testosterone is released into your blood, is more stable.
 
 ## Post Cycle Therapy (PCT)
 
@@ -403,7 +403,7 @@ It is recommended to eat about TDEE + 30%. Go find multiple TDEE calculators and
 
 ## Dosing 
 
-&gt; **Note**: For this example we are using the time frame for the 15 weeks. If you wish to end it sooner, obviously all your ending weeks will change and the week you start PCT will as well.
+> **Note**: For this example we are using the time frame for the 15 weeks. If you wish to end it sooner, obviously all your ending weeks will change and the week you start PCT will as well.
 
 * **Weeks 1-15:** Testosterone E or C, 250 mg **every 3 or 3.5 days** (E3D or E3.5D) for a total of **500 mg per week**.
 
@@ -414,7 +414,7 @@ It is recommended to eat about TDEE + 30%. Go find multiple TDEE calculators and
 
 **Oral Steroid Options / Additives:**  
 
-Test E &amp; C takes about six weeks to fully saturate the blood (*i.e.,* kick in). If you don't want to wait that long and you want to aid in your bulk, a popular thing to do is start the oral from day 1 (*kickstarting*). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (*finisher*). You can run your oral anytime during the cycle though. You may pick **one** of the following:
+Test E & C takes about six weeks to fully saturate the blood (*i.e.,* kick in). If you don't want to wait that long and you want to aid in your bulk, a popular thing to do is start the oral from day 1 (*kickstarting*). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (*finisher*). You can run your oral anytime during the cycle though. You may pick **one** of the following:
 
 * **For 6 Weeks:** [Dianabol (Dbol)](/steroids/dianabol.md), 30–60 mg, ED **or**  
 * **For 6 Weeks:** [Anadrol (Adrol)](/steroids/anadrol.md), 50–100 mg, ED **or**  
@@ -422,7 +422,7 @@ Test E &amp; C takes about six weeks to fully saturate the blood (*i.e.,* kick i
 * **For 6 Weeks:** [Turinabol (Tbol)](/steroids/turinabol.md), 40–80 mg, ED **or** 
 * **For 6 Weeks:** [Anavar (Var)](/steroids/oxandrolone.md), 30–50 mg, ED
 
-&gt; **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut) as Turinabol (Tbol).
+> **Note**: These are just some of the suggested orals based on their properties. You may also use any of the orals in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut). Anecdotally, some have reported just as good (if not better) size gains from the orals listed in [The Basic Cut](/steroids/thecycle/examples.md#wiki_the_basic_cut) as Turinabol (Tbol).
 
 ### Why 500mg?
 

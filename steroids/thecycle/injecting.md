@@ -5,7 +5,7 @@
 * **Intramuscular injection**: *An injection into muscle tissue.*
 * **Subcutaneous injection**: *An injection into the region between the skin and the muscle, also known as a “**SubQ**” injection*. 
 
-AS far as performance enhancement is concerned, there are two primary injection methods. These are the **intramuscular** injection method and the **subcutaneous** injection method. An intramuscular injection is exactly as it sounds; it is an injection given directly into a muscle. A subcutaneous injection is an injection which is placed between the skin and the muscle. Which method is utilized will depend on the drug being administered and the goals &amp; preferences of the user. 
+AS far as performance enhancement is concerned, there are two primary injection methods. These are the **intramuscular** injection method and the **subcutaneous** injection method. An intramuscular injection is exactly as it sounds; it is an injection given directly into a muscle. A subcutaneous injection is an injection which is placed between the skin and the muscle. Which method is utilized will depend on the drug being administered and the goals & preferences of the user. 
 The overwhelming majority of individuals choose to administer their AAS by way of IM (intramuscular) injection, although they can be injected subcutaneously, if desired, although it is not recommended to inject over ½ cc/mL of AAS. [HGH](/steroids/growth_hormone.md), Insulin, HCG, and [Peptides](/steroids/compounds/peptides.md)) are typically administered subcutaneously.
 
 ## The Injection
@@ -16,7 +16,7 @@ The injection process itself is relatively straightforward. Perhaps nothing caus
 
 For a beginner, the many different types of syringes and their associated terminology can be confusing. Let us look at these differences which define the various types of syringes. Generally, syringes are defined by the following 3 things: Gauge size, how many cc’s a syringe can hold, and needle length. By learning what these things mean, you will have no problem selecting the appropriate syringe for your needs.
 
-You may have heard of a syringe type known as an “insulin syringe” or *"slin pin."* Regardless of whether a syringe is classified as an insulin syringe or not, **ALL** syringes, including insulin syringes, are categorized by the 3 variables listed above. Insulin syringes are named as such due to the original purpose for which they were produced, which was to administer insulin to diabetics. Because diabetics will often need to perform multiple daily injections into the SubQ region, a smaller &amp; shorter needed was needed in order to increase patient compliance through more tolerable, and relatively painless, injections.
+You may have heard of a syringe type known as an “insulin syringe” or *"slin pin."* Regardless of whether a syringe is classified as an insulin syringe or not, **ALL** syringes, including insulin syringes, are categorized by the 3 variables listed above. Insulin syringes are named as such due to the original purpose for which they were produced, which was to administer insulin to diabetics. Because diabetics will often need to perform multiple daily injections into the SubQ region, a smaller & shorter needed was needed in order to increase patient compliance through more tolerable, and relatively painless, injections.
 
 ### The 3 Variables
 
@@ -67,7 +67,7 @@ The recommendations below are the “average” needle lengths used for each bod
 * **Traps:** ½-1 inch
 * **Lats:** 1 inch
 
-### CC &amp; mL
+### CC & mL
 
 The term “cc” stands for cubic centimeters and is a unit of measurement for determining injection volume. It is important to note that the term “cc” and “mL” (milliliter) are identical and interchangeable with each other. 1 cc = 1 mL.
 
@@ -89,7 +89,7 @@ Most 23-27 g syringes hold 3 cc’s, although some will occasionally hold less, 
 
 One issue which may eventually arise if the individual continues injecting AAS long enough is the issue of scar tissue build-up. Scar tissue is a dense, fibrous, connective tissue which forms over a wound or cut, either external or internal. In the case of injection, the scar tissue formed is internal. Scar tissue can impede contraction (make the muscle weaker), impair local muscle growth, decrease flexibility, and increase the possibility of re-injury.
 
-Some scar tissue formation is unavoidable, as every time an injection is administered, scar tissue is formed. The bottom line is that excess &amp; problematic scar tissue is not something you want to have to deal with at any point. Fortunately, we can take steps to minimize the appearance of scar tissue through rotating injection sites. Scar tissue is much more likely to form to a greater degree if you repeatedly and frequently use the same injection site. For this reason, it is a good idea to start a “rotation”, in which injections sites are routinely transferred from one site to the next in a systematic fashion. Typically, the individual will select at least 3 body parts to include in this rotation, while also altering the sites within each bodypart, in order to decrease the number of times the same area is injected into per rotation.
+Some scar tissue formation is unavoidable, as every time an injection is administered, scar tissue is formed. The bottom line is that excess & problematic scar tissue is not something you want to have to deal with at any point. Fortunately, we can take steps to minimize the appearance of scar tissue through rotating injection sites. Scar tissue is much more likely to form to a greater degree if you repeatedly and frequently use the same injection site. For this reason, it is a good idea to start a “rotation”, in which injections sites are routinely transferred from one site to the next in a systematic fashion. Typically, the individual will select at least 3 body parts to include in this rotation, while also altering the sites within each bodypart, in order to decrease the number of times the same area is injected into per rotation.
 
 ## Injection Frequency
 
@@ -112,16 +112,16 @@ Below is a list of some common esters used, along with the most commonly recomme
 
 **Note**: These are just suggestions. If you choose to do less frequent injections you may be more susceptible to side effects due to fluctuations in blood levels. If you wish to inject more frequently, regardless of ester, then it is perfectly fine; it will only help blood levels be more stable.
 
-Some injectable AAS have no ester, such as the various suspensions &amp; bases, such as Injectable Anadrol, Injectable Winstrol, Trenbolone No Ester (TrNE) or Testosterone No Ester (TNE). These compounds are typically injected 30 to 90 minutes preworkout.
+Some injectable AAS have no ester, such as the various suspensions & bases, such as Injectable Anadrol, Injectable Winstrol, Trenbolone No Ester (TrNE) or Testosterone No Ester (TNE). These compounds are typically injected 30 to 90 minutes preworkout.
 
 ## Sterilization
 
-Sterilization is a critically important part of the injection process, as unsanitary injection practices pose the greatest risk in terms of acquiring serious infections &amp; abscesses. As described above, these are health problems you want to avoid at all costs and investing a little extra time and consideration into this aspect of your program can go a long way towards ensuring you remain problem free.
+Sterilization is a critically important part of the injection process, as unsanitary injection practices pose the greatest risk in terms of acquiring serious infections & abscesses. As described above, these are health problems you want to avoid at all costs and investing a little extra time and consideration into this aspect of your program can go a long way towards ensuring you remain problem free.
 
-There are 3 key components you have control over and which need to remain sterile at all times. They are the needle(s) being used, the injection site(s), and the rubber stopper(s) of each vial you will be drawing from. It is your job to make sure these components do not come in contact with anything other than the intended object. When it comes to ensuring sterility, alcohol is your weapon of choice. Alcohol kills more germs &amp; bacteria safely, than any other household product. 
+There are 3 key components you have control over and which need to remain sterile at all times. They are the needle(s) being used, the injection site(s), and the rubber stopper(s) of each vial you will be drawing from. It is your job to make sure these components do not come in contact with anything other than the intended object. When it comes to ensuring sterility, alcohol is your weapon of choice. Alcohol kills more germs & bacteria safely, than any other household product. 
 Sterilizing an injection site or object is a simple process. Prior to sterilization, clean the area of any debris so that it appears visually clean. Afterwards, grab a alcohol pad or wet a cotton swab with alcohol and wipe the intended area. After the area/object has been sterilized, it should not come in contact with any other unsterilized object.
 
-&gt; **Note**: The **World Health Organization** (**WHO**) states in their latest advice that **swabbing with alcohol** beforehand, like aspiration, is an **unnecessary** and outdated practice so long as the surface is visibly clean.
+> **Note**: The **World Health Organization** (**WHO**) states in their latest advice that **swabbing with alcohol** beforehand, like aspiration, is an **unnecessary** and outdated practice so long as the surface is visibly clean.
 
 According to the medical establishment, an injection site should be covered with an appropriate bandage post-injection. While this will help further ensure that bacteria does not enter the injection site and cause infection, this practice is rarely employed among AAS users, typically with little to no negative consequences.
 
@@ -147,7 +147,7 @@ The primary reason for using two different needles is due to the delicacy of nee
 
 A secondary reason for using one needle to draw with and another to inject is that it can take a long time to draw a few cc’s of oil through a 25g. syringe or smaller. By using a lower gauge number to draw with (usually 18-22g.), it cuts down on the amount of time required to draw the oil into the barrel. It's recommended using no smaller than a 21-22g pin to draw with is because bigger pins can damage the rubber stopper after repeated uses, potentially allowing little pieces of rubber to break away from the rubber stopper and fall into the vial. A 21-22g pin is sufficient for quick drawing and will more thoroughly maintain the integrity of the rubber stopper.
 
-### Insulin Needles &amp; BackLoading
+### Insulin Needles & BackLoading
 
 While performing a sub-q inject with a dull 39-30 g. insulin syringe is not going to be as unpleasant as performing an I.M. injection with a dull 23 g. syringe, the user can still take steps to ensure that ever injection is performed with a fresh, sharp needle. Due to insulin syringes being so much smaller and more fragile than their 23-25 g. counterparts, they dull much more quickly. The act of pushing an insulin syringe through a rubber stopper even one time will significantly dull the needle head. 
 
@@ -165,13 +165,13 @@ In addition, most individuals will place their used syringes in a medical sharps
 
 ## Aspiration
 
-&gt; **Note**: The **World Health Organization** (**WHO**) states in their latest advice that aspirating is unnecessary, and frequently causes more harm than good.
+> **Note**: The **World Health Organization** (**WHO**) states in their latest advice that aspirating is unnecessary, and frequently causes more harm than good.
 
 The act as aspirating was traditionally performed as safety measure to prevent one from accidentally injecting directly into a blood vessel. In order to perform this simple procedure, one must have fully inserted the needle into the injection site. Once the needle has been fully inserted, but before depressing the plunger, gently draw (pull) back on the plunger by a few millimeters. If no blood enters the barrel, you are safe to proceed with the injection. If blood pours back into the barrel, you have entered a blood vessel and need to relocate the syringe.
 
 Seeing traces or specks of blood is not indicative that you have entered a blood vessel. Typically, when a vein (blood vessel) has been threaded, blood will pour into the barrel when pulling back the plunger. If you do thread a blood vessel, you do not necessarily have to completely remove the syringe and start over again. First, try pulling the needle out 1/4-1/2 inch and then try aspirating again. If blood does not pour into the barrel after this 2nd attempt, then you have exited the blood vessel and are safe to proceed. If blood does continue to enter the barrel, you will have to remove the needle and find a new injection site. 
 
-&gt; ***Aspiration is no longer recommended by any of the major health organizations***.
+> ***Aspiration is no longer recommended by any of the major health organizations***.
 
 ### Is Aspirating Required?
 
@@ -183,13 +183,13 @@ The act of aspirating also involves significant movement which causes further tr
 
 **According to the CDC:**
 
-&gt; **Aspiration**: “Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites.”
+> **Aspiration**: “Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites.”
 
 **STTI International Nursing Research Congress Vancouver, July 2009:**
 
-&gt;"Aspiration is **not indicated** for SC injections."
+>"Aspiration is **not indicated** for SC injections."
 
-&gt;"Aspiration is **not indicated** for IM injections."
+>"Aspiration is **not indicated** for IM injections."
 
 **Organizations which state aspiration is not necessary:**
 
@@ -242,7 +242,7 @@ The act of aspirating also involves significant movement which causes further tr
 
 2. **Clean The Vials**: Wipe all of the vial tops with alcohol pad/swab, and let them dry. 
 
-3. **Draw Air &amp; Inject Air**: Uncap the draw needle and fill the syringe with as much air as you plan to withdraw in liquid for the 1st vial. (i.e. If you plan to inject 1.5 mL/cc of liquid, you will draw 1.5 mL/cc of air.) Then, Inject the air into the vial and pull out the needle. Repeat for each vial.
+3. **Draw Air & Inject Air**: Uncap the draw needle and fill the syringe with as much air as you plan to withdraw in liquid for the 1st vial. (i.e. If you plan to inject 1.5 mL/cc of liquid, you will draw 1.5 mL/cc of air.) Then, Inject the air into the vial and pull out the needle. Repeat for each vial.
 
 4. **Draw The Liquid**: Pick the "most important" compound to draw first. (i.e. the one that I want the dose to be the most exact). Load the pin with that compound. Going down the line of "importance", in the rest.  
 *Note:* Pick the "most important" compound to inject air into last. This way you can immediately start drawing after injecting the air.
@@ -265,7 +265,7 @@ The act of aspirating also involves significant movement which causes further tr
 
 ### Ampoules
 
-&gt; [**This is a very helpful video.**](https://www.youtube.com/watch?v=Vs8nuO8N4Fs)
+> [**This is a very helpful video.**](https://www.youtube.com/watch?v=Vs8nuO8N4Fs)
 
 1. **Grasp The Ampule**: Grasp the ampule between thumb and forefinger of one hand.
 
@@ -401,7 +401,7 @@ The purpose of the below injection techniques is to seal the injected compound d
 
 ### Z-track Technique
 
-The Z-track method requires temporarily displacing the skin &amp; subcutaneous tissue prior to injection and immediately releasing the tissue post-injection. In order to perform the Z-track method, prepare your syringe and be ready to inject. Once the syringe is in hand, use your free hand to pull the skin at the injection site ½-1 inch away from its original location. While continuing to hold the skin in this stretched position, administer the injection into the original location. Immediately after removing the syringe from the injection site, release the skin which was being held in place. The Z-track method works best at locations where there is a greater amount of lose skin. Utilizing locations with taut skin will be more difficult.
+The Z-track method requires temporarily displacing the skin & subcutaneous tissue prior to injection and immediately releasing the tissue post-injection. In order to perform the Z-track method, prepare your syringe and be ready to inject. Once the syringe is in hand, use your free hand to pull the skin at the injection site ½-1 inch away from its original location. While continuing to hold the skin in this stretched position, administer the injection into the original location. Immediately after removing the syringe from the injection site, release the skin which was being held in place. The Z-track method works best at locations where there is a greater amount of lose skin. Utilizing locations with taut skin will be more difficult.
 
 [**Very Helpful Video To See Technique**](https://www.youtube.com/watch?v=mNhyufrdeE8)
 
@@ -508,7 +508,7 @@ This spot may feel hard, almost like bone; but as long as you stay in the prescr
 
 When you're confident you've found the correct spot begin your injection routine.
 
-[**Excellent Video On The Process Of Finding Vento Glutes**](https://www.youtube.com/watch?v=Fqps25XBj3I&amp;feature=youtu.be) 
+[**Excellent Video On The Process Of Finding Vento Glutes**](https://www.youtube.com/watch?v=Fqps25XBj3I&feature=youtu.be) 
 
 ### Quads (Vastus Lateralis)
 
@@ -520,7 +520,7 @@ When injecting into the Quads it can be a bit trickier. Never inject into the in
 
 ### Delts (Deltoid)
 
-When injecting into the delts, all 3 heads are suitable, although the side &amp; rear heads are a bit more comfortable, on average. 
+When injecting into the delts, all 3 heads are suitable, although the side & rear heads are a bit more comfortable, on average. 
 
 [Diagram For Injection Area](https://imgur.com/a/FST0z)  
 [Delts Injection Photos](https://imgur.com/a/0sTGo) (*Thanks to [Spot Injections](http://www.spotinjections.com/index3.htm)*)
@@ -534,7 +534,7 @@ The diagram below shows the places on your Chest (Pec) where you can inject. In 
 [Diagram For All Three Injection Areas](https://imgur.com/a/Nl3zO)  
 [Chest Injection Photos (The Upper Options)](https://imgur.com/a/TrZFi) (*Thanks to [Spot Injections](http://www.spotinjections.com/index3.htm)*)
 
-[**Helpful Chest Injection Video (He Does The Lowest Option)**](http://tinypic.com/player.php?v=307nrzr%3E&amp;s=8#.WJfLGrYrKgR)
+[**Helpful Chest Injection Video (He Does The Lowest Option)**](http://tinypic.com/player.php?v=307nrzr%3E&s=8#.WJfLGrYrKgR)
 
 ### Lats (Latissimus)
 
@@ -590,7 +590,7 @@ Site | Volume |
 |Triceps | 1.5 mL/cc
 |Biceps | 1.5 mL/cc
 |Calves | 1.5 mL/cc
-|Subcutaneous (SubQ) | &lt; .5 mL/cc
+|Subcutaneous (SubQ) | < .5 mL/cc
 
 ## Frequently Asked Questions (FAQ)
 
@@ -610,13 +610,13 @@ Below are common questions and answers regarding injecting.
 
 **According to the CDC:**
 
-&gt; **Aspiration** - Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites."
+> **Aspiration** - Aspiration is the process of pulling back on the plunger of the syringe prior to injection to ensure that the medication is not injected into a blood vessel. Although this practice is advocated by some experts, the procedure is not required because no large blood vessels exist at the recommended injection sites."
 
 **STTI International Nursing Research Congress Vancouver, July 2009:**
 
-&gt;"Aspiration is not indicated for SC injections."
+>"Aspiration is not indicated for SC injections."
 
-&gt;"Aspiration is not indicated for IM injections."
+>"Aspiration is not indicated for IM injections."
 
 **Organizations which state aspiration is not necessary:**
 
@@ -670,7 +670,7 @@ Lastly, the tape-method can be employed, as well. The tape method involves tapin
 
 ## References
 
-  *Atkinson, W. L., Pickering, L. K., Schwartz, B., Weniger, B. G., Iskander, J. K., &amp; Watson, J. C. (2002). General Recommendations on Immunization: Recommendations of the Advisory Committee on Immunization Practices (ACIP) and the American Academy of Family Physicians (AAFP). Morbidity and Mortality Weekly Report, 51, RR2. 1-33.*
+  *Atkinson, W. L., Pickering, L. K., Schwartz, B., Weniger, B. G., Iskander, J. K., & Watson, J. C. (2002). General Recommendations on Immunization: Recommendations of the Advisory Committee on Immunization Practices (ACIP) and the American Academy of Family Physicians (AAFP). Morbidity and Mortality Weekly Report, 51, RR2. 1-33.*
 
   *Chiodini, J. (2001). Best practice in vaccine administration. Nursing Standard, 16(7), 35-38.*
 
@@ -678,29 +678,29 @@ Lastly, the tape-method can be employed, as well. The tape method involves tapin
 
   *Gammel, J. A. (1927). Arterial embolism: an unusual complication following the intramuscular administration of bismuth. Journal of the American Medical Association, 88, 998-1000.*
 
- *Ipp, M., Taddio, A., Sam, J., Goldbach, M., &amp; Parkin, P. C. (2007). Vaccine related pain: randomized controlled trial of two injection technique Archives of Disease in Childhood,92,1105-1108.*
+ *Ipp, M., Taddio, A., Sam, J., Goldbach, M., & Parkin, P. C. (2007). Vaccine related pain: randomized controlled trial of two injection technique Archives of Disease in Childhood,92,1105-1108.*
 
-  *Li, J.T., Lockey, R. F., Bernstein, I. L., Portnoy, J. M., &amp; Nicklas, R. A. (2003). Allergen immunotherapy: A practice parameter. Annuals of Allergy, Asthma, &amp; Immunology, 1-40.*
+  *Li, J.T., Lockey, R. F., Bernstein, I. L., Portnoy, J. M., & Nicklas, R. A. (2003). Allergen immunotherapy: A practice parameter. Annuals of Allergy, Asthma, & Immunology, 1-40.*
 
  *Livermore, P. (2003). Teaching home administration of sub-cutaneous methotrexate. Paediatric Nursing, 15(3), 28-32.*
 
-  *Middleton, D. B., Zimmerman, R. K., &amp; Mitchell, K. B. (2003). Vaccine schedules and procedures, 2003. The Journal of Family Practice, 52(1), S36-S46.*
+  *Middleton, D. B., Zimmerman, R. K., & Mitchell, K. B. (2003). Vaccine schedules and procedures, 2003. The Journal of Family Practice, 52(1), S36-S46.*
 
-  *Nicoli, L. H., &amp; Hesby, A. (2002). Intramuscular injection: An integrative research review and guidelines for evidence-based practice. Applied Nursing Research,16(2), 149-162.*
+  *Nicoli, L. H., & Hesby, A. (2002). Intramuscular injection: An integrative research review and guidelines for evidence-based practice. Applied Nursing Research,16(2), 149-162.*
 
- *Ozel, A., Yavuz, H., &amp; Erkul, I. (1995). Gangrene after penicillin injection: A case report. The Turkish Journal of Pediatrics, 37(1), 567-71.*
+ *Ozel, A., Yavuz, H., & Erkul, I. (1995). Gangrene after penicillin injection: A case report. The Turkish Journal of Pediatrics, 37(1), 567-71.*
 
   *Peragallo-Dittko, V. (1995). Aspiration of the subcutaneous insulin injection: Clinical evaluation of needle size and amount of subcutaneous fat. The Diabetes Educator, 21(4), 291-296.*
 
-  *Roger, M. A., &amp; King, L. (2000). Drawing up and administering intramuscular injections: A review of the literature. Journal of Advanced Nursing, 31(3), 574-582.*
+  *Roger, M. A., & King, L. (2000). Drawing up and administering intramuscular injections: A review of the literature. Journal of Advanced Nursing, 31(3), 574-582.*
 
-   *Talbert, J. L., Haslam, R. H. &amp; Haller, J. A. (1967). Gangrene of the foot following intramuscular injection in the lateral thigh: A case report with recommendations for prevention. The Journal of Pediatrics, 70(1), 110-114.*
+   *Talbert, J. L., Haslam, R. H. & Haller, J. A. (1967). Gangrene of the foot following intramuscular injection in the lateral thigh: A case report with recommendations for prevention. The Journal of Pediatrics, 70(1), 110-114.*
 
  *Workman, B. (1999). Safe injection techniques. Nursing Standard, 13 (39), 47-53.*
 
  *World Health Organization (2004). Immunization in Practice, Module 6: Holding an immunization session. Immunization in Practice: A practical resource guide for health workers –2004 update,1-29.*
 
- *Center for Nursing History at Misericordia University: http://www.misericordia.edu17. Levels of Evidence, Canadian Medical Association &amp; Centre for Evidence-Based Medicine (2001). Available at:http://www.cebm.net/index18. Melnyk, B. M., &amp; Fineout-Overholt, E. (2005). Evidence-Based Practice in Nursing &amp; Healthcare: A Guide to Best Practice. Philadelphia: Lippincott, Williams &amp; Wilkins.*
+ *Center for Nursing History at Misericordia University: http://www.misericordia.edu17. Levels of Evidence, Canadian Medical Association & Centre for Evidence-Based Medicine (2001). Available at:http://www.cebm.net/index18. Melnyk, B. M., & Fineout-Overholt, E. (2005). Evidence-Based Practice in Nursing & Healthcare: A Guide to Best Practice. Philadelphia: Lippincott, Williams & Wilkins.*
 
 [*Reference For A Lot Of Info Here*](http://job-geek.blogspot.com/2012/08/steroid-injection-guide.html)
 

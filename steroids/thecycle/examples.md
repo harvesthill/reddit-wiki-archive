@@ -39,7 +39,7 @@ The Basic Cut differs very slightly from [The Basic Bulk](/steroids/your_first_c
 * [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/) *11.4% increase in resting energy expenditure among healthy subjects with Salbutamol*
 * [Combination of salbutamol, caffeine and high-calorie diet: more muscle, less fat](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html)
 
-&gt;*During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
+>*During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
 
 ***Salbutamol Stack***
 
@@ -71,7 +71,7 @@ Another thing to consider is using a **ECA** (**ephedrine, caffeine, aspirin**) 
 
 * **Last 4-6 Weeks:** [ECA or EC Stack](/steroids/eca_stack.md), Up To 3xED
 
-If you use Test E &amp; C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
+If you use Test E & C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
 
 * **For 6 Weeks:** [Winstrol (Winny)](/steroids/winstrol.md), 40-80 mg, ED **or**
 * **For 6 Weeks:** [Epistane (Epi)](/steroids/epitiostanol.md), 40-80 mg, ED **or**
@@ -143,7 +143,7 @@ Add in the following to the Silver Standard Cutting Cycle:
 
 ### Contra Costa Contest Prep
 
-Taken from [this video](https://www.youtube.com/watch?v=1WoRi3oI16c&amp;feature=youtu.be) (video taken down) by [Michael Pacini](http://contests.npcnewsonline.com/contests/2015/npc_contra_costa_championships/michael_pacini/index.php).  The weeks column is for the number of weeks away from your contest.
+Taken from [this video](https://www.youtube.com/watch?v=1WoRi3oI16c&feature=youtu.be) (video taken down) by [Michael Pacini](http://contests.npcnewsonline.com/contests/2015/npc_contra_costa_championships/michael_pacini/index.php).  The weeks column is for the number of weeks away from your contest.
 
 * **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. Nobody should be taking nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
 

@@ -14,7 +14,7 @@ The efficacy of the enzymes used in drug metabolism are age-dependent. In newbor
 
 ## Anabolic Androgenic Steroids
 
-### C17-Alpha Alkylation &amp; What It Does
+### C17-Alpha Alkylation & What It Does
 
 It's common knowledge that oral steroids are known as being liver toxic, while injectable anabolic steroids are not (at least not to as great of an extent as orals are). There is a reason for this, and that is: C17-alpha alkylation (C17aa). Without the C17aa modification, very little of the anabolic steroid when ingested will survive hepatic metabolism (liver metabolism), and not enough of it will reach the bloodstream to produce any noticeable effects. It was then discovered at one point, that by modifying the chemical structure by adding a methyl group (also known as an alkyl group) to the 17th carbon on the steroid structure (also known as carbon 17-alpha), it would allow the anabolic steroid to become more resistant to the hepatic metabolism that would previously render the majority of the ingested steroid into inactive metabolites. This chemical bonding of a methyl group onto the 17th carbon is what is known as C17-alpha alkylation. It is because of C17-alpha alkylation, that the anabolic steroid becomes orally active and bioavailable – without it, the anabolic steroid would not survive liver metabolism. However, the negative downside in this case is that of increased hepatotoxicity (increased liver toxicity). C17-alpha alkylation allows an anabolic steroid to become more resistant to hepatic breakdown, and any compound that is further resistant to hepatic breakdown will always have greater hepatotoxicity associated with it for various reasons. But how does this happen?
 
@@ -30,11 +30,11 @@ Drug induced hepatotoxicity can have many causes. Some medications cause direct 
 
 These causes are categorized in seven general categories based on the mechanism of hepatotoxicity. The main categories where AAS and ancillaries are implicated are:
 
-* **Steatosis**: Steatosis is the accumulation of triglycerides in the liver. Liver function tests (LFTs) are unreliable when it comes to the diagnosis of hepatic steatosis. Often will have an AST/ALT ratio &lt; 1. Imaging and possible biopsy is required to make an accurate diagnosis. AST and ALT both upwards of 4 times ULN. Tamoxifen and Raloxifene have been shown to induce hepatic steatosis.
+* **Steatosis**: Steatosis is the accumulation of triglycerides in the liver. Liver function tests (LFTs) are unreliable when it comes to the diagnosis of hepatic steatosis. Often will have an AST/ALT ratio < 1. Imaging and possible biopsy is required to make an accurate diagnosis. AST and ALT both upwards of 4 times ULN. Tamoxifen and Raloxifene have been shown to induce hepatic steatosis.
 
 * **Zonal Necrosis**: Zonal necrosis is essentially the death of cells in a specific zone of the liver. This is the most common manifestation of hepatotoxicity. This will cause an increase in ALT with normal ALP levels. This can be caused by C-17-alpha-alkylated (C17aa) steroids. 
 
-* **Cholestasis**: Cholestasis is the impediment of biliary flow from the liver through the biliary tract. This is the cause of jaundice. The increase in bilirubin causes a yellowing of the skin and that is occurs with itching. C17aa steroids may cause hepatotoxic cholestasis. This can be seen on labs as normal levels of ALT and &gt; 2 times ULN ALP. The mechanism of this is not well known. Testosterone and 19-nortestosterone compounds have been implicated in cases of hyperbilirubinemia, but rarely to the point of jaundice. (More on this below).
+* **Cholestasis**: Cholestasis is the impediment of biliary flow from the liver through the biliary tract. This is the cause of jaundice. The increase in bilirubin causes a yellowing of the skin and that is occurs with itching. C17aa steroids may cause hepatotoxic cholestasis. This can be seen on labs as normal levels of ALT and > 2 times ULN ALP. The mechanism of this is not well known. Testosterone and 19-nortestosterone compounds have been implicated in cases of hyperbilirubinemia, but rarely to the point of jaundice. (More on this below).
 
 * **Hyperplasia and Neoplasia**: C17aa compounds have been implicated in cases of hepatic hyperplasia and neoplasia, essentially cancer. However, non-C17aa steroids have also been noted as a cause of liver cancer in medical case reports. 
 
@@ -93,7 +93,7 @@ Liver Function Tests can be done to assess hepatic function. These are not exact
 
 ## TUDCA / UDCA
 
-**[For Additional Information &amp; Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/tauroursodeoxycholic-acid/)**
+**[For Additional Information & Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/tauroursodeoxycholic-acid/)**
 
 Tauroursodeoxycholic acid (TUDCA) and Ursodeoxycholic acid (UDCA) are bile acids themselves that are non-toxic to the liver and in fact have been proven to exhibit the exact opposite - they assist in bile flow through various different pathways which will be covered shortly. TUDCA is simply the taurine conjugate of UDCA (UDCA with a taurine amino acid bound to it), which has been claimed to exhibit greater oral bioavailability, but both variants have been proven to work very effectively. TUDCA and UDCA used to be extracted from the liver of bears, but synthetic methods have since been developed in order to manufacture these compounds, as well as the ability to derive them from other sources.
 
@@ -105,7 +105,7 @@ TUDCA and UDCA are by far the best quintessential treatments for both the preven
 
 **IMPORTANT:** Do not exceed 8 weeks of TUDCA/UDCA use, as it can increase negative cholesterol values and decrease HDL. It is recommended to use these bile salts only during a cycle of oral C17aa anabolic steroids, or for the purpose of liver repair following periods of significant hepatotoxicity from the use of these compounds. Other compounds should be sought after for general year-round liver support.
 
-[According to this study](https://www.ncbi.nlm.nih.gov/pubmed/8674405) (taken from Examine), TUDCA has been shown to decrease HDL levels when taken for extended periods of time. In normal people, this really isn't a big deal. In people who are constantly using steroids, like blasting and cruising (B&amp;C), it can become counter-intuitive to run TUDCA for no reason due to decreased HDL levels. For example, on a cruise one wants to let their body recover, and ideally see good bloodwork before blasting again. One key reading on the bloodwork is the HDL, as HDL is one marker that almost always drops significantly while taking exogenous steroids in large dosages.
+[According to this study](https://www.ncbi.nlm.nih.gov/pubmed/8674405) (taken from Examine), TUDCA has been shown to decrease HDL levels when taken for extended periods of time. In normal people, this really isn't a big deal. In people who are constantly using steroids, like blasting and cruising (B&C), it can become counter-intuitive to run TUDCA for no reason due to decreased HDL levels. For example, on a cruise one wants to let their body recover, and ideally see good bloodwork before blasting again. One key reading on the bloodwork is the HDL, as HDL is one marker that almost always drops significantly while taking exogenous steroids in large dosages.
 
 Also, according to the FDA as listed in UDCA's medication safety profile (two sources below), UDCA should not be taken without direct indication to do so, i.e. gallstones or primary biliary cirrhosis. The pros of taking TUDCA and UDCA while not on oral steroids or having one of the aforementioned indications do not outweigh the cons. TUDCA should not be used for year round general liver support, as there are other options (discussed below) which do not have these negative drawbacks, thus making the choice clear.
 
@@ -115,7 +115,7 @@ Also, according to the FDA as listed in UDCA's medication safety profile (two so
 
 ## NAC (N-acetylcysteine)
 
-**[For Additional Information &amp; Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/n-acetylcysteine/)**
+**[For Additional Information & Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/n-acetylcysteine/)**
 
 NAC (N-acetylcysteine) is an excellent liver protectant/support compound that has demonstrated effectiveness in mitigating hepatotoxicity^[11] as well as successfully treating acetaminophen (Tylenol) induced hepatotoxicity,^[12] which is an added benefit for NAC that TUDCA does not do. NAC has also demonstrated some pretty good effectiveness at mitigating and preventing cholestasis as evidenced by studies. One particular study administered 300mg/kg of NAC orally to rats for 28 days, and not only did NAC administration reduce elevations of liver enzyme values that would otherwise be high without NAC administration, it also seemed to improve renal (kidney) function as well!^[13] That same study indicated, though, that NAC's activity in ameliorating cholestasis is not through the same pathway as TUDCA. NAC's ability to prevent or cure cholestasis stems from its antioxidant and immunomodulatory properties. Acetylcysteine serves to increase the glutathione reserves in the body and, together with glutathione, they both directly bind to toxic metabolites. This serves to protect hepatocytes (liver cells) from succumbing to toxicity from Tylenol or cholestasis. TUDCA instead operates through the direct action of essentially 'balancing' the content of bile salts (TUDCA is itself a bile salt), and while it does assist in mitigating cholestasis, it does not do anything for Tylenol-related toxicity. Another study also investigated NAC's ability to help alleviate cholestasis, which focused a little more on the observation of the renal (kidney) related effects, and found that in addition to improved liver enzyme values, NAC had the ability to vastly improve markers of kidney function and was actually able to even double the rate of sodium excretion.^[14] This would also strongly indicate that NAC might prove very useful for the elimination of sodium and its related water retention in the body, which is something that might be of particular interest for anabolic steroid using individuals who might be having problems with water retention during a cycle. 
 
@@ -129,9 +129,9 @@ The problem, however, with NAC is that it has demonstrated very poor oral bioava
 
 TUDCA and UDCA should be considered first above all else when using hepatotoxic anabolic steroids, as they treat the mechanisms specific to cholestasis. NAC is very beneficial as well. The other options, are just secondary aids as they are not nearly as beneficial for C17aa.
 
-### Choline &amp; Inositol 
+### Choline & Inositol 
 
-**[For Additional Information &amp; Studies On Choline, Be Sure To Visit The Examine Page](https://examine.com/supplements/choline/)**
+**[For Additional Information & Studies On Choline, Be Sure To Visit The Examine Page](https://examine.com/supplements/choline/)**
 
 Choline can be used as a daily supplement for general health and/or a liver protector while on oral steroid course. Choline cannot replace TUDCA and should be used in addition to TUDCA while taking oral steroids. Choline should be used in conjunction with Inositol and many products that you will find will contain both anyway. 
 
@@ -141,7 +141,7 @@ For general liver health take 250-500 mg of choline once per day
 
 For liver protection while on oral steroids take 1-2 g in two even doses per day (ie 1000mg or 1 g is 500 mg twice a day, 12 hours apart or so)
 
-**[For Additional Information &amp; Studies On Inositol, Be Sure To Visit The Examine Page](https://examine.com/supplements/inositol/)**
+**[For Additional Information & Studies On Inositol, Be Sure To Visit The Examine Page](https://examine.com/supplements/inositol/)**
 
 Inositol may also be used as both a daily supplement for general health and/or as adjunct liver protection to TUDCA while on oral steroids. Again, taking inositol and choline together is important.
 
@@ -153,7 +153,7 @@ For general liver health and oral steroid protection, inositol doses will typica
 
 ### Milk Thistle
 
-**[For Additional Information &amp; Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/milk-thistle/)**
+**[For Additional Information & Studies, Be Sure To Visit The Examine Page](https://examine.com/supplements/milk-thistle/)**
 
 Milk thistle, which contains silymarin and silybin are known as being powerful antioxidants in the liver in particular. Many studies have been conducted on the efficiency and have demonstrated them to exhibit a plethora of beneficial properties in liver tissue. However, milk thistle is not very effective for treating cholestasis in particular. As a general liver health support, it is not too bad. However, almost all of the studies performed on milk thistle’s effectiveness had administered the test subjects the compound via injection, which would provide near 100% bioavailability. Milk thistle consumed orally is a different story. Milk thistle can serve as a beneficial addition to TUDCA and UDCA, but should not be substituted as a first-line treatment for cholestasis. TUDCA should be reserved for the first-line treatment of cholestasis and should be the primary liver protectant while on a cycle of C17-alpha alkylated oral anabolic steroids.
 
@@ -167,9 +167,9 @@ Liv.52 is an herbal medicine used widely in Europe and Asia to support metabolic
 
 * Following this, NAC is an excellent choice to go along TUDCA / UDCA, and also is a great choice for year-round general liver protectant. 
 
-* Another great choice for year-round general liver protectant is Choline &amp; Inositol, but it shouldn't be your choice for liver protection during use of oral C17-alpha alkylated anabolic steroids. 
+* Another great choice for year-round general liver protectant is Choline & Inositol, but it shouldn't be your choice for liver protection during use of oral C17-alpha alkylated anabolic steroids. 
 
-* Milk Thistle &amp; Liv.52 (LiverCare) can provide some benefits, but they in **NO WAY** should be your only liver protection during use of oral C17-alpha alkylated anabolic steroids.
+* Milk Thistle & Liv.52 (LiverCare) can provide some benefits, but they in **NO WAY** should be your only liver protection during use of oral C17-alpha alkylated anabolic steroids.
 
 # References
 

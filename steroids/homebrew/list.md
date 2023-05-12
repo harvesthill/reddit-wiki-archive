@@ -2,11 +2,11 @@
 
 Steroid homebrew is the process of brewing steroidal compounds on a small scale for personal, non-commercial purposes. It gives the user total governance over the substance being taken, both positively and negatively. 
 
-&gt;**Preamble**
+>**Preamble**
 
-&gt;*Everything you see on this subreddit has the potential to be dangerous. If you fuck something up or get bad gear, you may see effects ranging from nothing, to bitch tits, to dying (and I'll laugh at you for being a dipshit). Every piece of advice you read here carries with it some risk. Keep that in mind, and research before putting anything in your body.*
+>*Everything you see on this subreddit has the potential to be dangerous. If you fuck something up or get bad gear, you may see effects ranging from nothing, to bitch tits, to dying (and I'll laugh at you for being a dipshit). Every piece of advice you read here carries with it some risk. Keep that in mind, and research before putting anything in your body.*
 
-&gt;I started this as a response to the thread by /u/hypnotoadIRL [+3][2] , so he gets partial credit.
+>I started this as a response to the thread by /u/hypnotoadIRL [+3][2] , so he gets partial credit.
 I am a firm believer that everyone should know how to homebrew, so that they are not beholden to UGLs. Of course, not everyone wants to brew, but if you're here and you're curious, what is outlined below should help you get started. Links were all valid at time of posting. [...] You don't have to be super clever.
 
 ## Essential Reading
@@ -60,17 +60,17 @@ I did not include vials in the materials list because there would be too many "i
 
 ####**What ssjhayes uses**
 
-* [Glassware](https://www.amazon.com/gp/product/B006UKICJA/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
-* [Funnel for filling vials](https://www.amazon.com/gp/product/B006580L96/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
-* [electric vacuum pump](https://www.amazon.com/gp/product/B00DYA21PU/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1) You will need 1/4" I.D. tubing to connect vacuum pump to filter
-* [12V converter for pump](https://www.amazon.com/gp/product/B000MGG6SC/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
-* [leads to connect converter to pump](https://www.amazon.com/uxcell-Double-ended-Testing-Alligator-Crocodile/dp/B00O9WH16Q/ref=sr_1_4?s=electronics&amp;ie=UTF8&amp;qid=1511877255&amp;sr=1-4&amp;keywords=alligator+clip+jumper+wires)
-* [Magnetic Stirrer](https://www.amazon.com/gp/product/B01F34Y7VK/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
-* [Hot Plate](https://www.amazon.com/gp/product/B0007QCRNU/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
-* [Vial Crimper](https://www.amazon.com/gp/product/B015AWB0K6/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
+* [Glassware](https://www.amazon.com/gp/product/B006UKICJA/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [Funnel for filling vials](https://www.amazon.com/gp/product/B006580L96/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [electric vacuum pump](https://www.amazon.com/gp/product/B00DYA21PU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) You will need 1/4" I.D. tubing to connect vacuum pump to filter
+* [12V converter for pump](https://www.amazon.com/gp/product/B000MGG6SC/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [leads to connect converter to pump](https://www.amazon.com/uxcell-Double-ended-Testing-Alligator-Crocodile/dp/B00O9WH16Q/ref=sr_1_4?s=electronics&ie=UTF8&qid=1511877255&sr=1-4&keywords=alligator+clip+jumper+wires)
+* [Magnetic Stirrer](https://www.amazon.com/gp/product/B01F34Y7VK/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [Hot Plate](https://www.amazon.com/gp/product/B0007QCRNU/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+* [Vial Crimper](https://www.amazon.com/gp/product/B015AWB0K6/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 * [Glass media bottle](https://www.medical-and-lab-supplies.com/lab-glassware/media-bottles/500ml-hybex-media-bottle.html)
 * [Bottle top filters](https://www.medical-and-lab-supplies.com/filtration/disposable-vacuum-filters/bottle-top-filters/500ml-autofil-ss-bottle-top-filter-pes-funnel-only-0-22um.html)
-* [Pressure cooker](https://www.amazon.com/gp/product/B000RNH7PQ/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
+* [Pressure cooker](https://www.amazon.com/gp/product/B000RNH7PQ/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 ## Sterilization Techniques
 
@@ -174,7 +174,7 @@ Note: This procedure was designed for the production of 100-200mL of gear in 10m
 * Allow the solution to filter until the entire solution is contained within the media bottle
 * Remove the filter top from the glass media bottle and screw the lid onto the mouth of the bottle
 
-**Transferring to Vials &amp; Capping:**
+**Transferring to Vials & Capping:**
 
 * Attach a new sterile 50mL serological pipette to the pipette controller
 * Open the lid of the media bottle and extract 42mL of the steroid solution from the bottle, then close the lid immediately
@@ -254,11 +254,11 @@ PVDF will have greater filtering capacity. PES can dissolve under high concentra
 
 Syringe Filters are luer lock or luer slip compatible filters that connect directly to a syringe. They are available in a multitude of pore sizes, for our purposes we need .2 or .22 micron. Anything larger and microorganisms will be able to pass, and sterility will not be achieved. You would draw directly from your brew, connect the filter and a 20-23g needle to your syringe, and inject into a sterile vial (one you have sterilized, or have bought pre-sterilized). If you use larger than a 20g needle, you risk cleaving the stopper into the vial and you'll have pieces of your stopper floating around in your vial.
 
-&gt; Also just a quick note that if people are willing to switch out syringe filters every 40ml the oil will flow way better. I find the whole hand cramping thing is very overrated unless I push 60ml+ through the same filter.
+> Also just a quick note that if people are willing to switch out syringe filters every 40ml the oil will flow way better. I find the whole hand cramping thing is very overrated unless I push 60ml+ through the same filter.
 
 *u/3b8bcc64*
 
-&gt; for small batches use 3-5mL syringes, the bigger ones get MUCH harder due to the wall to bottom ratio being too high...pressure goes exponentially more to walls instead of the bottom
+> for small batches use 3-5mL syringes, the bigger ones get MUCH harder due to the wall to bottom ratio being too high...pressure goes exponentially more to walls instead of the bottom
 95% of guys here give up on syringe filtering because they don't know this
 
 *u/Shotmaniac*
@@ -269,9 +269,9 @@ Bottle-top filters are used in research laboratories for sterilization or labora
 
 A warning when using a bottle top filter - the plastic media bottle you can purchase with them tends to break under moderate vacuum pressure (10+psi). I recommend getting a glass media bottle, most filters will be a GL45 thread. Be sure to match your media bottle thread with your filter thread. You will need to sterilize your glass media bottle before each brew, where-as with the plastic one they send is already sterile. 
 
-[Hand vacuum pump](https://www.amazon.com/gp/product/B00657XV4O/ref=oh_aui_search_detailpage?ie=UTF8&amp;psc=1)
+[Hand vacuum pump](https://www.amazon.com/gp/product/B00657XV4O/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
-[Electric vacuum pump](https://www.amazon.com/Karlsson-Robotics-D2028-Vacuum-Pump/dp/B00DYA21PU/ref=sr_1_2?s=industrial&amp;ie=UTF8&amp;qid=1506687305&amp;sr=1-2&amp;keywords=vacuum+pump+12v). You will need a [12V adapter](https://www.amazon.com/FAVOLCANO-Switching-Power-Supply-Adapter/dp/B00YGCFXDC/ref=sr_1_24?s=electronics&amp;ie=UTF8&amp;qid=1506687463&amp;sr=1-24&amp;keywords=110v+to+12v+dc+power+supply) and to run wires from the adapter to the pump.
+[Electric vacuum pump](https://www.amazon.com/Karlsson-Robotics-D2028-Vacuum-Pump/dp/B00DYA21PU/ref=sr_1_2?s=industrial&ie=UTF8&qid=1506687305&sr=1-2&keywords=vacuum+pump+12v). You will need a [12V adapter](https://www.amazon.com/FAVOLCANO-Switching-Power-Supply-Adapter/dp/B00YGCFXDC/ref=sr_1_24?s=electronics&ie=UTF8&qid=1506687463&sr=1-24&keywords=110v+to+12v+dc+power+supply) and to run wires from the adapter to the pump.
 
 ## Vials
 
@@ -578,7 +578,7 @@ Starting dosage 4mg daily as recommended by u/PM_me_varbies but can be upped to 
 
 ####**Mixing The Powder**
 
-Things you'll need: Milligram scale, small scoop, mortar &amp; pestle, math.
+Things you'll need: Milligram scale, small scoop, mortar & pestle, math.
 
 1. Fill one capsule with your active ingredient. weigh on the milligram scale. record weight.
 2. Fill one capsule with your filler. weigh on the milligram scale. record weight.

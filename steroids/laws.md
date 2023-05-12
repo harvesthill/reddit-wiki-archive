@@ -52,7 +52,7 @@ It is a criminal act to import, supply, use, or possess anabolic steroids in New
 
 ## Norway
 
-It has always been illegal to import, export and sell anabolic steroids in Norway. The Medicinal Products Act was amended on June 14, 2013 &amp; in force as of July 1, 2013, to make the use and purchase of anabolic steroids illegal, as well.
+It has always been illegal to import, export and sell anabolic steroids in Norway. The Medicinal Products Act was amended on June 14, 2013 & in force as of July 1, 2013, to make the use and purchase of anabolic steroids illegal, as well.
 
 ## Sweden
 
@@ -62,9 +62,9 @@ In Sweden it is a crime to import, manufacture, transport, sell, possess, or use
 
 Anabolic steroids are controlled as Class C substances under the Misuse of Drugs Act 1971. There is no possession offense, but it is illegal to manufacture, supply or possess/import/export steroids with the intent to supply, without a license to do so. The maximum penalty for these offenses is 14 years in prison and/or a heavy fine. The “supply” offense can mean something as simple as sharing anabolic steroids with someone else, even if you don’t sell them. There were changes to UK steroid law as of April 23, 2012 that pertained to importing anabolic steroids. Following advice from the ACMD, anyone wishing to import these drugs from outside the UK will have to do so in person (“personal custody”). It will no longer be permitted to buy steroids and associated drugs from outside the UK, through internet and mail order sites and have the products delivered. There has been a great deal of pressure in recent years from the U.S. and World Anti-Doping Agency to place criminal penalties on the possession of anabolic steroids without a prescription.
 
-&amp;nbsp;
+ 
 
-&amp;nbsp;
+ 
 
 ## References
 

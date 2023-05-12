@@ -211,7 +211,7 @@ Finally feeling like I am around 80% healed in my elbows and ready to start the 
 
 300mg EQ at night. Peptide PWO and before bed. 
 
-**Day 16 and 17 Sat and Sun June 29 &amp;30**
+**Day 16 and 17 Sat and Sun June 29 &30**
 Had a friend come into town and went out, got a hotel room and partied. If you are a guy and never been to a gay bar, get a girl to bring and try it. Bartenders give you better service, people will be polite and shuffle over if you are trying to walk through, no asshole trying trying to size you up; I had a good time. I also ran into another strait guy I knew, he was DANCING on the BAR for money. I used to be a waiter so I can estimate a stack of ones and this dude had over $100 in ones and fives at 11pm and the place didn't close until 5am. If I get fired I may be able to get a job dancing in my underwear. Could be the confidence boost I need. I went with my wife and this other girl. Sunday was spend nursing a major head ache. I have never had a headache like that. It was a month between my last drink and I am done for a while. 
 
 **Day 18 Monday July 1st**
