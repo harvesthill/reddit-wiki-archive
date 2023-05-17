@@ -12,81 +12,6 @@ Beginners have one rule: **KISS**. That stands for "***Keep It Simple, Stupid***
 
 * See [**Your First Cycle**](/steroids/your_first_cycle.md)
 
-### The Basic Cut
-
-The Basic Cut differs very slightly from [The Basic Bulk](/steroids/your_first_cycle.md), mainly in dosing. The standard rule of thumb is to not cut while off cycle as some hard earned muscle mass could be lost. Most users anecdotally notice less bloat with [Testosterone Propionate](/steroids/testosterone_propionate.md), so it's often used for cuts, but overall you can use Test E or C just fine as well.
-
-**Dosing:**
-
-* **Weeks 1-12:** [Testosterone Propionate](/steroids/testosterone_propionate.md), 30-50 mg (*ED*) **OR**
-* **Weeks 1-12:** Testosterone [Enanthate](/steroids/testosterone_enthanate.md) or [Cypionate](/steroids/testosterone_cypionate.md), 100-200 mg (*E3D or E3.5D*). *PCT differs from propionate protocol below.*
-* **Weeks 13:** Nothing the first 2-3 days (This allows the exogenous testosterone to clear your body). PCT should start day 3 or day 4 due to test **propionate's** active life of \~0.8 days.
-* **Weeks 13-*****til*****:** Starting day 3 or 4. Whatever [PCT protocol](/steroids/thecycle/pct.md) you choose.
-* **Throughout Cycle** (*or at least on hand*): An AI like [Arimidex](/steroids/arimidex.md) or [Aromasin](/steroids/aromasin.md). Dosing is user dependent and you should get [bloodwork](/steroids/bloodwork/list.md) to dial in your dose. Watch for [signs of low or high estrogen](/steroids/sides/changes_in_estrogen_levels.md)—especially high estrogen, such as excessive bloating or itchy nipples.
-* **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
-
-***Note***: You can extend up to 20 weeks. If you wish to extend it, all your ending weeks will change and the week you start PCT will as well.
-
-## SUPPLEMENTAL COMPOUNDS 
-
-### Salbutamol
-
-***Salbutamol*** *tablets are also effective while being far less dangerous than Clen:*
-
-* Be sure to get Salbutamol *tablets*, rather than Albuterol inhaler *spray*, which is just a recipe for shakiness and nausea.
-* [Positive effects of oral albuterol on serum lipids and carbohydrate metabolism in healthy men](https://pubmed.ncbi.nlm.nih.gov/8637445/) *Increased HDL, Decreased LDL*
-* [More fat burnt in a cardio session with Salbutamol](https://www.ergo-log.com/salbutamoljoules.html)
-* [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/) *11.4% increase in resting energy expenditure among healthy subjects with Salbutamol*
-* [Combination of salbutamol, caffeine and high-calorie diet: more muscle, less fat](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html)
-
->*During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
-
-***Salbutamol Stack***
-
-Even more effective than an ECA stack is **Salbutamol** with caffeine. [This stack](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html) is more effective than ephedrine while  being far safer than clenbuterol.
-
-* **Last 4-6 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
-
-### Clenbuterol (Clen)
-
-[Clenbuterol](/steroids/clenbuterol.md) is prescribed as a bronchodilator for asthma, but also has the additional effect of increasing metabolism. The claim is a 10% increase in metabolism over ECA, which claims a 3% increase in metabolism. (This often quoted, but never found an original study to back this up.) Clenbuterol has a 36-39 hour half-life – meaning if you take it, or worse, too much, you have to ride it out for about a day and a half. Some people panic if they take too much, and head to the Emergency Room, where the doctors will still just tell you that you need to ride it out until it wears off. There is nothing you can take to “make it stop” before then.
-
-Clenbuterol has also been called “anti-catabolic” – meaning it does not promote muscle loss as part of the increase in metabolism to reduce bodyfat. 
-
-Some additional considerations when using clenbuterol:  
-
-* Supplement with (3-5g ED) L-Taurine – Clenbuterol tends to inhibit L-Taurine in your system, producing cramps  
-
-* Using Ketotifen with Clenbuterol (2-3mg ED) - Ketotifen is an antihistamine that inhibits down regulation of beta receptors, but you should do more outside research before using.
-
-***Common Clenbuterol Cycles***
-
-* **2 weeks ‘on’ / 2 weeks ‘off’ for 8-12 weeks** – Starting at 20mcg, increasing by 20mcg units as you can handle, until what you can handle or a maximum of 100mcg per day, and then stay at that amount for the duration of the two weeks. Then stop and go off for 2 weeks, substituting your favorite OTC thermo, and then repeating the 2 weeks ‘on’, again starting at 20mcg.
-
-* **Continued ‘on’ for 8-12 weeks, include ketiotifen** – Starting at 20mcg for a week, increase by 20mcg per week until what you can handle or a maximum of 100mcg per day, and then stay at that amount for the duration of the cycle
-
-### **ECA Stack**
-
-Another thing to consider is using a **ECA** (**ephedrine, caffeine, aspirin**) or **EC** (**ephedrine, caffeine**) stack. This will function as an appetite suppressant and accelerate your metabolism and hence aid tremendously on a cut:
-
-* **Last 4-6 Weeks:** [ECA or EC Stack](/steroids/eca_stack.md), Up To 3xED
-
-If you use Test E & C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
-
-* **For 6 Weeks:** [Winstrol (Winny)](/steroids/winstrol.md), 40-80 mg, ED **or**
-* **For 6 Weeks:** [Epistane (Epi)](/steroids/epitiostanol.md), 40-80 mg, ED **or**
-* **For 6 Weeks:** [Anavar (Var)](/steroids/anavar.md), 40-80 mg, ED
-
-**ADDITIONAL WARNINGS**:
-
-* [Winstrol (Winny)](/steroids/winstrol.md) is  considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/steroids/winstrol.md#wiki_side_effects.2Frisks))
-* [Epistane (Epi)](/steroids/epitiostanol.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It is a DHT derivative, so hair loss can be a concern. ([*Sides*](/steroids/epitiostanol.md#wiki_risks.2Fside_effects))
-* [Anavar (Var)](/steroids/anavar.md) is considered a "dry" compound, which means that it doesn't convert to estrogen. It also doesn't convert to DHT. It is one of the most side-effect free compounds, but does affect lipids negatively, as most oral steroids do. You should still review the compound side effects. ([*Sides*](/steroids/anavar.md#wiki_side_effects.2Frisks))
-
-**Nutrition:**
-
-It is recommended to keep your caloric intake at no less than 80% TDEE.
-
 ## Intermediate Cycles
 
 ### Intermediate Bulk Cycle
@@ -100,69 +25,6 @@ By now, you have probably put on a fair bit of mass, and want to see how how muc
 * **Take AI only when sides necessitate.** Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
 You can extend for up to 20 weeks. If you wish to extend it, obviously all your ending weeks will change and the week you start PCT will as well.
-
-## Cutting Cycles
-
-### Silver Standard
-
-The following cycle is considered to be a very solid cutting cycle that maintains lean body mass while burning fat.  Keep your caloric intake at no less than 80% TDEE.
-
-#### NOTE: Running supraphysiological doses of AAS to support a cut has largely fallen out of favor, and is NOT recommended for anybody other than professional, competing bodybuilders.
-
-* **Weeks 1-12:** [Trenbolone Acetate](/steroids/trenbolone.md), 50-100 mg, every day (ED) to your tolerance level
-* **Weeks 1-12:** [Testosterone Propionate](/steroids/testosterone_propionate.md) (or  [Testosterone Enanthate](/steroids/testosterone_enthanate.md)), 50 mg ED
-* **Weeks 1-12:** [Arimidex](/steroids/arimidex.md), .5mg E3D, watch for E2 crash, adjust accordingly.
-* **Weeks 13-14:** Nothing (This allows the extraneous testosterone to clear your body).
-* On Hand Throughout Cycle: An AI like [Arimidex](/steroids/arimidex.md) in case signs of excessive bloating or itchy nipples occur.
-* On Hand Throughout Cycle: A Dopamine Agonist like [Caber](/steroids/dostinex.md) or Prami to stop prolactin production.
-* **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on-hand.
-
-**Q:** What should my protein/carb/fat percentages be during this cut?
-
-**A:** It depends on your goals.
-
-* You're planning to eat **below your TDEE** for a true cut.
-
-Get in your standard bulk protein and balanced nutrients.  The rest does not matter.  In a caloric deficit, your body will not attempt to convert incoming food to fat.  Trenbolone is highly anabolic and will tell your body to not burn muscle for fuel (catabolism).
-
-People have regularly ran caloric deficits of 1,500 calories below TDEE without losing strength.  You'll notice a loss in energy, but not strength.
-
-* You're planning to eat **above your TDEE** in an attempt to gain muscle while losing fat.
-
-**Trenbolone** has the capability to stop the creation of new fat (*de novo lipogenesis*) from carbohydrates.  **This only happens when blood plasma levels of estrogen are low.**  Regularly dose your AI's to control estrogen.  It will not stop storage of fat from intake in a caloric surplus.  Therefore, above your TDEE, you want to consume extra carbohydrates to avoid fat storage.
-
-When excess carbs are eaten, Trenbolone will push them into the mitochondria of your cells, generating heat and producing sweat.  If your sweating is excessive, you are eating too many carbs.  Adjust your carb intake so as to only have a small amount of Tren sweats.  It is recommend to not eat carbs at night and only light carbs (vegetables) for dinner. The requirement for low estrogen for Tren to do it's magic is why /r/steroids recommends high Tren/low Test cycles for cuts and recomps.
-
-### Gold Standard
-
-Works best when body fat is below or at 12%.
-
-Add in the following to the Silver Standard Cutting Cycle:
-
-* **Weeks 1-12:** [Masteron Propionate](http://www.reddit.com/r/steroids/wiki/masteron), same mg as Testosterone Propionate
-
-### Contra Costa Contest Prep
-
-Taken from [this video](https://www.youtube.com/watch?v=1WoRi3oI16c&feature=youtu.be) (video taken down) by [Michael Pacini](http://contests.npcnewsonline.com/contests/2015/npc_contra_costa_championships/michael_pacini/index.php).  The weeks column is for the number of weeks away from your contest.
-
-* **WARNING**: **19-nor metabolites** (*Tren/Deca/etc.*) are **highly suppressive** for up to **six months** or more. Nobody should be taking nandrolone or other 19-nor compounds unless they're on blast and cruise, because **full recovery** **from PCT** will be rendered largely ineffective for as long as half a year—so long as to be impractical.
-
-|Weeks|Compound|Amount|Frequency|
-|:-|:-|:-|:-|
-|Weeks 14-8|Test C|500mg|EW|
-|Weeks 14-8|NPP|600mg|EW|
-|Weeks 14-8|1-Test C (DHB)|500mg|EW|
-|Weeks 8-5|Test C|250mg|EW|
-|Weeks 8-5|NPP|300mg|EW|
-|Weeks 8-5|1-Test C (DHB)|250mg|EW|
-|Weeks 14-0|Anavar|10mg|7xED|
-|Weeks 14-0|Proviron|25mg|2xED|
-|Weeks 14-0|Adex|0.5mg|ED|
-|Weeks 14-0|Nolva|10mg|ED|
-|Weeks 5-0|Salbutamol|4mg|3xED|
-|Weeks 5-0|Oral Primo|25mg|2xED|
-|Weeks 5-0|Winstrol|25mg|2xED|
-|Weeks 14-1|GH|2IU|3xED|
 
 ## Equipoise ([Boldenone](/steroids/equipoise.md)) Cycles
 
@@ -216,45 +78,47 @@ This cycle ups the dose a bit on the test and EQ and adds in some masteron to he
 
 * **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
 
-## Cut Cycles
+# Cut Cycles
 
-If you aren't subject to the increase in appetite that sometimes comes along with EQ use, EQ alone can be a very viable compound to cut on. You end up seeing your results faster as you tend to stay a bit drier. This is actually the same as the beginner bulk, calories just have to be adjusted. The effect of slimming down at the waist and broadening your shoulders can be quite pronounced.
+**THIS SECTION UNDER CONSTRUCTION**
 
-### Beginner EQ Cut
+Just take TRT and eat less you fat lazy fuck
 
-Surprisingly, the same dosages as the Beginner Bulk, however, adjust your calories to be in a caloric deficit no more than 80% of your TDEE.
+## SUPPLEMENTAL COMPOUNDS 
 
-* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
-* **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg, E3D
-* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
-* **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
-* **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
+### Salbutamol
 
-### Intermediate EQ Cut
+***Salbutamol*** *tablets are also effective while being far less dangerous than Clen:*
 
-The effect of Tren and EQ on your physique during a cut is nothing short of freakish. Estrogen is kept low so de novo lipogenesis is strongly inhibited, Tren leans you out while both Tren and EQ give that huge boulder shoulder and traps look.
+* Be sure to get Salbutamol *tablets*, rather than Albuterol inhaler *spray*, which is just a recipe for shakiness and nausea.
+* [Positive effects of oral albuterol on serum lipids and carbohydrate metabolism in healthy men](https://pubmed.ncbi.nlm.nih.gov/8637445/) *Increased HDL, Decreased LDL*
+* [More fat burnt in a cardio session with Salbutamol](https://www.ergo-log.com/salbutamoljoules.html)
+* [Acute effects of nebulized salbutamol on resting energy expenditure in patients with chronic obstructive pulmonary disease and in healthy subjects](https://pubmed.ncbi.nlm.nih.gov/9782220/) *11.4% increase in resting energy expenditure among healthy subjects with Salbutamol*
+* [Combination of salbutamol, caffeine and high-calorie diet: more muscle, less fat](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html)
 
-* **Weeks 1-16:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg, E3D
-* **Weeks 1-24:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg (E3D)
-* **Weeks 4-16:** [Trenbolone Acetate](http://www.reddit.com/r/steroids/wiki/trenbolone), 50-100 mg, every day (ED) to your tolerance level
-* **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
-* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
-* On Hand Throughout Cycle: An Dopamine Agonist like [Caber](http://www.reddit.com/r/steroids/wiki/dostinex) or Prami to stop prolactin production and eventual lactation.
-* **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
+>*During a low-calorie slimming diet, pharmacological strength athletes sometimes use beta-2 agonists such as salbutamol to* ***lose more fat*** *and at the same time* ***retain more muscle***. *According to obesity researchers at the American Pennington Biomedical Research Center, salbutamol can also* ***improve body composition*** *during a high-calorie diet if you combine salbutamol with caffeine*.
 
-### Advanced EQ Cut
+***Salbutamol Stack***
 
-Ensure that you have run several cycles with these compounds before attempting.
+Even more effective than an ECA stack is **Salbutamol** with caffeine. [This stack](https://www.ergo-log.com/combination-salbutamol-caffeine-high-calorie-diet-more-muscle-less-fat.html) is more effective than ephedrine while  being far safer than clenbuterol.
 
-* **Weeks 1-20:** [Equipoise](http://www.reddit.com/r/steroids/wiki/equipoise), 200 mg (E3D)
-* **Weeks 1-28:** [Testosterone Enthanate](http://www.reddit.com/r/steroids/wiki/testosterone_enthanate), 300 mg (E3D)
-* **Weeks 4-20:** [Trenbolone Acetate](http://www.reddit.com/r/steroids/wiki/trenbolone), 50-100 mg, ED to your tolerance level
-* **Weeks 1-20:** [Masteron Propionate](http://www.reddit.com/r/steroids/wiki/masteron), 200 mg (E3D)
-* **RUN TESTOSTERONE FOR 8 MORE WEEKS after dropping EQ to allow the Uncdeylenate ester to clear**.
-* **Weeks 1-20:** Aromasin, 12.5 mg, E3D -- Adjust as needed
-* On Hand Throughout Cycle: An AI like [Arimidex](http://www.reddit.com/r/steroids/wiki/arimidex) in case signs of excessive bloating or itchy nipples occur. Also have something to bring estrogen levels back up in case of **crashed E2**: test no ester (TNE or short-ester test, Dianabol, or HCG will all do the trick.
-* On Hand Throughout Cycle: An Dopamine Agonist like [Caber](http://www.reddit.com/r/steroids/wiki/dostinex) or Prami to stop prolactin production.
-* **Take AI only when sides necessitate**. Estrogen is highly anabolic, cardioprotective and neuroprotective, and essential for normal physiological functioning. Low E2 is far worse than high E2, which should be proportionally out of range just as test. Gyno takes weeks to develop and can be taken care of with the AI on hand.
+* **Last 4-6 Weeks:** Salbutamol/Caffeine, 4mg/200mg, up to 3xED
+
+### **ECA Stack**
+
+Another thing to consider is using a **ECA** (**ephedrine, caffeine, aspirin**) or **EC** (**ephedrine, caffeine**) stack. This will function as an appetite suppressant and accelerate your metabolism and hence aid tremendously on a cut:
+
+* **Last 4-6 Weeks:** [ECA or EC Stack](/steroids/eca_stack.md), Up To 3xED
+
+If you use Test E & C, it takes about six weeks to fully saturate the blood (i.e. kick in). If you don't want to wait that long and you want to aid in your cut, a popular thing to do is start the oral from day 1 (kickstarting). Another popular thing to do is to run your oral at the very end of your cycle, leading up to PCT (finisher). You can run your oral anytime during the cycle though. You may pick **one** of the following:
+
+* **For 6 Weeks:** [Winstrol (Winny)](/steroids/winstrol.md), 40-80 mg, ED **or**
+* **For 6 Weeks:** [Epistane (Epi)](/steroids/epitiostanol.md), 40-80 mg, ED **or**
+* **For 6 Weeks:** [Anavar (Var)](/steroids/anavar.md), 40-80 mg, ED
+
+**Nutrition:**
+
+It is recommended to keep your caloric intake at no less than 80% TDEE.
 
 ## Power Lifting Cycle
 

@@ -177,11 +177,15 @@ If your Estrogen is wildly out of control and you are developing puffy, sore, or
 
 **Dosing:** Pharmaceutical Raloxifene 60mg ED *or* Pharmaceutical Nolvadex 20mg ED. It usually will subside after a 7-12 days. Continue the SERM for 3 days after the symptoms have subsided before you drop the SERM. It is suggested to use Raloxofine over Nolvadex when possible, due to Nolvadex decreasing IGF-1 as seen above.
 
-####**Gyno Reversal Protocol** 
+####**Gyno Reversal Protocols** 
 
 If your Gyno is pubertal, as seen above, this potentially could help, but most likely surgery is your best option. If your Gyno is from AAS use, this has worked for multiple users on our board:
 
-**Dosing:** Pharmaceutical Raloxifene 120mg ED - split the dose ½ in the AM, ½ in the PM for a month, then 60mg ED - split the dose ½ in the AM, ½ in the PM until you've seen sufficient reduction in size.
+* 60mg Raloxifene ED
+* 10mg Nolvadex ED
+* 0.5mg Cabergoline *ONCE*, 0.25mg Cabergoline 2x/wk
+
+Courtesy /u/platewrecked 
 
 ### Toremifene (Fareston)
 
