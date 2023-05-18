@@ -60,7 +60,7 @@ Procollagen III is a primary indicator used to determine the rate of collagen sy
 * **Nandrolone** at 3 mg/kg a week [increases procollagen III](https://www.reddit.com/r/PEDsR/comments/8q2qhh/which_compounds_enhance_collagen_synthesis_a/?utm_medium=android_app&utm_source=share) levels by 270%.
 * **Primobolan** at 5 mg/kg increases collagen synthesis by \~180%.
 * **HGH** at 6 iu/day increases the [collagen deposition rate](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821728/) by around 250% in damaged collagen structures.
-* **Stanozolol** [boosts collagen production](https://www.jidonline.org/article/S0022-202X(15)40340-9/full) and mRNA.
+* **Stanozolol** [boosts collagen production](https://www.jidonline.org/article/S0022-202X(15\)40340-9/full) and mRNA.
 * **Anavar** is prescribed post-surgery and has hundreds of scientific studies demonstrating [increased collagen synthesis](https://www.researchgate.net/publication/285519197_The_Influence_of_the_Anabolic_Agent_Oxandrolone_upon_the_Expression_of_Procollagen_Types_I_and_III_mRNA_in_Human_Fibroblasts_Cultured_on_Collagen_or_Plastic), accelerated [wound healing](https://www.ncbi.nlm.nih.gov/pubmed/10810035) and enhanced recovery.
 * **Estrogen** [plays an integral role](https://www.ncbi.nlm.nih.gov/pubmed/18927264) in keeping tendons and joints strong.
 

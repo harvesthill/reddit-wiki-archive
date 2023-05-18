@@ -38,7 +38,7 @@ There are two principal ways to get bloodwork done.
 
 ## What Bloodwork do you need before Your First Cycle?
 
-**TLDR:** An easy and popular way to get labs done in the U.S. is to order the ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&show=3107&category=14&search=#3107) from privatemdlabs.com. This will provide a comprehensive metabolic panel (CMP), complete blood count (CBC), hormone panel, and lipid panel. As of January 2023, the cost is $118.99. Discount codes are easy to find. Note that the panel costs substantially more from LabCorp, so be sure to choose the Quest option if you have Quest Diagnostics locations near you. Also note that due to state laws, Private MD Labs can not provide lab orders in the states of New York, New Jersey, Rhode Island, or Hawaii.
+**TLDR:** An easy and popular way to get labs done in the U.S. is to order the ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php#4114) from privatemdlabs.com. This will provide a comprehensive metabolic panel (CMP), complete blood count (CBC), hormone panel, and lipid panel. As of January 2023, the cost is $118.99. Discount codes are easy to find. Note that the panel costs substantially more from LabCorp, so be sure to choose the Quest option if you have Quest Diagnostics locations near you. Also note that due to state laws, Private MD Labs can not provide lab orders in the states of New York, New Jersey, Rhode Island, or Hawaii.
 
 Continue reading for a more in-depth explanation.
 
@@ -90,7 +90,7 @@ There are several providers in the USA to choose from.
 
 [Private MD Labs](https://www.privatemdlabs.com/) — A good and trusted online service that can send lab orders to Quest Diagnostics or LabCorp locations. Note that in most cases, LabCorp tests are significantly more expensive than Quest for the same information. It's generally recommended to use Quest if there are locations near you.
 
-* ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php?view=all&show=3107&category=14&search=#3107). This will provide a CMP, CBC, hormone panel, and lipid panel. The testosterone results will show levels greater than 1500 ng/dL, and the estradiol test is the ultrasensitive version. **DO NOT** use this to test whether your tren is counterfeit, as it will not count it in the estrogen test.
+* ["Hormone Panel with Estradiol Ultrasensitive, Testosterone LC/MS-MS and Lipid" package](https://www.privatemdlabs.com/lab_tests.php#4114). This will provide a CMP, CBC, hormone panel, and lipid panel. The testosterone results will show levels greater than 1500 ng/dL, and the estradiol test is the ultrasensitive version. **DO NOT** use this to test whether your tren is counterfeit, as it will not count it in the estrogen test.
 
 * Anything with [Test 070195](http://www.privatemdlabs.com/lab_tests.php?view=search_results&search=070195) will show the actual value for testosterone, rather than “high” or “greater than 1500.” 
 

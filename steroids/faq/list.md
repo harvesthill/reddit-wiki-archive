@@ -203,7 +203,7 @@ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2362190/
 
 >In conclusion, the results of this study confirm that anastrozole does not affect the pharmacokinetics of tamoxifen when the two drugs are given in combination to post-menopausal women with early breast cancer. In addition, the oestradiol suppressant effects of anastrozole appear unaffected by tamoxifen.
 
-http://publications.icr.ac.uk/629/
+https://pubmed.ncbi.nlm.nih.gov/11487258/
 
 >As a result of (a) the lack of effect of anastrozole on tamoxifen and DMT levels and (b) the observed fall in blood anastrozole levels having no significant effect on oestradiol suppression by anastrozole, we conclude that the observed reduction in anastrozole levels by tamoxifen is unlikely to be of clinical significance when anastrozole and tamoxifen are administered together.
 

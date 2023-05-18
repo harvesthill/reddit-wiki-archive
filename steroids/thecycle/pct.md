@@ -594,7 +594,7 @@ SERMs should be run for a much longer time period, depending on the time of your
 
 * 10 mg Nolvadex (Tamoxifen) everyday **OR** 60 mg Toremifene everyday
 
-**AND**
+  **AND**
 
 * 25 mg Clomid (Clomiphene) everyday
 
@@ -689,7 +689,7 @@ Anecdotal evidence claims that Triptorelin is capable of restoring HPTA function
 
 \[10\] Smals AG, Pieters GF, Drayer JI, Boers GH, Benraad TJ, Kloppenborg PW. Tamoxifen suppresses gonadotropin-induced 17 alpha-hydroxyprogesterone accumulation in normal men. J Clin Endocrinol Metab. 1980 Nov;51(5):1026-9. [Link.](https://www.ncbi.nlm.nih.gov/pubmed/7419679)
 
-\[11\] Vermeulen A, Comhaire F. Hormonal Effects Of An Antiestrogen, Tamoxifen, In Normal And Oligospermic men. Fertil Steril. 1978 Mar;29(3):320-7. [Link.](https://www.fertstert.org/article/S0015-0282(16)43160-2/pdf)
+\[11\] Vermeulen A, Comhaire F. Hormonal Effects Of An Antiestrogen, Tamoxifen, In Normal And Oligospermic men. Fertil Steril. 1978 Mar;29(3):320-7. [Link.](https://www.fertstert.org/article/S0015-0282(16\)43160-2/pdf)
 
 \[12\] Adashi EY, Hsueh AJ, Bambino TH, Yen SS. Disparate effect of clomiphene and tamoxifen on pituitary gonadotropin release in vitro. Am J Physiol. 1981 Feb;240(2):E125-30. [Link.](https://www.ncbi.nlm.nih.gov/pubmed/6781360)
 
@@ -697,7 +697,7 @@ Anecdotal evidence claims that Triptorelin is capable of restoring HPTA function
 
 \[14\] Katz DJ1, Nabulsi O, Tal R, Mulhall JP. Outcomes of clomiphene citrate treatment in young hypogonadal men. BJU Int. 2012 Aug; 110(4):573-8 [Link.](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1464-410X.2011.10702.x)
 
-\[15\] Tsourdi, E., Kourtis, A., Farmakiotis, D., Katsikis, I., Salmas, M., & Panidis, D. (2009). The effect of selective estrogen receptor modulator administration on the hypothalamic-pituitary-testicular axis in men with idiopathic oligozoospermia. Fertility and Sterility, 91(4), 1427–1430. [Link.](https://www.fertstert.org/article/S0015-0282(08)01280-6/pdf)
+\[15\] Tsourdi, E., Kourtis, A., Farmakiotis, D., Katsikis, I., Salmas, M., & Panidis, D. (2009). The effect of selective estrogen receptor modulator administration on the hypothalamic-pituitary-testicular axis in men with idiopathic oligozoospermia. Fertility and Sterility, 91(4), 1427–1430. [Link.](https://www.fertstert.org/article/S0015-0282(08\)01280-6/pdf)
 
 \[16\] Dobbs M. R. (2009). Clinical Neurotoxicology: Syndromes, Substances, Environments. pg 106. [Link.](http://books.google.com/books?id=Pmcy24y2HyMC&pg=PA106&dq=clomiphene+citrate+ocular&hl=en&sa=X&ei=XkABU82MCY2FogSGz4DICw&ved=0CCsQ6AEwAA#v=onepage&q=clomiphene%20citrate%20ocular&f=false)
 

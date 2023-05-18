@@ -4,7 +4,7 @@ There are many schools of thought on nutrition, especially when it comes to stre
 
 If you've never considered nutrition or diet, [/r/fitness has a very good breakdown for you](http://www.reddit.com/r/Fitness/wiki/faq#wiki_diet_details)
 
-To paraphrase however, specific food choices are less important, in terms of muscular gains/fat loss, [than overall calories and macronutrient ratios](http://examine.com/faq/what-should-i-eat-for-weight-loss.html)
+To paraphrase however, specific food choices are less important, in terms of muscular gains/fat loss, [than overall calories and macronutrient ratios](https://examine.com/articles/what-should-you-eat-for-weight-loss/)
 
 As a reminder- 1g Carbohydrate -> 4kCal
 
@@ -66,7 +66,7 @@ Peanuts | 43
 #### Max usable protein
 It is often claimed that "anything over 30g of protein in one hour is unusable by the body."  This is untrue.
 
-http://examine.com/faq/how-much-protein-can-i-eat-in-one-sitting.html
+https://examine.com/guides/protein-intake/#Ek7A-digging-deeper-protein-intake-ceiling
 >There really is no literature to indicate this number as a 'holy grail' of protein absorption.
 
 >It may have arisen from looking at the rate of amino acid transporters, assuming 10g/hour as a standard, and applying that to the typical mini-meal approach to bodybuilder nutrition (with a meal every three hours).
