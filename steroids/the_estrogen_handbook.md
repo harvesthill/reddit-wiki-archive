@@ -173,7 +173,7 @@ Raloxifene doesn’t affect IGF-1 levels whatsoever, also it increases bone dens
 
 If your Estrogen is wildly out of control and you are developing puffy, sore, or itchy nipples, **UP** your AI dose and start taking your SERM. 
 
-*Note:* If you choose Arimidex as your AI, just be aware the blood levels of Arimidex can drop a bit when used alongside Nolvadex.](/steroids/faq/list.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F) To avoid this, you may choose Raloxifene.
+*Note:* If you choose Arimidex as your AI, just be aware the blood levels of Arimidex can drop a bit when used alongside [Nolvadex](/steroids/faq/list.md#wiki_q.3A_can_nolvadex_.28tamoxifene.29_and_arimidex_.28anastrozole.29_be_used_together.3F). To avoid this, you may choose Raloxifene.
 
 **Dosing:** Pharmaceutical Raloxifene 60mg ED *or* Pharmaceutical Nolvadex 20mg ED. It usually will subside after a 7-12 days. Continue the SERM for 3 days after the symptoms have subsided before you drop the SERM. It is suggested to use Raloxofine over Nolvadex when possible, due to Nolvadex decreasing IGF-1 as seen above.
 
