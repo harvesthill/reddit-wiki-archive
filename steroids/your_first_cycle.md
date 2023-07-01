@@ -89,7 +89,6 @@ When purchasing your AI (Aromatase Inhibitor) and SERMs (Selective Estrogen Rece
 
 **NO SOURCE TALK**
 
-
 **REMINDER: NO SOURCE TALK. This forum is not the place for you to do research or request source information.**
 
 ## What You Will Need
@@ -428,7 +427,7 @@ Test E & C takes about six weeks to fully saturate the blood (*i.e.,* kick in). 
 
 We answer this question ten times a day. 
 
-500mg is recommended for your first cycle.
+[500mg is recommended for your first cycle](https://i.ibb.co/rtWy9NL/IMAGE-2023-06-30-11-13-30.jpg).
 
 500 mg is a low dose. Gains are log-linear up to 600 mg and well beyond. If you're going with 300mg, you're still shutting yourself down—and you're leaving a lot of free gains on the table for nothing. 
 
