@@ -2,7 +2,7 @@ name: Update Archive
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0,12 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -12,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          ref: main
+          token: ${{ secrets.COMMIT_PAT }}
       - name: Install dependencies
         run: npm i
       - name: Healthcheck Start
@@ -25,7 +28,7 @@ jobs:
           git config --global user.name 'archiver action'
           git config --global user.email 'harvesthill@users.noreply.github.com'
           git add .
-          git commit --allow-empty -m "update archive as of $(date +%F_%T)"
+          git commit -m "update archive as of $(date +%F_%T)"
           git push
       - name: Healthcheck End
         env:
