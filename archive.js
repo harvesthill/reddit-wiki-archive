@@ -29,7 +29,7 @@ if (require.main === module) main()
 async function fetchPagesForSubreddit(sub, argv) {
   const baseUrl = `https://api.reddit.com/r/${sub}/wiki`
 
-  const res = await fetchFromRedditApi(baseUrl + `/pages`).json()
+  const res = await fetchFromRedditApi(baseUrl + `/pages`)
   
   if (res && res.data && res.data.length > 0) {
     for (let page of res.data) {
@@ -84,12 +84,14 @@ function ensureParentDirForFilePath(filePath) {
   }
 }
 
-function fetchFromRedditApi(url) {
-  return got(url, {
+async function fetchFromRedditApi(url) {
+  await redditApiThrottle.hit()
+  const res = await got(url, {
     headers: {
       'Cookie': 'over18=1; _options={%22pref_gated_sr_optin%22:true}', // https://www.reddit.com/r/redditdev/comments/tjl1c8/bug_gated_subreddits_inaccessible_via_oauth/
     },
   }).json()
+  return res
 }
 
 function prepareSubredditFolder(subredditName) {
@@ -158,4 +160,27 @@ function getTransformers(shouldRewritePathRelativeWikiLinks, shouldRewriteWebWik
   }
 
   return transformers;
+}
+
+// cheap singleton for now
+const redditApiThrottle = {
+  rpsLimit: 0.15, // as of July 2023, unauthed Reddit API limit is 10 req/min
+
+  lastAcquisition: 0,
+  hit() {
+    return new Promise((resolve, reject) => {
+      const now = Date.now()
+      const nextAllowable = this.lastAcquisition + (1000 / this.rpsLimit)
+
+      if(nextAllowable > now) {
+        setTimeout(() => {
+          resolve()
+          this.lastAcquisition = Date.now()
+        }, nextAllowable - now)
+      } else {
+        resolve()
+        this.lastAcquisition = Date.now()
+      }
+    });
+  }
 }
