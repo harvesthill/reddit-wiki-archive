@@ -23,13 +23,16 @@ jobs:
         run: curl "$HEALTHCHECK_URL/start"
       - name: Update archive
         run: ./run.sh
-      - name: Commit
+      - name: Prepare Git
         run: |
           git config --global user.name 'archiver action'
           git config --global user.email 'harvesthill@users.noreply.github.com'
-          git add .
-          git commit -m "update archive as of $(date +%F_%T)"
-          git push
+      - name: Stage
+        run: git add .
+      - name: Commit
+        run: git diff --quiet --exit-code || git commit -m "update archive as of $(date +%F_%T)"
+      - name: Push
+        run: git push
       - name: Healthcheck End
         env:
           HEALTHCHECK_URL: ${{ secrets.HEALTHCHECK_URL }}
