@@ -23,3 +23,7 @@ jobs:
           git add .
           git commit --allow-empty -m "update archive as of $(date +%F_%T)"
           git push
+      - name: Healthcheck
+        env:
+          HEALTHCHECK_URL: ${{ secrets.HEALTHCHECK_URL }}
+        run: curl "$HEALTHCHECK_URL"
